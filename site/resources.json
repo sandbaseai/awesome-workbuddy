@@ -810,6 +810,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "1688 Product Reader",
+    "url": "https://github.com/yyc424666lvy/1688-product-reader",
+    "description": "An MIT-licensed, read-only WorkBuddy Skill for extracting product title, price, MOQ, seller, SKU, images, and specifications from logged-in 1688 pages; the user signs in manually in an isolated browser profile, and the Skill does not place orders or manage login state, so review platform terms, page access, and information freshness first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "1688 Product Reader",
+    "descriptionZh": "MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数；独立浏览器 Profile 由用户手动登录，Skill 不负责下单或管理登录态，使用前请确认平台条款、页面访问和商品信息时效",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Math Concept Film",
     "url": "https://github.com/liangdabiao/math-concept-film",
     "description": "A license-not-declared mathematics short-film Skill compatible with WorkBuddy, Codex, and Claude, using a voice-first caption timeline to drive Manim animation with a six-act teaching framework, still-frame checks, and ffmpeg composition; narration relies on Microsoft's online TTS, so review network use, source-material rights, output scope, and licensing before use",
