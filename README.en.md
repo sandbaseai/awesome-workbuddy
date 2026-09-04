@@ -100,6 +100,7 @@ This repository maintains two original installable Skills: [Document Quality Rev
 
 ### Community clients and enhancements
 
+- [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - Dependency-free check-in and reward automation; it reads a local session token and uses reverse-engineered unofficial endpoints, so review the source and account terms first.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - A desktop enhancement for backups, session migration, and long-running task support.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - A reversible theme manager for WorkBuddy Desktop.
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - A local, WorkBuddy-style AI office workspace.

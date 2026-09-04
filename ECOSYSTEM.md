@@ -26,6 +26,7 @@ Last refreshed: **2026-09-04 UTC**
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
 | [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode) | 142 | TypeScript | 2026-09-03 |
+| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 107 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 93 | TypeScript | 2026-09-01 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
