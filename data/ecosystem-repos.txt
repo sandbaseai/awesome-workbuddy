@@ -136,6 +136,7 @@ dingminhua/dsh-connect-workbuddy
 JaguarJack/workbuddy-openapi
 Guyzn/workbuddy-cua-mcp
 qianzhu18/workisland
+oceanbase/powercontext
 jamesting-eng/workbuddy-skills
 NI9N/gerenshiyongshuomingshu
 NikoKennedy/translate-book-windows
