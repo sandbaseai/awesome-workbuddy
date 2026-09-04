@@ -100,7 +100,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Learning and reference
 
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 开源实战蓝皮书，覆盖教程、真实工作流、Skills、MCP、自动化与多智能体.
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例；提供[在线阅读站](https://workbuddy.homes/)、社区案例集、场景问卷与阅读指南，案例强调输入、权限、安全边界和验收标准，适合从入门到团队落地.
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策；部分 Agent 教程适用 CC BY-NC-SA 4.0，仓库含大量媒体文件，AI News 构建会请求外部公开 API，复用内容或本地构建前请核对对应许可、存储与网络范围.
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
