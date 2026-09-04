@@ -610,6 +610,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "OpenWorkBuddy",
+    "url": "https://github.com/CatCatUncle/openworkbuddy",
+    "description": "An open-source WorkBuddy-style local Agent workspace with Skills, MCP, desktop support, and multiple IM channels; licensed under PolyForm Noncommercial 1.0.0, with separate commercial licensing required. It can run Shell commands, control a browser, and connect external channels, so review permissions and data flows before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "OpenWorkBuddy",
+    "descriptionZh": "腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道；采用 PolyForm Noncommercial 1.0.0，商业使用需另行授权，并具备 Shell、浏览器和外部通道能力，使用前请审查权限与数据流",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Context Sync",
     "url": "https://github.com/westsource/agentctxsync",
     "description": "Self-hosted session synchronization and backup across devices and Agents",
@@ -647,16 +657,6 @@
     "category": "Community clients and enhancements",
     "titleZh": "WorkBuddy Skin Studio",
     "descriptionZh": "可逆的 WorkBuddy Desktop 主题管理工具",
-    "categoryZh": "Community clients and enhancements"
-  },
-  {
-    "title": "OpenWorkBuddy",
-    "url": "https://github.com/CatCatUncle/openworkbuddy",
-    "description": "A local, WorkBuddy-style AI office workspace",
-    "section": "Open-source Ecosystem",
-    "category": "Community clients and enhancements",
-    "titleZh": "OpenWorkBuddy",
-    "descriptionZh": "WorkBuddy 风格的本地 AI 办公工作台实现",
     "categoryZh": "Community clients and enhancements"
   },
   {

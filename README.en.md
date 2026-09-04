@@ -124,6 +124,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - Legal, company, content, and research data APIs for WorkBuddy; requires an external API key.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - Connects WorkBuddy desktop models to DeepSeek Harness across Web, Desktop, and TUI; it reads the local WorkBuddy sign-in file and stores refresh credentials in DSH's own directory, relies on unofficial endpoints, and should be reviewed against the source and account terms before installation.
 - [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - Adds WorkBuddy China models to DeepSeek Harness with API-key and browser-token authentication; MIT licensed. The adapter stores credentials, opens a login page, and calls official `copilot.tencent.com` endpoints, but remains third-party software; review account terms and token storage before installation.
+- [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - An open-source WorkBuddy-style local Agent workspace with Skills, MCP, desktop support, and multiple IM channels; licensed under PolyForm Noncommercial 1.0.0, with separate commercial licensing required. It can run Shell commands, control a browser, and connect external channels, so review permissions and data flows before use.
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements
@@ -131,7 +132,6 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - Dependency-free check-in and reward automation; it reads a local session token and uses reverse-engineered unofficial endpoints, so review the source and account terms first.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - A desktop enhancement for backups, session migration, and long-running task support.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - A reversible theme manager for WorkBuddy Desktop.
-- [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - A local, WorkBuddy-style AI office workspace.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - An open desktop client supporting multiple coding Agents.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first.
