@@ -560,6 +560,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Agent Analytics Report",
+    "url": "https://github.com/Elisabeth15501/agent-analytics-report",
+    "description": "An MIT-licensed, WorkBuddy-first usage-analysis Skill that reads local session/usage data to produce token, cache, model-cost, and anomaly reports in Markdown, HTML, or JSON, with 306 synthetic-fixture tests; listed prices are estimates, so confirm local read scope and redact reports before sharing",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Agent Analytics Report",
+    "descriptionZh": "MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例；报告中的单价只是估算，使用前请确认本地读取范围并脱敏输出",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Session Digger",
     "url": "https://github.com/taxueseek/session-digger",
     "description": "An ISC-licensed cross-agent session search and knowledge-management toolkit that natively parses `~/.workbuddy/projects`, builds an incremental SQLite FTS index, and produces self-contained local reports; it reads full transcripts and writes indexes, reports, and optional memory files that may expose prompts, paths, or project data, its environment doctor can probe external endpoints, and every target and backup should be reviewed before using mutating `apply`/`prune` commands",
