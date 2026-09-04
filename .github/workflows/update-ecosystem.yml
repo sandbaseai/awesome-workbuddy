@@ -12,7 +12,9 @@ on:
 
 concurrency:
   group: update-ecosystem-main
-  cancel-in-progress: false
+  # A newer authoritative push makes an older refresh stale. Cancel it instead
+  # of letting it publish an intermediate snapshot after rapid curation merges.
+  cancel-in-progress: true
 
 permissions:
   contents: write
