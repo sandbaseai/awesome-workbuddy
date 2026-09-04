@@ -134,3 +134,4 @@ abc1317679842-ui/workbuddy-token-tracker
 dingminhua/dsh-connect-workbuddy
 JaguarJack/workbuddy-openapi
 qianzhu18/workisland
+jamesting-eng/workbuddy-skills
