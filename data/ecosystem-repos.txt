@@ -51,6 +51,7 @@ corrinehu/dsh-workbuddy-connect
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 lovingfish/workbuddy-cliproxy
+caigee-cmd/cli2api
 zhuyifang/tonghuasun-agent
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill

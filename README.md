@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**64 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**65 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -144,6 +144,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Tools and integrations
 
+- [CLI2API](https://github.com/caigee-cmd/cli2api) - MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，支持多账号路由、独立 worker、Docker 和回环控制台；默认仅监听 `127.0.0.1` 并要求 API Key，但会处理 OAuth/PAT/凭据导入，使用前请保护导出文件、端口和账号条款边界，勿用于共享转售.
 - [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - MIT 许可的本地协议转换器，将已登录的 WorkBuddy/CodeBuddy 会话转为 OpenAI、Responses 和 Anthropic 兼容接口；它会读取本机登录态并向 `copilot.tencent.com` 转发，使用前请审查源码、凭据文件、端口暴露和腾讯账号条款.
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新；凭据保存在本地插件目录，且包含针对上游审核模板的适配逻辑，使用前请核对源码、账号条款与数据流.
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.

@@ -139,6 +139,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 
 ### Tools and integrations
 
+- [CLI2API](https://github.com/caigee-cmd/cli2api) - An MIT-licensed self-hosted local gateway that converts WorkBuddy (and Qoder/Trae) login state into OpenAI/Anthropic-compatible APIs with multi-account routing, isolated workers, Docker, and a loopback console; it defaults to `127.0.0.1` and requires an API key, but handles OAuth/PAT/credential imports, so protect exports, ports, and account-term boundaries and do not use it for shared resale.
 - [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - An MIT-licensed local protocol converter that exposes an already signed-in WorkBuddy/CodeBuddy session through OpenAI, Responses, and Anthropic-compatible APIs; it reads local auth state and forwards to `copilot.tencent.com`, so review source, credential files, exposed ports, and Tencent account terms first.
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - An MIT-licensed CLIProxyAPI plugin that exposes CodeBuddy models to OpenAI/Anthropic clients with QR login and token refresh; credentials are stored in the local plugin directory and it includes upstream template-adaptation logic, so review source, account terms, and data flows before use.
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - Access a WorkBuddy instance from another device.

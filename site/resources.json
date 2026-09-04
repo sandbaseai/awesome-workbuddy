@@ -730,6 +730,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "CLI2API",
+    "url": "https://github.com/caigee-cmd/cli2api",
+    "description": "An MIT-licensed self-hosted local gateway that converts WorkBuddy (and Qoder/Trae) login state into OpenAI/Anthropic-compatible APIs with multi-account routing, isolated workers, Docker, and a loopback console; it defaults to `127.0.0.1` and requires an API key, but handles OAuth/PAT/credential imports, so protect exports, ports, and account-term boundaries and do not use it for shared resale",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CLI2API",
+    "descriptionZh": "MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，支持多账号路由、独立 worker、Docker 和回环控制台；默认仅监听 `127.0.0.1` 并要求 API Key，但会处理 OAuth/PAT/凭据导入，使用前请保护导出文件、端口和账号条款边界，勿用于共享转售",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy2API",
     "url": "https://github.com/ShouZhuo0413/codebuddy2api",
     "description": "An MIT-licensed local protocol converter that exposes an already signed-in WorkBuddy/CodeBuddy session through OpenAI, Responses, and Anthropic-compatible APIs; it reads local auth state and forwards to `copilot.tencent.com`, so review source, credential files, exposed ports, and Tencent account terms first",
