@@ -90,6 +90,7 @@ This repository maintains two original installable Skills: [Document Quality Rev
 - [Codebase Reverse](https://github.com/sharptoolbox/codebase-reverse) - Reconstructs functional, architectural, API, and data-model documentation from Java services.
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - Generates quotations, pro forma invoices, commercial invoices, and packing lists from one order record.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - A local-first, auditable long-term Markdown memory template for WorkBuddy and Codex.
+- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation; review generated code and local API permissions before installation.
 
 ### Tools and integrations
 

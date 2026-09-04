@@ -350,6 +350,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy App Builder Skill",
+    "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
+    "description": "An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation; review generated code and local API permissions before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy App Builder Skill",
+    "descriptionZh": "以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用；安装前请复核生成代码与本地接口权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Remote",
     "url": "https://github.com/vergess3/workbuddy-remote",
     "description": "Access a WorkBuddy instance from another device",
