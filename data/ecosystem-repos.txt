@@ -62,6 +62,7 @@ JuneYaooo/self-media-compliance-review
 sharptoolbox/ontology-driven-dev
 sharptoolbox/codebase-reverse
 Dangooy/trade-pipeline-skill
+Darling5/seatable-production
 asen-goat-mine/boujoy-local-markdown-memory
 wangjialiang678/org-context
 DevnorsAI/devnors-data-mcp

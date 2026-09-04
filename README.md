@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**100 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
+**101 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -166,6 +166,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Ontology-driven Development](https://github.com/sharptoolbox/ontology-driven-dev) - 从需求探索、本体建模到应用构建的可追溯业务系统开发 Skill.
 - [Codebase Reverse](https://github.com/sharptoolbox/codebase-reverse) - 将 Java Web 或微服务代码逆向为功能、架构、接口和数据模型文档.
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
+- [SeaTable Production](https://github.com/Darling5/seatable-production) - MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析；默认使用本地 CSV，写入前展示完整变更并等待确认，也可选接入 SeaTable、PartDB 或 ERP，使用前请核对凭据、字段映射、外部 API 和写入范围.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
 - [Org Context](https://github.com/wangjialiang678/org-context) - MIT 许可、支持 WorkBuddy/Claude Code/OpenCode 的企业上下文组织 Skill，以事实树、判断账和状态页降低 Agent 找错资料的概率，附带模板、可运行示例和机械校验；默认处理本地企业资料并会改写工作区文件，使用前请备份并确认资料范围.
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - 以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用；安装前请复核生成代码与本地接口权限.
