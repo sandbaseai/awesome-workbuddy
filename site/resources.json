@@ -210,6 +210,16 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Two permission modes",
+    "url": "https://cloud.tencent.com/document/product/1831/134401",
+    "description": "The official guide to default permissions, workspace boundaries, confirmation prompts, and Full Access; back up important files and enable full access only briefly in a trusted, isolated, recoverable environment",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "两个权限模式",
+    "descriptionZh": "官方说明默认权限、工作空间边界、确认弹窗与 Full Access；重要文件先备份，完全访问只应在可信、隔离且可恢复的环境中短时开启",
+    "categoryZh": "Core concepts"
+  },
+  {
     "title": "Connectors",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
     "description": "Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps",

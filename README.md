@@ -67,6 +67,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [探索](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore) - 浏览七类官方精选成品，一键预填对应 Prompt、Skill 与专家来制作自己的版本，并理解探索、Skill 和专家的分工.
 - [专家中心](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - 选择带独立方法和工具链的专家，或由团长拆解并行任务的多 Agent 专家团.
 - [助理（远程任务）](https://cloud.tencent.com/document/product/1831/134392) - 从微信、企业微信、QQ、钉钉或飞书远程触发电脑上的 WorkBuddy；连接前请确认渠道授权、本地工作区、任务权限和返回产物范围.
+- [两个权限模式](https://cloud.tencent.com/document/product/1831/134401) - 官方说明默认权限、工作空间边界、确认弹窗与 Full Access；重要文件先备份，完全访问只应在可信、隔离且可恢复的环境中短时开启.
 - [连接器](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector) - 将 QQ 邮箱、腾讯文档等外部服务接入工作流，并了解配置与授权步骤.
 - [记忆](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory) - 查看、编辑、导入或要求 WorkBuddy 忘记从对话中提取的偏好与习惯.
 - [模型配置](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model) - 选择自动或内置模型，或接入自定义模型与协议.
