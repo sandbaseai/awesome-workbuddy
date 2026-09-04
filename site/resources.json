@@ -1120,6 +1120,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Agent Avatar",
+    "url": "https://github.com/joyparkray/agent-avatar",
+    "description": "An MIT-licensed Live2D desktop companion for macOS and Windows that observes WorkBuddy, Codex, Claude Code, Hermes, and DeepSeek Harness events and maps Agent state to animation. It bundles no model, while Live2D Cubism Core has separate license terms; the app is unsandboxed, Windows builds are unsigned, and its installer invokes harness CLIs, writes plugin configuration, and bundles Python, so verify binaries, model licensing, hook permissions, and local state-file scope before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Agent Avatar",
+    "descriptionZh": "MIT 许可的 macOS/Windows Live2D 桌面伙伴，通过只读观察器连接 WorkBuddy、Codex、Claude Code、Hermes 和 DeepSeek Harness，并把 Agent 状态映射为动画；项目不附带模型，Live2D Cubism Core 受单独许可约束，应用未沙箱化且 Windows 构建未签名，安装器还会调用宿主 CLI、写入插件配置并携带 Python 运行时，启用前请核对二进制、模型许可、hook 权限和本地状态文件范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "CLI2API",
     "url": "https://github.com/caigee-cmd/cli2api",
     "description": "An MIT-licensed self-hosted local gateway that converts WorkBuddy (and Qoder/Trae) login state into OpenAI/Anthropic-compatible APIs with multi-account routing, isolated workers, Docker, and a loopback console; it defaults to `127.0.0.1` and requires an API key, but handles OAuth/PAT/credential imports, so protect exports, ports, and account-term boundaries and do not use it for shared resale",
