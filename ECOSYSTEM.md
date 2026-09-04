@@ -136,5 +136,6 @@ Last refreshed: **2026-09-04 UTC**
 | [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-04 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 | [iuuunlyk/AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) | 0 | PowerShell | 2026-09-04 |
+| [JaguarJack/workbuddy-openapi](https://github.com/JaguarJack/workbuddy-openapi) | 0 | PHP | 2026-09-04 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
