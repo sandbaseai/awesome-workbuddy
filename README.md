@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**127 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**128 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -212,6 +212,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Origin Auto](https://github.com/simcrq/origin-auto) - MIT 许可、面向 Windows OriginLab 的科研绘图 MCP 与 WorkBuddy Skill，提供 28 个 COM 自动化工具、独立脚本回退、真实数据出图验证以及 PNG/PDF/OPJU 存在性检查；需要本机已授权 Origin、Python 依赖和可见桌面自动化，运行会读取/写入工作簿并启动 Origin 进程，使用前请确认数据版权、安装许可、文件路径和导出结果.
 - [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) - MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知；它只提醒、不代替用户批准，需在浏览器中授予通知权限，适合作为 WorkBuddy/Codex 风格 Agent 的相邻协作工具.
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - 为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key.
+- [Wudao A-Share Stock Data MCP](https://github.com/jcdreamjc/wudao-mcp) - MIT 许可、11 Star 的远程 HTTP MCP 数据服务，直接支持 WorkBuddy，提供 63 个只读 A 股工具，覆盖行情、K 线、指数/ETF、涨停梯队、板块轮动、资金流、龙虎榜、研报、公告和盘后复盘；需要申请 API Key 并把数据请求发送到远程端点，项目明确不执行交易、不承诺收益或提供投资建议，使用前请核对数据授权、费用、隐私和金融合规边界.
 - [Beav](https://github.com/Jamailar/Beav) - 本地优先的自媒体素材、调研、选题与创作工作台，通过用户级插件和本机 MCP 连接 WorkBuddy；采用限制商业使用的自定义 MIT 衍生许可，生产安装包可能领先公开源码，并会涉及本地工作区、模型密钥、浏览器/社媒内容和回环服务，安装前请核对版本、许可、平台条款与权限范围.
 - [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) - 让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent；会把 WorkBuddy access/refresh token 写入 `~/.openclaw/openclaw.json`，消息经腾讯端点传输，且虽在 README/package 中声明 MIT，仓库并无 LICENSE 文件，使用前请保护配置、核对源码及微信/腾讯账号条款.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款.

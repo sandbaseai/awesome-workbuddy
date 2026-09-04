@@ -85,6 +85,7 @@ asen-goat-mine/boujoy-local-markdown-memory
 wangjialiang678/org-context
 Ketian823/delivery-razor
 DevnorsAI/devnors-data-mcp
+jcdreamjc/wudao-mcp
 Jamailar/Beav
 HenryXiaoYang/wechat-openclaw-channel
 corrinehu/dsh-workbuddy-connect
