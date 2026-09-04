@@ -610,6 +610,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Prompt Toolkit",
+    "url": "https://github.com/xiaolouJB/prompt-toolkit",
+    "description": "A CC BY-NC 4.0 multi-agent distribution package with 12 general-purpose prompts, including native WorkBuddy Skills and adaptations for Claude Code, Cursor, Trae, and CodeBuddy, covering questioning, learning, fact-checking, decisions, and life design; it is adapted from Digital Life Kazik and requires attribution, source retention, and non-commercial use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Prompt Toolkit",
+    "descriptionZh": "CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计；内容整理改编自数字生命卡兹克并要求署名、保留来源且不得商用，使用前请遵守原作者许可",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",

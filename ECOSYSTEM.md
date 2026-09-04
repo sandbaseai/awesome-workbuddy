@@ -17,8 +17,8 @@ Last refreshed: **2026-09-04 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 235 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 234 | Python | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
@@ -78,6 +78,7 @@ Last refreshed: **2026-09-04 UTC**
 | [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | Python | 2026-03-18 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | Python | 2026-07-26 |
+| [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | Python | 2026-08-21 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | - | 2026-06-14 |
