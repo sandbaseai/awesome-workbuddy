@@ -36,6 +36,7 @@ AriaXXX-free/job-navigation-skill
 yinren112/bossmate
 Jobo16/ielts-buddy
 ttww1111/pdf-structured-extractor
+liangdabiao/math-concept-film
 ChosenXu/eagle-untagged-organizer
 goodrain/rainskills
 yamingmou/session-fork-core
