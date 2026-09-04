@@ -800,6 +800,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "AI Weekly Report",
+    "url": "https://github.com/Elisabeth15501/ai-weekly",
+    "description": "An MIT-licensed AI-industry weekly-report Skill compatible with WorkBuddy, Codex, and other Agents. It builds a searchable, filterable, dark-mode single-file HTML report from RSS and optional search data, preserving source links and fallbacks; it needs network fetching and a few Python dependencies, so verify source freshness, market figures, and external publishing targets",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Weekly Report",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退；需要联网抓取和少量 Python 依赖，使用前请复核来源、时效、市场数据及外部发布目标",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Math Concept Film",
     "url": "https://github.com/liangdabiao/math-concept-film",
     "description": "A license-not-declared mathematics short-film Skill compatible with WorkBuddy, Codex, and Claude, using a voice-first caption timeline to drive Manim animation with a six-act teaching framework, still-frame checks, and ffmpeg composition; narration relies on Microsoft's online TTS, so review network use, source-material rights, output scope, and licensing before use",
@@ -1157,6 +1167,16 @@
     "category": "Tools and integrations",
     "titleZh": "Tencent Meeting CLI",
     "descriptionZh": "腾讯会议官方 CLI，可作为 Agent 的会议管理工具",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DCC-MCP Agent Plugins",
+    "url": "https://github.com/dcc-mcp/dcc-mcp-agent-plugins",
+    "description": "An MIT-licensed official-distribution suite of DCC-MCP Agent Skills and plugins compatible with WorkBuddy, Codex, Claude Code, and other hosts; it discovers digital-content tools and calls them within approval boundaries, but installation brings npm/plugin runtimes and local or external-tool permissions, so review provenance, credentials, file access, and network scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DCC-MCP Agent Plugins",
+    "descriptionZh": "MIT 许可、官方分发式的 DCC-MCP Agent Skills/插件集合，兼容 WorkBuddy、Codex、Claude Code 等宿主，可发现数字内容创作工具并在审批边界内调用；安装会引入 npm/插件运行时和本地或外部工具权限，使用前请核对插件来源、凭据、文件与网络范围",
     "categoryZh": "Tools and integrations"
   },
   {
