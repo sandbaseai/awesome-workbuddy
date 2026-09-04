@@ -123,6 +123,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [Tencent Meeting CLI](https://github.com/TencentCloud/tencentmeeting-cli) - Tencent's official CLI for meeting management and Agent integration.
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - Legal, company, content, and research data APIs for WorkBuddy; requires an external API key.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - Connects WorkBuddy desktop models to DeepSeek Harness across Web, Desktop, and TUI; it reads the local WorkBuddy sign-in file and stores refresh credentials in DSH's own directory, relies on unofficial endpoints, and should be reviewed against the source and account terms before installation.
+- [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - Adds WorkBuddy China models to DeepSeek Harness with API-key and browser-token authentication; MIT licensed. The adapter stores credentials, opens a login page, and calls official `copilot.tencent.com` endpoints, but remains third-party software; review account terms and token storage before installation.
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements
