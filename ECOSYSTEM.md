@@ -39,6 +39,7 @@ Last refreshed: **2026-09-04 UTC**
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | Go | 2026-09-04 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |

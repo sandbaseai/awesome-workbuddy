@@ -11,7 +11,6 @@ Last refreshed: **2026-09-04 UTC**
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | 2026-09-04 | MIT | Self-hosted OpenAI-compatible API for Qoder CLI login,workbuddy, with SQLite multi-account routing |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | 2026-06-19 | MIT | Convert CodeBuddy/WorkBuddy (Tencent coding assistant) subscription into an OpenAI-compatible API. Use CodeBuddy GLM-5.2/Kimi/DeepSeek models in Codex CLI or any OpenAI client. Cross-platform, single-file, no auth changes. |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | 2026-06-15 | Not declared | 用大白话讲透 AI 和 Agent，从 ChatGPT 到智能体，零基础也能看懂的工作指南。基于 WorkBuddy 多模型协作平台创作。使用求是skill作为主要技能。 |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-04 UTC**
 | [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | 2026-09-01 | NOASSERTION | 个人A股/港股盯盘智能副驾 - 信息驱动、人在回路、非量化、非自动下单。基于WorkBuddy平台的Skill。全网同名：WaterCMY 感谢相遇，感谢关注！学习学习再学习 实践-反思-总结-持续进化 CN No.1 |
 | [Senguk520/CodeRelay-tools](https://github.com/Senguk520/CodeRelay-tools) | 13 | 2026-09-04 | NOASSERTION | CodeBuddy / WorkBuddy 账号池管理工具 · Account pool manager —— 集中管理 CodeBuddy 中国站多账号，内置本地 OpenAI 兼容反代，多账号调度 / 配额监控 / 每日签到 / API Key 管理 / 模型同步与本地缓存 / 请求统计 / 系统托盘通知。Multi-account routing, quota monitoring, daily check-in, local reverse proxy &amp; more. |
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | 2026-09-04 | MIT | Windows desktop multi-account check-in &amp; management tool - Tauri 2 + React 18 + Rust (Trae + WorkBuddy) |
+| [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | 2026-07-13 | MIT | WorkBuddy 全自动免费领积分｜免费开源，复制一句话让 AI 自动安装，支持 macOS 和 Windows |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.
