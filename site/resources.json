@@ -490,6 +490,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "PMCockpit",
+    "url": "https://github.com/wsdlp46/PMCockpit",
+    "description": "An Apache-2.0 AI product-management cockpit for WorkBuddy, Codex, and Claude that turns requirements, specs, prototypes, reviews, retrospectives, and lessons into eight executable Skills; its installer changes or symlinks workspace entry points, while testing and VitePress capabilities are opt-in, so confirm workspace, template, and external-project permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "PMCockpit",
+    "descriptionZh": "Apache-2.0 的产品经理 AI 协作驾驶舱，支持 WorkBuddy、Codex 和 Claude，将需求、规格、原型、评审、复盘与经验沉淀为 8 个可执行 Skill；安装脚本会改写或软链工作区入口，测试和 VitePress 能力需显式启用，使用前请确认工作区、模板和外部项目权限",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "workbuddyskills",
     "url": "https://github.com/infometa/workbuddyskills",
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",
