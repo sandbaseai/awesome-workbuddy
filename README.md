@@ -76,6 +76,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准、任务与评测代码.
 
+查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)。
+
 ## Skills, Prompts and MCP
 
 ### Build and use Skills

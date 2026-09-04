@@ -1,0 +1,19 @@
+# One GitHub owner/repository per line. Keep this list curated.
+AlephAITech/WorkBuddyGuide
+KimYx0207/AI-Coding-Guide-Zh
+Tencent/workbuddy-bench
+adongwanai/learn-workbuddy
+infometa/workbuddyskills
+babygoton/WorkDaddy
+zjp1997720/zhijian-ai-bluebook-workbuddy-harness
+vergess3/workbuddy-remote
+TencentEdgeOne/awesome-website-prompts-and-skills
+imraywang/rayskills
+arcboxlabs/linkcode
+cdredfox/workbuddy-skin-studio
+konnga/skill-buddy
+bitcjm/workbuddy-skills
+maciechen/zotero-mcp-workbuddy-guide
+CatCatUncle/openworkbuddy
+bigbay957-sudo/workbuddy-for-obsidian
+TencentCloud/tencentmeeting-cli
