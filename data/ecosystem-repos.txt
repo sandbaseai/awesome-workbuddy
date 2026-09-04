@@ -15,6 +15,7 @@ imraywang/rayskills
 arcboxlabs/linkcode
 cdredfox/workbuddy-skin-studio
 zhouwei713/WorkBuddy-Dream-Skin
+sindney/m5stack_toys
 konnga/skill-buddy
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
