@@ -102,6 +102,7 @@ Last refreshed: **2026-09-04 UTC**
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-04 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
+| [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-04 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [feng-liu-1994/workbuddy-finance-workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) | 3 | JavaScript | 2026-09-03 |
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |

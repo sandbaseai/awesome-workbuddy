@@ -1290,6 +1290,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "AgentHub",
+    "url": "https://github.com/nicechencs/AgentHub",
+    "description": "An MIT-licensed local cross-platform Agent management GUI/CLI for installing and connecting WorkBuddy and other tools, managing shared/project Skills, sessions, usage, and backups; it explicitly limits MCP to read-only discovery for now. It reads and writes local Agent configuration and logs, reuses local credential storage that is not encrypted in the current scope, so review configuration changes, backup locations, log redaction, and local permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AgentHub",
+    "descriptionZh": "MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills、会话、用量和备份，并明确 MCP 当前仅做只读发现；它会读写本机 Agent 配置和日志，凭据沿用本地存储且当前不加密，使用前请审查配置变更、备份位置、日志脱敏和本地权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy for Obsidian",
     "url": "https://github.com/bigbay957-sudo/workbuddy-for-obsidian",
     "description": "Use local WorkBuddy inside Obsidian with references, edits, and provenance",
