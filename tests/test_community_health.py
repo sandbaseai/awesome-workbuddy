@@ -33,3 +33,13 @@ class CommunityHealthTests(unittest.TestCase):
             ).read_text(encoding="utf-8")
             self.assertIn(" / ", form, filename)
             self.assertIn("Resource URL", form, filename)
+
+    def test_ecosystem_refresh_runs_after_authoritative_changes(self) -> None:
+        workflow = (
+            ROOT / ".github" / "workflows" / "update-ecosystem.yml"
+        ).read_text(encoding="utf-8")
+        self.assertIn("push:", workflow)
+        self.assertIn("data/ecosystem-repos.txt", workflow)
+        self.assertIn("skills/*/SKILL.md", workflow)
+        self.assertIn("group: update-ecosystem-main", workflow)
+        self.assertIn("git pull --ff-only origin main", workflow)
