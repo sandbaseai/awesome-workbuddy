@@ -1320,6 +1320,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy Expert Bridge",
+    "url": "https://github.com/xiaojinlucky/workbuddy-expert-bridge",
+    "description": "An MIT-licensed local Skill that lets Codex, Cursor, Claude Code, Grok, and VS Code read and recommend already-installed WorkBuddy experts or teams, showing match evidence and local availability before the user chooses whether to use one; it needs no account or key and does not install, download, or enable unknown content on its own, but it reads local WorkBuddy files, so review file permissions, context scope, and the host tool's data policy",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Expert Bridge",
+    "descriptionZh": "MIT 许可的本地 Skill，让 Codex、Cursor、Claude Code、Grok 和 VS Code 等工具只读发现并推荐本机已有的 WorkBuddy 专家/专家团，先展示匹配依据和本地可用性，再由用户决定是否使用；它不需要账号或密钥，也不会自行安装、下载或启用陌生内容，但会读取本机 WorkBuddy 文件，使用前请确认文件权限、上下文数据范围和宿主工具的数据政策",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy for Obsidian",
     "url": "https://github.com/bigbay957-sudo/workbuddy-for-obsidian",
     "description": "Use local WorkBuddy inside Obsidian with references, edits, and provenance",
