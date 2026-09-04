@@ -8,7 +8,7 @@ import os
 import sys
 import urllib.error
 import urllib.request
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -79,7 +79,7 @@ def main() -> int:
             print(f"Failed to fetch {repository}: {error}", file=sys.stderr)
             return 1
 
-    updated = datetime.now(UTC).strftime("%Y-%m-%d")
+    updated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     OUTPUT.write_text(render(items, updated), encoding="utf-8")
     return 0
 

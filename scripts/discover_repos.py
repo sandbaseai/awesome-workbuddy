@@ -8,7 +8,7 @@ import json
 import os
 import urllib.parse
 import urllib.request
-from datetime import UTC, datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 
@@ -26,7 +26,7 @@ def curated_repositories() -> set[str]:
 
 
 def fetch_candidates() -> list[dict[str, object]]:
-    cutoff = (datetime.now(UTC) - timedelta(days=180)).date().isoformat()
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=180)).date().isoformat()
     query = f"workbuddy in:name,description stars:>=10 pushed:>={cutoff}"
     params = urllib.parse.urlencode(
         {"q": query, "sort": "stars", "order": "desc", "per_page": 100}
@@ -89,7 +89,7 @@ def render(items: list[dict[str, object]], updated: str) -> str:
 
 
 def main() -> None:
-    updated = datetime.now(UTC).strftime("%Y-%m-%d")
+    updated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     OUTPUT.write_text(render(fetch_candidates(), updated), encoding="utf-8")
 
 
