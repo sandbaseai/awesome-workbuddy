@@ -9,6 +9,7 @@ tonycc/skillhive
 1186247283zj-pixel/github-mcp-server-lite
 bailinghub/bailinghub-workbuddy-connector
 wynter-cai/assetplex
+laoyudashu/voko
 Bolton-Z/ns-mcp-china
 simcrq/origin-auto
 zkhyww/ai-short-drama-skills

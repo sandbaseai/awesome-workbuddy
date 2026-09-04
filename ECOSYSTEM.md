@@ -40,8 +40,8 @@ Last refreshed: **2026-09-04 UTC**
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 61 | Go | 2026-09-04 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 60 | Go | 2026-09-04 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
@@ -92,6 +92,7 @@ Last refreshed: **2026-09-04 UTC**
 | [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | HTML | 2026-09-01 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
 | [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | Python | 2026-09-03 |
+| [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-04 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-04 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
