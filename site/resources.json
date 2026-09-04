@@ -1200,6 +1200,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy Computer Use for Intel Mac",
+    "url": "https://github.com/Guyzn/workbuddy-cua-mcp",
+    "description": "An MIT-licensed Intel-Mac WorkBuddy MCP providing screenshots, mouse/keyboard/window control, and Chrome CDP automation to cover the gap before Apple Silicon's native Computer Use; it requires macOS Accessibility permission, may launch Chrome with a debugging port, and can control the whole desktop, so confirm process authorization, port binding, browser profiles, sensitive pages, and human supervision for each action",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Computer Use for Intel Mac",
+    "descriptionZh": "MIT 许可、面向 Intel Mac 的 WorkBuddy MCP，提供截图、鼠标/键盘/窗口控制和 Chrome CDP 自动化，用于补足 Apple Silicon 原生 Computer Use 的平台差异；它需要 macOS 辅助功能权限、可自动启动带调试端口的 Chrome，并能控制整台桌面，使用前请确认进程授权、调试端口绑定、浏览器 Profile、敏感页面和每次操作的人工监督",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Token Tracker",
     "url": "https://github.com/abc1317679842-ui/workbuddy-token-tracker",
     "description": "An MIT-licensed Windows WorkBuddy Skill and hook that aggregates per-turn tokens, duration, per-model daily ledgers, and system notifications from local traces/transcripts. It scans complete sessions, persistently writes ledgers and diagnostic logs, invokes Node/Python/PowerShell, and enables refreshes from several public pricing sources by default; balance lookup is off by default but reads a DeepSeek API key when enabled, and costs remain estimates based on mutable pricing data and manual time-band rules rather than invoices, so review source, retention, network, and credential scope before installation",
