@@ -143,3 +143,4 @@ NikoKennedy/translate-book-windows
 zhangx1234994/aicp-product-creator-skill
 Kallium-cn/workbuddy-jupyter-bridge
 darker2016/workbuddy-skill-groups
+laubeing-droid/unified-legal-ai-cn
