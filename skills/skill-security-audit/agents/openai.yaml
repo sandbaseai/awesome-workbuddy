@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Security Audit"
+  short_description: "Audit Skills, MCP servers, and extensions"
+  default_prompt: "Audit this third-party Agent extension before installation and produce an evidence-backed risk report."

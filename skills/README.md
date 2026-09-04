@@ -11,6 +11,7 @@ Review every file first. Test with non-sensitive copies and limited permissions 
 ## Included
 
 - [document-quality-review](document-quality-review/SKILL.md) - Reviews evidence, calculations, consistency, completeness, links, rendered layout, sensitive data, and operational usability before a deliverable is sent.
+- [skill-security-audit](skill-security-audit/SKILL.md) - Performs a read-only, evidence-backed review of instructions, code, dependencies, permissions, credentials, data flow, and irreversible actions before installing an Agent extension.
 
 ## Validate
 
@@ -18,6 +19,7 @@ Run the repository-level structural validator against a Skill directory:
 
 ```shell
 python scripts/validate_skill.py skills/document-quality-review
+python scripts/validate_skill.py skills/skill-security-audit
 ```
 
 The validator catches malformed or missing frontmatter, invalid names, weak descriptions, unfinished placeholders, broken local Markdown references, and obvious embedded secrets. Passing it is not Tencent certification and does not prove that instructions or code are safe.
