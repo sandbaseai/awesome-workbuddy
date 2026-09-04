@@ -730,6 +730,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Rainskills",
+    "url": "https://github.com/goodrain/rainskills",
+    "description": "An Apache-2.0 Skill collection compatible with WorkBuddy, Codex, Claude, and other Agents for project detection, build/deploy, log troubleshooting, page/API verification, versioning, snapshots, and rollback; it can connect to Rainbond Cloud, an existing Rainbond instance, or local/server environments, so review credentials, network, host permissions, and rollback targets first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Rainskills",
+    "descriptionZh": "Apache-2.0 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的部署 Skill 集合，可识别项目、构建部署、排查日志、验证页面/API，并管理版本、快照和回滚；可连接 Rainbond Cloud、已有 Rainbond 或本机/服务器环境，执行前请确认凭据、网络、主机权限和回滚目标",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Session Fork",
     "url": "https://github.com/yamingmou/session-fork-core",
     "description": "An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it relies on unofficial local-storage internals, reads transcripts, inserts rows into `~/.workbuddy/workbuddy.db`, writes a lineage index, and can rewrite branch files with `--fix`, while its backup covers only the source JSONL, so quit WorkBuddy and separately back up the database and sensitive sessions first",

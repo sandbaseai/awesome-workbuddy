@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**91 curated repositories · 4 original Skills · 23 discovery candidates · weekly validation**
+**92 curated repositories · 4 original Skills · 23 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -140,6 +140,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本；可选绑定个人学习 API 和本地令牌，使用前请确认数据范围，不要分享密码、Cookie 或 Token.
 - [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV；可识别双栏、扫描页和乱码并生成质量警告，默认无网络与遥测，但会读取用户指定的 PDF 并写入输出文件，使用前请确认文件和输出目录.
 - [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) - MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围.
+- [Rainskills](https://github.com/goodrain/rainskills) - Apache-2.0 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的部署 Skill 集合，可识别项目、构建部署、排查日志、验证页面/API，并管理版本、快照和回滚；可连接 Rainbond Cloud、已有 Rainbond 或本机/服务器环境，执行前请确认凭据、网络、主机权限和回滚目标.
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱系树；它依赖非官方的本地存储结构，会读取会话、向 `~/.workbuddy/workbuddy.db` 插入记录、写入谱系索引，且 `--fix` 会改写分支文件，而备份仅包含源 JSONL，执行前请退出 WorkBuddy 并另行备份数据库和敏感会话.
 
 本仓库维护四个可直接安装的原创 Skill：[Document Quality Review](skills/document-quality-review/SKILL.md) 以只读方式检查交付物质量；[Skill Security Audit](skills/skill-security-audit/SKILL.md) 在安装前审查第三方扩展；[Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) 将网页和资料整理为可核验、明确区分事实与推断的研究简报；[Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) 对候选资源给出基于相关性、质量、许可证、来源和安全证据的收录、暂缓或排除结论。
