@@ -1380,6 +1380,16 @@
     "categoryZh": "Research and Engineering"
   },
   {
+    "title": "semlinker/awesome-workbuddy",
+    "url": "https://github.com/semlinker/awesome-workbuddy",
+    "description": "A CC0 Chinese WorkBuddy resource list covering official material, practical cases, prompts, Skills, and MCP; complementary to this index, with each linked resource still requiring independent provenance and permission review",
+    "section": "Related Lists",
+    "category": "Related Lists",
+    "titleZh": "semlinker/awesome-workbuddy",
+    "descriptionZh": "CC0 的中文 WorkBuddy 资源清单，覆盖官方资料、实战案例、提示词、Skills 与 MCP；与本清单互补，使用其中链接前仍需单独核验来源和权限",
+    "categoryZh": "Related Lists"
+  },
+  {
     "title": "staruhub/awesome-workbuddy",
     "url": "https://github.com/staruhub/awesome-workbuddy",
     "description": "A Chinese-first index of Skills, prompts, tutorials, evaluations, and integrations",

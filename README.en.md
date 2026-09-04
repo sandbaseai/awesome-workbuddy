@@ -251,6 +251,7 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 
 ## Related Lists
 
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - A CC0 Chinese WorkBuddy resource list covering official material, practical cases, prompts, Skills, and MCP; complementary to this index, with each linked resource still requiring independent provenance and permission review.
 - [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - A Chinese-first index of Skills, prompts, tutorials, evaluations, and integrations.
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - Skills for automation, data, browsers, WeChat, and content production.
 - [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - A large use-case library organized by profession and task.

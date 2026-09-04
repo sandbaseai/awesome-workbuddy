@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**65 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**66 curated repositories · 4 original Skills · 39 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -256,6 +256,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ## Related Lists
 
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - CC0 的中文 WorkBuddy 资源清单，覆盖官方资料、实战案例、提示词、Skills 与 MCP；与本清单互补，使用其中链接前仍需单独核验来源和权限.
 - [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - 中文优先的 Skills、提示词、教程、评测与集成索引.
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 自动化、数据、浏览器、微信与内容生产 Skills 集合.
 - [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - 按职业和任务类型组织的大规模使用场景库.
