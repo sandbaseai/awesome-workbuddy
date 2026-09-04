@@ -750,6 +750,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Tonghuasun Agent",
+    "url": "https://github.com/zhuyifang/tonghuasun-agent",
+    "description": "An AGPL-3.0 connector for the Tonghuashun Windows desktop client that exposes quotes, account, positions, and trade data to WorkBuddy and other Agents; its local API uses a token and optional trading tools, while the core unsigned Windows plugin is currently closed source, so verify binaries, privacy, brokerage permissions, and trade-confirmation safeguards before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Tonghuasun Agent",
+    "descriptionZh": "面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交；本机接口使用令牌并可选开启交易，且核心 Windows 插件未签名且暂时闭源，使用前务必核对二进制、隐私、证券账户权限和交易确认流程",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH WorkBuddy Provider",
     "url": "https://github.com/Axiaohungry/dsh-llm-workbuddy",
     "description": "Adds WorkBuddy China models to DeepSeek Harness with API-key and browser-token authentication; MIT licensed. The adapter stores credentials, opens a login page, and calls official `copilot.tencent.com` endpoints, but remains third-party software; review account terms and token storage before installation",
@@ -777,6 +787,16 @@
     "category": "Tools and integrations",
     "titleZh": "SailFish",
     "descriptionZh": "面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多 IM 渠道；采用 AGPL v3 与商业许可双许可模式，使用前请确认许可、凭据和本地/远程操作权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "OpenBuddy",
+    "url": "https://github.com/opensymph/OpenBuddy",
+    "description": "An MIT-licensed Rust/Tauri WorkBuddy-style cross-platform desktop client with BYOK, multi-provider models, Skills, MCP, plan mode, sub-agents, and local automations; model credentials are stored in a local plain-text configuration file, so protect that file as documented upstream",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "OpenBuddy",
+    "descriptionZh": "基于 Rust/Tauri 的 MIT 开源 WorkBuddy 风格跨平台桌面客户端，支持 BYOK、多模型、Skills、MCP、计划模式、子 Agent 和本地自动化；模型凭据保存在本机明文配置中，使用前请按其说明保护配置文件",
     "categoryZh": "Tools and integrations"
   },
   {
