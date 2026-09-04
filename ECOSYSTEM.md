@@ -69,6 +69,7 @@ Last refreshed: **2026-09-04 UTC**
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
 | [shenchangyi/photo-to-monthly-zine-postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) | 17 | - | 2026-08-14 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
+| [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | HTML | 2026-08-16 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
