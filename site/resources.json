@@ -720,6 +720,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Eagle Untagged Organizer",
+    "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
+    "description": "An MIT-licensed WorkBuddy Skill that uses eagle-mcp to name, annotate, and tag untagged design assets; it provides multimodal preflight, a dry-run manifest, batch backups, human approval, and rollback, so confirm the Eagle library, MCP permissions, and write scope before execution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Eagle Untagged Organizer",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Session Fork",
     "url": "https://github.com/yamingmou/session-fork-core",
     "description": "An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it relies on unofficial local-storage internals, reads transcripts, inserts rows into `~/.workbuddy/workbuddy.db`, writes a lineage index, and can rewrite branch files with `--fix`, while its backup covers only the source JSONL, so quit WorkBuddy and separately back up the database and sensitive sessions first",
