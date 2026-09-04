@@ -112,6 +112,8 @@ Last refreshed: **2026-09-04 UTC**
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-04 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-04 |
 | [bailinghub/bailinghub-workbuddy-connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) | 0 | JavaScript | 2026-09-03 |
+| [GYINT/infoseek](https://github.com/GYINT/infoseek) | 0 | Python | 2026-08-30 |
+| [stwhwing/markitdown-skill](https://github.com/stwhwing/markitdown-skill) | 0 | Python | 2026-09-02 |
 | [yyc424666lvy/1688-product-reader](https://github.com/yyc424666lvy/1688-product-reader) | 0 | Python | 2026-09-04 |
 | [chenwg001/qingfengskill](https://github.com/chenwg001/qingfengskill) | 0 | Python | 2026-09-03 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
