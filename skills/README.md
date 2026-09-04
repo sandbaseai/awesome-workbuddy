@@ -24,7 +24,7 @@ python scripts/validate_skill.py skills/skill-security-audit
 
 The validator catches malformed or missing frontmatter, invalid names, weak descriptions, unfinished placeholders, broken local Markdown references, and obvious embedded secrets. Passing it is not Tencent certification and does not prove that instructions or code are safe.
 
-Release `v0.2.0` archive SHA-256 digests:
+Release `v0.3.1` archive SHA-256 digests:
 
-- `document-quality-review.zip`: `5164d4caeee1ccaf5f9099784fdff386ab5bf697ff71f29df789c5f547cefcbb`
-- `skill-security-audit.zip`: `a5b8887096d3650ade815cd8a28a7f82191642066ae3ae33a6cfcdd8e34f2f72`
+- `document-quality-review.zip`: `4341833ac859b5ccf3d5f23d5da399ee61fb51aa2882485e826ab5a5ca9a99fd`
+- `skill-security-audit.zip`: `11ee0269db855b781cf2b2c4364a9501f0236f9bbb3e2e8ce9c478e323eb9bf2`
