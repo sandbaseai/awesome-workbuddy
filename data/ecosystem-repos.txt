@@ -32,6 +32,7 @@ Jobo16/ielts-buddy
 langlibai66/paper-cn-reader
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
+Aisland-SJL/dsh-reminder
 feichanggege/ecommerce-visual-copywriting-skill
 aaronyi97/image-story-video-wizard
 JuneYaooo/social-account-doctor
