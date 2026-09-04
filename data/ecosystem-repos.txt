@@ -57,6 +57,7 @@ Dangooy/trade-pipeline-skill
 asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 Jamailar/Beav
+HenryXiaoYang/wechat-openclaw-channel
 corrinehu/dsh-workbuddy-connect
 lovezi0/dsh-memory-palace
 jiang12345-code/dsh-agent-selector

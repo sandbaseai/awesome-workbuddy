@@ -1060,6 +1060,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "wechat-openclaw-channel",
+    "url": "https://github.com/HenryXiaoYang/wechat-openclaw-channel",
+    "description": "Routes WeChat messages to a local OpenClaw Agent through QClaw or WorkBuddy OAuth/Centrifuge mode. It stores WorkBuddy access and refresh tokens in `~/.openclaw/openclaw.json`, carries message content through Tencent endpoints, and has no LICENSE file despite MIT claims in its README/package metadata; protect the configuration and review source plus WeChat/Tencent account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "wechat-openclaw-channel",
+    "descriptionZh": "让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent；会把 WorkBuddy access/refresh token 写入 `~/.openclaw/openclaw.json`，消息经腾讯端点传输，且虽在 README/package 中声明 MIT，仓库并无 LICENSE 文件，使用前请保护配置、核对源码及微信/腾讯账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH WorkBuddy Connect",
     "url": "https://github.com/corrinehu/dsh-workbuddy-connect",
     "description": "Connects WorkBuddy desktop models to DeepSeek Harness across Web, Desktop, and TUI; it reads the local WorkBuddy sign-in file and stores refresh credentials in DSH's own directory, relies on unofficial endpoints, and should be reviewed against the source and account terms before installation",

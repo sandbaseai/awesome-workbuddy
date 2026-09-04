@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**90 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**91 curated repositories · 4 original Skills · 23 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -179,6 +179,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) - MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知；它只提醒、不代替用户批准，需在浏览器中授予通知权限，适合作为 WorkBuddy/Codex 风格 Agent 的相邻协作工具.
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - 为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key.
 - [Beav](https://github.com/Jamailar/Beav) - 本地优先的自媒体素材、调研、选题与创作工作台，通过用户级插件和本机 MCP 连接 WorkBuddy；采用限制商业使用的自定义 MIT 衍生许可，生产安装包可能领先公开源码，并会涉及本地工作区、模型密钥、浏览器/社媒内容和回环服务，安装前请核对版本、许可、平台条款与权限范围.
+- [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) - 让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent；会把 WorkBuddy access/refresh token 写入 `~/.openclaw/openclaw.json`，消息经腾讯端点传输，且虽在 README/package 中声明 MIT，仓库并无 LICENSE 文件，使用前请保护配置、核对源码及微信/腾讯账号条款.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款.
 - [DSH Memory Palace](https://github.com/lovezi0/dsh-memory-palace) - MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具；会读写本地记忆，智能摘要可调用模型，使用前应确认目录、敏感内容和网络/费用边界.
 - [DSH Agent Selector](https://github.com/jiang12345-code/dsh-agent-selector) - MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证；WorkBuddy 通道会读取本地模型与会话数据、写入 automations 数据库并依赖逆向调度器，使用前请审查凭据、任务内容、数据库备份和账号条款.
