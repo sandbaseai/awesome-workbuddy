@@ -7,6 +7,7 @@ Last refreshed: **2026-09-04 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,463 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,915 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
@@ -34,13 +35,17 @@ Last refreshed: **2026-09-04 UTC**
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
+| [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |
 | [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 33 | TypeScript | 2026-09-04 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
+| [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
+| [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
 | [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) | 27 | JavaScript | 2026-09-03 |
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |
+| [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) | 24 | TypeScript | 2026-09-04 |
 | [Dangooy/trade-pipeline-skill](https://github.com/Dangooy/trade-pipeline-skill) | 24 | Python | 2026-09-04 |
 | [bitcjm/workbuddy-skills](https://github.com/bitcjm/workbuddy-skills) | 22 | Python | 2026-06-01 |
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 21 | JavaScript | 2026-09-04 |
