@@ -13,6 +13,7 @@ Use these pages first:
 - [Document Quality Review](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/document-quality-review): read-only review of document and delivery quality.
 - [Skill Security Audit](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/skill-security-audit): pre-install review of permissions, credentials, dependencies, and data flow.
 - [Source-backed Research Brief](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/source-backed-research-brief): decision briefs with traceable sources, conflict handling, and explicit uncertainty.
+- [Resource Curation Review](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/resource-curation-review): evidence-backed include, hold, or exclude decisions for WorkBuddy resources without installation or submission side effects.
 - [Latest Skill archives](https://github.com/sandbaseai/awesome-workbuddy/releases/latest): downloadable packages and server-computed SHA-256 digests.
 
 This is an independent community index, not a Tencent publication. Indexed or

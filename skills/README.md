@@ -13,6 +13,7 @@ Review every file first. Test with non-sensitive copies and limited permissions 
 - [document-quality-review](document-quality-review/SKILL.md) - Reviews evidence, calculations, consistency, completeness, links, rendered layout, sensitive data, and operational usability before a deliverable is sent.
 - [skill-security-audit](skill-security-audit/SKILL.md) - Performs a read-only, evidence-backed review of instructions, code, dependencies, permissions, credentials, data flow, and irreversible actions before installing an Agent extension.
 - [source-backed-research-brief](source-backed-research-brief/SKILL.md) - Produces a decision-ready research brief with current sources, explicit uncertainty, reproducible calculations, and separated facts and inference.
+- [resource-curation-review](resource-curation-review/SKILL.md) - Reviews WorkBuddy resource submissions and produces evidence-backed include, hold, or exclude decisions without installing or submitting anything.
 
 ## Validate
 
@@ -22,6 +23,7 @@ Run the repository-level structural validator against a Skill directory:
 python scripts/validate_skill.py skills/document-quality-review
 python scripts/validate_skill.py skills/skill-security-audit
 python scripts/validate_skill.py skills/source-backed-research-brief
+python scripts/validate_skill.py skills/resource-curation-review
 ```
 
 The validator catches malformed or missing frontmatter, invalid names, weak descriptions, unfinished placeholders, broken local Markdown references, and obvious embedded secrets. Passing it is not Tencent certification and does not prove that instructions or code are safe.

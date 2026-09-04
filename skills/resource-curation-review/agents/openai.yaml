@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resource Curation Review"
+  short_description: "Review WorkBuddy resources before inclusion"
+  default_prompt: "Use $resource-curation-review to assess this WorkBuddy resource and produce an evidence-backed include, hold, or exclude decision."
