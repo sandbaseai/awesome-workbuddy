@@ -96,6 +96,7 @@ Last refreshed: **2026-09-04 UTC**
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-04 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
+| [feng-liu-1994/workbuddy-finance-workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) | 3 | JavaScript | 2026-09-03 |
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [yamingmou/session-fork-core](https://github.com/yamingmou/session-fork-core) | 3 | Python | 2026-09-04 |
 | [lovezi0/dsh-memory-palace](https://github.com/lovezi0/dsh-memory-palace) | 3 | JavaScript | 2026-09-04 |
@@ -116,6 +117,7 @@ Last refreshed: **2026-09-04 UTC**
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-04 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-04 |
 | [bailinghub/bailinghub-workbuddy-connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) | 0 | JavaScript | 2026-09-03 |
+| [simcrq/origin-auto](https://github.com/simcrq/origin-auto) | 0 | Python | 2026-09-01 |
 | [GYINT/infoseek](https://github.com/GYINT/infoseek) | 0 | Python | 2026-08-30 |
 | [stwhwing/markitdown-skill](https://github.com/stwhwing/markitdown-skill) | 0 | Python | 2026-09-02 |
 | [Willson-Huang/bilibili-video-summary](https://github.com/Willson-Huang/bilibili-video-summary) | 0 | Python | 2026-08-30 |
