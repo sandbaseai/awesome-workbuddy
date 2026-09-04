@@ -9,7 +9,7 @@ Last refreshed: **2026-09-04 UTC**
 | --- | ---: | --- | --- | --- |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | 2026-09-04 | NOASSERTION | 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
-| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 185 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 172 | 2026-09-01 | AGPL-3.0 | 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | 2026-07-01 | MIT | 把 CodeBuddy / WorkBuddy（腾讯代码助手） 的订阅，转换成 OpenAI 兼容 API、Anthropic 兼容 API，让你能在 Codex CLI、Claude Code、ZCode、Cherry Studio、NextChat、LobeChat 等任何支持 OpenAI 协议、Anthropic 协议的客户端里复用它。 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | 2026-07-08 | MIT | CLIProxyAPI plugin wrapping Tencent CodeBuddy (copilot.tencent.com) as an OpenAI/Anthropic-compatible provider. Clean-room rebuild of Sliverkiss/cpa-plugin. |
@@ -35,7 +35,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | 2026-07-19 | CC0-1.0 | 精选的 Tencent WorkBuddy 学习资料、实战案例、提示词、Skills 与 MCP 资源导航。 |
-| [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | 2026-08-26 | MIT | AI Agent 学习与实践指南，涵盖 WorkBuddy、豆包工作、千问办公等智能办公产品的使用技巧、工作流与实战案例。 |
 | [yinren112/bossmate](https://github.com/yinren112/bossmate) | 19 | 2026-08-12 | MIT | BossMate — 让 AI 认真读完每个 JD，再决定要不要开口。支持 Codex、Claude Code、OpenCode、Hermes 和 WorkBuddy。 |
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | 2026-09-04 | MIT | 基于“躺着学”长期雅思教研与学员服务实践整理的 IELTS Agent Skills，覆盖学习计划、作文批改、口语陪练、阅读与听力复盘、词汇和模考复盘，支持 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent。 |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Sqhao-O/undergraduate-thesis-ai-workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) | 17 | 2026-04-14 | MIT | 本科毕业设计AI辅助工作流建议教学文档 \| 使用 Claude Code + Kimi Agent + CC Switch + Pandoc + Lark-Formatter + WorkBuddy 实现高效实验设计和仿真以及论文写作和排版 |
 | [taxueseek/session-digger](https://github.com/taxueseek/session-digger) | 17 | 2026-07-21 | ISC | 跨环境会话历史挖掘与知识管理。分析记录。支持 Claude/Grok/Kimi Code/Codex/WorkBuddy/Trae CN 等主流环境 |
 | [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | 2026-03-18 | MIT | [省 Token]热点监控 Skill for WorkBuddy - 多平台热点抓取与飞书集成 |
+| [sindney/m5stack_toys](https://github.com/sindney/m5stack_toys) | 16 | 2026-07-30 | MIT | Toys powered by M5Stack, software by WorkBuddy/OpenClaw, and an idea born from human creativity. |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.
