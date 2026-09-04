@@ -20,3 +20,12 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("## Reporting", content)
         self.assertIn("https://support.github.com/", content)
         self.assertNotIn("[INSERT", content)
+
+    def test_contribution_entry_points_are_bilingual(self) -> None:
+        contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
+        self.assertIn("Thank you for improving Awesome WorkBuddy", contributing)
+        self.assertIn("Report a broken or unsafe link", contributing)
+        for filename in ("resource.yml", "broken-link.yml"):
+            content = (ROOT / ".github" / "ISSUE_TEMPLATE" / filename).read_text(encoding="utf-8")
+            self.assertIn("/", content)
+            self.assertIn("description:", content)
