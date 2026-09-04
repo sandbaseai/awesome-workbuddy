@@ -1240,6 +1240,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "NetSuite MCP",
+    "url": "https://github.com/Bolton-Z/ns-mcp-china",
+    "description": "An MIT-licensed NetSuite MCP connector built with Node.js built-ins that lets WorkBuddy use OAuth 2.0 to query SuiteQL, reports, and records with automatic token refresh; it targets real ERP data and write operations, so administrator integration setup and a dedicated role are required, credentials should still be least-privileged despite local mode-600 storage, and every production write should be sandbox-tested, human-approved, and audited",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "NetSuite MCP",
+    "descriptionZh": "MIT 许可、纯 Node.js 内置模块的 NetSuite MCP 连接器，可供 WorkBuddy 通过 OAuth 2.0 查询 SuiteQL、报表和记录，并自动刷新令牌；它面向真实 ERP 数据和写操作，需管理员配置集成与专用角色，凭据虽以本地权限 600 保存仍应最小化权限、先在沙箱验证，并为每项生产写入保留人工审批和审计",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH Reminder",
     "url": "https://github.com/Aisland-SJL/dsh-reminder",
     "description": "An MIT-licensed DeepSeek Harness cross-window reminder plugin that notifies you when a task finishes or waits for human approval; it only reminds and never approves on your behalf, requires browser notification permission, and is a complementary tool for WorkBuddy/Codex-style agent workflows",
