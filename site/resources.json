@@ -1070,6 +1070,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "M5Stack Toys / Core2 Buddy",
+    "url": "https://github.com/sindney/m5stack_toys",
+    "description": "An MIT-licensed collection of M5Stack hardware projects; Core2 Buddy scans WorkBuddy tasks over USB serial, shows workspaces/tasks on a touchscreen, and announces status with TTS and LEDs. It requires Arduino, Python, serial access, and edge-tts, so confirm local WorkBuddy data scope, firmware-upload scripts, and external voice-service boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "M5Stack Toys / Core2 Buddy",
+    "descriptionZh": "MIT 许可的 M5Stack 硬件项目集合，其中 Core2 Buddy 通过 USB 串口扫描 WorkBuddy 任务，在触摸屏显示工作区/任务并用 TTS、LED 通知状态；需要 Arduino、Python、串口和 edge-tts，使用前请确认本地 WorkBuddy 数据读取范围、硬件烧录脚本与外部语音服务",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "LinkCode",
     "url": "https://github.com/arcboxlabs/linkcode",
     "description": "An open desktop client supporting multiple coding Agents",
