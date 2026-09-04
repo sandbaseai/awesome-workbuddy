@@ -8,7 +8,7 @@ Last refreshed: **2026-09-04 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,466 | Python | 2026-09-04 |
-| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,915 | - | 2026-08-12 |
+| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
