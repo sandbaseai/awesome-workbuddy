@@ -21,7 +21,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
-| [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | 2026-03-18 | MIT | [省 Token]热点监控 Skill for WorkBuddy - 多平台热点抓取与飞书集成 |
 | [sindney/m5stack_toys](https://github.com/sindney/m5stack_toys) | 16 | 2026-07-30 | MIT | Toys powered by M5Stack, software by WorkBuddy/OpenClaw, and an idea born from human creativity. |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | 2026-08-21 | NOASSERTION | 12 个常用 Prompt 合集（数字生命卡兹克整理）· 多智能体分发版：WorkBuddy / Claude Code / Cursor / Trae / CodeBuddy / 通用 md。参考微信原文，CC BY-NC 4.0。 |
