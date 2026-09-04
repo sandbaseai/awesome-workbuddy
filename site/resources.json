@@ -30,6 +30,26 @@
     "categoryZh": "Start Here"
   },
   {
+    "title": "Install on macOS",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide",
+    "description": "Official requirements, download, installation, sign-in, and update steps for Mac",
+    "section": "Start Here",
+    "category": "Start Here",
+    "titleZh": "macOS 安装指南",
+    "descriptionZh": "Mac 环境要求、下载、安装、登录与版本更新的官方步骤",
+    "categoryZh": "Start Here"
+  },
+  {
+    "title": "Install on Windows",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide",
+    "description": "Official requirements, download, installation, sign-in, and update steps for Windows",
+    "section": "Start Here",
+    "category": "Start Here",
+    "titleZh": "Windows 安装指南",
+    "descriptionZh": "Windows 环境要求、下载、安装、登录与版本更新的官方步骤",
+    "categoryZh": "Start Here"
+  },
+  {
     "title": "Ten getting-started tips",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips",
     "description": "Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management",
@@ -88,6 +108,46 @@
     "titleZh": "WorkBuddy Enterprise quick start",
     "descriptionZh": "创建、测试、发布企业 Agent 并接入消息渠道",
     "categoryZh": "Start Here"
+  },
+  {
+    "title": "Create a task",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task",
+    "description": "Describe the goal, select a working directory, attach context, and start execution",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "创建任务",
+    "descriptionZh": "描述目标、选择工作目录、添加上下文并启动执行",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Task conversation",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Conversation",
+    "description": "Use interaction modes, send files and images, follow execution, interrupt, and continue",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "任务对话",
+    "descriptionZh": "使用对话方式、发送文件和图片、查看执行过程、中断并继续任务",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Task management",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Task-Management",
+    "description": "Search, filter, inspect task states, organize workspaces, and resume existing tasks",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "任务管理",
+    "descriptionZh": "搜索筛选任务、查看状态、管理工作空间并继续已有任务",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "View results",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Results",
+    "description": "Inspect artifacts, table and document previews, web output, files, and changes",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "结果查看",
+    "descriptionZh": "检查产物、表格和文档预览、网页输出、全部文件与变更",
+    "categoryZh": "Core concepts"
   },
   {
     "title": "Task bar and Skills",
