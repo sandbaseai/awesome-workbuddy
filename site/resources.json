@@ -80,6 +80,16 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Skills marketplace",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market",
+    "description": "Browse, install, enable, and manage WorkBuddy Skills in one place",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "技能市场",
+    "descriptionZh": "统一浏览、安装、启用和管理 WorkBuddy Skills",
+    "categoryZh": "Core concepts"
+  },
+  {
     "title": "Create a Skill",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills",
     "description": "Turn a natural-language workflow into a reusable Skill",
@@ -87,6 +97,36 @@
     "category": "Core concepts",
     "titleZh": "Create a Skill",
     "descriptionZh": "用自然语言沉淀可复用工作流",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Expert Center",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center",
+    "description": "Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "专家中心",
+    "descriptionZh": "选择带独立方法和工具链的专家，或由团长拆解并行任务的多 Agent 专家团",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Connectors",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
+    "description": "Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "连接器",
+    "descriptionZh": "将 QQ 邮箱、腾讯文档等外部服务接入工作流，并了解配置与授权步骤",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Memory",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory",
+    "description": "View, edit, import, or ask WorkBuddy to forget preferences and habits extracted from conversations",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "记忆",
+    "descriptionZh": "查看、编辑、导入或要求 WorkBuddy 忘记从对话中提取的偏好与习惯",
     "categoryZh": "Core concepts"
   },
   {
@@ -98,6 +138,16 @@
     "titleZh": "From model to harness",
     "descriptionZh": "WorkBuddy Agent 产品架构解读",
     "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Weixin Assistant integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide",
+    "description": "Connect the WorkBuddy assistant to Weixin using the official configuration and QR sign-in flow",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "微信助理接入",
+    "descriptionZh": "将 WorkBuddy 助理接入微信，并按官方步骤完成配置与二维码登录",
+    "categoryZh": "Platform integrations"
   },
   {
     "title": "WorkBuddy product page",
