@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**84 curated repositories · 4 original Skills · 25 discovery candidates · weekly validation**
+**85 curated repositories · 4 original Skills · 25 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -120,6 +120,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - 面向 WorkBuddy、Codex、Claude Code 等 Agent 的 Apache-2.0 多源蒸馏 Skill，可从代码、网站、UI、图片、音视频和文档建立带证据的可迁移方法与生成规范；本地分析器需要按需安装依赖，使用前请确认资源与本地文件范围.
 - [Skill Doctor](https://github.com/evilstar2016/skill-doctor) - 面向 WorkBuddy 等 Agent 的本地 Skill 冲突、重复、安全风险与上下文成本审计 CLI；MIT 许可，默认只读取本地文件并绑定回环地址，使用前仍应确认扫描范围与导出报告内容.
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - 将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板；MIT 许可，默认只读本地数据且不联网，精确用量 API 仅在用户主动提供令牌时启用.
+- [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例；报告中的单价只是估算，使用前请确认本地读取范围并脱敏输出.
 - [Session Digger](https://github.com/taxueseek/session-digger) - ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告；它会读取完整会话并写入索引、报告和可选记忆文件，内容可能包含提示词、路径与项目资料，环境诊断还可探测外部端点，使用 `apply`/`prune` 等写入或删除命令前应逐项确认目标与备份.
 
 ### Ready-to-use Skills
