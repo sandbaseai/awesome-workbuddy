@@ -35,6 +35,7 @@ Jobo16/ielts-buddy
 yamingmou/session-fork-core
 langlibai66/paper-cn-reader
 bigbay957-sudo/workbuddy-for-obsidian
+jiang198012/workbuddian
 tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage
 TencentCloud/tencentmeeting-cli
 Aisland-SJL/dsh-reminder
