@@ -75,7 +75,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Ready-to-use Skills
 
-This repository maintains two original installable Skills: [Document Quality Review](skills/document-quality-review/SKILL.md) performs read-only delivery checks, while [Skill Security Audit](skills/skill-security-audit/SKILL.md) reviews third-party Skills, MCP servers, and extensions before installation.
+This repository maintains three original installable Skills: [Document Quality Review](skills/document-quality-review/SKILL.md) performs read-only delivery checks, [Skill Security Audit](skills/skill-security-audit/SKILL.md) reviews third-party extensions before installation, and [Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) turns web research into a verifiable brief with facts and inference kept distinct.
 
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - A repeatable workflow for product analysis, copywriting, and commerce imagery.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps.
