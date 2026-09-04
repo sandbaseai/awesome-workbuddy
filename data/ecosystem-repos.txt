@@ -133,5 +133,6 @@ iuuunlyk/AgentSessionQuery
 abc1317679842-ui/workbuddy-token-tracker
 dingminhua/dsh-connect-workbuddy
 JaguarJack/workbuddy-openapi
+Guyzn/workbuddy-cua-mcp
 qianzhu18/workisland
 jamesting-eng/workbuddy-skills
