@@ -1130,6 +1130,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "AgentSessionQuery",
+    "url": "https://github.com/iuuunlyk/AgentSessionQuery",
+    "description": "An MIT-licensed, PowerShell 7 local session-query tool that searches Codex, Claude Code, and WorkBuddy sessions, workspaces, models, and token statistics through one command. It makes no network requests and opens the WorkBuddy database in SQLite read-only mode, but scans complete transcripts, invokes local Python, briefly writes and deletes an intermediate JSON file, and can expose titles, paths, branches, and resume commands in output, so redact results before sharing or redirecting them",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AgentSessionQuery",
+    "descriptionZh": "MIT 许可、基于 PowerShell 7 的本地会话查询工具，以统一命令检索 Codex、Claude Code 与 WorkBuddy 的会话、工作区、模型和 Token 统计；它不联网并以 SQLite 只读模式打开 WorkBuddy 数据库，但会扫描完整 transcript、调用本机 Python、短暂写入并删除临时 JSON，输出还可能暴露会话标题、路径、分支和恢复命令，分享或重定向结果前请先脱敏",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Avatar",
     "url": "https://github.com/joyparkray/agent-avatar",
     "description": "An MIT-licensed Live2D desktop companion for macOS and Windows that observes WorkBuddy, Codex, Claude Code, Hermes, and DeepSeek Harness events and maps Agent state to animation. It bundles no model, while Live2D Cubism Core has separate license terms; the app is unsandboxed, Windows builds are unsigned, and its installer invokes harness CLIs, writes plugin configuration, and bundles Python, so verify binaries, model licensing, hook permissions, and local state-file scope before enabling it",
