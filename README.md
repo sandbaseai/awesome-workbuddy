@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**139 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**140 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -145,6 +145,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计；内容整理改编自数字生命卡兹克并要求署名、保留来源且不得商用，使用前请遵守原作者许可.
 - [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF；需要 PyMuPDF、Playwright 和 Chromium，默认从 jsDelivr 加载 MathJax，且会在用户指定目录写入文档和提取资源，使用前请确认依赖和网络/写入范围.
+- [Translate Book Windows](https://github.com/NikoKennedy/translate-book-windows) - MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处理，维护术语表、manifest/哈希完整性校验并支持断点续传和 HTML/DOCX/EPUB/PDF 输出；需要 Calibre、Pandoc 和 Python，可能读取整本书并写入大量本地产物，使用前请确认版权/授权、外部模型与数据流、依赖来源及输出目录.
 - [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁；不会索取密码、Cookie 或会话令牌，但仍需遵守招聘平台规则并审查简历、浏览器资料和沟通内容范围.
 - [Career Copilot](https://github.com/ronineymessjr-sudo/career-copilot) - MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递跟踪和面试复盘，并对投递/邮件等关键动作设置人工确认；CLI 需要 Tavily Key，求职画像、简历和岗位数据可能含敏感个人信息，使用前请核对外部搜索、保存位置和最终投递内容.
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本；可选绑定个人学习 API 和本地令牌，使用前请确认数据范围，不要分享密码、Cookie 或 Token.

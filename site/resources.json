@@ -780,6 +780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Translate Book Windows",
+    "url": "https://github.com/NikoKennedy/translate-book-windows",
+    "description": "An MIT-licensed WorkBuddy book-translation Skill with upstream attribution that processes PDF/DOCX/EPUB in chunks, maintains a glossary, validates manifest/hash integrity, supports resumable runs, and exports HTML/DOCX/EPUB/PDF; it requires Calibre, Pandoc, and Python and may read an entire book and write substantial local artifacts, so verify copyright/authorization, external-model data flow, dependency provenance, and output scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Translate Book Windows",
+    "descriptionZh": "MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处理，维护术语表、manifest/哈希完整性校验并支持断点续传和 HTML/DOCX/EPUB/PDF 输出；需要 Calibre、Pandoc 和 Python，可能读取整本书并写入大量本地产物，使用前请确认版权/授权、外部模型与数据流、依赖来源及输出目录",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "BossMate",
     "url": "https://github.com/yinren112/bossmate",
     "description": "An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope",
