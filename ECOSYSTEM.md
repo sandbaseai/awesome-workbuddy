@@ -10,6 +10,7 @@ Last refreshed: **2026-09-04 UTC**
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,464 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,915 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
+| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 606 | JavaScript | 2026-09-04 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
