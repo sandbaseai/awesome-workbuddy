@@ -1330,6 +1330,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "VOKO",
+    "url": "https://github.com/laoyudashu/voko",
+    "description": "An AGPL-3.0 local-agent communication runtime for WorkBuddy and other Agents, supporting MCP, A2A 1.0, REST/Webhook, precise conversation routing, permission policies, human intervention, and local audit; optional public endpoints, registration/cross-device messaging, and operator services expand the data and exposure surface, while E2EE applies only to defined private-chat boundaries, so review cloud dependencies, TLS/key models, Provider permissions, ports, and copyleft obligations before deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "VOKO",
+    "descriptionZh": "AGPL-3.0 许可、面向 WorkBuddy 等本地 Agent 的通信运行时，支持 MCP、A2A 1.0、REST/Webhook、精确会话路由、权限策略、人工介入和本地审计；可选公网入口、注册/跨端消息和运营服务会扩大数据与暴露面，且 E2EE 只覆盖明确的私聊边界，部署前请核对云端依赖、TLS/密钥模型、Provider 权限、端口和许可证义务",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "NetSuite MCP",
     "url": "https://github.com/Bolton-Z/ns-mcp-china",
     "description": "An MIT-licensed NetSuite MCP connector built with Node.js built-ins that lets WorkBuddy use OAuth 2.0 to query SuiteQL, reports, and records with automatic token refresh; it targets real ERP data and write operations, so administrator integration setup and a dedicated role are required, credentials should still be least-privileged despite local mode-600 storage, and every production write should be sandbox-tested, human-approved, and audited",
