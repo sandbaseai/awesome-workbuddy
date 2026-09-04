@@ -390,6 +390,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WorkBuddy Usage Status",
+    "url": "https://github.com/clancy-feng/workbuddy-usage-status",
+    "description": "Turns WorkBuddy's local data into an offline, auditable dashboard for token/credit usage, model efficiency, and errors; MIT licensed, read-only and zero-network by default, with precise usage API access enabled only when the user explicitly supplies a token",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy Usage Status",
+    "descriptionZh": "将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板；MIT 许可，默认只读本地数据且不联网，精确用量 API 仅在用户主动提供令牌时启用",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it",
