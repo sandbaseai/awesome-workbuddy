@@ -12,6 +12,7 @@ Last refreshed: **2026-09-04 UTC**
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
+| [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 606 | JavaScript | 2026-09-04 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 290 | Python | 2026-09-03 |

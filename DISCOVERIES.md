@@ -7,7 +7,6 @@ Last refreshed: **2026-09-04 UTC**
 
 | Repository | Stars | Last push | License | Description |
 | --- | ---: | --- | --- | --- |
-| [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
