@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**129 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**130 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -154,6 +154,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Bilibili Video Summary](https://github.com/Willson-Huang/bilibili-video-summary) - MIT 许可、提供 WorkBuddy 版的本地视频知识整理 Skill，通过字幕或本地 Whisper 转写生成带时间戳、实体表和待核实声明的 14 节 Markdown 笔记；需要下载视频/字幕及可选 Cookie、faster-whisper 和模型文件，使用前请确认版权、隐私、磁盘空间和来源事实，生成笔记仍需人工复核.
 - [Knowledge Base Builder](https://github.com/miaqu766520-a11y/kb-builder) - MIT 许可、已在 WorkBuddy 验收的本地知识库搭建 Skill，通过逐题访谈生成目录、模板、个人档案和使用手册，并在用户确认计划后写入 Markdown 文件；迁移旧资料会读取并重组本地内容，安装前请确认知识库根目录、机密排除规则、备份和写入范围.
 - [AI Finance Workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) - MIT 许可、支持 WorkBuddy MCP App 的可视化财务工作台，提供 20 个模块、25 个带字段口径/小样本试跑/校验/人工复核的工作流，以及异常责任闭环和本机备份；仓库只含虚构数据，但真实使用会处理财务资料并可能写入本地存储，使用前请先在样本或沙箱验证、确认会计口径与权限，不要把 AI 输出当作专业意见.
+- [Universal Travel Planner](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) - MIT 许可、13 Star 的 WorkBuddy 商旅规划 Skill，整合 12306、航班、地图/天气、酒店比价、预算分档、清单和响应式 HTML 报告，并提供真实跳转链接；需要外部 MCP、搜索结果和可选高德 API Key，价格/余票/房态与链接可能变化，使用前请核对来源、平台条款、个人行程隐私和最终预订信息.
 - [1688 Product Reader](https://github.com/yyc424666lvy/1688-product-reader) - MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数；独立浏览器 Profile 由用户手动登录，Skill 不负责下单或管理登录态，使用前请确认平台条款、页面访问和商品信息时效.
 - [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) - 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台；许可证在 MIT 文本后附加个人学习研究限制，金融数据和结论必须人工复核且不可用于自动下单或非法投顾。持仓文件含敏感财务数据，脚本会访问腾讯、东财、新浪等端点，本地服务默认监听 `0.0.0.0:8801`、无认证并可写回持仓，仅应在可信私网使用或改为回环地址.
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界.
