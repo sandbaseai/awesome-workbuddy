@@ -20,7 +20,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Guides](#guides)
 - [Use Cases](#use-cases)
 - [Research and Engineering](#research-and-engineering)
-- [Related Lists](#related-lists)
 - [Selection Standard](#selection-standard)
 - [Acknowledgements](#acknowledgements)
 
