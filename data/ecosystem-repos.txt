@@ -38,6 +38,7 @@ corrinehu/dsh-workbuddy-connect
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
 comeonzhj/WorkBuddy-theme-skill
+a735624258/dsh-skill-picker
 CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch

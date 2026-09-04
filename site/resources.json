@@ -360,6 +360,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "DSH Skill Picker",
+    "url": "https://github.com/a735624258/dsh-skill-picker",
+    "description": "Adds searchable, pinyin-aware, keyboard-friendly skill picking to the DeepSeek Harness Web GUI, reproducing WorkBuddy-style `/skill-name` invocation; MIT licensed. It reads user and project Skill directories and exposes a local Web route, so review its filesystem scope before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "DSH Skill Picker",
+    "descriptionZh": "为 DeepSeek Harness Web GUI 增加可搜索、拼音检索和键盘导航的技能选择器，复刻 WorkBuddy 式 `/技能名` 调用交互；MIT 许可。插件会读取用户与项目 Skill 目录并提供本地 Web 路由，安装前请审查其文件系统访问范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it",
