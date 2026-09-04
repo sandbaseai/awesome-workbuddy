@@ -30,6 +30,26 @@
     "categoryZh": "Start Here"
   },
   {
+    "title": "Ten getting-started tips",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips",
+    "description": "Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management",
+    "section": "Start Here",
+    "category": "Start Here",
+    "titleZh": "十个上手技巧",
+    "descriptionZh": "涵盖任务表达、迭代、示例、备份、自动化和上下文管理的官方实践建议",
+    "categoryZh": "Start Here"
+  },
+  {
+    "title": "Troubleshooting FAQ",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ",
+    "description": "Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery",
+    "section": "Start Here",
+    "category": "Start Here",
+    "titleZh": "常见问题",
+    "descriptionZh": "安装登录、平台连接、文件、工作空间与会话恢复的官方排障入口",
+    "categoryZh": "Start Here"
+  },
+  {
     "title": "Changelog",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Changelog",
     "description": "Product capabilities, fixes, and compatibility changes",
@@ -127,6 +147,36 @@
     "category": "Core concepts",
     "titleZh": "记忆",
     "descriptionZh": "查看、编辑、导入或要求 WorkBuddy 忘记从对话中提取的偏好与习惯",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Model configuration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model",
+    "description": "Choose automatic or built-in models, or connect a custom model and protocol",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "模型配置",
+    "descriptionZh": "选择自动或内置模型，或接入自定义模型与协议",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "Data management",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Data",
+    "description": "Find shared files and manage archived tasks",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "数据管理",
+    "descriptionZh": "查找已分享文件并管理归档任务",
+    "categoryZh": "Core concepts"
+  },
+  {
+    "title": "System settings",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Setting",
+    "description": "Configure language, type size, display modes, safe installation behavior, and sleep prevention",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "系统设置",
+    "descriptionZh": "配置语言、字号、显示模式、安全安装行为与防休眠",
     "categoryZh": "Core concepts"
   },
   {
@@ -918,6 +968,26 @@
     "titleZh": "CFA knowledge base",
     "descriptionZh": "大型专业教材的检索实践",
     "categoryZh": "Knowledge management"
+  },
+  {
+    "title": "Document generation and editing",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation",
+    "description": "Official walkthrough for generating Word documents and creating presentations from source material and templates",
+    "section": "Use Cases",
+    "category": "Documents, data, and professional work",
+    "titleZh": "文档生成与编辑",
+    "descriptionZh": "官方演练：生成 Word 文档，以及依据素材和模板制作演示文稿",
+    "categoryZh": "Documents, data and professional work"
+  },
+  {
+    "title": "Data analysis and visualization",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis",
+    "description": "Official walkthrough for turning spreadsheets or collected data into charts and visual reports",
+    "section": "Use Cases",
+    "category": "Documents, data, and professional work",
+    "titleZh": "数据分析并可视化",
+    "descriptionZh": "官方演练：将表格或搜集的数据转为图表和可视化报告",
+    "categoryZh": "Documents, data and professional work"
   },
   {
     "title": "Create polished presentations",
