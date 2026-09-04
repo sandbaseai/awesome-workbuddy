@@ -41,6 +41,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Product homepage](https://www.workbuddy.ai/) - 产品能力、下载与套餐入口.
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南的权威入口.
 - [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - 从安装到完成第一个任务.
+- [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - 了解 macOS 的环境要求、下载、安装、登录与更新.
+- [Windows 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - 了解 Windows 的环境要求、下载、安装、登录与更新.
 - [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 涵盖任务表达、迭代、示例、备份、自动化和上下文管理的官方实践建议.
 - [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装登录、平台连接、文件、工作空间与会话恢复的官方排障入口.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 版本能力、修复与兼容性变化.
@@ -52,6 +54,9 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Core concepts
 
+- [创建任务](https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task) - 配置任务描述、工作目录与上下文并启动任务.
+- [任务对话](https://www.workbuddy.ai/docs/zh/workbuddy/Conversation) - 了解交互模式、附件、执行、打断与继续任务.
+- [任务管理](https://www.workbuddy.ai/docs/zh/workbuddy/Task-Management) - 使用列表、搜索、筛选、状态与恢复功能管理任务.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - 了解内置 Skill、导入与创建入口.
 - [技能市场](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 统一浏览、安装、启用和管理 WorkBuddy Skills.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - 用自然语言沉淀可复用工作流.
@@ -199,6 +204,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [文档生成与编辑](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - 官方演练：生成 Word 文档，以及依据素材和模板制作演示文稿.
 - [数据分析并可视化](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - 官方演练：将表格或搜集的数据转为图表和可视化报告.
+- [任务结果](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - 查看产物、文档/表格/网页预览、文件与变更.
 - [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) - PPT 生成与美化.
 - [Automated financial report analysis](https://mp.weixin.qq.com/s/QsiUU8aep-xDQpA4ikz_DA) - 批量公司财报分析.
 - [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) - 超长文档处理案例.

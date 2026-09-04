@@ -36,6 +36,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Product homepage](https://www.workbuddy.ai/) - Product overview, downloads, and plan information.
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - The authoritative documentation hub.
 - [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - From installation to a first completed task.
+- [macOS installation](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Review macOS requirements, download, installation, sign-in, and updates.
+- [Windows installation](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Review Windows requirements, download, installation, sign-in, and updates.
 - [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management.
 - [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Product capabilities, fixes, and compatibility changes.
@@ -47,6 +49,9 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Core concepts
 
+- [Create task](https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task) - Define the task, working directory, and context before launching it.
+- [Task conversation](https://www.workbuddy.ai/docs/zh/workbuddy/Conversation) - Learn about interaction modes, attachments, execution, interruption, and continuation.
+- [Task management](https://www.workbuddy.ai/docs/zh/workbuddy/Task-Management) - Manage tasks with lists, search, filtering, status, and resume actions.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - Learn where to find, import, and create Skills.
 - [Skills marketplace](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - Browse, install, enable, and manage WorkBuddy Skills in one place.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - Turn a natural-language workflow into a reusable Skill.
@@ -194,6 +199,7 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 
 - [Document generation and editing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - Official walkthrough for generating Word documents and creating presentations from source material and templates.
 - [Data analysis and visualization](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - Official walkthrough for turning spreadsheets or collected data into charts and visual reports.
+- [Task results](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - Review artifacts, document/table/web previews, files, and changes.
 - [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) - Presentation generation and visual refinement.
 - [Automated financial report analysis](https://mp.weixin.qq.com/s/QsiUU8aep-xDQpA4ikz_DA) - Analyze company reports in batches.
 - [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) - A long-document processing case study.
