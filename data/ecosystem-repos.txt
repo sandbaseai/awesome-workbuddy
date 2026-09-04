@@ -1,4 +1,5 @@
 # One GitHub owner/repository per line. Keep this list curated.
+sandbaseai/workbuddy-skill
 AlephAITech/WorkBuddyGuide
 KimYx0207/AI-Coding-Guide-Zh
 Tencent/workbuddy-bench
