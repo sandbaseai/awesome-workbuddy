@@ -214,6 +214,7 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - Skills for automation, data, browsers, WeChat, and content production.
 - [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - A large use-case library organized by profession and task.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A broad MCP server list; review each server separately before connecting it to WorkBuddy.
+- [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A CC0 directory of installable DSH plugins, adjacent to WorkBuddy-style Skill and Agent workflows; it is not an official Tencent list, so review each plugin's source and permissions before installation.
 
 ## Selection Standard
 
