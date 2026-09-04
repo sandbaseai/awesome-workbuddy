@@ -11,9 +11,23 @@ jobs:
     if: github.actor == 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
-      - name: Enable auto-merge for GitHub Actions updates
+      - uses: actions/checkout@v7
+      - name: Check links on the proposed update
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,206,429
+            --exclude '^https://mp\.weixin\.qq\.com/'
+            --exclude '^https://www\.bilibili\.com/'
+            './**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge verified GitHub Actions update
         if: startsWith(github.head_ref, 'dependabot/github_actions/')
-        run: gh pr merge --auto --squash "$PR_URL"
+        run: gh pr merge --squash "$PR_URL"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
