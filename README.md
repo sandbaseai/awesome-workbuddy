@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**52 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**54 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -123,6 +123,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - 生成、校验并导出 draw.io 图表的跨平台 Skill.
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.
+- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - 基于证据研究当前职位与 JD，对照简历和项目证据并规划求职行动；MIT 许可，面向 WorkBuddy、Codex、Claude 和 Cursor。它会按用户请求检索公开岗位信息，使用前请检查输入资料的隐私范围与外部检索结果.
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 从写作、配图、排版到微信公众号草稿发布的 Skill 包.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - 覆盖销售 L2C 流程的 CRM Agent Skills.
 - [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - 发布前审核视频、封面、字幕、带货信息与平台合规风险，并保留证据定位.
@@ -156,6 +157,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - 跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款.
 - [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - 迁移账号切换后的对话、长期记忆与 MCP 连接器；MIT 许可，支持备份、回滚与迁移后验证，但会改写 SQLite 中的 `user_id` 并合并本地数据，执行前务必确认备份、源/目标账号和数据范围.
+- [Crew](https://github.com/shuishenghualalala/Ace) - Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识库、任务自动化和多 Agent 协作；源码预览版默认可操作本地文件并支持浏览器、外部渠道和自有模型，使用前请检查安全开关、API 密钥、账号配置与数据边界.
 
 ### Benchmarks
 

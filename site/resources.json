@@ -580,6 +580,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Job Navigation Skill",
+    "url": "https://github.com/AriaXXX-free/job-navigation-skill",
+    "description": "An evidence-based Skill that researches current roles and JDs, compares them with resume/project evidence, and prioritizes job-search actions; MIT licensed and compatible with WorkBuddy, Codex, Claude, and Cursor. It can research public job information on request, so review personal-data scope and retrieved sources before use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Job Navigation Skill",
+    "descriptionZh": "基于证据研究当前职位与 JD，对照简历和项目证据并规划求职行动；MIT 许可，面向 WorkBuddy、Codex、Claude 和 Cursor。它会按用户请求检索公开岗位信息，使用前请检查输入资料的隐私范围与外部检索结果",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy WeChat Publisher",
     "url": "https://github.com/cnproduct/workbuddy-wechat-publisher",
     "description": "Produces copy, images, layout, and WeChat Official Account drafts",
@@ -847,6 +857,16 @@
     "category": "Community clients and enhancements",
     "titleZh": "WorkBuddy Account Migrate",
     "descriptionZh": "迁移账号切换后的对话、长期记忆与 MCP 连接器；MIT 许可，支持备份、回滚与迁移后验证，但会改写 SQLite 中的 `user_id` 并合并本地数据，执行前务必确认备份、源/目标账号和数据范围",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
+    "title": "Crew",
+    "url": "https://github.com/shuishenghualalala/Ace",
+    "description": "An Apache-2.0 open-source WorkBuddy-style local multi-agent workbench with Desktop, Web, CLI, Skills, MCP, knowledge-base, task automation, and multi-agent collaboration; a source-preview release that can access local files and optionally control browsers, external channels, and user-provided models, so review security switches, API keys, account settings, and data boundaries before use",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Crew",
+    "descriptionZh": "Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识库、任务自动化和多 Agent 协作；源码预览版默认可操作本地文件并支持浏览器、外部渠道和自有模型，使用前请检查安全开关、API 密钥、账号配置与数据边界",
     "categoryZh": "Community clients and enhancements"
   },
   {

@@ -23,6 +23,7 @@ awesome-dsh-plugin/awesome-dsh-plugin
 hufeng173/kunpeng-skill
 evilstar2016/skill-doctor
 clancy-feng/workbuddy-usage-status
+AriaXXX-free/job-navigation-skill
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
 feichanggege/ecommerce-visual-copywriting-skill
@@ -49,5 +50,6 @@ a735624258/dsh-skill-picker
 CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch
+shuishenghualalala/Ace
 tangshiyegit/agent-guide
 Neo5093/workbuddy-guide
