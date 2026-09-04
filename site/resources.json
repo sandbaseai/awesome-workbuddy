@@ -700,6 +700,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "WorkBuddy Account Migrate",
+    "url": "https://github.com/xiaoliuzhuan666/workbuddy-account-migrate",
+    "description": "Moves conversations, long-term memory, and MCP connectors after an account switch; MIT licensed, with backup, rollback, and post-migration verification. It rewrites SQLite `user_id` values and merges local data, so confirm the backup, source/target accounts, and data scope before running it",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Account Migrate",
+    "descriptionZh": "迁移账号切换后的对话、长期记忆与 MCP 连接器；MIT 许可，支持备份、回滚与迁移后验证，但会改写 SQLite 中的 `user_id` 并合并本地数据，执行前务必确认备份、源/目标账号和数据范围",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "workbuddy-bench",
     "url": "https://github.com/Tencent/workbuddy-bench",
     "description": "Tencent's multi-domain coding-agent benchmark, tasks, and evaluation code",

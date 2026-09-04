@@ -136,6 +136,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - An open desktop client supporting multiple coding Agents.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first.
+- [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - Moves conversations, long-term memory, and MCP connectors after an account switch; MIT licensed, with backup, rollback, and post-migration verification. It rewrites SQLite `user_id` values and merges local data, so confirm the backup, source/target accounts, and data scope before running it.
 
 ### Benchmarks
 
