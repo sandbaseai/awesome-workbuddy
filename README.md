@@ -14,6 +14,8 @@
 
 如果这个清单对你有用，请点一个 **Star**，让更多 WorkBuddy 用户更容易找到经过筛选的资源。
 
+想帮助我们达到 100 个真实 Star？请在 [社区路线图 Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/172) 提交可核验的资源、失效链接或使用反馈。
+
 第一次使用？从 [一分钟选型与快速开始](START_HERE.md) 开始，或打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词与分类筛选。
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
