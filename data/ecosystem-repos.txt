@@ -18,6 +18,7 @@ bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 CatCatUncle/openworkbuddy
 ysyx2008/SailFish
+xiaoliuzhuan666/workbuddy-account-migrate
 awesome-dsh-plugin/awesome-dsh-plugin
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
