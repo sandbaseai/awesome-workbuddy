@@ -28,6 +28,7 @@ clancy-feng/workbuddy-usage-status
 YuanYiZheXue/workbuddy-wiki
 AriaXXX-free/job-navigation-skill
 yinren112/bossmate
+Jobo16/ielts-buddy
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
 feichanggege/ecommerce-visual-copywriting-skill

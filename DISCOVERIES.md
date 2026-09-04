@@ -24,7 +24,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | 2026-07-19 | CC0-1.0 | 精选的 Tencent WorkBuddy 学习资料、实战案例、提示词、Skills 与 MCP 资源导航。 |
-| [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | 2026-09-04 | MIT | 基于“躺着学”长期雅思教研与学员服务实践整理的 IELTS Agent Skills，覆盖学习计划、作文批改、口语陪练、阅读与听力复盘、词汇和模考复盘，支持 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent。 |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
 | [quantskills/skill-pandadata-api](https://github.com/quantskills/skill-pandadata-api) | 18 | 2026-07-23 | GPL-3.0 | Pandadata API skill for Codex, Claude Code, Hermes, OpenClaw, Cursor, and WorkBuddy |
 | [langlibai66/paper-cn-reader](https://github.com/langlibai66/paper-cn-reader) | 18 | 2026-07-16 | MIT | 学术论文精读翻译与批注 Skill for WorkBuddy/Claude - 8类AI辅助批注 + HTML/PDF双输出 |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-04 UTC**
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | 2026-06-14 | MIT | AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。 |
 | [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | 2026-06-12 | NOASSERTION | ULA – 从收案到文书的律师诉讼全流程 AI 工作台 · WorkBuddy多Expert并行 · 元认知自蒸馏 · 非代码律师友好 |
 | [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | 2026-09-01 | NOASSERTION | 个人A股/港股盯盘智能副驾 - 信息驱动、人在回路、非量化、非自动下单。基于WorkBuddy平台的Skill。全网同名：WaterCMY 感谢相遇，感谢关注！学习学习再学习 实践-反思-总结-持续进化 CN No.1 |
+| [Senguk520/CodeRelay-tools](https://github.com/Senguk520/CodeRelay-tools) | 13 | 2026-09-04 | NOASSERTION | CodeBuddy / WorkBuddy 账号池管理工具 · Account pool manager —— 集中管理 CodeBuddy 中国站多账号，内置本地 OpenAI 兼容反代，多账号调度 / 配额监控 / 每日签到 / API Key 管理 / 模型同步与本地缓存 / 请求统计 / 系统托盘通知。Multi-account routing, quota monitoring, daily check-in, local reverse proxy &amp; more. |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.
