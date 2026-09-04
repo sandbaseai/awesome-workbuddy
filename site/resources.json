@@ -1220,6 +1220,26 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "GitHub MCP Server Lite",
+    "url": "https://github.com/1186247283zj-pixel/github-mcp-server-lite",
+    "description": "An MIT-licensed GitHub MCP server using only the Python standard library, with 24 tools for repositories, files, branches, issues, pull requests, search, and notifications; it helps WorkBuddy connect through a PAT when OAuth or npm paths fail, but configuration grants GitHub API access and `run_api` can reach arbitrary REST endpoints, so minimize token scopes, protect the token, and review every write/delete action",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "GitHub MCP Server Lite",
+    "descriptionZh": "MIT 许可、仅依赖 Python 标准库的 GitHub MCP Server，提供仓库、文件、分支、Issue、PR、搜索和通知等 24 个工具，适合 WorkBuddy 在 OAuth/npm 不稳定的环境中通过 PAT 连接；配置会授予 GitHub API 权限，且 `run_api` 可访问任意 REST 端点，使用前应最小化 Token scope、保护 Token，并逐项审核写入/删除操作",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "BailingHub WorkBuddy Connector",
+    "url": "https://github.com/bailinghub/bailinghub-workbuddy-connector",
+    "description": "An MIT-licensed independent WorkBuddy enterprise connector that uses browser PKCE authorization, capability checks, idempotent invocations, approvals, limits, and audit to query or operate connected business systems; real business endpoints, tenant authorization, and Client/Agent tokens remain deployment-owned, so verify the business authorization page, credential storage, capability revisions, and rollback path, and never distribute internal tokens or cookies",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "BailingHub WorkBuddy Connector",
+    "descriptionZh": "MIT 许可的独立 WorkBuddy 企业连接器，通过浏览器 PKCE 授权、能力校验、幂等 invocation、审批、限流和审计让 Agent 查询或操作已接入的业务系统；真实业务端点、租户授权和 Client/Agent Token 由部署方管理，安装前必须核对业务方授权页、凭据存储、权限版本和回退流程，不得分发内部令牌或 Cookie",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH Reminder",
     "url": "https://github.com/Aisland-SJL/dsh-reminder",
     "description": "An MIT-licensed DeepSeek Harness cross-window reminder plugin that notifies you when a task finishes or waits for human approval; it only reminds and never approves on your behalf, requires browser notification permission, and is a complementary tool for WorkBuddy/Codex-style agent workflows",

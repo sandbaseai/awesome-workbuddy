@@ -6,6 +6,8 @@ xiewende424/roundtable-kg
 Elisabeth15501/ai-weekly
 dcc-mcp/dcc-mcp-agent-plugins
 tonycc/skillhive
+1186247283zj-pixel/github-mcp-server-lite
+bailinghub/bailinghub-workbuddy-connector
 zkhyww/ai-short-drama-skills
 yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
