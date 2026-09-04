@@ -1,3 +1,4 @@
+import json
 import sys
 import tempfile
 import unittest
@@ -7,6 +8,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 import build_site_data  # noqa: E402
+
+
+ROOT = Path(__file__).resolve().parents[1]
 
 
 class BuildSiteDataTests(unittest.TestCase):
@@ -51,6 +55,18 @@ class BuildSiteDataTests(unittest.TestCase):
                 encoding="utf-8",
             )
             self.assertEqual(build_site_data.parse_readme(readme), [])
+
+    def test_curated_resource_urls_are_unique(self) -> None:
+        for filename in ("README.md", "README.en.md"):
+            resources = build_site_data.parse_readme(ROOT / filename)
+            urls = [resource["url"] for resource in resources]
+            self.assertEqual(len(urls), len(set(urls)), filename)
+
+        resources = json.loads(
+            (ROOT / "site" / "resources.json").read_text(encoding="utf-8")
+        )
+        urls = [resource["url"] for resource in resources]
+        self.assertEqual(len(urls), len(set(urls)), "site/resources.json")
 
 
 if __name__ == "__main__":
