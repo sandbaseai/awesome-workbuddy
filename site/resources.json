@@ -750,6 +750,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Math Concept Film",
+    "url": "https://github.com/liangdabiao/math-concept-film",
+    "description": "A license-not-declared mathematics short-film Skill compatible with WorkBuddy, Codex, and Claude, using a voice-first caption timeline to drive Manim animation with a six-act teaching framework, still-frame checks, and ffmpeg composition; narration relies on Microsoft's online TTS, so review network use, source-material rights, output scope, and licensing before use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Math Concept Film",
+    "descriptionZh": "许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Eagle Untagged Organizer",
     "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
     "description": "An MIT-licensed WorkBuddy Skill that uses eagle-mcp to name, annotate, and tag untagged design assets; it provides multimodal preflight, a dry-run manifest, batch backups, human approval, and rollback, so confirm the Eagle library, MCP permissions, and write scope before execution",

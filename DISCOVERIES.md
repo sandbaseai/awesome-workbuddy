@@ -17,7 +17,6 @@ Last refreshed: **2026-09-04 UTC**
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | 2026-09-04 | Not declared | 豆包办公模式、腾讯workbuddy、千问办公、ChatGPT agent内置的skills和专家团 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
-| [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | Non-standard / unrecognized | - |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |

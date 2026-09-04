@@ -67,6 +67,7 @@ Last refreshed: **2026-09-04 UTC**
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |
 | [yinren112/bossmate](https://github.com/yinren112/bossmate) | 19 | JavaScript | 2026-08-12 |
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | Python | 2026-09-04 |
+| [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | Python | 2026-08-28 |
 | [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | CSS | 2026-08-26 |
 | [langlibai66/paper-cn-reader](https://github.com/langlibai66/paper-cn-reader) | 18 | CSS | 2026-07-16 |
 | [comeonzhj/WorkBuddy-theme-skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) | 18 | CSS | 2026-07-18 |
