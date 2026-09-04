@@ -32,6 +32,16 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertEqual(schema["@type"], "CollectionPage")
         self.assertEqual(schema["url"], SITE_URL)
 
+    def test_every_published_resource_has_bilingual_display_data(self) -> None:
+        resources = json.loads(
+            (ROOT / "site" / "resources.json").read_text(encoding="utf-8")
+        )
+        self.assertGreater(len(resources), 0)
+        for resource in resources:
+            with self.subTest(url=resource["url"]):
+                for key in ("title", "titleZh", "description", "descriptionZh", "category", "categoryZh"):
+                    self.assertTrue(resource[key].strip())
+
 
 if __name__ == "__main__":
     unittest.main()

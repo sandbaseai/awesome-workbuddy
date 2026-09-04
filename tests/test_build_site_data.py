@@ -34,6 +34,7 @@ class BuildSiteDataTests(unittest.TestCase):
                         "description": "English value",
                         "section": "Resources",
                         "category": "Guides",
+                        "titleZh": "一",
                         "descriptionZh": "中文价值。",
                         "categoryZh": "指南",
                     }

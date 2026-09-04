@@ -55,6 +55,7 @@ def build(root: Path) -> list[dict[str, str]]:
         result.append(
             {
                 **item,
+                "titleZh": translated.get("title", ""),
                 "descriptionZh": translated.get("description", ""),
                 "categoryZh": translated.get("category", ""),
             }
