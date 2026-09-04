@@ -16,16 +16,11 @@ Review the deliverable and its available source material without changing the or
 5. Apply the relevant sections of the [review checklist](references/review-checklist.md). Skip sections that do not apply instead of producing empty boilerplate.
 6. Report issues in descending severity. For each issue include its location, observed evidence, impact, and a concrete correction. Distinguish confirmed defects from questions or missing evidence.
 
-## Compact examples
+## Examples
 
-For a document, trace a headline number to the supplied source and report the
-file and page when it is supported. If the source is absent, mark the number
-**unverified**; do not fill the gap from general knowledge.
-
-For a spreadsheet, recalculate a representative formula, compare totals and
-units across sheets, and inspect the rendered table for clipped headers. Report
-the cell or sheet, the observed mismatch, and the smallest correction needed;
-do not edit the workbook during review.
+- For a board-report PDF backed by source spreadsheets, render the PDF, trace headline metrics to source cells, and flag a chart label that conflicts with the underlying period. Do not rewrite the report unless correction is requested.
+- For a spreadsheet deliverable, inspect formulas, units, totals, visible error states, and the rendered workbook. If recalculation or a source file is unavailable, state that limitation instead of treating displayed values as verified.
+- For a Markdown guide with no supplied source material, verify structure, links, internal consistency, and usability, but label factual claims as unverified rather than searching for evidence outside the agreed scope.
 
 ## Output
 
