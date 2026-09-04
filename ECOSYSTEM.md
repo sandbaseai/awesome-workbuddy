@@ -78,6 +78,7 @@ Last refreshed: **2026-09-04 UTC**
 | [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | Python | 2026-03-18 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | Python | 2026-07-26 |
+| [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | Python | 2026-08-21 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | - | 2026-06-14 |

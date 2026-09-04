@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**78 curated repositories · 4 original Skills · 29 discovery candidates · weekly validation**
+**79 curated repositories · 4 original Skills · 28 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -126,6 +126,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Book Video Generator](https://github.com/chenjun198711/book-video-generator) - MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的读书视频 Skill，从书籍检索、文案与分镜到 AI 插图、TTS、字幕和 ffmpeg 合成输出 MP4；会访问外部模型/语音服务并可读取 API Key，使用前请核验书籍事实、版权与引用、密钥存储和生成内容质量.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
+- [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计；内容整理改编自数字生命卡兹克并要求署名、保留来源且不得商用，使用前请遵守原作者许可.
 - [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF；需要 PyMuPDF、Playwright 和 Chromium，默认从 jsDelivr 加载 MathJax，且会在用户指定目录写入文档和提取资源，使用前请确认依赖和网络/写入范围.
 - [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁；不会索取密码、Cookie 或会话令牌，但仍需遵守招聘平台规则并审查简历、浏览器资料和沟通内容范围.
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本；可选绑定个人学习 API 和本地令牌，使用前请确认数据范围，不要分享密码、Cookie 或 Token.

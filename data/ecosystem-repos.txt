@@ -59,6 +59,7 @@ luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator
 jiangxu1024/hotspot-monitor-skill
 mingze21/bazi-ziwei-skill
+xiaolouJB/prompt-toolkit
 lovingfish/workbuddy-cliproxy
 caigee-cmd/cli2api
 zhuyifang/tonghuasun-agent
