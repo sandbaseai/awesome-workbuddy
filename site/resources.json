@@ -200,6 +200,16 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Assistant (remote tasks)",
+    "url": "https://cloud.tencent.com/document/product/1831/134392",
+    "description": "Trigger WorkBuddy on a desktop from Weixin, WeCom, QQ, DingTalk, or Feishu; review channel authorization, local workspace, task permissions, and returned-artifact scope before connecting",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "助理（远程任务）",
+    "descriptionZh": "从微信、企业微信、QQ、钉钉或飞书远程触发电脑上的 WorkBuddy；连接前请确认渠道授权、本地工作区、任务权限和返回产物范围",
+    "categoryZh": "Core concepts"
+  },
+  {
     "title": "Connectors",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector",
     "description": "Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps",
@@ -347,6 +357,16 @@
     "category": "Platform integrations",
     "titleZh": "元宝派接入",
     "descriptionZh": "将 WorkBuddy 助理接入元宝机器人，并完成官方配置流程",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "Lexiang knowledge base",
+    "url": "https://cloud.tencent.com/document/product/1831/134398",
+    "description": "Authorize WorkBuddy to search and cite team-space content and save outputs back to Lexiang; verify account authorization, knowledge-base visibility, source files, and the write-back destination first",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "乐享知识库",
+    "descriptionZh": "授权 WorkBuddy 按团队空间检索和引用乐享内容，并将产物回存；使用前请核对账号授权、知识库可见范围、来源文件与写回位置",
     "categoryZh": "Platform integrations"
   },
   {

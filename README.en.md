@@ -61,6 +61,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - Turn a natural-language workflow into a reusable Skill.
 - [Explore](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore) - Browse official creations across seven scenario categories, preload their Prompt, Skill, and Expert setup to make your own version, and understand how Explore differs from Skills and Experts.
 - [Expert Center](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work.
+- [Assistant (remote tasks)](https://cloud.tencent.com/document/product/1831/134392) - Trigger WorkBuddy on a desktop from Weixin, WeCom, QQ, DingTalk, or Feishu; review channel authorization, local workspace, task permissions, and returned-artifact scope before connecting.
 - [Connectors](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector) - Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps.
 - [Memory](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory) - View, edit, import, or ask WorkBuddy to forget preferences and habits extracted from conversations.
 - [Model configuration](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model) - Choose automatic or built-in models, or connect a custom model and protocol.
@@ -79,6 +80,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [QQ integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/QQ-Guide) - Connect the WorkBuddy assistant to QQ and complete bot configuration and authorization.
 - [Weixin Assistant integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide) - Connect the WorkBuddy assistant to Weixin using the official configuration and QR sign-in flow.
 - [YuanBaoPai integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/YuanBaoPai-Guide) - Connect the WorkBuddy assistant to a YuanBao bot using the official configuration flow.
+- [Lexiang knowledge base](https://cloud.tencent.com/document/product/1831/134398) - Authorize WorkBuddy to search and cite team-space content and save outputs back to Lexiang; verify account authorization, knowledge-base visibility, source files, and the write-back destination first.
 
 ### Community channels
 
