@@ -94,6 +94,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - A Chinese learning path for AI coding tools and office Agents, including WorkBuddy.
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - A 24-chapter Python tutorial that builds a WorkBuddy-style desktop Agent from scratch.
 - [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - Explains prompts, memory, plugins, experts, Skills, and safety boundaries.
+- [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses; it explicitly requires authentic research, data, and citations, so follow institutional policies and review API keys and source-material scope before use.
 
 ### Skill collections
 

@@ -410,6 +410,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Undergraduate Thesis AI Workflow",
+    "url": "https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow",
+    "description": "A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses; it explicitly requires authentic research, data, and citations, so follow institutional policies and review API keys and source-material scope before use",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Undergraduate Thesis AI Workflow",
+    "descriptionZh": "MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程；明确要求研究创新、实验数据和引用保持真实，配置 API Key 与使用 AI 辅助写作前请遵守学校规范并审查密钥和资料范围",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Wiki",
     "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
     "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use",
