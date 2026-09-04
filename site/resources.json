@@ -450,6 +450,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "ZZZ Plain-language AI Guide",
+    "url": "https://github.com/mfkyddh/ZZZ-Simple-AI",
+    "description": "A license-not-declared beginner guide created primarily with WorkBuddy, organized into nine core chapters and 30 extensions on LLMs, Agents, context, memory, MCP, Skills, multi-Agent systems, and AI coding workflows; it is learning material rather than official documentation, so check provenance, copyright, and external links before reusing content, media, or building the site",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "ZZZ 白话讲 AI",
+    "descriptionZh": "许可未声明、以 WorkBuddy 为主要创作平台的零基础 AI 认知指南，按 9 章主线和 30 个扩展章节讲解大模型、Agent、上下文、记忆、MCP、Skills、多 Agent 与 AI 编程工作流；这是阅读与学习资料，不是官方文档，复用文章、图片或构建站点前请核对来源、版权和外部链接",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Harness Bluebook",
     "url": "https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
     "description": "Explains prompts, memory, plugins, experts, Skills, and safety boundaries",
