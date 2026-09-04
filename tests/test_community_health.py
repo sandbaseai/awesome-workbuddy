@@ -44,3 +44,11 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("group: update-ecosystem-main", workflow)
         self.assertIn("cancel-in-progress: true", workflow)
         self.assertIn("git pull --ff-only origin main", workflow)
+
+    def test_pages_workflow_uses_node24_actions(self) -> None:
+        workflow = (
+            ROOT / ".github" / "workflows" / "pages.yml"
+        ).read_text(encoding="utf-8")
+        self.assertIn("actions/configure-pages@v6", workflow)
+        self.assertIn("actions/upload-pages-artifact@v5", workflow)
+        self.assertIn("actions/deploy-pages@v5", workflow)
