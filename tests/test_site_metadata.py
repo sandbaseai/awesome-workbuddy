@@ -54,6 +54,7 @@ class SiteMetadataTests(unittest.TestCase):
         llms = (ROOT / "site" / "llms.txt").read_text(encoding="utf-8")
         self.assertIn("source-backed-research-brief", llms)
         self.assertIn("skill-security-audit", llms)
+        self.assertIn("curate-workbuddy-resource", llms)
         self.assertIn("releases/latest", llms)
 
 
