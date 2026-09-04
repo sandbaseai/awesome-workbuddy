@@ -960,6 +960,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "SeaTable Production",
+    "url": "https://github.com/Darling5/seatable-production",
+    "description": "An MIT-licensed WorkBuddy production-delivery Skill covering projects, planning, procurement, BOM/inventory, shipping, maintenance, and analysis; it defaults to local CSV, shows the full change set and waits for confirmation before writes, and optionally connects to SeaTable, PartDB, or an ERP, so review credentials, field mapping, external APIs, and write scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "SeaTable Production",
+    "descriptionZh": "MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析；默认使用本地 CSV，写入前展示完整变更并等待确认，也可选接入 SeaTable、PartDB 或 ERP，使用前请核对凭据、字段映射、外部 API 和写入范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Local Markdown Memory",
     "url": "https://github.com/asen-goat-mine/boujoy-local-markdown-memory",
     "description": "A local-first, auditable long-term Markdown memory template for WorkBuddy and Codex",
