@@ -1160,6 +1160,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkIsland",
+    "url": "https://github.com/qianzhu18/workisland",
+    "description": "An Apache-2.0 local Agent status and attention router for Apple Silicon macOS with native WorkBuddy/CodeBuddy, Codex, Claude Code, and other integrations, providing task monitoring, approval/question handling, and source-session navigation. It installs local hooks, observes task/transcript signals, stores clipboard history and terminal state, and sends approval replies that change Agent execution; packaged builds also enable opt-out anonymous PostHog telemetry and perform update checks, so review hook changes, the telemetry allowlist, log/clipboard scope, and every approval before use. Public Windows releases are currently paused",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkIsland",
+    "descriptionZh": "Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBuddy/CodeBuddy、Codex、Claude Code 等，可监控任务、处理审批/提问并跳回源会话；它会安装本地 hooks、观察任务/转录信号、读写剪贴板历史与终端状态，审批回复会改变 Agent 执行，打包版还默认开启可关闭的匿名 PostHog 遥测并联网检查更新，安装前请审查 hook 变更、遥测白名单、日志/剪贴板范围与每项审批，Windows 版本目前暂停公开发布",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy OpenAPI PHP SDK",
     "url": "https://github.com/JaguarJack/workbuddy-openapi",
     "description": "An MIT-licensed third-party PHP 8.1+ SDK for the official WorkBuddy OpenAPI, covering OAuth, profile and phone verification, local-assistant messages/permissions, cloud tasks, artifacts, redemption, and ACP. It does not persist tokens itself, but handles client secrets, user/task tokens, and prompts; can send messages, create tasks, answer permission requests, redeem benefits, and run ACP prompts; and trusts ACP/sandbox URLs returned by the official API when sending task tokens, so integrations should use least privilege, server-side secret storage, OAuth state and idempotency checks, hostname allowlists, and per-action human approval",
