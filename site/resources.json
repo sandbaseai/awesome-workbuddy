@@ -840,6 +840,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Codex × WorkBuddy Token Monitor",
+    "url": "https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage",
+    "description": "An MIT-licensed local real-time Token dashboard with no third-party Python dependencies; it reads Codex and WorkBuddy session logs and uses SSE for usage, cache-hit, and active-session views. Local sessions may contain sensitive content, and derived values are not official billing records, so confirm scan scope and exposed ports first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Codex × WorkBuddy Token Monitor",
+    "descriptionZh": "MIT 许可、零第三方 Python 依赖的本地实时 Token 监控看板，读取 Codex 与 WorkBuddy 会话日志并通过 SSE 展示用量、缓存命中和活跃会话；本地会话可能含敏感内容，且统计值不是官方计费记录，使用前请确认扫描范围和端口暴露",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Tencent Meeting CLI",
     "url": "https://github.com/TencentCloud/tencentmeeting-cli",
     "description": "Tencent's official CLI for meeting management and Agent integration",
