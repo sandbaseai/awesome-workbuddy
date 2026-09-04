@@ -41,7 +41,7 @@ Last refreshed: **2026-09-04 UTC**
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | Go | 2026-09-04 |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 60 | Go | 2026-09-04 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
@@ -99,6 +99,7 @@ Last refreshed: **2026-09-04 UTC**
 | [ttww1111/pdf-structured-extractor](https://github.com/ttww1111/pdf-structured-extractor) | 1 | Python | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
+| [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-01 |
 | [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-04 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 

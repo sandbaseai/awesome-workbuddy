@@ -600,6 +600,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "UsageMonitor WorkBuddy Provider",
+    "url": "https://github.com/masclown/usage-monitor-plugin-workbuddy",
+    "description": "An Apache-2.0 independently versioned UsageMonitor provider that reads WorkBuddy subscription quotas, gift packages, and request history with model, channel, and operation slicing; it uses browser login state to call official `workbuddy.cn` web endpoints and handles Cookies, so review account authorization, network requests, storage scope, and service terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "UsageMonitor WorkBuddy Provider",
+    "descriptionZh": "Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模型、渠道与操作切片；它通过浏览器登录态访问 `workbuddy.cn` 的官方网页接口并处理 Cookie，使用前请核对账号授权、网络请求、保存范围和服务条款",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Session Digger",
     "url": "https://github.com/taxueseek/session-digger",
     "description": "An ISC-licensed cross-agent session search and knowledge-management toolkit that natively parses `~/.workbuddy/projects`, builds an incremental SQLite FTS index, and produces self-contained local reports; it reads full transcripts and writes indexes, reports, and optional memory files that may expose prompts, paths, or project data, its environment doctor can probe external endpoints, and every target and backup should be reviewed before using mutating `apply`/`prune` commands",

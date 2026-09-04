@@ -30,6 +30,7 @@ hufeng173/kunpeng-skill
 evilstar2016/skill-doctor
 clancy-feng/workbuddy-usage-status
 Elisabeth15501/agent-analytics-report
+masclown/usage-monitor-plugin-workbuddy
 YuanYiZheXue/workbuddy-wiki
 AriaXXX-free/job-navigation-skill
 yinren112/bossmate
