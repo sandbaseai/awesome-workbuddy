@@ -53,3 +53,4 @@ changexbc/workbuddy-switch
 shuishenghualalala/Ace
 tangshiyegit/agent-guide
 Neo5093/workbuddy-guide
+staruhub/awesome-workbuddy
