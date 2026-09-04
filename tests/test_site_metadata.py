@@ -50,6 +50,12 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn('id="share"', html)
         self.assertIn("navigator.share", html)
 
+    def test_llms_index_exposes_installable_skills(self) -> None:
+        llms = (ROOT / "site" / "llms.txt").read_text(encoding="utf-8")
+        self.assertIn("source-backed-research-brief", llms)
+        self.assertIn("skill-security-audit", llms)
+        self.assertIn("releases/latest", llms)
+
 
 if __name__ == "__main__":
     unittest.main()
