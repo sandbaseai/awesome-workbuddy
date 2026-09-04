@@ -11,6 +11,7 @@ bailinghub/bailinghub-workbuddy-connector
 wynter-cai/assetplex
 laoyudashu/voko
 dongsheng123132/task-passport
+Likenttt/garmin-connect-plugin-for-dsh
 Bolton-Z/ns-mcp-china
 simcrq/origin-auto
 zkhyww/ai-short-drama-skills

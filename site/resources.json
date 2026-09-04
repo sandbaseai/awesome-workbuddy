@@ -1350,6 +1350,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Garmin Connect Plugin for DSH",
+    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh",
+    "description": "An MIT-licensed, 11-star Garmin Connect MCP/Skill plugin that supports WorkBuddy and other Agents with browser MFA for activities, sleep, steps, and heart-rate queries, while distinguishing read-only tools from local FIT-file writes and workout-library creation; it handles health data and Garmin account sessions, so review authorization, privacy, regional login flows, and require human confirmation for any workout-library write",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Garmin Connect Plugin for DSH",
+    "descriptionZh": "MIT 许可、11 Star 的 Garmin Connect MCP/Skill 插件，支持 WorkBuddy 等 Agent 通过浏览器 MFA 查询活动、睡眠、步数和心率，并将只读工具与本地 FIT 文件写入、训练计划创建明确分开；会处理健康数据和 Garmin 账号会话，使用前请确认授权、隐私、区域登录流程，并对任何训练库写入保留人工确认",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "NetSuite MCP",
     "url": "https://github.com/Bolton-Z/ns-mcp-china",
     "description": "An MIT-licensed NetSuite MCP connector built with Node.js built-ins that lets WorkBuddy use OAuth 2.0 to query SuiteQL, reports, and records with automatic token refresh; it targets real ERP data and write operations, so administrator integration setup and a dedicated role are required, credentials should still be least-privileged despite local mode-600 storage, and every production write should be sandbox-tested, human-approved, and audited",
