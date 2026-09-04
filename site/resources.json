@@ -810,6 +810,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "AI Short Drama Skills",
+    "url": "https://github.com/zkhyww/ai-short-drama-skills",
+    "description": "An MIT-licensed pair of Skills for WorkBuddy and other Agents that separates short-drama development and production across topic, script, table read, storyboards, assets, sound, editing, and QC, with deterministic preflight and distinct master/submission documents; media execution may use Dreamina OAuth, model services, and ffmpeg, so review credits, rights, external services, and human rehearsal/review before delivery",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Short Drama Skills",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 等 Agent 的短剧创作与制作双 Skill，将选题、剧本、桌读、分镜、资产、声音、剪辑和 QC 分阶段交接，并提供确定性预检与母稿/投稿稿分离；媒体执行可能调用 Dreamina OAuth、模型与 ffmpeg，涉及积分、版权和外部服务，交付前仍需人工试演与审核",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "1688 Product Reader",
     "url": "https://github.com/yyc424666lvy/1688-product-reader",
     "description": "An MIT-licensed, read-only WorkBuddy Skill for extracting product title, price, MOQ, seller, SKU, images, and specifications from logged-in 1688 pages; the user signs in manually in an isolated browser profile, and the Skill does not place orders or manage login state, so review platform terms, page access, and information freshness first",

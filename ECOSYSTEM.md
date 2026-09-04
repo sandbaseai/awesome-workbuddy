@@ -103,6 +103,7 @@ Last refreshed: **2026-09-04 UTC**
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |
 | [Darling5/seatable-production](https://github.com/Darling5/seatable-production) | 2 | Python | 2026-09-03 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-04 |
+| [zkhyww/ai-short-drama-skills](https://github.com/zkhyww/ai-short-drama-skills) | 1 | Python | 2026-09-04 |
 | [ttww1111/pdf-structured-extractor](https://github.com/ttww1111/pdf-structured-extractor) | 1 | Python | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
