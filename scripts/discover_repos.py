@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import os
+import re
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -15,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CURATED = ROOT / "data" / "ecosystem-repos.txt"
 OUTPUT = ROOT / "DISCOVERIES.md"
+REPOSITORY_ROW = re.compile(r"^\| \[([^]]+)]\(https://github\.com/[^)]+\) \|")
 
 
 def curated_repositories() -> set[str]:
@@ -22,6 +24,14 @@ def curated_repositories() -> set[str]:
         line.strip().casefold()
         for line in CURATED.read_text(encoding="utf-8").splitlines()
         if line.strip() and not line.startswith("#")
+    }
+
+
+def listed_repositories(text: str) -> set[str]:
+    return {
+        match.group(1).casefold()
+        for line in text.splitlines()
+        if (match := REPOSITORY_ROW.match(line))
     }
 
 

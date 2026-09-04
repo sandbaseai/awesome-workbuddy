@@ -10,6 +10,17 @@ import update_ecosystem  # noqa: E402
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_checked_in_queue_excludes_curated_repositories(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        discoveries = discover_repos.listed_repositories(
+            (root / "DISCOVERIES.md").read_text(encoding="utf-8")
+        )
+        self.assertTrue(discoveries.isdisjoint(discover_repos.curated_repositories()))
+
+    def test_listed_repositories_parses_rows_case_insensitively(self) -> None:
+        text = "| [Owner/Project](https://github.com/Owner/Project) | 1 |\n"
+        self.assertEqual(discover_repos.listed_repositories(text), {"owner/project"})
+
     def test_clean_escapes_table_markup_and_html(self) -> None:
         self.assertEqual(discover_repos.clean("a | <b>\n c"), "a \\| &lt;b&gt; c")
 
