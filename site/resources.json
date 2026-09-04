@@ -810,6 +810,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "AIChuangpin Product Creator",
+    "url": "https://github.com/zhangx1234994/aicp-product-creator-skill",
+    "description": "An MIT-licensed product-design workflow with WorkBuddy Skill/plugin packages and MCP configuration that matches images or ideas to live products, previews them, and returns a quote, with explicit user confirmation before credits are charged and a short-lived checkout link opened; accounts, image assets, catalog, orders, payments, and risk controls remain in an external service, so verify authorization, upload privacy, credit deduction, final product, and payment details, and do not treat this repository as the official service itself",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI创品 Product Creator",
+    "descriptionZh": "MIT 许可、提供 WorkBuddy Skill/插件包与 MCP 配置的商品设计工作流，可从图片或创意匹配实时商品、预览并生成报价，明确由用户确认后才扣积分和进入短期结算链接；账号、图片资产、商品、订单、支付和风控由外部服务托管，使用前请核对授权页面、上传隐私、积分扣除、最终商品与付款信息，不要把仓库内容视作官方服务本身",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "IELTS Buddy Agent Skills",
     "url": "https://github.com/Jobo16/ielts-buddy",
     "description": "An MIT-licensed IELTS learning Skill collection for WorkBuddy covering study plans, writing/speaking/reading/listening review, vocabulary, and mock exams, with installation and validation scripts; optional personal-learning API binding and local tokens require careful data-scope review, and passwords, cookies, and tokens should never be shared",
