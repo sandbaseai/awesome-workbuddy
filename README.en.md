@@ -203,6 +203,8 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 ## Research and Engineering
 
 - [Tencent WorkBuddy Bench](https://arxiv.org/abs/2607.20911) - A multi-domain coding-agent benchmark with a reproducible evaluation protocol.
+- [WorkBuddy Bench website](https://workbuddybench.com/) - Official benchmark overview, tracks, results, and evaluation entry point.
+- [WorkBuddy Bench dataset](https://huggingface.co/datasets/tencent/workbuddy-bench) - Official task archives for the Code, Web, Office, and Security subsets.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - Connect an OpenAI-compatible model endpoint.
 
 ## Related Lists

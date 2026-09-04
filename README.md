@@ -208,6 +208,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 ## Research and Engineering
 
 - [Tencent WorkBuddy Bench](https://arxiv.org/abs/2607.20911) - 多领域 coding-agent 基准与可复现实验协议.
+- [WorkBuddy Bench 官网](https://workbuddybench.com/) - 官方基准概览、评测赛道、结果与运行入口.
+- [WorkBuddy Bench 数据集](https://huggingface.co/datasets/tencent/workbuddy-bench) - Code、Web、Office 与 Security 四个子集的官方任务归档.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - OpenAI-compatible 模型接入示例.
 
 ## Related Lists
