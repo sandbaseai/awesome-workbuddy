@@ -106,6 +106,7 @@ Last refreshed: **2026-09-04 UTC**
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-04 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-04 |
+| [yyc424666lvy/1688-product-reader](https://github.com/yyc424666lvy/1688-product-reader) | 0 | Python | 2026-09-04 |
 | [chenwg001/qingfengskill](https://github.com/chenwg001/qingfengskill) | 0 | Python | 2026-09-03 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
 | [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-01 |
