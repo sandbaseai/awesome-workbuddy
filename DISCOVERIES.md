@@ -10,8 +10,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | 2026-09-04 | NOASSERTION | 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
-| [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | 2026-07-01 | MIT | 把 CodeBuddy / WorkBuddy（腾讯代码助手） 的订阅，转换成 OpenAI 兼容 API、Anthropic 兼容 API，让你能在 Codex CLI、Claude Code、ZCode、Cherry Studio、NextChat、LobeChat 等任何支持 OpenAI 协议、Anthropic 协议的客户端里复用它。 |
-| [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | 2026-07-08 | MIT | CLIProxyAPI plugin wrapping Tencent CodeBuddy (copilot.tencent.com) as an OpenAI/Anthropic-compatible provider. Clean-room rebuild of Sliverkiss/cpa-plugin. |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | 2026-09-04 | MIT | Self-hosted OpenAI-compatible API for Qoder CLI login,workbuddy, with SQLite multi-account routing |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | 2026-06-19 | MIT | Convert CodeBuddy/WorkBuddy (Tencent coding assistant) subscription into an OpenAI-compatible API. Use CodeBuddy GLM-5.2/Kimi/DeepSeek models in Codex CLI or any OpenAI client. Cross-platform, single-file, no auth changes. |
@@ -26,7 +24,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | 2026-07-19 | CC0-1.0 | 精选的 Tencent WorkBuddy 学习资料、实战案例、提示词、Skills 与 MCP 资源导航。 |
-| [yinren112/bossmate](https://github.com/yinren112/bossmate) | 19 | 2026-08-12 | MIT | BossMate — 让 AI 认真读完每个 JD，再决定要不要开口。支持 Codex、Claude Code、OpenCode、Hermes 和 WorkBuddy。 |
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | 2026-09-04 | MIT | 基于“躺着学”长期雅思教研与学员服务实践整理的 IELTS Agent Skills，覆盖学习计划、作文批改、口语陪练、阅读与听力复盘、词汇和模考复盘，支持 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent。 |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
 | [quantskills/skill-pandadata-api](https://github.com/quantskills/skill-pandadata-api) | 18 | 2026-07-23 | GPL-3.0 | Pandadata API skill for Codex, Claude Code, Hermes, OpenClaw, Cursor, and WorkBuddy |
@@ -45,7 +42,10 @@ Last refreshed: **2026-09-04 UTC**
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | NOASSERTION | - |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |
 | [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
-| [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | 2026-05-10 | Apache-2.0 | WorkBuddy + Obsidian 知识库构建系统，基于元一思想四原则 |
 | [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | 2026-07-12 | Not declared | WorkBuddy AI Agent Skills Collection - 78 skills for game dev, frontend, backend, and more |
+| [darker2016/workbuddy-skill-groups](https://github.com/darker2016/workbuddy-skill-groups) | 13 | 2026-08-16 | NOASSERTION | 39 个 WorkBuddy 专家团队协作 skill 包（开源）— 投资 / 营销 / 工程 / 设计 / 法律 / 财税 / 数据 / 销售 / HR / 社媒 / 变现 等 13 个一级分类 |
+| [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | 2026-06-14 | MIT | AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。 |
+| [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | 2026-06-12 | NOASSERTION | ULA – 从收案到文书的律师诉讼全流程 AI 工作台 · WorkBuddy多Expert并行 · 元认知自蒸馏 · 非代码律师友好 |
+| [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | 2026-09-01 | NOASSERTION | 个人A股/港股盯盘智能副驾 - 信息驱动、人在回路、非量化、非自动下单。基于WorkBuddy平台的Skill。全网同名：WaterCMY 感谢相遇，感谢关注！学习学习再学习 实践-反思-总结-持续进化 CN No.1 |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.
