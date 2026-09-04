@@ -72,6 +72,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Ready-to-use Skills
 
+本仓库维护一个可直接安装的 [Document Quality Review](skills/document-quality-review/SKILL.md)：以只读方式检查交付物的证据、计算、完整性、链接、渲染质量与敏感信息。
+
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
@@ -193,6 +195,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 **独特价值：** 重复、转载、纯营销或缺少实质说明的内容不会因为热度而收录.
 
 安装任何第三方扩展前，请使用 [Skill、MCP 与扩展安全检查清单](SECURITY.md)。尚未完成审核的新项目仅出现在 [自动发现队列](DISCOVERIES.md)，不会自动进入主列表.
+
+想自己制作 Skill？参考本仓库的 [原始 Skills 与结构校验工具](skills/README.md)。
 
 ## Contributing
 
