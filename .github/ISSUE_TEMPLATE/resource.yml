@@ -1,38 +1,38 @@
-name: 推荐资源
-description: 推荐一个经过验证的 WorkBuddy 资源
+name: 推荐资源 / Suggest a resource
+description: 推荐一个经过验证的 WorkBuddy 资源 / Nominate a verified WorkBuddy resource
 title: "[Resource]: "
 labels: [resource]
 body:
   - type: input
     id: url
     attributes:
-      label: 资源链接
+      label: 资源链接 / Resource URL
       placeholder: https://
     validations:
       required: true
   - type: textarea
     id: value
     attributes:
-      label: 为什么值得收录？
-      description: 请说明内容、适用人群，以及你实际验证过的部分。
+      label: 为什么值得收录？ / Why should it be included?
+      description: 请说明内容、适用人群，以及你实际验证过的部分。Describe the content, audience, and what you personally verified.
     validations:
       required: true
   - type: dropdown
     id: relationship
     attributes:
-      label: 你与该资源的关系
+      label: 你与该资源的关系 / Your relationship to the resource
       options:
-        - 无关系
-        - 我是作者或维护者
-        - 存在商业关系
+        - 无关系 / No relationship
+        - 我是作者或维护者 / I am an author or maintainer
+        - 存在商业关系 / I have a commercial relationship
     validations:
       required: true
   - type: checkboxes
     id: checks
     attributes:
-      label: 提交确认
+      label: 提交确认 / Confirmation
       options:
-        - label: 我已搜索 README，确认该资源尚未收录。
+        - label: 我已搜索 README，确认该资源尚未收录。 / I searched the READMEs and confirmed this resource is not listed.
           required: true
-        - label: 我已检查链接可公开访问，且内容与腾讯 WorkBuddy 直接相关。
+        - label: 我已检查链接可公开访问，且内容与腾讯 WorkBuddy 直接相关。 / I verified that the link is public and directly relevant to Tencent WorkBuddy.
           required: true

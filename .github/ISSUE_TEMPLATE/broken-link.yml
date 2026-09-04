@@ -1,19 +1,19 @@
-name: 报告失效或不安全链接
-description: 报告无法访问、内容迁移或存在安全风险的资源
+name: 报告失效或不安全链接 / Broken or unsafe link
+description: 报告无法访问、内容迁移或存在安全风险的资源 / Report an unavailable, moved, or unsafe resource
 title: "[Link]: "
 labels: [broken-link]
 body:
   - type: input
     id: url
     attributes:
-      label: 资源链接
+      label: 资源链接 / Resource URL
       placeholder: https://
     validations:
       required: true
   - type: textarea
     id: problem
     attributes:
-      label: 问题描述
-      description: 请说明错误状态、迁移地址或具体风险，以及检查日期。
+      label: 问题描述 / Problem
+      description: 请说明错误状态、迁移地址或具体风险，以及检查日期。Describe the error, replacement URL, or risk and include the review date.
     validations:
       required: true

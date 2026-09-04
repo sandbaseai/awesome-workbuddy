@@ -1,31 +1,87 @@
 # Contributing
 
-感谢你帮助完善 Awesome WorkBuddy。我们重视少而精、可验证、对读者真正有用的资源。
+[English](#english) · [简体中文](#简体中文)
 
-## Add a resource
+## English
 
-1. 搜索 README，确认条目尚未收录。
-2. 确认链接可公开访问，内容与腾讯 WorkBuddy 直接相关。
-3. 将条目放到最具体的分类中，并按以下格式添加：
+Thank you for improving Awesome WorkBuddy. We prefer a small, verifiable,
+genuinely useful collection over a large unreviewed list.
+
+### Add a resource
+
+1. Search both READMEs and confirm that the resource is not already listed.
+2. Confirm that the link is publicly accessible and directly relevant to
+   Tencent WorkBuddy.
+3. Add it to the narrowest category in both `README.md` and `README.en.md`:
 
    ```markdown
-   - [资源标题](https://example.com) — 一句话说明它解决什么问题。
+   - [Resource title](https://example.com) - One sentence explaining its value.
+   ```
+
+4. In the Pull Request, state what you personally verified and the review date.
+
+For a Skill, MCP server, script, desktop extension, or other executable
+resource, also apply [SECURITY.md](SECURITY.md). Review installation commands,
+dependencies, permissions, credentials, network destinations, data flow, and
+irreversible actions, then record the important findings in the Pull Request.
+
+Do not submit pure marketing, copied aggregation without provenance, private
+group links, inaccessible material, duplicate entries, or Skills/MCP servers
+whose source and permissions cannot be understood. Disclose whether you are the
+author, maintainer, sponsor, or have another commercial relationship.
+
+### Review checklist
+
+- Use the canonical HTTPS URL, an accurate title, and no tracking parameters.
+- Keep the description specific and neutral; avoid unprovable terms such as
+  “best,” “essential,” or “official.”
+- Explain file, account, credential, company-data, and external-action risks.
+- Require human review for legal, medical, financial, or other high-stakes use.
+- Keep one Pull Request focused on one resource or one coherent theme.
+- Update both language editions and run `python3 -m unittest discover -s tests`.
+
+### Report a broken or unsafe link
+
+Use the [structured Issue Form](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=broken-link.yml)
+and include the URL, observed problem, and review date. Maintainers may remove
+malicious, unavailable, moved, or out-of-scope resources directly.
+
+## 简体中文
+
+感谢你帮助完善 Awesome WorkBuddy。我们重视少而精、可验证、对读者真正
+有用的资源，而不是未经审核的数量。
+
+### 添加资源
+
+1. 搜索两份 README，确认条目尚未收录。
+2. 确认链接可公开访问，内容与腾讯 WorkBuddy 直接相关。
+3. 将条目加入 `README.md` 和 `README.en.md` 中最精确的分类：
+
+   ```markdown
+   - [资源标题](https://example.com) - 一句话说明它解决什么问题。
    ```
 
 4. 在 Pull Request 中说明你实际验证了什么，以及检查日期。
 
-涉及 Skill、MCP、脚本或桌面扩展时，还需要按 [SECURITY.md](SECURITY.md) 检查安装指令、依赖、权限、凭据和数据流向，并在 Pull Request 中记录结果。
+涉及 Skill、MCP、脚本、桌面扩展或其他可执行资源时，还需要按
+[SECURITY.md](SECURITY.md) 检查安装指令、依赖、权限、凭据、网络目标、
+数据流向与不可逆操作，并在 Pull Request 中记录重要结论。
 
-请勿提交纯营销软文、聚合转载、无法访问的私域链接、重复内容，或来源与权限不明的 Skill/MCP。若你是作者或与资源存在商业关系，请主动披露。
+请勿提交纯营销软文、来源不明的聚合转载、私域群链接、无法访问的资料、
+重复条目，或源码与权限无法判断的 Skill/MCP。若你是作者、维护者、赞助方
+或存在其他商业关系，请主动披露。
 
-## Review checklist
+### 审查清单
 
-- 链接使用 HTTPS，标题准确，没有跟踪参数。
-- 描述具体、中立，不使用“最好”“必备”等无法验证的表述。
-- 涉及本地文件、账号、密钥或公司数据时，说明必要权限与风险。
-- 法律、医疗、财务等高风险内容明确提示人工复核。
-- 一个 Pull Request 尽量只处理一个主题。
+- 使用规范 HTTPS 地址和准确标题，不带跟踪参数。
+- 描述具体、中立，不使用“最好”“必备”“官方”等无法验证的表述。
+- 说明本地文件、账号、密钥、公司数据与外部操作的权限和风险。
+- 法律、医疗、财务等高风险内容明确要求人工复核。
+- 一个 Pull Request 只处理一个资源或一个连贯主题。
+- 同步更新两种语言，并运行 `python3 -m unittest discover -s tests`。
 
-## Report a broken or unsafe link
+### 报告失效或不安全链接
 
-请提交 Issue，附上链接、问题描述和检查日期。维护者可以直接移除恶意、失效或与主题无关的资源。
+使用[结构化 Issue 表单](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=broken-link.yml)，
+附上链接、观察到的问题和检查日期。维护者可以直接移除恶意、失效、已迁移
+或与主题无关的资源。

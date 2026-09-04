@@ -20,3 +20,16 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("## Reporting", content)
         self.assertIn("https://support.github.com/", content)
         self.assertNotIn("[INSERT", content)
+
+    def test_contribution_flow_is_bilingual(self) -> None:
+        guide = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
+        self.assertIn("## English", guide)
+        self.assertIn("## 简体中文", guide)
+        self.assertIn("SECURITY.md", guide)
+
+        for filename in ("broken-link.yml", "resource.yml"):
+            form = (
+                ROOT / ".github" / "ISSUE_TEMPLATE" / filename
+            ).read_text(encoding="utf-8")
+            self.assertIn(" / ", form, filename)
+            self.assertIn("Resource URL", form, filename)
