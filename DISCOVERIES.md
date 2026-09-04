@@ -16,7 +16,6 @@ Last refreshed: **2026-09-04 UTC**
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | NOASSERTION | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | 2026-05-17 | Not declared | 🏗️ AI Agent 九维基础设施框架 - 9个架构维度、11个插件、21个Hooks、30条基准评测 |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 29 | 2026-08-30 | MIT | Local OpenAI-compatible gateway for Codex and desktop AI clients. Default WorkBuddy; optional QClaw / QwenWork / traework. One key, one channel. |
-| [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | 2026-03-31 | MIT | 小红书博主拆解 AI Skill — 输入博主昵称，自动爬取全量笔记并生成4份专业分析文档（博主深度拆解/内容公式总结/选题素材库/结构化数据分析）。支持对比分析、动态内容分类、多模型兼容。基于 MCP 协议，零代码安装，扫码登录即用。适配 Claude Code/WorkBuddy 等本地AI工具，macOS/Windows/Linux 全平台运行。 |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | 2026-09-04 | Not declared | 豆包办公模式、腾讯workbuddy、千问办公、ChatGPT agent内置的skills和专家团 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |

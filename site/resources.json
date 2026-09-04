@@ -530,6 +530,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "XHS Blogger Analyzer",
+    "url": "https://github.com/arraycto/xhs-blogger-analyzer",
+    "description": "An MIT-licensed WorkBuddy/Claude Skill that uses MCP to collect public Xiaohongshu creator content and generate content-strategy, topic, and structured-analysis documents; its installer downloads dependencies and a third-party MCP binary, and first use requires QR login, so review platform terms, account permissions, crawl scope, download provenance, and creator/personal-data privacy first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "XHS Blogger Analyzer",
+    "descriptionZh": "MIT 许可的 WorkBuddy/Claude Skill，通过 MCP 抓取小红书博主公开内容并生成内容策略、选题与结构化分析文档；安装脚本会下载依赖和第三方 MCP 二进制，首次运行需要扫码登录，使用前请核对平台条款、账号权限、抓取范围、下载来源和个人/创作者数据隐私",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
