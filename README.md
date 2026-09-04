@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**54 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**55 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -153,6 +153,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化；会读取本机登录令牌并调用逆向得到的非官方接口，使用前应核对账号条款与源码.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - 可逆的 WorkBuddy Desktop 主题管理工具.
+- [WorkBuddy Dream Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) - MIT 许可的 Windows 图片驱动主题系统，提供预设、托盘控制、验证与恢复工具；它会通过本机 CDP 端口重启 WorkBuddy，并运行未签名 PowerShell 与渲染器注入，启用前应保存任务并审查脚本.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - 支持多种 coding agent 的开源桌面客户端.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - 跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款.
