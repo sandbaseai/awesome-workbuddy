@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**150 curated repositories · 4 original Skills · 13 discovery candidates · weekly validation**
+**151 curated repositories · 4 original Skills · 12 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -123,6 +123,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - WorkBuddy Skills、连接器与专家的离线学习归档.
 - [Doubao / WorkBuddy / QwenWork Skills Archive](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) - 许可未声明、由脚本自动同步的多平台 Skills/专家/连接器归档，其中 WorkBuddy 目录约含 500 个条目和 15,245 个文件，并提供按场景导航；内容来自平台同步及第三方作者，可能随平台变化且不等于再分发授权，使用前请逐项核对来源、许可、版权、更新脚本和本地存储范围.
 - [WorkBuddy Skill Groups](https://github.com/darker2016/workbuddy-skill-groups) - MIT 许可、透明标注来源的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR 等场景；内容由用户通过 WorkBuddy 官方渠道生成，不保证与平台原版一致，部分方法论和文档有第三方归属，使用前请核验法律/财税/投资/医疗等事实并遵守原作者条款.
+- [WorkBuddy Experts](https://github.com/vbarter/workbuddy-experts) - 提示词工程学习参考资产集，整理 WorkBuddy 4.22.16 的 246 位专家提示词、7 个 Nunjucks 系统模板、2 个内置 Skill 和客户端逆向报告；仓库明确说明 MIT 仅覆盖整理/索引/报告，专家正文与腾讯定制模板仍受上游及腾讯版权约束，并限个人学习、禁止批量公开转载或商业再分发，使用前请核对 NOTICE、版本、版权和内容合规边界.
 - [Unified Legal AI CN](https://github.com/laubeing-droid/unified-legal-ai-cn) - MIT 许可、以 WorkBuddy 为主平台的中国法律辅助工作台，提供 5 个核心 Agent、17 个法律工具、9 个领域应用、证据与法律护栏、文书输出和可选 MCP 推理内核，覆盖诉讼全生命周期；会读取案件/合同资料、可连接外部会员数据源，输出不构成法律意见，使用前请确认保密与授权、法域/版本、外部 Token 和人工律师复核.
 - [Five-layer Memory System](https://github.com/juventini10/Five-layer-memory-system) - MIT 许可、面向 WorkBuddy 的五层长期记忆 Skill，通过 33 道问答沉淀偏好、取舍和行为模式，并按层级维护可持续更新的工作记忆；内容可能包含敏感个人信息并写入本地文件，使用前请确认保存位置、备份与共享范围，不要把生成建议作为医疗、法律、财务或其他重大决策依据.
 - [Personal User Manual Skill](https://github.com/NI9N/gerenshiyongshuomingshu) - MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮自我认知教练流程整理价值观、才能和热情，经过证伪关后生成可自行维护的 Markdown；它不做测评、不替用户匹配职业或下唯一结论，回答可能包含敏感自我认知信息，使用前请确认保存和分享范围，并把输出当作待验证假设.

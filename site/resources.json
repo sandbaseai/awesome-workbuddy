@@ -590,6 +590,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WorkBuddy Experts",
+    "url": "https://github.com/vbarter/workbuddy-experts",
+    "description": "A prompt-engineering study archive with 246 WorkBuddy 4.22.16 expert prompts, seven Nunjucks system templates, two built-in Skills, and a client reverse-engineering report. The repository states that MIT covers only its curation/index/report, while expert bodies and Tencent-customized templates remain under upstream and Tencent copyright; it is for personal study and forbids bulk public reposting or commercial redistribution, so review NOTICE, version, copyright, and content-compliance boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy Experts",
+    "descriptionZh": "提示词工程学习参考资产集，整理 WorkBuddy 4.22.16 的 246 位专家提示词、7 个 Nunjucks 系统模板、2 个内置 Skill 和客户端逆向报告；仓库明确说明 MIT 仅覆盖整理/索引/报告，专家正文与腾讯定制模板仍受上游及腾讯版权约束，并限个人学习、禁止批量公开转载或商业再分发，使用前请核对 NOTICE、版本、版权和内容合规边界",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Unified Legal AI CN",
     "url": "https://github.com/laubeing-droid/unified-legal-ai-cn",
     "description": "An MIT-licensed China-law assistance workspace built primarily for WorkBuddy, with five core Agents, 17 legal tools, nine domain applications, evidence/legal guardrails, document output, and an optional MCP reasoning engine across the litigation lifecycle; it reads case/contract material and can connect to external member data sources, while outputs are not legal advice, so confirm confidentiality and authorization, jurisdiction/version, external tokens, and human lawyer review",
