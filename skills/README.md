@@ -28,8 +28,9 @@ python scripts/validate_skill.py skills/curate-workbuddy-resource
 
 The validator catches malformed or missing frontmatter, invalid names, weak descriptions, unfinished placeholders, broken local Markdown references, and obvious embedded secrets. Passing it is not Tencent certification and does not prove that instructions or code are safe.
 
-Release `v0.5.0` archive SHA-256 digests:
+Release `v0.6.0` archive SHA-256 digests:
 
-- `document-quality-review.zip`: `25c18019afd207a57e49832cffe4f7bebfc4a4e7f5a5d795f14be6fd5a401d67`
-- `skill-security-audit.zip`: `867534cc9b1dc0ba68505bdb01365edcae5edba52c00372f03a0bb4d64d6463d`
-- `source-backed-research-brief.zip`: `ab903ae739d059562e2222d44b01750d214a2d0dd66732b58d40e1335a9a91e1`
+- `curate-workbuddy-resource.zip`: `eea6349db6f55077812299648e3789dd01ec1a2103e03340e4c1bfdaebe87d9a`
+- `document-quality-review.zip`: `57e3080b4734de2f56ee6913ec421d81a21766f042e77c386369b40c1816262f`
+- `skill-security-audit.zip`: `1a600060d7f282351d30682e20842f408c6d219b3f3faeb81423bf9e1d5dc54f`
+- `source-backed-research-brief.zip`: `5006fc337872eee9b1a3b85941b483ed483987c821a3db29d525c27519714c5d`
