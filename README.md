@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**44 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**45 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -96,6 +96,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Ray Skills](https://github.com/imraywang/rayskills) - 面向内容生产与发布的可执行、可验证、可恢复工作流.
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - 涵盖创作、编程、办公和通用工具的 Skill 集合.
 - [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - 将 Zotero 文献库接入 WorkBuddy 的中文配置指南.
+- [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - 为 DeepSeek Harness Web GUI 增加可搜索、拼音检索和键盘导航的技能选择器，复刻 WorkBuddy 式 `/技能名` 调用交互；MIT 许可。插件会读取用户与项目 Skill 目录并提供本地 Web 路由，安装前请审查其文件系统访问范围.
 
 ### Ready-to-use Skills
 

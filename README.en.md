@@ -91,6 +91,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Ray Skills](https://github.com/imraywang/rayskills) - Executable, verifiable, and recoverable workflows for content production and publishing.
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - Skills for writing, programming, office work, and general utilities.
 - [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - A Chinese guide to connecting a local Zotero library to WorkBuddy.
+- [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - Adds searchable, pinyin-aware, keyboard-friendly skill picking to the DeepSeek Harness Web GUI, reproducing WorkBuddy-style `/skill-name` invocation; MIT licensed. It reads user and project Skill directories and exposes a local Web route, so review its filesystem scope before installation.
 
 ### Ready-to-use Skills
 
