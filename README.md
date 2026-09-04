@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**58 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**60 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -101,6 +101,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Skill collections
 
+- [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.
+
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态.
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - WorkBuddy Skills、连接器与专家的离线学习归档.
 - [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池.
@@ -113,6 +115,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - 将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板；MIT 许可，默认只读本地数据且不联网，精确用量 API 仅在用户主动提供令牌时启用.
 
 ### Ready-to-use Skills
+
+- [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁；不会索取密码、Cookie 或会话令牌，但仍需遵守招聘平台规则并审查简历、浏览器资料和沟通内容范围.
 
 本仓库维护四个可直接安装的原创 Skill：[Document Quality Review](skills/document-quality-review/SKILL.md) 以只读方式检查交付物质量；[Skill Security Audit](skills/skill-security-audit/SKILL.md) 在安装前审查第三方扩展；[Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) 将网页和资料整理为可核验、明确区分事实与推断的研究简报；[Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) 对候选资源给出基于相关性、质量、许可证、来源和安全证据的收录、暂缓或排除结论。
 
