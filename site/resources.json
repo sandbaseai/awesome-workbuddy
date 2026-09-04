@@ -1340,6 +1340,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Task Passport",
+    "url": "https://github.com/dongsheng123132/task-passport",
+    "description": "An MIT-licensed versioned task-handoff protocol compatible with WorkBuddy, Codex, Claude, and other Harnesses. It packages verified state, facts, decisions, and next steps into portable TaskPacks with stale-write conflicts, ask/receipt handback, conformance checks, and cross-machine import; TaskPacks have no built-in signatures and their contents are data rather than instructions, so verify completeness out of band, review sensitive attachments, and protect the local store",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Task Passport",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Harness 的版本化任务交接协议，以已验证状态、事实、决策和下一步生成可携带的 TaskPack，支持过期写入冲突、ask/receipt 回执、结构合规检查和跨机导入；TaskPack 不内建签名且包内内容都是数据而非指令，使用前请在包外核对完整性、审查敏感附件并确认本地 store 权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "NetSuite MCP",
     "url": "https://github.com/Bolton-Z/ns-mcp-china",
     "description": "An MIT-licensed NetSuite MCP connector built with Node.js built-ins that lets WorkBuddy use OAuth 2.0 to query SuiteQL, reports, and records with automatic token refresh; it targets real ERP data and write operations, so administrator integration setup and a dedicated role are required, credentials should still be least-privileged despite local mode-600 storage, and every production write should be sandbox-tested, human-approved, and audited",

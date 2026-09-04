@@ -10,6 +10,7 @@ tonycc/skillhive
 bailinghub/bailinghub-workbuddy-connector
 wynter-cai/assetplex
 laoyudashu/voko
+dongsheng123132/task-passport
 Bolton-Z/ns-mcp-china
 simcrq/origin-auto
 zkhyww/ai-short-drama-skills
