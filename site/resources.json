@@ -670,6 +670,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Session Fork",
+    "url": "https://github.com/yamingmou/session-fork-core",
+    "description": "An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it reads and copies local session data, so review the session directory, backup target, and sensitive content before running it",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Session Fork",
+    "descriptionZh": "MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱系树；它会读取并复制本地会话数据，执行前应确认会话目录、备份位置和其中的敏感内容",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it",
