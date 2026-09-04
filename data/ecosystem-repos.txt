@@ -43,6 +43,7 @@ zhouwei713/WorkBuddy-Dream-Skin
 sindney/m5stack_toys
 konnga/skill-buddy
 nicechencs/AgentHub
+xiaojinlucky/workbuddy-expert-bridge
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 CatCatUncle/openworkbuddy

@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**137 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**138 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -205,6 +205,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库；目前为 public preview，会扫描并可能读写多个 Agent 配置目录，使用前请备份、审查自定义路径与同步目标，并确认团队仓库和凭据范围.
 - [AgentHub](https://github.com/nicechencs/AgentHub) - MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills、会话、用量和备份，并明确 MCP 当前仅做只读发现；它会读写本机 Agent 配置和日志，凭据沿用本地存储且当前不加密，使用前请审查配置变更、备份位置、日志脱敏和本地权限.
+- [WorkBuddy Expert Bridge](https://github.com/xiaojinlucky/workbuddy-expert-bridge) - MIT 许可的本地 Skill，让 Codex、Cursor、Claude Code、Grok 和 VS Code 等工具只读发现并推荐本机已有的 WorkBuddy 专家/专家团，先展示匹配依据和本地可用性，再由用户决定是否使用；它不需要账号或密钥，也不会自行安装、下载或启用陌生内容，但会读取本机 WorkBuddy 文件，使用前请确认文件权限、上下文数据范围和宿主工具的数据政策.
 - [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) - 在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源.
 - [Workbuddian](https://github.com/jiang198012/workbuddian) - MIT 许可的 Obsidian 桌面插件，将本机 WorkBuddy/CodeBuddy CLI 接入笔记库，支持流式对话、`@` 引用、会话分叉、MCP 管理、逐项批准和编辑撤销；仅支持 Windows/macOS，能读取 Vault 并执行获批的本地命令/MCP，安装前请审查路径和权限.
 - [Codex × WorkBuddy Token Monitor](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) - MIT 许可、零第三方 Python 依赖的本地实时 Token 监控看板，读取 Codex 与 WorkBuddy 会话日志并通过 SSE 展示用量、缓存命中和活跃会话；本地会话可能含敏感内容，且统计值不是官方计费记录，使用前请确认扫描范围和端口暴露.
