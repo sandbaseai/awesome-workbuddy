@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.10.1 — 2026-09-05
+
+- Added the WorkBuddy Experts study archive, covering 246 expert prompts, seven Nunjucks templates, two built-in Skills, and a reverse-engineering report.
+- Clarified the archive's split licensing and copyright boundaries: MIT applies to the curation/index/report, while expert prompts and Tencent-customized templates retain upstream or Tencent terms and are limited to personal study.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.0 — 2026-09-05
 
 - Expanded the bilingual directory to 150 curated repositories and refreshed the searchable Pages catalog, ecosystem metadata, and discovery queue.
