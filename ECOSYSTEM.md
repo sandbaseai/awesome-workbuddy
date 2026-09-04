@@ -7,7 +7,7 @@ Last refreshed: **2026-09-04 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,465 | Python | 2026-09-04 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,466 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,915 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
@@ -103,6 +103,8 @@ Last refreshed: **2026-09-04 UTC**
 | [ttww1111/pdf-structured-extractor](https://github.com/ttww1111/pdf-structured-extractor) | 1 | Python | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
+| [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-04 |
+| [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-04 |
 | [chenwg001/qingfengskill](https://github.com/chenwg001/qingfengskill) | 0 | Python | 2026-09-03 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
 | [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-01 |

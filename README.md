@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**103 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
+**105 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -146,6 +146,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本；可选绑定个人学习 API 和本地令牌，使用前请确认数据范围，不要分享密码、Cookie 或 Token.
 - [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV；可识别双栏、扫描页和乱码并生成质量警告，默认无网络与遥测，但会读取用户指定的 PDF 并写入输出文件，使用前请确认文件和输出目录.
 - [Roundtable KG](https://github.com/xiewende424/roundtable-kg) - MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图；仅需 Python 3.8+、无第三方依赖，图谱展示的是讨论结构而非事实证明，使用时仍应复核来源与结论.
+- [AI Weekly Report](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退；需要联网抓取和少量 Python 依赖，使用前请复核来源、时效、市场数据及外部发布目标.
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界.
 - [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) - MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围.
 - [Rainskills](https://github.com/goodrain/rainskills) - Apache-2.0 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的部署 Skill 集合，可识别项目、构建部署、排查日志、验证页面/API，并管理版本、快照和回滚；可连接 Rainbond Cloud、已有 Rainbond 或本机/服务器环境，执行前请确认凭据、网络、主机权限和回滚目标.
@@ -188,6 +189,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Workbuddian](https://github.com/jiang198012/workbuddian) - MIT 许可的 Obsidian 桌面插件，将本机 WorkBuddy/CodeBuddy CLI 接入笔记库，支持流式对话、`@` 引用、会话分叉、MCP 管理、逐项批准和编辑撤销；仅支持 Windows/macOS，能读取 Vault 并执行获批的本地命令/MCP，安装前请审查路径和权限.
 - [Codex × WorkBuddy Token Monitor](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) - MIT 许可、零第三方 Python 依赖的本地实时 Token 监控看板，读取 Codex 与 WorkBuddy 会话日志并通过 SSE 展示用量、缓存命中和活跃会话；本地会话可能含敏感内容，且统计值不是官方计费记录，使用前请确认扫描范围和端口暴露.
 - [Tencent Meeting CLI](https://github.com/TencentCloud/tencentmeeting-cli) - 腾讯会议官方 CLI，可作为 Agent 的会议管理工具.
+- [DCC-MCP Agent Plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) - MIT 许可、官方分发式的 DCC-MCP Agent Skills/插件集合，兼容 WorkBuddy、Codex、Claude Code 等宿主，可发现数字内容创作工具并在审批边界内调用；安装会引入 npm/插件运行时和本地或外部工具权限，使用前请核对插件来源、凭据、文件与网络范围.
 - [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) - MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知；它只提醒、不代替用户批准，需在浏览器中授予通知权限，适合作为 WorkBuddy/Codex 风格 Agent 的相邻协作工具.
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - 为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key.
 - [Beav](https://github.com/Jamailar/Beav) - 本地优先的自媒体素材、调研、选题与创作工作台，通过用户级插件和本机 MCP 连接 WorkBuddy；采用限制商业使用的自定义 MIT 衍生许可，生产安装包可能领先公开源码，并会涉及本地工作区、模型密钥、浏览器/社媒内容和回环服务，安装前请核对版本、许可、平台条款与权限范围.
