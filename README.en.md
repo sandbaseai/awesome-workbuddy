@@ -107,6 +107,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use.
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
+- [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback; installation changes workspace rules and may perform deployment/version actions, so review instructions, host permissions, credentials, and release targets first.
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - An offline archive of WorkBuddy Skills, connectors, and experts.
 - [Website Prompts and Skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne.
 - [Ray Skills](https://github.com/imraywang/rayskills) - Executable, verifiable, and recoverable workflows for content production and publishing.
