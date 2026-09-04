@@ -1,6 +1,8 @@
-# Awesome WorkBuddy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WorkBuddy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
+
+如果这个清单对你有用，请点一个 **Star**，让更多 WorkBuddy 用户更容易找到经过筛选的资源。
 
 WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
 
@@ -58,6 +60,17 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - 涵盖创作、编程、办公和通用工具的 Skill 集合.
 - [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - 将 Zotero 文献库接入 WorkBuddy 的中文配置指南.
 
+### Ready-to-use Skills
+
+- [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
+- [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
+- [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
+- [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - 生成、校验并导出 draw.io 图表的跨平台 Skill.
+- [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
+- [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.
+- [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 从写作、配图、排版到微信公众号草稿发布的 Skill 包.
+- [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - 覆盖销售 L2C 流程的 CRM Agent Skills.
+
 ### Tools and integrations
 
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.
@@ -76,7 +89,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准、任务与评测代码.
 
-查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)。
+查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)，以及等待人工复核的 [GitHub 新项目发现队列](DISCOVERIES.md)。
 
 ## Skills, Prompts and MCP
 
