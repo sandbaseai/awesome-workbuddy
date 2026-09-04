@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**46 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**47 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -129,6 +129,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - 为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款.
 - [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌；MIT 许可。插件会保存凭据、打开登录页并请求 `copilot.tencent.com` 官方域名接口，但属于第三方适配器，使用前请核对账号条款与令牌存储.
+- [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - 腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道；采用 PolyForm Noncommercial 1.0.0，商业使用需另行授权，并具备 Shell、浏览器和外部通道能力，使用前请审查权限与数据流.
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
@@ -136,7 +137,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化；会读取本机登录令牌并调用逆向得到的非官方接口，使用前应核对账号条款与源码.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - 可逆的 WorkBuddy Desktop 主题管理工具.
-- [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - WorkBuddy 风格的本地 AI 办公工作台实现.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - 支持多种 coding agent 的开源桌面客户端.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - 跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款.
