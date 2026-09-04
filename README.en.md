@@ -136,6 +136,8 @@ This repository maintains four original installable Skills: [Document Quality Re
 
 ### Tools and integrations
 
+- [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - An MIT-licensed local protocol converter that exposes an already signed-in WorkBuddy/CodeBuddy session through OpenAI, Responses, and Anthropic-compatible APIs; it reads local auth state and forwards to `copilot.tencent.com`, so review source, credential files, exposed ports, and Tencent account terms first.
+- [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - An MIT-licensed CLIProxyAPI plugin that exposes CodeBuddy models to OpenAI/Anthropic clients with QR login and token refresh; credentials are stored in the local plugin directory and it includes upstream template-adaptation logic, so review source, account terms, and data flows before use.
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - Access a WorkBuddy instance from another device.
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - Manage, install, and synchronize Skills and MCP servers across AI Agents.
 - [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) - Use local WorkBuddy inside Obsidian with references, edits, and provenance.
