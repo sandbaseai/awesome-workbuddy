@@ -60,6 +60,16 @@ def clean(value: object) -> str:
     return html.escape(text, quote=False).replace("|", "\\|")
 
 
+def license_label(license_info: object) -> str:
+    """Return a review-oriented label for GitHub's license metadata."""
+    if not isinstance(license_info, dict) or not license_info:
+        return "Not declared"
+    spdx_id = str(license_info.get("spdx_id") or "").strip()
+    if not spdx_id or spdx_id.upper() == "NOASSERTION":
+        return "Non-standard / unrecognized"
+    return spdx_id
+
+
 def render(items: list[dict[str, object]], updated: str) -> str:
     curated = curated_repositories()
     candidates = [
@@ -86,9 +96,7 @@ def render(items: list[dict[str, object]], updated: str) -> str:
         url = item["html_url"]
         stars = int(item["stargazers_count"])
         pushed = str(item["pushed_at"])[:10]
-        license_info = item.get("license") or {}
-        license_name = license_info.get("spdx_id") or license_info.get("name") or "Not declared"
-        license_name = clean(license_name)
+        license_name = clean(license_label(item.get("license")))
         description = clean(item.get("description"))
         rows.append(f"| [{name}]({url}) | {stars:,} | {pushed} | {license_name} | {description} |")
     rows.extend(

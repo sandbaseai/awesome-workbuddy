@@ -24,6 +24,25 @@ class DiscoveryTests(unittest.TestCase):
     def test_clean_escapes_table_markup_and_html(self) -> None:
         self.assertEqual(discover_repos.clean("a | <b>\n c"), "a \\| &lt;b&gt; c")
 
+    def test_license_label_distinguishes_missing_custom_and_spdx(self) -> None:
+        self.assertEqual(discover_repos.license_label(None), "Not declared")
+        self.assertEqual(
+            discover_repos.license_label(
+                {"spdx_id": "NOASSERTION", "name": "Other"}
+            ),
+            "Non-standard / unrecognized",
+        )
+        self.assertEqual(
+            discover_repos.license_label({"spdx_id": None, "name": "Custom"}),
+            "Non-standard / unrecognized",
+        )
+        self.assertEqual(
+            discover_repos.license_label(
+                {"spdx_id": "Apache-2.0", "name": "Apache License 2.0"}
+            ),
+            "Apache-2.0",
+        )
+
     def test_render_excludes_curated_archived_and_forked_repositories(self) -> None:
         items = [
             {
