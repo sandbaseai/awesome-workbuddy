@@ -21,7 +21,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
-| [quantskills/skill-pandadata-api](https://github.com/quantskills/skill-pandadata-api) | 18 | 2026-07-23 | GPL-3.0 | Pandadata API skill for Codex, Claude Code, Hermes, OpenClaw, Cursor, and WorkBuddy |
 | [Aisland-SJL/dsh-reminder](https://github.com/Aisland-SJL/dsh-reminder) | 17 | 2026-08-16 | MIT | 🔔 Cross-window completion &amp; approval notifications for DeepSeek Harness — popup reminders that bring you back to DSH, Codex/WorkBuddy style. |
 | [Sqhao-O/undergraduate-thesis-ai-workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) | 17 | 2026-04-14 | MIT | 本科毕业设计AI辅助工作流建议教学文档 \| 使用 Claude Code + Kimi Agent + CC Switch + Pandoc + Lark-Formatter + WorkBuddy 实现高效实验设计和仿真以及论文写作和排版 |
 | [taxueseek/session-digger](https://github.com/taxueseek/session-digger) | 17 | 2026-07-21 | ISC | 跨环境会话历史挖掘与知识管理。分析记录。支持 Claude/Grok/Kimi Code/Codex/WorkBuddy/Trae CN 等主流环境 |

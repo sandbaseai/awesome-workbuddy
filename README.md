@@ -117,6 +117,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Ready-to-use Skills
 
+- [Pandadata API Skill](https://github.com/quantskills/skill-pandadata-api) - GPL-3.0 的可安装 WorkBuddy/Codex 金融数据 Skill，内置 218 个接口的本地文档、检索工具、兼容性索引和可选真实调用；运行时会安装 `panda_data` 及数据依赖并连接用户配置的外部服务，配置器可将用户名和明文密码保存到权限为 600 的 `~/.pandadata/pandadata.env`，SDK 还会写入 `user.json`，因此请保护凭据、核对数据授权，且勿将结果视为投资建议.
 - [Photo to Monthly Zine Postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) - MIT 许可、可直接安装的 WorkBuddy/Codex Skill，将用户照片制作成 3:4 月历 Zine 明信片，并要求先核验匹配的文学与音乐来源；仓库不含执行脚本或凭据处理，但照片可能包含人物、位置、EXIF 或品牌信息，且资料检索与图像生成可能访问外部服务，使用前请确认素材隐私和网络边界.
 - [XHS Blogger Analyzer](https://github.com/arraycto/xhs-blogger-analyzer) - MIT 许可的 WorkBuddy/Claude Skill，通过 MCP 抓取小红书博主公开内容并生成内容策略、选题与结构化分析文档；安装脚本会下载依赖和第三方 MCP 二进制，首次运行需要扫码登录，使用前请核对平台条款、账号权限、抓取范围、下载来源和个人/创作者数据隐私.
 - [AI 10x Learning](https://github.com/luozhilzh/ai-10x-learning) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的十步学习闭环 Skill，结合多视角研究、主动回忆、费曼复述和 HTML 学习卡；带安装脚本、引用/核实规则与本地校验器，使用前请确认外部事实、个人学习资料和安装脚本的文件范围.

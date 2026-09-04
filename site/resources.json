@@ -520,6 +520,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Pandadata API Skill",
+    "url": "https://github.com/quantskills/skill-pandadata-api",
+    "description": "A GPL-3.0 installable financial-data Skill for WorkBuddy/Codex with local documentation for 218 APIs, search tooling, a compatibility index, and optional live calls; its runtime installs `panda_data` and data dependencies and contacts a user-configured external service, while setup may save the username and plaintext password to a mode-600 `~/.pandadata/pandadata.env` and the SDK also writes `user.json`, so protect credentials, confirm data entitlements, and do not treat outputs as investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Pandadata API Skill",
+    "descriptionZh": "GPL-3.0 的可安装 WorkBuddy/Codex 金融数据 Skill，内置 218 个接口的本地文档、检索工具、兼容性索引和可选真实调用；运行时会安装 `panda_data` 及数据依赖并连接用户配置的外部服务，配置器可将用户名和明文密码保存到权限为 600 的 `~/.pandadata/pandadata.env`，SDK 还会写入 `user.json`，因此请保护凭据、核对数据授权，且勿将结果视为投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Photo to Monthly Zine Postcard",
     "url": "https://github.com/shenchangyi/photo-to-monthly-zine-postcard",
     "description": "An MIT-licensed, directly installable WorkBuddy/Codex Skill that turns a user photo into a 3:4 monthly Zine postcard and requires verified, image-matched literature and music sources; it ships no executable scripts or credential handling, but photos may contain people, locations, EXIF, or branding and its research/image-generation steps may contact external services, so confirm media privacy and network boundaries first",
