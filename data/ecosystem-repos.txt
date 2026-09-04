@@ -33,6 +33,7 @@ AriaXXX-free/job-navigation-skill
 yinren112/bossmate
 Jobo16/ielts-buddy
 ttww1111/pdf-structured-extractor
+ChosenXu/eagle-untagged-organizer
 yamingmou/session-fork-core
 langlibai66/paper-cn-reader
 bigbay957-sudo/workbuddy-for-obsidian
