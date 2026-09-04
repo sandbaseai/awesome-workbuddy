@@ -720,6 +720,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Eagle Untagged Organizer",
+    "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
+    "description": "An MIT-licensed WorkBuddy Skill that uses eagle-mcp to name, annotate, and tag untagged design assets; it provides multimodal preflight, a dry-run manifest, batch backups, human approval, and rollback, so confirm the Eagle library, MCP permissions, and write scope before execution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Eagle Untagged Organizer",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Session Fork",
     "url": "https://github.com/yamingmou/session-fork-core",
     "description": "An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it relies on unofficial local-storage internals, reads transcripts, inserts rows into `~/.workbuddy/workbuddy.db`, writes a lineage index, and can rewrite branch files with `--fix`, while its backup covers only the source JSONL, so quit WorkBuddy and separately back up the database and sensitive sessions first",
@@ -1077,6 +1087,16 @@
     "category": "Tools and integrations",
     "titleZh": "DSH Memory Palace",
     "descriptionZh": "MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具；会读写本地记忆，智能摘要可调用模型，使用前应确认目录、敏感内容和网络/费用边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Agent Selector",
+    "url": "https://github.com/jiang12345-code/dsh-agent-selector",
+    "description": "An MIT-licensed DeepSeek Harness plugin that dispatches tasks to WorkBuddy built-in/custom models, Codex, or Claude and returns provenance receipts; its WorkBuddy channels read local model/session data, write the automations database, and depend on reverse-engineered scheduling behavior, so review credentials, task content, database backups, and account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Agent Selector",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证；WorkBuddy 通道会读取本地模型与会话数据、写入 automations 数据库并依赖逆向调度器，使用前请审查凭据、任务内容、数据库备份和账号条款",
     "categoryZh": "Tools and integrations"
   },
   {

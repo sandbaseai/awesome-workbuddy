@@ -33,6 +33,7 @@ AriaXXX-free/job-navigation-skill
 yinren112/bossmate
 Jobo16/ielts-buddy
 ttww1111/pdf-structured-extractor
+ChosenXu/eagle-untagged-organizer
 yamingmou/session-fork-core
 langlibai66/paper-cn-reader
 bigbay957-sudo/workbuddy-for-obsidian
@@ -59,6 +60,7 @@ Jamailar/Beav
 HenryXiaoYang/wechat-openclaw-channel
 corrinehu/dsh-workbuddy-connect
 lovezi0/dsh-memory-palace
+jiang12345-code/dsh-agent-selector
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 HanHan666666/codebuddy2openai
