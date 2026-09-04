@@ -140,6 +140,76 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Slack integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Slack-Guide",
+    "description": "Create a Slack App, configure permissions, and connect it to WorkBuddy using the official steps",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "Slack 接入",
+    "descriptionZh": "按官方步骤创建 Slack App、配置权限并连接 WorkBuddy",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "Telegram integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Telegram-Guide",
+    "description": "Configure a Telegram Bot and provide its token to WorkBuddy using the documented flow",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "Telegram 接入",
+    "descriptionZh": "配置 Telegram Bot，并将令牌安全地交给 WorkBuddy 完成连接",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "Discord integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Discord-Guide",
+    "description": "Create a Discord application and bot, configure permissions, and add it to a server",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "Discord 接入",
+    "descriptionZh": "创建 Discord 应用与 Bot、设置权限并添加到服务器",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "WeCom integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Wecom-Guide",
+    "description": "Connect the WorkBuddy assistant to WeCom and complete the organization-side setup",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "企业微信接入",
+    "descriptionZh": "将 WorkBuddy 助理接入企业微信，并完成企业侧配置",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "Feishu integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Feishu-Guide",
+    "description": "Create a Feishu app, configure events and permissions, and connect it to WorkBuddy",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "飞书接入",
+    "descriptionZh": "创建飞书应用、配置事件与权限并连接 WorkBuddy",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "DingTalk integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Dingtalk-Guide",
+    "description": "Configure a DingTalk bot and the WorkBuddy assistant using the official flow",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "钉钉接入",
+    "descriptionZh": "按官方流程配置钉钉机器人与 WorkBuddy 助理",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "QQ integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/QQ-Guide",
+    "description": "Connect the WorkBuddy assistant to QQ and complete bot configuration and authorization",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "QQ 接入",
+    "descriptionZh": "将 WorkBuddy 助理接入 QQ，并完成机器人配置与授权",
+    "categoryZh": "Platform integrations"
+  },
+  {
     "title": "Weixin Assistant integration",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide",
     "description": "Connect the WorkBuddy assistant to Weixin using the official configuration and QR sign-in flow",
@@ -147,6 +217,16 @@
     "category": "Platform integrations",
     "titleZh": "微信助理接入",
     "descriptionZh": "将 WorkBuddy 助理接入微信，并按官方步骤完成配置与二维码登录",
+    "categoryZh": "Platform integrations"
+  },
+  {
+    "title": "YuanBaoPai integration",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/YuanBaoPai-Guide",
+    "description": "Connect the WorkBuddy assistant to a YuanBao bot using the official configuration flow",
+    "section": "Official Resources",
+    "category": "Platform integrations",
+    "titleZh": "元宝派接入",
+    "descriptionZh": "将 WorkBuddy 助理接入元宝机器人，并完成官方配置流程",
     "categoryZh": "Platform integrations"
   },
   {
