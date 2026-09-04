@@ -180,16 +180,6 @@
     "categoryZh": "Skill collections"
   },
   {
-    "title": "WorkBuddy Guide Skill",
-    "url": "https://github.com/Neo5093/workbuddy-guide",
-    "description": "An installable Chinese reference covering connectors, Experts, automations, memory, quick cards, and troubleshooting; its optional diagnostic script reads local WorkBuddy configuration metadata and log excerpts, so redact output before sharing",
-    "section": "Open-source Ecosystem",
-    "category": "Skill collections",
-    "titleZh": "WorkBuddy 使用指南 Skill",
-    "descriptionZh": "可安装的中文全功能参考手册，覆盖连接器、专家、自动化、记忆、速查卡与排障；可选诊断脚本会读取本机 WorkBuddy 配置元数据和日志片段，分享输出前请先脱敏",
-    "categoryZh": "Skill collections"
-  },
-  {
     "title": "workbuddyskills",
     "url": "https://github.com/infometa/workbuddyskills",
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",
