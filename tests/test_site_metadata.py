@@ -32,6 +32,14 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertEqual(schema["@type"], "CollectionPage")
         self.assertEqual(schema["url"], SITE_URL)
 
+    def test_page_has_persistent_bilingual_directory_state(self) -> None:
+        html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('id="language"', html)
+        self.assertIn("awesome-workbuddy-locale", html)
+        self.assertIn("new URLSearchParams(location.search).get('lang')", html)
+        self.assertIn("item.titleZh", html)
+        self.assertIn('data-i18n="heroTitle"', html)
+
 
 if __name__ == "__main__":
     unittest.main()

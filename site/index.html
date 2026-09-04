@@ -1,10 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-locale="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Search curated Tencent WorkBuddy resources, Skills, MCP integrations, workflows, guides, and open-source projects.">
   <link rel="canonical" href="https://sandbaseai.github.io/awesome-workbuddy/">
+  <link rel="alternate" hreflang="en" href="https://sandbaseai.github.io/awesome-workbuddy/">
+  <link rel="alternate" hreflang="zh-CN" href="https://sandbaseai.github.io/awesome-workbuddy/?lang=zh-CN">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Awesome WorkBuddy Resource Directory">
   <meta property="og:description" content="A searchable, safety-conscious index of the WorkBuddy ecosystem.">
@@ -36,6 +38,8 @@
     .shell { width:min(1180px,calc(100% - 32px)); margin:auto; }
     header { display:grid; grid-template-columns:minmax(0,1.08fr) minmax(280px,.92fr); gap:clamp(28px,6vw,84px); align-items:center; padding:48px 0 34px; }
     .kicker { color:var(--accent); font-weight:750; letter-spacing:.02em; margin:0 0 10px; }
+    .language-control { display:flex; align-items:center; gap:8px; margin-bottom:24px; color:var(--muted); font-size:13px; font-weight:700; }
+    .language-control select { width:auto; min-height:38px; padding:0 10px; border-radius:999px; }
     h1 { max-width:12ch; margin:0; font-size:clamp(42px,7vw,76px); line-height:.98; letter-spacing:-.055em; }
     .intro { max-width:58ch; margin:22px 0 0; color:var(--muted); font-size:18px; }
     header > * { min-width:0; }
@@ -68,85 +72,122 @@
   <main class="shell">
     <header>
       <div>
-        <p class="kicker">Community-curated and safety-conscious</p>
-        <h1>Find the right WorkBuddy resource.</h1>
-        <p class="intro">Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.</p>
+        <div class="language-control"><label for="language" data-i18n="languageLabel">Language</label><select id="language"><option value="en">English</option><option value="zh-CN">简体中文</option></select></div>
+        <p class="kicker" data-i18n="kicker">Community-curated and safety-conscious</p>
+        <h1 data-i18n="heroTitle">Find the right WorkBuddy resource.</h1>
+        <p class="intro" data-i18n="heroIntro">Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.</p>
         <div class="actions">
-          <a class="button primary" href="https://github.com/sandbaseai/awesome-workbuddy">View and star on GitHub</a>
-          <a class="button" href="https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose">Suggest a resource</a>
+          <a class="button primary" data-i18n="githubButton" href="https://github.com/sandbaseai/awesome-workbuddy">View and star on GitHub</a>
+          <a class="button" data-i18n="suggestButton" href="https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose">Suggest a resource</a>
         </div>
       </div>
-      <img class="hero-image" src="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp" alt="WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills">
+      <img class="hero-image" src="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp" data-i18n-attr="alt:heroAlt" alt="WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills">
     </header>
 
     <section aria-labelledby="directory-title">
       <div class="toolbar">
-        <label><span hidden>Search resources</span><input id="search" type="search" placeholder="Search resources, tools, and use cases" autocomplete="off"></label>
-        <label><span hidden>Filter by category</span><select id="category"><option value="">All categories</option></select></label>
+        <label><span hidden data-i18n="searchLabel">Search resources</span><input id="search" type="search" data-i18n-attr="placeholder:searchPlaceholder" placeholder="Search resources, tools, and use cases" autocomplete="off"></label>
+        <label><span hidden data-i18n="categoryLabel">Filter by category</span><select id="category"><option value="" data-i18n="allCategories">All categories</option></select></label>
       </div>
       <div class="summary">
-        <h2 id="directory-title">Curated directory</h2>
+        <h2 id="directory-title" data-i18n="directoryTitle">Curated directory</h2>
         <span id="count" aria-live="polite">Loading resources</span>
       </div>
       <div id="resources" class="grid" aria-busy="true"></div>
     </section>
   </main>
-  <footer><div class="shell">Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.</div></footer>
+  <footer><div class="shell" data-i18n="footer">Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.</div></footer>
   <script>
     const grid = document.querySelector('#resources');
     const search = document.querySelector('#search');
     const category = document.querySelector('#category');
     const count = document.querySelector('#count');
+    const language = document.querySelector('#language');
     let resources = [];
+    const copy = {
+      en: {
+        title: 'Awesome WorkBuddy Directory', languageLabel: 'Language', kicker: 'Community-curated and safety-conscious', heroTitle: 'Find the right WorkBuddy resource.',
+        heroIntro: 'Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.',
+        githubButton: 'View and star on GitHub', suggestButton: 'Suggest a resource', heroAlt: 'WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills',
+        searchLabel: 'Search resources', searchPlaceholder: 'Search resources, tools, and use cases', categoryLabel: 'Filter by category', allCategories: 'All categories',
+        directoryTitle: 'Curated directory', footer: 'Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.',
+        count: (shown, total) => `${shown} of ${total} resources`, empty: 'No resources match those filters. Try a broader term or choose all categories.', unavailable: 'Unavailable', error: 'The directory could not load. Open the GitHub repository to browse the maintained list.'
+      },
+      'zh-CN': {
+        title: 'Awesome WorkBuddy 资源目录', languageLabel: '语言', kicker: '社区筛选 · 安全优先', heroTitle: '找到合适的 WorkBuddy 资源。',
+        heroIntro: '搜索官方文档、可复用 Skills、MCP 集成、实用工作流、评测与开源工具。主列表中的每个条目都经过审核。',
+        githubButton: '在 GitHub 上 Star', suggestButton: '推荐资源', heroAlt: 'WorkBuddy 文档、表格、代码、MCP 集成与 Skills',
+        searchLabel: '搜索资源', searchPlaceholder: '搜索资源、工具和使用场景', categoryLabel: '按类别筛选', allCategories: '全部类别',
+        directoryTitle: '精选目录', footer: '独立社区索引。安装第三方扩展前，请检查源码、权限、凭据和数据流向。',
+        count: (shown, total) => `${shown} / ${total} 个资源`, empty: '没有匹配的资源。请尝试更宽泛的关键词或选择全部类别。', unavailable: '暂不可用', error: '目录加载失败。请打开 GitHub 仓库浏览维护中的资源列表。'
+      }
+    };
+    let locale = 'en';
 
+    function currentCopy() { return copy[locale]; }
+    function setText(key) {
+      document.querySelectorAll(`[data-i18n="${key}"]`).forEach((node) => { node.textContent = currentCopy()[key]; });
+    }
+    function applyLocale(next, persist = true) {
+      locale = next === 'zh-CN' ? 'zh-CN' : 'en';
+      document.documentElement.lang = locale;
+      document.documentElement.dataset.locale = locale;
+      language.value = locale;
+      document.title = currentCopy().title;
+      document.querySelector('meta[name="description"]').content = locale === 'zh-CN'
+        ? '搜索经过筛选的腾讯 WorkBuddy 文档、Skills、MCP、工作流与开源资源。'
+        : 'Search curated Tencent WorkBuddy resources, Skills, MCP integrations, workflows, guides, and open-source projects.';
+      document.querySelectorAll('[data-i18n]').forEach((node) => { node.textContent = currentCopy()[node.dataset.i18n]; });
+      document.querySelectorAll('[data-i18n-attr]').forEach((node) => {
+        node.dataset.i18nAttr.split(',').forEach((entry) => { const [attr, key] = entry.split(':'); node.setAttribute(attr, currentCopy()[key]); });
+      });
+      rebuildCategories();
+      if (resources.length) render();
+      if (persist) localStorage.setItem('awesome-workbuddy-locale', locale);
+    }
+    function rebuildCategories() {
+      const selected = category.value;
+      category.replaceChildren(new Option(currentCopy().allCategories, ''));
+      const seen = new Set();
+      resources.forEach((item) => {
+        if (seen.has(item.category)) return;
+        seen.add(item.category);
+        category.add(new Option(locale === 'zh-CN' ? (item.categoryZh || item.category) : item.category, item.category));
+      });
+      category.value = seen.has(selected) ? selected : '';
+    }
     function render() {
       const query = search.value.trim().toLowerCase();
       const selected = category.value;
       const matches = resources.filter((item) => {
-        const haystack = `${item.title} ${item.description} ${item.descriptionZh} ${item.category}`.toLowerCase();
+        const haystack = `${item.title} ${item.titleZh} ${item.description} ${item.descriptionZh} ${item.category} ${item.categoryZh}`.toLowerCase();
         return (!query || haystack.includes(query)) && (!selected || item.category === selected);
       });
-      count.textContent = `${matches.length} of ${resources.length} resources`;
+      count.textContent = currentCopy().count(matches.length, resources.length);
       grid.replaceChildren();
       if (!matches.length) {
-        const empty = document.createElement('p');
-        empty.className = 'empty';
-        empty.textContent = 'No resources match those filters. Try a broader term or choose all categories.';
-        grid.append(empty);
-        return;
+        const empty = document.createElement('p'); empty.className = 'empty'; empty.textContent = currentCopy().empty; grid.append(empty); return;
       }
       for (const item of matches) {
         const card = document.createElement('article');
-        const heading = document.createElement('h3');
-        const link = document.createElement('a');
-        const description = document.createElement('p');
-        const label = document.createElement('span');
-        link.href = item.url;
-        link.textContent = item.title;
-        description.textContent = item.description;
-        label.className = 'category';
-        label.textContent = item.category;
-        heading.append(link);
-        card.append(heading, description, label);
-        grid.append(card);
+        const heading = document.createElement('h3'); const link = document.createElement('a');
+        const description = document.createElement('p'); const label = document.createElement('span');
+        link.href = item.url; link.textContent = locale === 'zh-CN' ? (item.titleZh || item.title) : item.title;
+        description.textContent = locale === 'zh-CN' ? (item.descriptionZh || item.description) : item.description;
+        label.className = 'category'; label.textContent = locale === 'zh-CN' ? (item.categoryZh || item.category) : item.category;
+        heading.append(link); card.append(heading, description, label); grid.append(card);
       }
     }
-
+    const requested = new URLSearchParams(location.search).get('lang');
+    const saved = localStorage.getItem('awesome-workbuddy-locale');
+    const browserChinese = navigator.language.toLowerCase().startsWith('zh');
+    applyLocale(requested || saved || (browserChinese ? 'zh-CN' : 'en'), false);
+    language.addEventListener('change', () => applyLocale(language.value));
+    search.addEventListener('input', render); category.addEventListener('change', render);
     fetch('./resources.json')
       .then((response) => { if (!response.ok) throw new Error('Resource data unavailable'); return response.json(); })
-      .then((data) => {
-        resources = data;
-        [...new Set(data.map((item) => item.category))].sort().forEach((name) => category.add(new Option(name, name)));
-        grid.setAttribute('aria-busy', 'false');
-        render();
-      })
-      .catch(() => {
-        grid.setAttribute('aria-busy', 'false');
-        grid.innerHTML = '<p class="error">The directory could not load. Open the GitHub repository to browse the maintained list.</p>';
-        count.textContent = 'Unavailable';
-      });
-    search.addEventListener('input', render);
-    category.addEventListener('change', render);
+      .then((data) => { resources = data; rebuildCategories(); grid.setAttribute('aria-busy', 'false'); render(); })
+      .catch(() => { grid.setAttribute('aria-busy', 'false'); grid.replaceChildren(Object.assign(document.createElement('p'), { className: 'error', textContent: currentCopy().error })); count.textContent = currentCopy().unavailable; });
   </script>
 </body>
 </html>
