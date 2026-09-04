@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.10.0 — 2026-09-05
+
+- Expanded the bilingual directory to 150 curated repositories and refreshed the searchable Pages catalog, ecosystem metadata, and discovery queue.
+- Added WorkBuddy Harness, ZZZ Plain-language AI Guide, WorkBuddy2API (Tom6814), and FyAgent, covering Agent runtime/evaluation, beginner learning, protocol compatibility, and local model/Skill/MCP configuration.
+- Added explicit disclosures for source-available or undeclared licensing, local configuration writes, API keys and sign-in tokens, undocumented endpoints, optional cloud backups, executable Hooks, and high-stakes data boundaries.
+- Documented discovery holds for candidates whose MCP transport or dataset provenance is not yet consistent, keeping the queue auditable without treating unverified projects as endorsements.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.8.0 — 2026-09-05
 
 - Expanded the bilingual directory from 62 to 91 curated repositories while reducing the unreviewed discovery queue to 23 candidates.
