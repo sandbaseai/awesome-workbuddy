@@ -520,6 +520,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Session Digger",
+    "url": "https://github.com/taxueseek/session-digger",
+    "description": "An ISC-licensed cross-agent session search and knowledge-management toolkit that natively parses `~/.workbuddy/projects`, builds an incremental SQLite FTS index, and produces self-contained local reports; it reads full transcripts and writes indexes, reports, and optional memory files that may expose prompts, paths, or project data, its environment doctor can probe external endpoints, and every target and backup should be reviewed before using mutating `apply`/`prune` commands",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Session Digger",
+    "descriptionZh": "ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告；它会读取完整会话并写入索引、报告和可选记忆文件，内容可能包含提示词、路径与项目资料，环境诊断还可探测外部端点，使用 `apply`/`prune` 等写入或删除命令前应逐项确认目标与备份",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Pandadata API Skill",
     "url": "https://github.com/quantskills/skill-pandadata-api",
     "description": "A GPL-3.0 installable financial-data Skill for WorkBuddy/Codex with local documentation for 218 APIs, search tooling, a compatibility index, and optional live calls; its runtime installs `panda_data` and data dependencies and contacts a user-configured external service, while setup may save the username and plaintext password to a mode-600 `~/.pandadata/pandadata.env` and the SDK also writes `user.json`, so protect credentials, confirm data entitlements, and do not treat outputs as investment advice",
