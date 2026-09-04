@@ -24,6 +24,7 @@ Last refreshed: **2026-09-04 UTC**
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 179 | TypeScript | 2026-09-02 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 178 | JavaScript | 2026-07-17 |
+| [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 173 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
 | [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode) | 143 | TypeScript | 2026-09-03 |
@@ -40,6 +41,7 @@ Last refreshed: **2026-09-04 UTC**
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |
 | [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 33 | TypeScript | 2026-09-04 |
+| [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | TypeScript | 2026-08-25 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
 | [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |

@@ -10,7 +10,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | 2026-09-04 | NOASSERTION | 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
-| [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 173 | 2026-09-01 | AGPL-3.0 | 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | 2026-07-01 | MIT | 把 CodeBuddy / WorkBuddy（腾讯代码助手） 的订阅，转换成 OpenAI 兼容 API、Anthropic 兼容 API，让你能在 Codex CLI、Claude Code、ZCode、Cherry Studio、NextChat、LobeChat 等任何支持 OpenAI 协议、Anthropic 协议的客户端里复用它。 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | 2026-07-08 | MIT | CLIProxyAPI plugin wrapping Tencent CodeBuddy (copilot.tencent.com) as an OpenAI/Anthropic-compatible provider. Clean-room rebuild of Sliverkiss/cpa-plugin. |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
@@ -20,7 +19,6 @@ Last refreshed: **2026-09-04 UTC**
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | 2026-06-15 | Not declared | 用大白话讲透 AI 和 Agent，从 ChatGPT 到智能体，零基础也能看懂的工作指南。基于 WorkBuddy 多模型协作平台创作。使用求是skill作为主要技能。 |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | NOASSERTION | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | 2026-05-17 | Not declared | 🏗️ AI Agent 九维基础设施框架 - 9个架构维度、11个插件、21个Hooks、30条基准评测 |
-| [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | 2026-08-25 | MIT | A WorkBuddy-style desktop client for the grok AI agent — Tauri 2 + React, in-process over ACP. |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 29 | 2026-08-30 | MIT | Local OpenAI-compatible gateway for Codex and desktop AI clients. Default WorkBuddy; optional QClaw / QwenWork / traework. One key, one channel. |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | 2026-03-31 | MIT | 小红书博主拆解 AI Skill — 输入博主昵称，自动爬取全量笔记并生成4份专业分析文档（博主深度拆解/内容公式总结/选题素材库/结构化数据分析）。支持对比分析、动态内容分类、多模型兼容。基于 MCP 协议，零代码安装，扫码登录即用。适配 Claude Code/WorkBuddy 等本地AI工具，macOS/Windows/Linux 全平台运行。 |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
@@ -47,5 +45,7 @@ Last refreshed: **2026-09-04 UTC**
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | NOASSERTION | - |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |
 | [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
+| [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | 2026-05-10 | Apache-2.0 | WorkBuddy + Obsidian 知识库构建系统，基于元一思想四原则 |
+| [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | 2026-07-12 | Not declared | WorkBuddy AI Agent Skills Collection - 78 skills for game dev, frontend, backend, and more |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.
