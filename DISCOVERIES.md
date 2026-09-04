@@ -14,7 +14,6 @@ Last refreshed: **2026-09-04 UTC**
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | Non-standard / unrecognized | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | 2026-05-17 | Not declared | 🏗️ AI Agent 九维基础设施框架 - 9个架构维度、11个插件、21个Hooks、30条基准评测 |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
-| [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | 2026-09-04 | Not declared | 豆包办公模式、腾讯workbuddy、千问办公、ChatGPT agent内置的skills和专家团 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
