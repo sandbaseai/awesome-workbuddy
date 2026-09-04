@@ -780,6 +780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Roundtable KG",
+    "url": "https://github.com/xiewende424/roundtable-kg",
+    "description": "An MIT-licensed, WorkBuddy-compatible offline roundtable Skill that debates serious questions through position-based personas and renders argument relations as an interactive force-directed graph; it needs only Python 3.8+ with no third-party dependencies, but the graph shows discussion structure rather than proof, so verify sources and conclusions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Roundtable KG",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图；仅需 Python 3.8+、无第三方依赖，图谱展示的是讨论结构而非事实证明，使用时仍应复核来源与结论",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Math Concept Film",
     "url": "https://github.com/liangdabiao/math-concept-film",
     "description": "A license-not-declared mathematics short-film Skill compatible with WorkBuddy, Codex, and Claude, using a voice-first caption timeline to drive Manim animation with a six-act teaching framework, still-frame checks, and ffmpeg composition; narration relies on Microsoft's online TTS, so review network use, source-material rights, output scope, and licensing before use",
