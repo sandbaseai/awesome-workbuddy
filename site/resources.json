@@ -540,6 +540,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "AI 10x Learning",
+    "url": "https://github.com/luozhilzh/ai-10x-learning",
+    "description": "An MIT-licensed ten-step learning-loop Skill compatible with WorkBuddy, Codex, Claude, and Cursor, combining multi-perspective research, retrieval practice, Feynman explanation, and HTML learning cards; it includes an installer, source-verification rules, and a local card validator, so confirm external facts, personal study data, and installer file scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI 10x Learning",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的十步学习闭环 Skill，结合多视角研究、主动回忆、费曼复述和 HTML 学习卡；带安装脚本、引用/核实规则与本地校验器，使用前请确认外部事实、个人学习资料和安装脚本的文件范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",

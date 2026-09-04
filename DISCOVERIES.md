@@ -29,7 +29,6 @@ Last refreshed: **2026-09-04 UTC**
 | [sindney/m5stack_toys](https://github.com/sindney/m5stack_toys) | 16 | 2026-07-30 | MIT | Toys powered by M5Stack, software by WorkBuddy/OpenClaw, and an idea born from human creativity. |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | 2026-08-11 | MIT | CODEX × WORKBUDDY Token 监控看板 \| 本地实时 SSE 看板，监控 AI 会话的 Token 消耗、命中率与活跃会话最新消息 / Local real-time SSE dashboard monitoring AI session token usage, hit-rate &amp; latest activity. |
-| [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | 2026-08-16 | MIT | AI 10x 学习法 —— 用 AI 真正"学会"的 10 步闭环 skill，跨 WorkBuddy / Claude Code / Codex / Cursor 通用。用 AI 真正"学会"（而非只拿答案）的 10 步闭环学习法。融合斯坦福 STORM 多视角研究法与 Rahul 的六角色学习框架。 |
 | [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | 2026-08-21 | NOASSERTION | 12 个常用 Prompt 合集（数字生命卡兹克整理）· 多智能体分发版：WorkBuddy / Claude Code / Cursor / Trae / CodeBuddy / 通用 md。参考微信原文，CC BY-NC 4.0。 |
 | [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | 2026-07-26 | MIT | 《三分钟精读一本书》视频生成器 - Agent Skills 跨平台技能 \| 从扣子工作流移植，支持 WorkBuddy、OpenClaw、Codex、TRAE Work、Claude等。 |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | NOASSERTION | - |
