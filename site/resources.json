@@ -490,6 +490,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "i18n Helper Skills",
+    "url": "https://github.com/liangdabiao/i18n-helper-skills",
+    "description": "A license-not-declared internationalization Skill collection for WorkBuddy/Codex and other Agents, with complementary workflows for static HTML language directories and translation functions in React/Vue/PHP/Python/Java source, plus extraction, application, and completeness-check scripts; it batch-reads and rewrites project files, so back up and review target scope and licensing first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "i18n Helper Skills",
+    "descriptionZh": "许可未声明、面向 WorkBuddy/Codex 等 Agent 的国际化 Skill 集合，分别处理静态 HTML 多语言目录和 React/Vue/PHP/Python/Java 等源码翻译函数，附带提取、应用与完整性检查脚本；脚本会批量读取和改写项目文件，使用前请备份并核对目标范围与许可",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "PMCockpit",
     "url": "https://github.com/wsdlp46/PMCockpit",
     "description": "An Apache-2.0 AI product-management cockpit for WorkBuddy, Codex, and Claude that turns requirements, specs, prototypes, reviews, retrospectives, and lessons into eight executable Skills; its installer changes or symlinks workspace entry points, while testing and VitePress capabilities are opt-in, so confirm workspace, template, and external-project permissions first",
