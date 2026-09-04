@@ -1200,6 +1200,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "SkillHive",
+    "url": "https://github.com/tonycc/skillhive",
+    "description": "An MIT-licensed enterprise Skill hub that uses a WorkBuddy MCP connector for centralized distribution, versioning, review, feedback, and operation auditing, with auditable connector build and verification scripts; deployment requires PostgreSQL, administrator tokens, and an approved HTTPS enterprise MCP endpoint, while real-client compatibility and production approval still require human verification, and build artifacts or internal endpoints must not be exposed as public install links",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "SkillHive",
+    "descriptionZh": "MIT 许可的企业内部 Skill 中枢，通过 WorkBuddy MCP 连接器集中分发、版本管理、评审、反馈和操作审计，并提供可审计的连接器构建/校验流程；部署需要 PostgreSQL、管理员令牌和获批的 HTTPS 企业 MCP 地址，真实客户端兼容性与上线审核仍需人工验证，禁止把构建产物或内部地址当作公共安装入口",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH Reminder",
     "url": "https://github.com/Aisland-SJL/dsh-reminder",
     "description": "An MIT-licensed DeepSeek Harness cross-window reminder plugin that notifies you when a task finishes or waits for human approval; it only reminds and never approves on your behalf, requires browser notification permission, and is a complementary tool for WorkBuddy/Codex-style agent workflows",

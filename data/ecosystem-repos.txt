@@ -5,6 +5,7 @@ liangdabiao/i18n-helper-skills
 xiewende424/roundtable-kg
 Elisabeth15501/ai-weekly
 dcc-mcp/dcc-mcp-agent-plugins
+tonycc/skillhive
 yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
 chenwg001/qingfengskill
