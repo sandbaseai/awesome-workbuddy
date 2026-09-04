@@ -19,7 +19,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | Non-standard / unrecognized | - |
-| [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |
 | [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
 | [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | 2026-07-12 | Not declared | WorkBuddy AI Agent Skills Collection - 78 skills for game dev, frontend, backend, and more |
 | [darker2016/workbuddy-skill-groups](https://github.com/darker2016/workbuddy-skill-groups) | 13 | 2026-08-16 | Non-standard / unrecognized | 39 个 WorkBuddy 专家团队协作 skill 包（开源）— 投资 / 营销 / 工程 / 设计 / 法律 / 财税 / 数据 / 销售 / HR / 社媒 / 变现 等 13 个一级分类 |
