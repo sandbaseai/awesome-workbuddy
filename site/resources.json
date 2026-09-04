@@ -760,6 +760,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "CodeBuddy2OpenAI",
+    "url": "https://github.com/HanHan666666/codebuddy2openai",
+    "description": "An MIT-licensed single-file local protocol converter that wraps a signed-in CodeBuddy/WorkBuddy session as an OpenAI-compatible `/v1/chat/completions` endpoint, listening on `127.0.0.1` by default; it reads local auth state, refreshes tokens, and can log complete request/response bodies, and it does not work with the current Codex CLI, so review source, credential files, logs, exposed ports, and Tencent account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy2OpenAI",
+    "descriptionZh": "MIT 许可的单文件本地协议转换器，将已登录的 CodeBuddy/WorkBuddy 会话包装为 OpenAI 兼容的 `/v1/chat/completions` 接口，默认仅监听 `127.0.0.1`；它会读取本机登录态、刷新令牌并可记录完整请求/响应日志，且不兼容新版 Codex CLI，使用前请审查源码、凭据文件、日志、端口暴露和腾讯账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy CLIProxy provider",
     "url": "https://github.com/lovingfish/workbuddy-cliproxy",
     "description": "An MIT-licensed CLIProxyAPI plugin that exposes CodeBuddy models to OpenAI/Anthropic clients with QR login and token refresh; credentials are stored in the local plugin directory and it includes upstream template-adaptation logic, so review source, account terms, and data flows before use",
