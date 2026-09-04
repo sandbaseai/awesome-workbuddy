@@ -147,5 +147,6 @@ Last refreshed: **2026-09-04 UTC**
 | [iuuunlyk/AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) | 0 | PowerShell | 2026-09-04 |
 | [JaguarJack/workbuddy-openapi](https://github.com/JaguarJack/workbuddy-openapi) | 0 | PHP | 2026-09-04 |
 | [NI9N/gerenshiyongshuomingshu](https://github.com/NI9N/gerenshiyongshuomingshu) | 0 | - | 2026-09-04 |
+| [NikoKennedy/translate-book-windows](https://github.com/NikoKennedy/translate-book-windows) | 0 | Python | 2026-09-04 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
