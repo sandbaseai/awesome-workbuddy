@@ -840,6 +840,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Bilibili Video Summary",
+    "url": "https://github.com/Willson-Huang/bilibili-video-summary",
+    "description": "An MIT-licensed local video-knowledge Skill with a WorkBuddy edition that uses subtitles or local Whisper transcription to produce 14-section Markdown notes with timestamps, entity tables, and claims-to-verify; it may download video/audio, use optional cookies, faster-whisper, and model files, so review rights, privacy, disk use, source facts, and generated notes",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Bilibili Video Summary",
+    "descriptionZh": "MIT 许可、提供 WorkBuddy 版的本地视频知识整理 Skill，通过字幕或本地 Whisper 转写生成带时间戳、实体表和待核实声明的 14 节 Markdown 笔记；需要下载视频/字幕及可选 Cookie、faster-whisper 和模型文件，使用前请确认版权、隐私、磁盘空间和来源事实，生成笔记仍需人工复核",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "1688 Product Reader",
     "url": "https://github.com/yyc424666lvy/1688-product-reader",
     "description": "An MIT-licensed, read-only WorkBuddy Skill for extracting product title, price, MOQ, seller, SKU, images, and specifications from logged-in 1688 pages; the user signs in manually in an isolated browser profile, and the Skill does not place orders or manage login state, so review platform terms, page access, and information freshness first",
@@ -1337,6 +1347,16 @@
     "category": "Tools and integrations",
     "titleZh": "DSH Memory Palace",
     "descriptionZh": "MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具；会读写本地记忆，智能摘要可调用模型，使用前应确认目录、敏感内容和网络/费用边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Hybrid Memory",
+    "url": "https://github.com/Frog755/dsh-hybrid-memory",
+    "description": "An MIT-licensed local hybrid-memory plugin combining frozen snapshots, a SQLite FTS5 fact base, and imports from Hermes, Claude, Codex, and WorkBuddy, with threat scanning, a review queue, atomic writes, and drift detection; it reads transcripts, writes memory directories, and indexes imported content, so review the data root, backups, sensitive material, and its default auto-accept behavior before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Hybrid Memory",
+    "descriptionZh": "MIT 许可的本地混合记忆插件，将冻结快照、SQLite FTS5 可检索事实和跨 Hermes/Claude/Codex/WorkBuddy 导入结合，并提供威胁扫描、审核队列、原子写和漂移检测；它会读写记忆目录、导入会话内容并建立索引，安装前请确认数据根目录、备份、敏感内容和默认 auto-accept 行为",
     "categoryZh": "Tools and integrations"
   },
   {
