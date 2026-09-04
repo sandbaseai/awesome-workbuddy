@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -33,3 +34,13 @@ jobs:
           git add ECOSYSTEM.md DISCOVERIES.md
           git commit -m "chore: refresh ecosystem metrics"
           git push
+      - name: Publish discovery queue as an issue
+        run: |
+          issue_number="$(gh issue list --label discovery --state open --json number --jq '.[0].number')"
+          if [ -n "$issue_number" ]; then
+            gh issue edit "$issue_number" --title "Weekly WorkBuddy ecosystem discovery queue" --body-file DISCOVERIES.md
+          else
+            gh issue create --title "Weekly WorkBuddy ecosystem discovery queue" --label discovery --body-file DISCOVERIES.md
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
