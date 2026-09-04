@@ -57,6 +57,7 @@ HanHan666666/codebuddy2openai
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator
+jiangxu1024/hotspot-monitor-skill
 lovingfish/workbuddy-cliproxy
 caigee-cmd/cli2api
 zhuyifang/tonghuasun-agent

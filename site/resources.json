@@ -590,6 +590,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Hotspot Monitor Skill",
+    "url": "https://github.com/jiangxu1024/hotspot-monitor-skill",
+    "description": "An MIT-licensed WorkBuddy trend-monitoring Skill that collects several Chinese platforms, filters by keywords, and schedules Feishu Base writes and mobile notifications; configuration involves a Feishu App Secret, Base Token, Table ID, and webhook, while crawling and pushing remain subject to platform terms and personal-data boundaries, so use secure local configuration and review permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Hotspot Monitor Skill",
+    "descriptionZh": "MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
