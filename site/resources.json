@@ -820,6 +820,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Infoseek",
+    "url": "https://github.com/GYINT/infoseek",
+    "description": "An MIT-licensed end-to-end research MCP/Skill compatible with WorkBuddy, combining multi-source discovery, four-level fetching, four-dimensional scoring, cross-source contradiction detection, structured reports, and long-term archiving with regression tests and key management; advanced fetching may use browsers, Whisper, search keys, and external models, so review credential injection, network scope, personal data, archive directories, and research conclusions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Infoseek",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy 的端到端研究 MCP/Skill，包含多源发现、四级抓取、四维评分、跨源矛盾检测、结构化报告和长期归档，并提供回归测试与 Key 管理；高级抓取可能使用浏览器、Whisper、搜索 Key 和外部模型，使用前请审查凭据注入、网络范围、个人数据与归档目录，并人工复核研究结论",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "MarkItDown Skill",
+    "url": "https://github.com/stwhwing/markitdown-skill",
+    "description": "An MIT-licensed WorkBuddy-compatible document and web-to-Markdown Skill built on Microsoft's MarkItDown, adding SPA/web fallbacks, batch conversion, and a local token estimator; SSRF protection is enabled by default but internal targets can be explicitly allowed, while browser fallbacks and output files still access external pages or local material, so review URLs, dependencies, output paths, and rights",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "MarkItDown Skill",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy 的文档与网页转 Markdown Skill，基于 Microsoft MarkItDown 并提供 SPA/网页回退、批量转换和本地 token 估算；默认启用 SSRF 防护但可显式放开内网地址，浏览器回退和文件输出仍会读取外部页面/本地资料，使用前请确认 URL、依赖、输出目录和版权范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "1688 Product Reader",
     "url": "https://github.com/yyc424666lvy/1688-product-reader",
     "description": "An MIT-licensed, read-only WorkBuddy Skill for extracting product title, price, MOQ, seller, SKU, images, and specifications from logged-in 1688 pages; the user signs in manually in an isolated browser profile, and the Skill does not place orders or manage login state, so review platform terms, page access, and information freshness first",

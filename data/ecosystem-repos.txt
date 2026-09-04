@@ -10,6 +10,8 @@ tonycc/skillhive
 bailinghub/bailinghub-workbuddy-connector
 Bolton-Z/ns-mcp-china
 zkhyww/ai-short-drama-skills
+GYINT/infoseek
+stwhwing/markitdown-skill
 yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
 chenwg001/qingfengskill
