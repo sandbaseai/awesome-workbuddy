@@ -40,3 +40,4 @@ CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch
 tangshiyegit/agent-guide
+Neo5093/workbuddy-guide
