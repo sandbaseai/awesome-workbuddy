@@ -1,0 +1,5 @@
+interface:
+  display_name: "Source-backed Research Brief"
+  short_description: "Draft concise briefs with traceable evidence"
+  brand_color: "#087F5B"
+  default_prompt: "Use $source-backed-research-brief to answer a decision question with traceable sources and explicit uncertainty."

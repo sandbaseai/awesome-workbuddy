@@ -12,6 +12,7 @@ Review every file first. Test with non-sensitive copies and limited permissions 
 
 - [document-quality-review](document-quality-review/SKILL.md) - Reviews evidence, calculations, consistency, completeness, links, rendered layout, sensitive data, and operational usability before a deliverable is sent.
 - [skill-security-audit](skill-security-audit/SKILL.md) - Performs a read-only, evidence-backed review of instructions, code, dependencies, permissions, credentials, data flow, and irreversible actions before installing an Agent extension.
+- [source-backed-research-brief](source-backed-research-brief/SKILL.md) - Produces concise decision briefs that separate sourced facts, calculations, and inference while preserving conflicts and evidence gaps.
 
 ## Validate
 
