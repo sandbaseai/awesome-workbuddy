@@ -125,3 +125,4 @@ WaterCMY/A-share-watch-copilot
 joyparkray/agent-avatar
 iuuunlyk/AgentSessionQuery
 abc1317679842-ui/workbuddy-token-tracker
+dingminhua/dsh-connect-workbuddy
