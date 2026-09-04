@@ -460,6 +460,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "WorkBuddy Harness",
+    "url": "https://github.com/zhuang-HE/workbuddy-harness",
+    "description": "A license-not-declared nine-dimension infrastructure framework for WorkBuddy-style Agents, with 11 plugins, 21 Hooks, Hook/evaluation runtimes, a daemon, and 30 benchmark cases; it is a third-party engineering framework rather than a Tencent official component, and its Hooks, scripts, and runtime may read/write projects or execute local commands, so review code, dependencies, permissions, fixtures, and workspace scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "WorkBuddy Harness",
+    "descriptionZh": "许可未声明、面向 WorkBuddy 风格 Agent 的九维基础设施框架，包含 11 个插件、21 个 Hooks、Hook/评测运行引擎、守护进程和 30 条基准用例；它是第三方工程框架而非腾讯官方组件，Hooks、脚本和运行时可能读写项目或执行本地命令，使用前请审查代码、依赖、权限、测试数据和工作区范围",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "Undergraduate Thesis AI Workflow",
     "url": "https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow",
     "description": "A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses; it explicitly requires authentic research, data, and citations, so follow institutional policies and review API keys and source-material scope before use",
