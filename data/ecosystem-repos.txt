@@ -19,6 +19,7 @@ bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 CatCatUncle/openworkbuddy
 ysyx2008/SailFish
+opensymph/OpenBuddy
 xiaoliuzhuan666/workbuddy-account-migrate
 awesome-dsh-plugin/awesome-dsh-plugin
 hufeng173/kunpeng-skill
@@ -44,6 +45,7 @@ asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 corrinehu/dsh-workbuddy-connect
 Axiaohungry/dsh-llm-workbuddy
+zhuyifang/tonghuasun-agent
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
 comeonzhj/WorkBuddy-theme-skill
