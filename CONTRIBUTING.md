@@ -20,6 +20,13 @@ genuinely useful collection over a large unreviewed list.
 
 4. In the Pull Request, state what you personally verified and the review date.
 
+License evidence must distinguish a repository-level `LICENSE` file from a
+claim in a README, badge, or package manifest. When no license file exists,
+record it as **not declared**: public access permits linking and review, but does
+not imply permission to copy, modify, package, or redistribute. For collections,
+also trace the provenance and license of each bundled Skill, prompt, template,
+dataset, binary, or other third-party asset.
+
 For a Skill, MCP server, script, desktop extension, or other executable
 resource, also apply [SECURITY.md](SECURITY.md). Review installation commands,
 dependencies, permissions, credentials, network destinations, data flow, and
@@ -62,6 +69,11 @@ malicious, unavailable, moved, or out-of-scope resources directly.
    ```
 
 4. 在 Pull Request 中说明你实际验证了什么，以及检查日期。
+
+许可证证据必须区分仓库级 `LICENSE` 文件与 README、徽章或 package metadata
+中的声明。没有许可证文件时应记录为**未声明**：公开可访问只支持链接和审核，
+并不自动授予复制、修改、打包或再分发权限。对于聚合仓库，还要追溯其中每个
+Skill、提示词、模板、数据集、二进制或其他第三方资源的来源和许可证。
 
 涉及 Skill、MCP、脚本、桌面扩展或其他可执行资源时，还需要按
 [SECURITY.md](SECURITY.md) 检查安装指令、依赖、权限、凭据、网络目标、
