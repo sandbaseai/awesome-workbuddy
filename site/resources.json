@@ -530,6 +530,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Image Skill",
+    "url": "https://github.com/Mariposa-FLOA/image-skill",
+    "description": "A collection of 17 visual Skills for WorkBuddy, Codex, and compatible Agents covering poster art direction, image workflows, page-flip showcases, and layered PSD export, with bilingual usage documentation and per-asset provenance; Skills and docs are CC BY-NC 4.0, scripts are Apache-2.0, and examples are view/link only, so also confirm input-image privacy, external generation services, HyperFrames/FFmpeg/Pillow dependencies, and local output scope",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Image Skill",
+    "descriptionZh": "面向 WorkBuddy、Codex 等 Agent 的 17 个视觉 Skill，覆盖海报设计、图像工作流、翻页展示与分层 PSD 导出，并提供双语使用文档和逐项素材来源；Skill 与文档采用 CC BY-NC 4.0、脚本采用 Apache-2.0，示例素材仅允许查看和链接，使用时还应确认输入图像隐私、外部生成服务、HyperFrames/FFmpeg/Pillow 依赖及本地输出范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "workbuddyskills",
     "url": "https://github.com/infometa/workbuddyskills",
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",

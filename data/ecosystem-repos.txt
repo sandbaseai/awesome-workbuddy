@@ -104,3 +104,4 @@ semlinker/awesome-workbuddy
 quantskills/skill-pandadata-api
 taxueseek/session-digger
 maojiebc/majia-huiyuan
+Mariposa-FLOA/image-skill

@@ -90,6 +90,7 @@ Last refreshed: **2026-09-04 UTC**
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | - | 2026-06-14 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
+| [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | Python | 2026-09-03 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-04 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |

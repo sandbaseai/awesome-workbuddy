@@ -117,6 +117,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [i18n Helper Skills](https://github.com/liangdabiao/i18n-helper-skills) - 许可未声明、面向 WorkBuddy/Codex 等 Agent 的国际化 Skill 集合，分别处理静态 HTML 多语言目录和 React/Vue/PHP/Python/Java 等源码翻译函数，附带提取、应用与完整性检查脚本；脚本会批量读取和改写项目文件，使用前请备份并核对目标范围与许可.
 - [PMCockpit](https://github.com/wsdlp46/PMCockpit) - Apache-2.0 的产品经理 AI 协作驾驶舱，支持 WorkBuddy、Codex 和 Claude，将需求、规格、原型、评审、复盘与经验沉淀为 8 个可执行 Skill；安装脚本会改写或软链工作区入口，测试和 VitePress 能力需显式启用，使用前请确认工作区、模板和外部项目权限.
 - [QingFeng Skills](https://github.com/chenwg001/qingfengskill) - MIT 许可、以 WorkBuddy 为主的 17 个教育工作与内容生产 Skill 集合，覆盖写作、PPT、图文/视频制作、平台草稿发布，并支持按目录单独复制安装；发布类 Skill 会通过浏览器/CDP接触平台账号和内容，使用前请确认凭据不硬编码、人工审核门禁、平台条款和发布范围.
+- [Image Skill](https://github.com/Mariposa-FLOA/image-skill) - 面向 WorkBuddy、Codex 等 Agent 的 17 个视觉 Skill，覆盖海报设计、图像工作流、翻页展示与分层 PSD 导出，并提供双语使用文档和逐项素材来源；Skill 与文档采用 CC BY-NC 4.0、脚本采用 Apache-2.0，示例素材仅允许查看和链接，使用时还应确认输入图像隐私、外部生成服务、HyperFrames/FFmpeg/Pillow 依赖及本地输出范围.
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - WorkBuddy Skills、连接器与专家的离线学习归档.
 - [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池.
 - [Ray Skills](https://github.com/imraywang/rayskills) - 面向内容生产与发布的可执行、可验证、可恢复工作流.
