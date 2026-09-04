@@ -710,6 +710,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "PDF Structured Extractor",
+    "url": "https://github.com/ttww1111/pdf-structured-extractor",
+    "description": "An MIT-licensed PDF-extraction Skill compatible with WorkBuddy, Codex, and Claude; it uses only PyMuPDF to emit structured Markdown/CSV for text, tables, and images, detects two-column, scanned, and garbled pages, and reports quality warnings. It has no network or telemetry by default, but reads selected PDFs and writes outputs, so review file and output scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "PDF Structured Extractor",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV；可识别双栏、扫描页和乱码并生成质量警告，默认无网络与遥测，但会读取用户指定的 PDF 并写入输出文件，使用前请确认文件和输出目录",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Session Fork",
     "url": "https://github.com/yamingmou/session-fork-core",
     "description": "An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it relies on unofficial local-storage internals, reads transcripts, inserts rows into `~/.workbuddy/workbuddy.db`, writes a lineage index, and can rewrite branch files with `--fix`, while its backup covers only the source JSONL, so quit WorkBuddy and separately back up the database and sensitive sessions first",
@@ -977,6 +987,16 @@
     "category": "Tools and integrations",
     "titleZh": "WorkBuddy for Obsidian",
     "descriptionZh": "在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Workbuddian",
+    "url": "https://github.com/jiang198012/workbuddian",
+    "description": "An MIT-licensed Obsidian desktop plugin that brings local WorkBuddy/CodeBuddy CLI into a vault with streaming chat, `@` references, session forks, MCP management, per-action approval, and undoable edits; desktop-only on Windows/macOS, it can read the vault and run approved local commands/MCP servers, so review paths and permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Workbuddian",
+    "descriptionZh": "MIT 许可的 Obsidian 桌面插件，将本机 WorkBuddy/CodeBuddy CLI 接入笔记库，支持流式对话、`@` 引用、会话分叉、MCP 管理、逐项批准和编辑撤销；仅支持 Windows/macOS，能读取 Vault 并执行获批的本地命令/MCP，安装前请审查路径和权限",
     "categoryZh": "Tools and integrations"
   },
   {
