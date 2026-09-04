@@ -1290,6 +1290,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy2API (Tom6814)",
+    "url": "https://github.com/Tom6814/WorkBuddy2API",
+    "description": "An MIT-licensed third-party local/containerized protocol converter that wraps WorkBuddy models as an OpenAI-compatible REST API with streaming chat, tool calls, text/image generation, token refresh, and Docker deployment; it reads the local WorkBuddy sign-in token and calls undocumented endpoints, so public deployment expands credential and account risk—review source, environment variables, ports, logs, and platform terms, and restrict use to authorized local testing",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy2API (Tom6814)",
+    "descriptionZh": "MIT 许可的第三方本地/容器化协议转换器，将 WorkBuddy 模型包装为 OpenAI 兼容 REST API，支持流式对话、工具调用、文生图/图生图、Token 刷新和 Docker 部署；它需要读取本机 WorkBuddy 登录 Token 并调用未公开接口，部署到公网会扩大凭据和账号风险，使用前请审查源码、环境变量、端口、日志、平台条款，严格限于本人授权的本地测试",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Jupyter Bridge",
     "url": "https://github.com/Kallium-cn/workbuddy-jupyter-bridge",
     "description": "An MIT-licensed JupyterLab MCP wiring Skill for WorkBuddy 5.x that provides code execution in the real kernel, notebook/cell read-write, persistent variables, and DataFrame introspection, with nine end-to-end checks for configuration and troubleshooting; it merges into `~/.workbuddy/mcp.json`, and connector calls can change live kernel state. Although it binds to `127.0.0.1` by default and requires explicit UI trust, back up configuration and review notebook, data, and WSL network scope first",
