@@ -870,6 +870,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Buddy2api",
+    "url": "https://github.com/wicm84266964/Buddy2api",
+    "description": "An MIT-licensed local multi-channel gateway that separately exposes WorkBuddy/CodeBuddy, QClaw, QwenWork, and TraeWork login states through OpenAI-compatible APIs, with Codex Responses, Docker, and API-key channel routing; upstream explicitly limits it to local use and says not to deploy publicly or share credentials, so review local auth files, the database, ports, and each provider's account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Buddy2api",
+    "descriptionZh": "MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接入 OpenAI 兼容接口，支持 Codex Responses、Docker 和 API Key 通道路由；项目明确要求仅本机使用、不要公开部署或分享凭据，使用前请审查本地认证文件、数据库、端口和各平台账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy CLIProxy provider",
     "url": "https://github.com/lovingfish/workbuddy-cliproxy",
     "description": "An MIT-licensed CLIProxyAPI plugin that exposes CodeBuddy models to OpenAI/Anthropic clients with QR login and token refresh; credentials are stored in the local plugin directory and it includes upstream template-adaptation logic, so review source, account terms, and data flows before use",

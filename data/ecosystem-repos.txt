@@ -54,6 +54,7 @@ corrinehu/dsh-workbuddy-connect
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 HanHan666666/codebuddy2openai
+wicm84266964/Buddy2api
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator

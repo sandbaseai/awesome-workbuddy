@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**80 curated repositories · 4 original Skills · 27 discovery candidates · weekly validation**
+**81 curated repositories · 4 original Skills · 26 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -158,6 +158,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [CLI2API](https://github.com/caigee-cmd/cli2api) - MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，支持多账号路由、独立 worker、Docker 和回环控制台；默认仅监听 `127.0.0.1` 并要求 API Key，但会处理 OAuth/PAT/凭据导入，使用前请保护导出文件、端口和账号条款边界，勿用于共享转售.
 - [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - MIT 许可的本地协议转换器，将已登录的 WorkBuddy/CodeBuddy 会话转为 OpenAI、Responses 和 Anthropic 兼容接口；它会读取本机登录态并向 `copilot.tencent.com` 转发，使用前请审查源码、凭据文件、端口暴露和腾讯账号条款.
 - [CodeBuddy2OpenAI](https://github.com/HanHan666666/codebuddy2openai) - MIT 许可的单文件本地协议转换器，将已登录的 CodeBuddy/WorkBuddy 会话包装为 OpenAI 兼容的 `/v1/chat/completions` 接口，默认仅监听 `127.0.0.1`；它会读取本机登录态、刷新令牌并可记录完整请求/响应日志，且不兼容新版 Codex CLI，使用前请审查源码、凭据文件、日志、端口暴露和腾讯账号条款.
+- [Buddy2api](https://github.com/wicm84266964/Buddy2api) - MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接入 OpenAI 兼容接口，支持 Codex Responses、Docker 和 API Key 通道路由；项目明确要求仅本机使用、不要公开部署或分享凭据，使用前请审查本地认证文件、数据库、端口和各平台账号条款.
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新；凭据保存在本地插件目录，且包含针对上游审核模板的适配逻辑，使用前请核对源码、账号条款与数据流.
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - 跨 AI Agent 管理、安装和同步 Skills 与 MCP Servers.
