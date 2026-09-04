@@ -35,6 +35,5 @@ Last refreshed: **2026-09-04 UTC**
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | 2026-09-04 | MIT | Windows desktop multi-account check-in &amp; management tool - Tauri 2 + React 18 + Rust (Trae + WorkBuddy) |
 | [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | 2026-07-13 | MIT | WorkBuddy 全自动免费领积分｜免费开源，复制一句话让 AI 自动安装，支持 macOS 和 Windows |
 | [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | 2026-09-03 | NOASSERTION | Original visual Skills for Codex, WorkBuddy, and compatible agents. |
-| [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | 2026-09-03 | MIT | 会员运营 · 马甲实战版 — 会员指标、RFM、留存、任务池、数仓与看板参考体系，新增 WorkBuddy 单专家发布适配 · v1.4.3 |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

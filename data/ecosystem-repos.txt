@@ -77,3 +77,4 @@ shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy
 quantskills/skill-pandadata-api
 taxueseek/session-digger
+maojiebc/majia-huiyuan

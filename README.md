@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**78 curated repositories · 4 original Skills · 29 discovery candidates · weekly validation**
+**79 curated repositories · 4 original Skills · 28 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -119,6 +119,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Ready-to-use Skills
 
+- [Majia Huiyuan](https://github.com/maojiebc/majia-huiyuan) - MIT 许可的会员运营与数据体系 Skill，提供 WorkBuddy 单专家发布包、55 个模拟逻辑数据集、25 条 ETL、12 类角色看板以及 RFM、留存、券效益和数据质量参考；所有数值均非真实经营基准，SQL 面向 Spark 3.4，历史平台 JSON 不可直接作为当前导入包，生产使用前必须完成字段映射、口径确认和回归验收，构建脚本还会重建指定的输出目录与 ZIP.
 - [Pandadata API Skill](https://github.com/quantskills/skill-pandadata-api) - GPL-3.0 的可安装 WorkBuddy/Codex 金融数据 Skill，内置 218 个接口的本地文档、检索工具、兼容性索引和可选真实调用；运行时会安装 `panda_data` 及数据依赖并连接用户配置的外部服务，配置器可将用户名和明文密码保存到权限为 600 的 `~/.pandadata/pandadata.env`，SDK 还会写入 `user.json`，因此请保护凭据、核对数据授权，且勿将结果视为投资建议.
 - [Photo to Monthly Zine Postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) - MIT 许可、可直接安装的 WorkBuddy/Codex Skill，将用户照片制作成 3:4 月历 Zine 明信片，并要求先核验匹配的文学与音乐来源；仓库不含执行脚本或凭据处理，但照片可能包含人物、位置、EXIF 或品牌信息，且资料检索与图像生成可能访问外部服务，使用前请确认素材隐私和网络边界.
 - [XHS Blogger Analyzer](https://github.com/arraycto/xhs-blogger-analyzer) - MIT 许可的 WorkBuddy/Claude Skill，通过 MCP 抓取小红书博主公开内容并生成内容策略、选题与结构化分析文档；安装脚本会下载依赖和第三方 MCP 二进制，首次运行需要扫码登录，使用前请核对平台条款、账号权限、抓取范围、下载来源和个人/创作者数据隐私.

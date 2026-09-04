@@ -540,6 +540,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Majia Huiyuan",
+    "url": "https://github.com/maojiebc/majia-huiyuan",
+    "description": "An MIT-licensed membership-operations and data-system Skill with a WorkBuddy single-expert package, 55 simulated logical datasets, 25 ETL flows, 12 role-oriented dashboards, and RFM, retention, coupon-effectiveness, and data-quality references; no values are real business benchmarks, SQL targets Spark 3.4, historical platform JSON is not a current import package, production use requires schema mapping, metric agreement, and regression acceptance, and its build tool recreates the selected output directory and ZIP",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Majia Huiyuan",
+    "descriptionZh": "MIT 许可的会员运营与数据体系 Skill，提供 WorkBuddy 单专家发布包、55 个模拟逻辑数据集、25 条 ETL、12 类角色看板以及 RFM、留存、券效益和数据质量参考；所有数值均非真实经营基准，SQL 面向 Spark 3.4，历史平台 JSON 不可直接作为当前导入包，生产使用前必须完成字段映射、口径确认和回归验收，构建脚本还会重建指定的输出目录与 ZIP",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Pandadata API Skill",
     "url": "https://github.com/quantskills/skill-pandadata-api",
     "description": "A GPL-3.0 installable financial-data Skill for WorkBuddy/Codex with local documentation for 218 APIs, search tooling, a compatibility index, and optional live calls; its runtime installs `panda_data` and data dependencies and contacts a user-configured external service, while setup may save the username and plaintext password to a mode-600 `~/.pandadata/pandadata.env` and the SDK also writes `user.json`, so protect credentials, confirm data entitlements, and do not treat outputs as investment advice",
