@@ -380,6 +380,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Skill Doctor",
+    "url": "https://github.com/evilstar2016/skill-doctor",
+    "description": "A local MIT-licensed CLI for auditing Skill conflicts, duplicates, security risks, and context cost across WorkBuddy and other Agents. It reads local resources by default and binds its UI to loopback; still confirm scan scope and report contents before exporting results",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Skill Doctor",
+    "descriptionZh": "面向 WorkBuddy 等 Agent 的本地 Skill 冲突、重复、安全风险与上下文成本审计 CLI；MIT 许可，默认只读取本地文件并绑定回环地址，使用前仍应确认扫描范围与导出报告内容",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it",
