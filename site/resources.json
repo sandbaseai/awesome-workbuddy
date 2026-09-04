@@ -1150,6 +1150,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy OpenAPI PHP SDK",
+    "url": "https://github.com/JaguarJack/workbuddy-openapi",
+    "description": "An MIT-licensed third-party PHP 8.1+ SDK for the official WorkBuddy OpenAPI, covering OAuth, profile and phone verification, local-assistant messages/permissions, cloud tasks, artifacts, redemption, and ACP. It does not persist tokens itself, but handles client secrets, user/task tokens, and prompts; can send messages, create tasks, answer permission requests, redeem benefits, and run ACP prompts; and trusts ACP/sandbox URLs returned by the official API when sending task tokens, so integrations should use least privilege, server-side secret storage, OAuth state and idempotency checks, hostname allowlists, and per-action human approval",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy OpenAPI PHP SDK",
+    "descriptionZh": "MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助手消息/权限、云任务、产物、兑换和 ACP；它本身不持久化令牌，但会处理客户端密钥、用户/任务令牌及提示词，并可发送消息、创建任务、响应权限、兑换权益和执行 ACP，且会信任官方 API 返回的 ACP/沙箱 URL 并向其发送任务令牌，接入时应使用最小权限、服务端密钥存储、OAuth state/幂等校验、主机白名单和逐项人工确认",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Token Tracker",
     "url": "https://github.com/abc1317679842-ui/workbuddy-token-tracker",
     "description": "An MIT-licensed Windows WorkBuddy Skill and hook that aggregates per-turn tokens, duration, per-model daily ledgers, and system notifications from local traces/transcripts. It scans complete sessions, persistently writes ledgers and diagnostic logs, invokes Node/Python/PowerShell, and enables refreshes from several public pricing sources by default; balance lookup is off by default but reads a DeepSeek API key when enabled, and costs remain estimates based on mutable pricing data and manual time-band rules rather than invoices, so review source, retention, network, and credential scope before installation",

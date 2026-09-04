@@ -188,6 +188,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Tools and integrations
 
+- [WorkBuddy OpenAPI PHP SDK](https://github.com/JaguarJack/workbuddy-openapi) - MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助手消息/权限、云任务、产物、兑换和 ACP；它本身不持久化令牌，但会处理客户端密钥、用户/任务令牌及提示词，并可发送消息、创建任务、响应权限、兑换权益和执行 ACP，且会信任官方 API 返回的 ACP/沙箱 URL 并向其发送任务令牌，接入时应使用最小权限、服务端密钥存储、OAuth state/幂等校验、主机白名单和逐项人工确认.
 - [WorkBuddy Token Tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) - MIT 许可、面向 Windows WorkBuddy 的 Skill 与 hook，通过本地 trace/transcript 汇总每轮 Token、耗时、分模型日账本和系统通知；它会扫描完整会话、长期写入账本及诊断日志、调用 Node/Python/PowerShell，且默认联网刷新多个公开价格源，余额查询虽默认关闭但开启后会读取 DeepSeek API Key，费用仅为可变价格数据与人工时段规则下的估算，不能视为账单，安装前请审查源码、日志保留、网络和凭据范围.
 - [AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) - MIT 许可、基于 PowerShell 7 的本地会话查询工具，以统一命令检索 Codex、Claude Code 与 WorkBuddy 的会话、工作区、模型和 Token 统计；它不联网并以 SQLite 只读模式打开 WorkBuddy 数据库，但会扫描完整 transcript、调用本机 Python、短暂写入并删除临时 JSON，输出还可能暴露会话标题、路径、分支和恢复命令，分享或重定向结果前请先脱敏.
 - [Agent Avatar](https://github.com/joyparkray/agent-avatar) - MIT 许可的 macOS/Windows Live2D 桌面伙伴，通过只读观察器连接 WorkBuddy、Codex、Claude Code、Hermes 和 DeepSeek Harness，并把 Agent 状态映射为动画；项目不附带模型，Live2D Cubism Core 受单独许可约束，应用未沙箱化且 Windows 构建未签名，安装器还会调用宿主 CLI、写入插件配置并携带 Python 运行时，启用前请核对二进制、模型许可、hook 权限和本地状态文件范围.
