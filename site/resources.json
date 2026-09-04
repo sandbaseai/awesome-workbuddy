@@ -520,6 +520,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Paper CN Reader",
+    "url": "https://github.com/langlibai66/paper-cn-reader",
+    "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Paper CN Reader",
+    "descriptionZh": "MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF；需要 PyMuPDF、Playwright 和 Chromium，默认从 jsDelivr 加载 MathJax，且会在用户指定目录写入文档和提取资源，使用前请确认依赖和网络/写入范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "BossMate",
     "url": "https://github.com/yinren112/bossmate",
     "description": "An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope",
