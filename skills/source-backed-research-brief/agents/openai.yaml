@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source-backed Research Brief"
+  short_description: "Build a verifiable brief from current sources"
+  default_prompt: "Use $source-backed-research-brief to research this question and produce a concise, evidence-backed brief."
