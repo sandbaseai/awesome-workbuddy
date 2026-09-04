@@ -66,6 +66,14 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn("curate-workbuddy-resource", llms)
         self.assertIn("releases/latest", llms)
 
+    def test_llms_index_exposes_complete_machine_readable_directory(self) -> None:
+        llms = (ROOT / "site" / "llms.txt").read_text(encoding="utf-8")
+        self.assertIn(
+            "https://sandbaseai.github.io/awesome-workbuddy/resources.json", llms
+        )
+        self.assertIn("ECOSYSTEM.md", llms)
+        self.assertIn("CONTRIBUTING.md", llms)
+
 
 if __name__ == "__main__":
     unittest.main()

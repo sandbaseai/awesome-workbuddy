@@ -5,6 +5,7 @@
 Use these pages first:
 
 - [Searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/): filter the curated collection by keyword and category.
+- [Complete bilingual resource data](https://sandbaseai.github.io/awesome-workbuddy/resources.json): machine-readable titles, URLs, descriptions, sections, and categories for every curated entry.
 - [Start Here](https://github.com/sandbaseai/awesome-workbuddy/blob/main/START_HERE.md): choose between tasks, Skills, MCP, Automation, and Enterprise Agent workflows.
 - [Chinese README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.md): curated resources, examples, and selection standards.
 - [English README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.en.md): the same collection in English.
@@ -15,6 +16,17 @@ Use these pages first:
 - [Source-backed Research Brief](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/source-backed-research-brief): decision briefs with traceable sources, conflict handling, and explicit uncertainty.
 - [Curate WorkBuddy Resource](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/curate-workbuddy-resource): evidence-backed include, hold, or exclude decisions for candidate WorkBuddy resources.
 - [Latest Skill archives](https://github.com/sandbaseai/awesome-workbuddy/releases/latest): downloadable packages and server-computed SHA-256 digests.
+
+## Ecosystem monitoring
+
+- [Curated ecosystem ranking](https://github.com/sandbaseai/awesome-workbuddy/blob/main/ECOSYSTEM.md): refreshed GitHub stars, languages, and recent activity for reviewed repositories.
+- [Unvetted discovery queue](https://github.com/sandbaseai/awesome-workbuddy/blob/main/DISCOVERIES.md): automatically found candidates that still require relevance, license, permission, and maintenance review.
+
+## Contributing and community
+
+- [Contribution guide](https://github.com/sandbaseai/awesome-workbuddy/blob/main/CONTRIBUTING.md): bilingual inclusion criteria, validation steps, and pull-request workflow.
+- [Suggest a resource](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose): structured issue forms for resources, Skills, and corrections.
+- [Community discussion](https://github.com/sandbaseai/awesome-workbuddy/discussions/78): introductions, questions, and collaboration.
 
 This is an independent community index, not a Tencent publication. Indexed or
 listed resources are not automatically trusted or endorsed; inspect each
