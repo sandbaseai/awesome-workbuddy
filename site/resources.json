@@ -1010,6 +1010,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH Memory Palace",
+    "url": "https://github.com/lovezi0/dsh-memory-palace",
+    "description": "An MIT-licensed DeepSeek Harness memory plugin that bridges existing `.workbuddy/memory` directories, keeps editable Markdown memories/logs/summaries across sessions, and gates deletion behind confirmation; it reads and writes local memory, while smart summaries may call an LLM, so review directory scope, sensitive content, and network/cost boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Memory Palace",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具；会读写本地记忆，智能摘要可调用模型，使用前应确认目录、敏感内容和网络/费用边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Tonghuasun Agent",
     "url": "https://github.com/zhuyifang/tonghuasun-agent",
     "description": "An AGPL-3.0 connector for the Tonghuashun Windows desktop client that exposes quotes, account, positions, and trade data to WorkBuddy and other Agents; its local API uses a token and optional trading tools, while the core unsigned Windows plugin is currently closed source, so verify binaries, privacy, brokerage permissions, and trade-confirmation safeguards before use",
