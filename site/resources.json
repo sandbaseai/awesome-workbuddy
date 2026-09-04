@@ -440,6 +440,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH WorkBuddy Connect",
+    "url": "https://github.com/corrinehu/dsh-workbuddy-connect",
+    "description": "Connects WorkBuddy desktop models to DeepSeek Harness across Web, Desktop, and TUI; it reads the local WorkBuddy sign-in file and stores refresh credentials in DSH's own directory, relies on unofficial endpoints, and should be reviewed against the source and account terms before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH WorkBuddy Connect",
+    "descriptionZh": "将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Context Sync",
     "url": "https://github.com/westsource/agentctxsync",
     "description": "Self-hosted session synchronization and backup across devices and Agents",
