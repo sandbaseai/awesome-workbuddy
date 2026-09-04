@@ -41,6 +41,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Product homepage](https://www.workbuddy.ai/) - 产品能力、下载与套餐入口.
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南的权威入口.
 - [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - 从安装到完成第一个任务.
+- [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Mac 环境要求、下载、安装、登录与版本更新的官方步骤.
+- [Windows 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Windows 环境要求、下载、安装、登录与版本更新的官方步骤.
 - [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 涵盖任务表达、迭代、示例、备份、自动化和上下文管理的官方实践建议.
 - [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装登录、平台连接、文件、工作空间与会话恢复的官方排障入口.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 版本能力、修复与兼容性变化.
@@ -52,6 +54,10 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Core concepts
 
+- [创建任务](https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task) - 描述目标、选择工作目录、添加上下文并启动执行.
+- [任务对话](https://www.workbuddy.ai/docs/zh/workbuddy/Conversation) - 使用对话方式、发送文件和图片、查看执行过程、中断并继续任务.
+- [任务管理](https://www.workbuddy.ai/docs/zh/workbuddy/Task-Management) - 搜索筛选任务、查看状态、管理工作空间并继续已有任务.
+- [结果查看](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - 检查产物、表格和文档预览、网页输出、全部文件与变更.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - 了解内置 Skill、导入与创建入口.
 - [技能市场](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 统一浏览、安装、启用和管理 WorkBuddy Skills.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - 用自然语言沉淀可复用工作流.

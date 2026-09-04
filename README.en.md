@@ -36,6 +36,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Product homepage](https://www.workbuddy.ai/) - Product overview, downloads, and plan information.
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - The authoritative documentation hub.
 - [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - From installation to a first completed task.
+- [Install on macOS](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Official requirements, download, installation, sign-in, and update steps for Mac.
+- [Install on Windows](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Official requirements, download, installation, sign-in, and update steps for Windows.
 - [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management.
 - [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Product capabilities, fixes, and compatibility changes.
@@ -47,6 +49,10 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Core concepts
 
+- [Create a task](https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task) - Describe the goal, select a working directory, attach context, and start execution.
+- [Task conversation](https://www.workbuddy.ai/docs/zh/workbuddy/Conversation) - Use interaction modes, send files and images, follow execution, interrupt, and continue.
+- [Task management](https://www.workbuddy.ai/docs/zh/workbuddy/Task-Management) - Search, filter, inspect task states, organize workspaces, and resume existing tasks.
+- [View results](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - Inspect artifacts, table and document previews, web output, files, and changes.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - Learn where to find, import, and create Skills.
 - [Skills marketplace](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - Browse, install, enable, and manage WorkBuddy Skills in one place.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - Turn a natural-language workflow into a reusable Skill.
