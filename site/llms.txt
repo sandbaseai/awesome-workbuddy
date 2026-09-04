@@ -1,0 +1,16 @@
+# Awesome WorkBuddy
+
+> A community-curated, safety-conscious index of Tencent WorkBuddy resources.
+
+Use these pages first:
+
+- [Searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/): filter the curated collection by keyword and category.
+- [Start Here](https://github.com/sandbaseai/awesome-workbuddy/blob/main/START_HERE.md): choose between tasks, Skills, MCP, Automation, and Enterprise Agent workflows.
+- [Chinese README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.md): curated resources, examples, and selection standards.
+- [English README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.en.md): the same collection in English.
+- [Security checklist](https://github.com/sandbaseai/awesome-workbuddy/blob/main/SECURITY.md): review permissions, credentials, data flow, scripts, and irreversible actions before installation.
+- [Original Skills](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills): installable, auditable WorkBuddy Skills maintained by this repository.
+
+This is an independent community index, not a Tencent publication. Indexed or
+listed resources are not automatically trusted or endorsed; inspect each
+source, license, permission, and account term before use.
