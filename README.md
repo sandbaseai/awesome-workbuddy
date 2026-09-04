@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**101 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
+**102 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -169,6 +169,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [SeaTable Production](https://github.com/Darling5/seatable-production) - MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析；默认使用本地 CSV，写入前展示完整变更并等待确认，也可选接入 SeaTable、PartDB 或 ERP，使用前请核对凭据、字段映射、外部 API 和写入范围.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
 - [Org Context](https://github.com/wangjialiang678/org-context) - MIT 许可、支持 WorkBuddy/Claude Code/OpenCode 的企业上下文组织 Skill，以事实树、判断账和状态页降低 Agent 找错资料的概率，附带模板、可运行示例和机械校验；默认处理本地企业资料并会改写工作区文件，使用前请备份并确认资料范围.
+- [Delivery Razor](https://github.com/Ketian823/delivery-razor) - MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则；安装包含扫描/安装脚本，使用前应保留原稿、人工复核事实与语气，不要让自动清理替代最终验收.
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - 以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用；安装前请复核生成代码与本地接口权限.
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - 创建、校验、预览、应用和恢复可逆的 WorkBuddy 运行时主题；会通过本地 CDP 注入样式，必要时重启应用并运行本地 guard，但不修改 app.asar、签名、账号或对话数据，使用前请确认重启影响.
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy；采用 PolyForm Noncommercial 1.0.0，且会读写个人规划数据，安装前请确认许可与权限.
