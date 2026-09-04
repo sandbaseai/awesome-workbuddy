@@ -820,6 +820,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "A-share Watch Copilot",
+    "url": "https://github.com/WaterCMY/A-share-watch-copilot",
+    "description": "A WorkBuddy Skill for A-share/Hong Kong market monitoring with position and fund schemas, eight automation templates, reports, and an optional local dashboard; its license appends personal-learning/research restrictions after MIT text, and financial data and conclusions require human verification and must not drive automated trading or unlawful advice. Position files contain sensitive financial data, scripts contact Tencent, Eastmoney, and Sina endpoints, and the unauthenticated local server listens on `0.0.0.0:8801` and can rewrite holdings, so use it only on a trusted private network or bind it to loopback",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "A-share Watch Copilot",
+    "descriptionZh": "面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台；许可证在 MIT 文本后附加个人学习研究限制，金融数据和结论必须人工复核且不可用于自动下单或非法投顾。持仓文件含敏感财务数据，脚本会访问腾讯、东财、新浪等端点，本地服务默认监听 `0.0.0.0:8801`、无认证并可写回持仓，仅应在可信私网使用或改为回环地址",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Math Concept Film",
     "url": "https://github.com/liangdabiao/math-concept-film",
     "description": "A license-not-declared mathematics short-film Skill compatible with WorkBuddy, Codex, and Claude, using a voice-first caption timeline to drive Manim animation with a six-act teaching framework, still-frame checks, and ffmpeg composition; narration relies on Microsoft's online TTS, so review network use, source-material rights, output scope, and licensing before use",

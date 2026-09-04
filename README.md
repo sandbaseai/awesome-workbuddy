@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**107 curated repositories · 4 original Skills · 20 discovery candidates · weekly validation**
+**108 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -149,6 +149,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Roundtable KG](https://github.com/xiewende424/roundtable-kg) - MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图；仅需 Python 3.8+、无第三方依赖，图谱展示的是讨论结构而非事实证明，使用时仍应复核来源与结论.
 - [AI Weekly Report](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退；需要联网抓取和少量 Python 依赖，使用前请复核来源、时效、市场数据及外部发布目标.
 - [1688 Product Reader](https://github.com/yyc424666lvy/1688-product-reader) - MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数；独立浏览器 Profile 由用户手动登录，Skill 不负责下单或管理登录态，使用前请确认平台条款、页面访问和商品信息时效.
+- [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) - 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台；许可证在 MIT 文本后附加个人学习研究限制，金融数据和结论必须人工复核且不可用于自动下单或非法投顾。持仓文件含敏感财务数据，脚本会访问腾讯、东财、新浪等端点，本地服务默认监听 `0.0.0.0:8801`、无认证并可写回持仓，仅应在可信私网使用或改为回环地址.
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界.
 - [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) - MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围.
 - [Rainskills](https://github.com/goodrain/rainskills) - Apache-2.0 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的部署 Skill 集合，可识别项目、构建部署、排查日志、验证页面/API，并管理版本、快照和回滚；可连接 Rainbond Cloud、已有 Rainbond 或本机/服务器环境，执行前请确认凭据、网络、主机权限和回滚目标.
