@@ -42,4 +42,5 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("data/ecosystem-repos.txt", workflow)
         self.assertIn("skills/*/SKILL.md", workflow)
         self.assertIn("group: update-ecosystem-main", workflow)
+        self.assertIn("cancel-in-progress: true", workflow)
         self.assertIn("git pull --ff-only origin main", workflow)
