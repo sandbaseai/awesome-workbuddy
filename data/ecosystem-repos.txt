@@ -37,6 +37,7 @@ DevnorsAI/devnors-data-mcp
 corrinehu/dsh-workbuddy-connect
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
+comeonzhj/WorkBuddy-theme-skill
 CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch
