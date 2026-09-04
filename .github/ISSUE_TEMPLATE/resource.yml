@@ -18,6 +18,50 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: resource_type
+    attributes:
+      label: 资源类型 / Resource type
+      description: 请选择最精确的类型。 / Choose the narrowest applicable type.
+      options:
+        - 官方文档或教程 / Official documentation or tutorial
+        - 社区文章、视频或课程 / Community article, video, or course
+        - Skill 或 Skill 集合 / Skill or Skill collection
+        - MCP、连接器或自动化 / MCP, connector, or automation
+        - 客户端、扩展或开发工具 / Client, extension, or developer tool
+        - 基准、数据集或参考项目 / Benchmark, dataset, or reference project
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: 许可证证据 / License evidence
+      description: 填写 SPDX 标识和 LICENSE 链接；若没有许可证，请明确写“未声明”。README 或 package 中的声明不能替代许可证文件。 / Give the SPDX identifier and LICENSE link; write “not declared” when absent. A README or package claim does not replace a license file.
+      placeholder: MIT — https://github.com/owner/repo/blob/main/LICENSE
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: 来源与再分发依据 / Provenance and redistribution
+      description: 说明其中复制、归档或打包的 Skills、提示词、模板、数据集、截图和二进制来自哪里、适用什么许可；没有此类内容时写“不适用”。 / Identify the origin and license of copied, archived, or bundled Skills, prompts, templates, datasets, screenshots, and binaries; write “not applicable” when none exist.
+    validations:
+      required: true
+  - type: textarea
+    id: permissions
+    attributes:
+      label: 权限与数据流 / Permissions and data flow
+      description: 说明安装命令、文件读写、凭据、网络目标、外部操作、确认与回滚；纯文档可写“不执行代码”。 / Describe installation, file access, credentials, network destinations, external actions, confirmation, and rollback; documentation-only resources may state “does not execute code.”
+    validations:
+      required: true
+  - type: input
+    id: reviewed_at
+    attributes:
+      label: 核验日期 / Review date
+      description: 使用 YYYY-MM-DD，方便将来重新核验会变化的事实。 / Use YYYY-MM-DD so changing facts can be re-checked later.
+      placeholder: 2026-09-05
+    validations:
+      required: true
+  - type: dropdown
     id: relationship
     attributes:
       label: 你与该资源的关系 / Your relationship to the resource

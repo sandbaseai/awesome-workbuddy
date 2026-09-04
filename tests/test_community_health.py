@@ -34,6 +34,20 @@ class CommunityHealthTests(unittest.TestCase):
             self.assertIn(" / ", form, filename)
             self.assertIn("Resource URL", form, filename)
 
+        resource_form = (
+            ROOT / ".github" / "ISSUE_TEMPLATE" / "resource.yml"
+        ).read_text(encoding="utf-8")
+        for field_id in (
+            "resource_type",
+            "license",
+            "provenance",
+            "permissions",
+            "reviewed_at",
+        ):
+            self.assertIn(f"id: {field_id}", resource_form)
+        self.assertIn("not declared", resource_form)
+        self.assertIn("YYYY-MM-DD", resource_form)
+
     def test_ecosystem_refresh_runs_after_authoritative_changes(self) -> None:
         workflow = (
             ROOT / ".github" / "workflows" / "update-ecosystem.yml"
