@@ -145,6 +145,7 @@ Kallium-cn/workbuddy-jupyter-bridge
 darker2016/workbuddy-skill-groups
 laubeing-droid/unified-legal-ai-cn
 ahang1598/doubao-workbuddy-qwenwork-skills
+vbarter/workbuddy-experts
 zhuang-HE/workbuddy-harness
 mfkyddh/ZZZ-Simple-AI
 Tom6814/WorkBuddy2API

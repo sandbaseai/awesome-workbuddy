@@ -21,7 +21,7 @@ Last refreshed: **2026-09-04 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 236 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 237 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
@@ -42,7 +42,7 @@ Last refreshed: **2026-09-04 UTC**
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 61 | Go | 2026-09-04 |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 62 | Go | 2026-09-04 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
@@ -94,6 +94,7 @@ Last refreshed: **2026-09-04 UTC**
 | [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | Python | 2026-08-21 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | Python | 2026-07-09 |
+| [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | Go Template | 2026-05-21 |
 | [chaoliuzhu65-tech/universal-travel-planner-skill](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) | 13 | Python | 2026-04-17 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | - | 2026-06-14 |
