@@ -1140,6 +1140,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Token Tracker",
+    "url": "https://github.com/abc1317679842-ui/workbuddy-token-tracker",
+    "description": "An MIT-licensed Windows WorkBuddy Skill and hook that aggregates per-turn tokens, duration, per-model daily ledgers, and system notifications from local traces/transcripts. It scans complete sessions, persistently writes ledgers and diagnostic logs, invokes Node/Python/PowerShell, and enables refreshes from several public pricing sources by default; balance lookup is off by default but reads a DeepSeek API key when enabled, and costs remain estimates based on mutable pricing data and manual time-band rules rather than invoices, so review source, retention, network, and credential scope before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Token Tracker",
+    "descriptionZh": "MIT 许可、面向 Windows WorkBuddy 的 Skill 与 hook，通过本地 trace/transcript 汇总每轮 Token、耗时、分模型日账本和系统通知；它会扫描完整会话、长期写入账本及诊断日志、调用 Node/Python/PowerShell，且默认联网刷新多个公开价格源，余额查询虽默认关闭但开启后会读取 DeepSeek API Key，费用仅为可变价格数据与人工时段规则下的估算，不能视为账单，安装前请审查源码、日志保留、网络和凭据范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "AgentSessionQuery",
     "url": "https://github.com/iuuunlyk/AgentSessionQuery",
     "description": "An MIT-licensed, PowerShell 7 local session-query tool that searches Codex, Claude Code, and WorkBuddy sessions, workspaces, models, and token statistics through one command. It makes no network requests and opens the WorkBuddy database in SQLite read-only mode, but scans complete transcripts, invokes local Python, briefly writes and deletes an intermediate JSON file, and can expose titles, paths, branches, and resume commands in output, so redact results before sharing or redirecting them",
