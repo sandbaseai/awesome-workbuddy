@@ -31,6 +31,7 @@ yinren112/bossmate
 Jobo16/ielts-buddy
 langlibai66/paper-cn-reader
 bigbay957-sudo/workbuddy-for-obsidian
+tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage
 TencentCloud/tencentmeeting-cli
 Aisland-SJL/dsh-reminder
 feichanggege/ecommerce-visual-copywriting-skill
