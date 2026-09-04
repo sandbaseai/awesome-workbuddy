@@ -118,6 +118,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - Generates, validates, and exports draw.io diagrams across platforms.
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - Plans, writes, and reviews textbooks using Understanding by Design.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - An open job-search system built from seven Skills and a Feishu workspace.
+- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - An evidence-based Skill that researches current roles and JDs, compares them with resume/project evidence, and prioritizes job-search actions; MIT licensed and compatible with WorkBuddy, Codex, Claude, and Cursor. It can research public job information on request, so review personal-data scope and retrieved sources before use.
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - Produces copy, images, layout, and WeChat Official Account drafts.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - Agent Skills covering a CRM lead-to-cash workflow.
 - [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - Reviews videos, covers, subtitles, sales claims, and platform risks before publishing.
@@ -151,6 +152,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first.
 - [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - Moves conversations, long-term memory, and MCP connectors after an account switch; MIT licensed, with backup, rollback, and post-migration verification. It rewrites SQLite `user_id` values and merges local data, so confirm the backup, source/target accounts, and data scope before running it.
+- [Crew](https://github.com/shuishenghualalala/Ace) - An Apache-2.0 open-source WorkBuddy-style local multi-agent workbench with Desktop, Web, CLI, Skills, MCP, knowledge-base, task automation, and multi-agent collaboration; a source-preview release that can access local files and optionally control browsers, external channels, and user-provided models, so review security switches, API keys, account settings, and data boundaries before use.
 
 ### Benchmarks
 
