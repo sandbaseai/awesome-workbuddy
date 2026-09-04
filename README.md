@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**128 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**129 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -208,6 +208,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AssetPlex](https://github.com/wynter-cai/assetplex) - MIT 许可、完全本地的跨 Agent 资产中枢，将 identity、Skills、rules 和 MCP 配置集中管理并同步到 WorkBuddy、Codex、Claude Code、TRAE 和 Qoder，支持反向导入、格式转换、符号链接和本地 Web UI；同步可能读写多个 Agent 配置目录并覆盖/链接文件，使用前请备份、审查适配器与路径权限，并确认敏感配置不会被意外导出.
 - [VOKO](https://github.com/laoyudashu/voko) - AGPL-3.0 许可、面向 WorkBuddy 等本地 Agent 的通信运行时，支持 MCP、A2A 1.0、REST/Webhook、精确会话路由、权限策略、人工介入和本地审计；可选公网入口、注册/跨端消息和运营服务会扩大数据与暴露面，且 E2EE 只覆盖明确的私聊边界，部署前请核对云端依赖、TLS/密钥模型、Provider 权限、端口和许可证义务.
 - [Task Passport](https://github.com/dongsheng123132/task-passport) - MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Harness 的版本化任务交接协议，以已验证状态、事实、决策和下一步生成可携带的 TaskPack，支持过期写入冲突、ask/receipt 回执、结构合规检查和跨机导入；TaskPack 不内建签名且包内内容都是数据而非指令，使用前请在包外核对完整性、审查敏感附件并确认本地 store 权限.
+- [Garmin Connect Plugin for DSH](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) - MIT 许可、11 Star 的 Garmin Connect MCP/Skill 插件，支持 WorkBuddy 等 Agent 通过浏览器 MFA 查询活动、睡眠、步数和心率，并将只读工具与本地 FIT 文件写入、训练计划创建明确分开；会处理健康数据和 Garmin 账号会话，使用前请确认授权、隐私、区域登录流程，并对任何训练库写入保留人工确认.
 - [NetSuite MCP](https://github.com/Bolton-Z/ns-mcp-china) - MIT 许可、纯 Node.js 内置模块的 NetSuite MCP 连接器，可供 WorkBuddy 通过 OAuth 2.0 查询 SuiteQL、报表和记录，并自动刷新令牌；它面向真实 ERP 数据和写操作，需管理员配置集成与专用角色，凭据虽以本地权限 600 保存仍应最小化权限、先在沙箱验证，并为每项生产写入保留人工审批和审计.
 - [Origin Auto](https://github.com/simcrq/origin-auto) - MIT 许可、面向 Windows OriginLab 的科研绘图 MCP 与 WorkBuddy Skill，提供 28 个 COM 自动化工具、独立脚本回退、真实数据出图验证以及 PNG/PDF/OPJU 存在性检查；需要本机已授权 Origin、Python 依赖和可见桌面自动化，运行会读取/写入工作簿并启动 Origin 进程，使用前请确认数据版权、安装许可、文件路径和导出结果.
 - [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) - MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知；它只提醒、不代替用户批准，需在浏览器中授予通知权限，适合作为 WorkBuddy/Codex 风格 Agent 的相邻协作工具.
