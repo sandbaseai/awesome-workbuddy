@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**47 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
+**48 curated repositories · 4 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -130,6 +130,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款.
 - [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌；MIT 许可。插件会保存凭据、打开登录页并请求 `copilot.tencent.com` 官方域名接口，但属于第三方适配器，使用前请核对账号条款与令牌存储.
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - 腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道；采用 PolyForm Noncommercial 1.0.0，商业使用需另行授权，并具备 Shell、浏览器和外部通道能力，使用前请审查权限与数据流.
+- [SailFish](https://github.com/ysyx2008/SailFish) - 面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多 IM 渠道；采用 AGPL v3 与商业许可双许可模式，使用前请确认许可、凭据和本地/远程操作权限.
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
