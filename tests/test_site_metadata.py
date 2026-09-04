@@ -50,6 +50,15 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn('id="share"', html)
         self.assertIn("navigator.share", html)
 
+    def test_page_exposes_the_community_welcome(self) -> None:
+        html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+        self.assertIn(
+            "https://github.com/sandbaseai/awesome-workbuddy/discussions/78",
+            html,
+        )
+        self.assertIn('data-i18n="communityButton"', html)
+        self.assertIn("communityButton: '加入社区'", html)
+
     def test_llms_index_exposes_installable_skills(self) -> None:
         llms = (ROOT / "site" / "llms.txt").read_text(encoding="utf-8")
         self.assertIn("source-backed-research-brief", llms)

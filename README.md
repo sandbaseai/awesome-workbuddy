@@ -225,7 +225,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 3. 使用 `标题 - 一句话说明价值。` 格式，并放入最精确的分类；
 4. 清楚披露付费、推广、数据收集或高风险权限。
 
-如果这个清单帮你节省了时间，欢迎点一个 ⭐；也欢迎通过 [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) 推荐你验证过的资源。问题、想法和开放讨论请到 [Discussions](https://github.com/sandbaseai/awesome-workbuddy/discussions)；参与前请阅读 [社区行为准则](CODE_OF_CONDUCT.md)。
+如果这个清单帮你节省了时间，欢迎点一个 ⭐；也欢迎通过 [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) 推荐你验证过的资源。第一次参与可从[双语欢迎帖](https://github.com/sandbaseai/awesome-workbuddy/discussions/78)开始，问题请发到 [Q&A](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/q-a)，工作流案例请发到 [Show and tell](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/show-and-tell)；参与前请阅读 [社区行为准则](CODE_OF_CONDUCT.md)。
 
 ## Acknowledgements
 

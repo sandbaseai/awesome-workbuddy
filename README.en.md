@@ -218,7 +218,7 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. A stro
 3. uses `Title - One-sentence value.` format in the most precise category; and
 4. discloses payment, promotion, data collection, and high-risk permissions.
 
-If this index saved you time, consider giving it a star. You can also [open an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) to nominate a resource you have verified. Bring questions, ideas, and open-ended conversation to [Discussions](https://github.com/sandbaseai/awesome-workbuddy/discussions), and read the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+If this index saved you time, consider giving it a star. You can also [open an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) to nominate a resource you have verified. Start with the [bilingual welcome](https://github.com/sandbaseai/awesome-workbuddy/discussions/78), ask questions in [Q&A](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/q-a), and share workflows in [Show and tell](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/show-and-tell). Read the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
 ## Acknowledgements
 
