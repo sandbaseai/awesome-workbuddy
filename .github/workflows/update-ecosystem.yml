@@ -21,6 +21,7 @@ jobs:
         run: |
           python scripts/update_ecosystem.py
           python scripts/discover_repos.py
+          python scripts/update_readme_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
@@ -31,7 +32,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ECOSYSTEM.md DISCOVERIES.md
+          git add ECOSYSTEM.md DISCOVERIES.md README.md
           git commit -m "chore: refresh ecosystem metrics"
           git push
       - name: Publish discovery queue as an issue
