@@ -59,6 +59,7 @@ DevnorsAI/devnors-data-mcp
 Jamailar/Beav
 corrinehu/dsh-workbuddy-connect
 lovezi0/dsh-memory-palace
+jiang12345-code/dsh-agent-selector
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 HanHan666666/codebuddy2openai

@@ -1080,6 +1080,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH Agent Selector",
+    "url": "https://github.com/jiang12345-code/dsh-agent-selector",
+    "description": "An MIT-licensed DeepSeek Harness plugin that dispatches tasks to WorkBuddy built-in/custom models, Codex, or Claude and returns provenance receipts; its WorkBuddy channels read local model/session data, write the automations database, and depend on reverse-engineered scheduling behavior, so review credentials, task content, database backups, and account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Agent Selector",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证；WorkBuddy 通道会读取本地模型与会话数据、写入 automations 数据库并依赖逆向调度器，使用前请审查凭据、任务内容、数据库备份和账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Tonghuasun Agent",
     "url": "https://github.com/zhuyifang/tonghuasun-agent",
     "description": "An AGPL-3.0 connector for the Tonghuashun Windows desktop client that exposes quotes, account, positions, and trade data to WorkBuddy and other Agents; its local API uses a token and optional trading tools, while the core unsigned Windows plugin is currently closed source, so verify binaries, privacy, brokerage permissions, and trade-confirmation safeguards before use",
