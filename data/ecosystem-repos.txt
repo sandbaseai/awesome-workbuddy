@@ -65,6 +65,7 @@ Dangooy/trade-pipeline-skill
 Darling5/seatable-production
 asen-goat-mine/boujoy-local-markdown-memory
 wangjialiang678/org-context
+Ketian823/delivery-razor
 DevnorsAI/devnors-data-mcp
 Jamailar/Beav
 HenryXiaoYang/wechat-openclaw-channel

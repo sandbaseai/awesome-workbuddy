@@ -990,6 +990,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Delivery Razor",
+    "url": "https://github.com/Ketian823/delivery-razor",
+    "description": "An MIT-licensed WorkBuddy delivery-hygiene Skill that removes cross-session memory labels, in-session residue, and defensive disclaimers, with optional compression rules for executive one-pagers; it ships install/scan scripts, so retain the original, manually review facts and tone, and do not replace final acceptance with automated cleanup",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Delivery Razor",
+    "descriptionZh": "MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则；安装包含扫描/安装脚本，使用前应保留原稿、人工复核事实与语气，不要让自动清理替代最终验收",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy App Builder Skill",
     "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
     "description": "An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation; review generated code and local API permissions before installation",
