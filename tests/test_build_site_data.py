@@ -2,6 +2,7 @@ import json
 import sys
 import tempfile
 import unittest
+import json
 from pathlib import Path
 
 
@@ -14,6 +15,15 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class BuildSiteDataTests(unittest.TestCase):
+    def test_curated_readmes_and_generated_data_have_unique_external_urls(self) -> None:
+        for path in (build_site_data.ROOT / "README.md", build_site_data.ROOT / "README.en.md"):
+            urls = [item["url"] for item in build_site_data.parse_readme(path)]
+            self.assertEqual(len(urls), len(set(urls)), f"duplicate URL in {path.name}")
+
+        resources = json.loads((build_site_data.ROOT / "site" / "resources.json").read_text(encoding="utf-8"))
+        urls = [item["url"] for item in resources]
+        self.assertEqual(len(urls), len(set(urls)), "duplicate URL in site/resources.json")
+
     def test_builds_bilingual_deduplicated_resources(self) -> None:
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
