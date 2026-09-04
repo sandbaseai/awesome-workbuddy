@@ -5,6 +5,7 @@ liangdabiao/i18n-helper-skills
 wsdlp46/PMCockpit
 88lin/workbuddy-auto-signin
 AlephAITech/WorkBuddyGuide
+Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
 Tencent/workbuddy-bench
 adongwanai/learn-workbuddy
