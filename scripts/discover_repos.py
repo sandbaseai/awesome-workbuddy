@@ -68,16 +68,19 @@ def render(items: list[dict[str, object]], updated: str) -> str:
         "",
         f"Last refreshed: **{updated} UTC**",
         "",
-        "| Repository | Stars | Last push | Description |",
-        "| --- | ---: | --- | --- |",
+        "| Repository | Stars | Last push | License | Description |",
+        "| --- | ---: | --- | --- | --- |",
     ]
     for item in candidates:
         name = clean(item["full_name"])
         url = item["html_url"]
         stars = int(item["stargazers_count"])
         pushed = str(item["pushed_at"])[:10]
+        license_info = item.get("license") or {}
+        license_name = license_info.get("spdx_id") or license_info.get("name") or "Not declared"
+        license_name = clean(license_name)
         description = clean(item.get("description"))
-        rows.append(f"| [{name}]({url}) | {stars:,} | {pushed} | {description} |")
+        rows.append(f"| [{name}]({url}) | {stars:,} | {pushed} | {license_name} | {description} |")
     rows.extend(
         [
             "",
