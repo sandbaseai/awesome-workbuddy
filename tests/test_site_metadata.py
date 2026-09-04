@@ -36,9 +36,19 @@ class SiteMetadataTests(unittest.TestCase):
         html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
         self.assertIn('id="language"', html)
         self.assertIn("awesome-workbuddy-locale", html)
-        self.assertIn("new URLSearchParams(location.search).get('lang')", html)
+        self.assertIn("params.get('lang')", html)
         self.assertIn("item.titleZh", html)
         self.assertIn('data-i18n="heroTitle"', html)
+
+    def test_page_has_shareable_filter_state(self) -> None:
+        html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("params.get('q')", html)
+        self.assertIn("get('category')", html)
+        self.assertIn("url.searchParams.set('q', query)", html)
+        self.assertIn("url.searchParams.set('category', category.value)", html)
+        self.assertIn("history.replaceState(null, '', url)", html)
+        self.assertIn('id="share"', html)
+        self.assertIn("navigator.share", html)
 
 
 if __name__ == "__main__":
