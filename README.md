@@ -18,6 +18,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Guides](#guides)
 - [Use Cases](#use-cases)
 - [Research and Engineering](#research-and-engineering)
+- [Selection Standard](#selection-standard)
 - [Acknowledgements](#acknowledgements)
 
 ## Start Here
@@ -70,6 +71,11 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 从写作、配图、排版到微信公众号草稿发布的 Skill 包.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - 覆盖销售 L2C 流程的 CRM Agent Skills.
+- [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - 发布前审核视频、封面、字幕、带货信息与平台合规风险，并保留证据定位.
+- [Ontology-driven Development](https://github.com/sharptoolbox/ontology-driven-dev) - 从需求探索、本体建模到应用构建的可追溯业务系统开发 Skill.
+- [Codebase Reverse](https://github.com/sharptoolbox/codebase-reverse) - 将 Java Web 或微服务代码逆向为功能、架构、接口和数据模型文档.
+- [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
+- [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
 
 ### Tools and integrations
 
@@ -77,6 +83,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - 跨 AI Agent 管理、安装和同步 Skills 与 MCP Servers.
 - [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) - 在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源.
 - [Tencent Meeting CLI](https://github.com/TencentCloud/tencentmeeting-cli) - 腾讯会议官方 CLI，可作为 Agent 的会议管理工具.
+- [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - 为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key.
+- [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
 
@@ -89,7 +97,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准、任务与评测代码.
 
-查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)，以及等待人工复核的 [GitHub 新项目发现队列](DISCOVERIES.md)。
+查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)。
 
 ## Skills, Prompts and MCP
 
@@ -153,6 +161,22 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [Tencent WorkBuddy Bench](https://arxiv.org/abs/2607.20911) - 多领域 coding-agent 基准与可复现实验协议.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - OpenAI-compatible 模型接入示例.
+
+## Selection Standard
+
+本清单不以数量为目标。资源进入主列表前会从以下方面审核：
+
+**相关性：** 必须直接支持、讲解或评测腾讯 WorkBuddy，而不是只在关键词中顺带提及.
+
+**可验证性：** 优先官方资料、开放源码、可执行步骤、测试、演示和清楚的输入输出.
+
+**维护状态：** 检查最近提交、Issue、归档状态和链接可用性；stars 只作为辅助信号.
+
+**安全与透明度：** 检查许可证、脚本、依赖、权限、凭据处理、数据流向和商业关系.
+
+**独特价值：** 重复、转载、纯营销或缺少实质说明的内容不会因为热度而收录.
+
+安装任何第三方扩展前，请使用 [Skill、MCP 与扩展安全检查清单](SECURITY.md)。尚未完成审核的新项目仅出现在 [自动发现队列](DISCOVERIES.md)，不会自动进入主列表.
 
 ## Contributing
 
