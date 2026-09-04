@@ -1390,6 +1390,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Wudao A-Share Stock Data MCP",
+    "url": "https://github.com/jcdreamjc/wudao-mcp",
+    "description": "An MIT-licensed, 11-star remote HTTP MCP data service with direct WorkBuddy support and 63 read-only A-share tools for quotes, K-lines, indexes/ETFs, limit-up ladders, sector rotation, capital flow, Dragon Tiger Lists, research reports, disclosures, and post-market review; it requires an API key and sends requests to a remote endpoint, while explicitly not executing trades, promising returns, or providing investment advice, so review data rights, fees, privacy, and financial-compliance boundaries",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Wudao A-Share Stock Data MCP",
+    "descriptionZh": "MIT 许可、11 Star 的远程 HTTP MCP 数据服务，直接支持 WorkBuddy，提供 63 个只读 A 股工具，覆盖行情、K 线、指数/ETF、涨停梯队、板块轮动、资金流、龙虎榜、研报、公告和盘后复盘；需要申请 API Key 并把数据请求发送到远程端点，项目明确不执行交易、不承诺收益或提供投资建议，使用前请核对数据授权、费用、隐私和金融合规边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Beav",
     "url": "https://github.com/Jamailar/Beav",
     "description": "A local-first workspace for creator research, assets, ideation, and production that connects to WorkBuddy through a user-scoped plugin and loopback MCP service. It uses a custom MIT-derived license that prohibits commercial use, production packages may lead the public source snapshot, and workflows can involve local workspaces, model credentials, browser/social content, and localhost services; verify versions, licensing, platform terms, and permission scope before installation",
