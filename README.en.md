@@ -198,6 +198,9 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 
 ### Documents, data, and professional work
 
+- [File recognition and processing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/File-Recognition) - Official workflow for batch renaming, meeting-note organization, and foreign-language video translation.
+- [Google Calendar and Drive](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Google-Integration) - Connect Google services, describe the goal, and verify calendar or file results.
+- [Build a local app without code](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Local-App) - Design, troubleshoot, and iteratively upgrade a local application with WorkBuddy.
 - [Document generation and editing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - Official walkthrough for generating Word documents and creating presentations from source material and templates.
 - [Data analysis and visualization](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - Official walkthrough for turning spreadsheets or collected data into charts and visual reports.
 - [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) - Presentation generation and visual refinement.
@@ -214,9 +217,15 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 
 ### Content and career
 
+- [Social-media operations](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - Official workflow for producing Xiaohongshu and video content.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - From topic selection through publishing.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - Orchestrate study and job-search tasks.
 - [Six time-consuming job-search tasks](https://mp.weixin.qq.com/s/mogl1CFtEEf9GCK2_BxbCg) - Practical job-search automation.
+
+### Automation and Agent workflows
+
+- [Automated daily briefing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing) - Connect QQ Mail, test a briefing, schedule daily delivery, and personalize the result.
+- [AI self-directed execution](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/AI-Self-Driven) - Define an outcome, let WorkBuddy plan the steps, and require a self-check before delivery.
 
 ## Research and Engineering
 

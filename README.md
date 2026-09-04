@@ -203,6 +203,9 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Documents, data and professional work
 
+- [文件内容识别与处理](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/File-Recognition) - 官方工作流：批量重命名、整理会议纪要和翻译外文视频.
+- [Google Calendar 与 Drive](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Google-Integration) - 连接 Google 服务、描述目标并核验日程或文件结果.
+- [零代码制作本地应用](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Local-App) - 用 WorkBuddy 设计、排错并持续升级本地应用.
 - [文档生成与编辑](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - 官方演练：生成 Word 文档，以及依据素材和模板制作演示文稿.
 - [数据分析并可视化](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - 官方演练：将表格或搜集的数据转为图表和可视化报告.
 - [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) - PPT 生成与美化.
@@ -219,9 +222,15 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Content and career
 
+- [自媒体运营](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - 小红书图文和视频内容生产的官方工作流.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - 从选题到发布的内容工作流.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - 学习与求职任务编排.
 - [Six time-consuming job-search tasks](https://mp.weixin.qq.com/s/mogl1CFtEEf9GCK2_BxbCg) - 求职自动化案例.
+
+### Automation and Agent workflows
+
+- [每日自动资讯简报](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing) - 连接 QQ 邮箱、测试简报、设置每日发送并进行个性化调整.
+- [AI 自驱动执行](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/AI-Self-Driven) - 说明任务目标，让 WorkBuddy 自行拆解步骤并在交付前完成自检.
 
 ## Research and Engineering
 
