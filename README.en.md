@@ -112,6 +112,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Ready-to-use Skills
 
+- [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first.
 - [BossMate](https://github.com/yinren112/bossmate) - An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope.
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - An MIT-licensed IELTS learning Skill collection for WorkBuddy covering study plans, writing/speaking/reading/listening review, vocabulary, and mock exams, with installation and validation scripts; optional personal-learning API binding and local tokens require careful data-scope review, and passwords, cookies, and tokens should never be shared.
 

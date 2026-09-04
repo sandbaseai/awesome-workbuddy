@@ -61,6 +61,7 @@ Last refreshed: **2026-09-04 UTC**
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | JavaScript | 2026-09-04 |
 | [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | CSS | 2026-08-26 |
 | [comeonzhj/WorkBuddy-theme-skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) | 18 | CSS | 2026-07-18 |
+| [langlibai66/paper-cn-reader](https://github.com/langlibai66/paper-cn-reader) | 18 | CSS | 2026-07-16 |
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
