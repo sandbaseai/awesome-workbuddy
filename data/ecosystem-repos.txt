@@ -21,6 +21,7 @@ ysyx2008/SailFish
 xiaoliuzhuan666/workbuddy-account-migrate
 awesome-dsh-plugin/awesome-dsh-plugin
 hufeng173/kunpeng-skill
+evilstar2016/skill-doctor
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
 feichanggege/ecommerce-visual-copywriting-skill

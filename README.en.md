@@ -93,6 +93,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - A Chinese guide to connecting a local Zotero library to WorkBuddy.
 - [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - Adds searchable, pinyin-aware, keyboard-friendly skill picking to the DeepSeek Harness Web GUI, reproducing WorkBuddy-style `/skill-name` invocation; MIT licensed. It reads user and project Skill directories and exposes a local Web route, so review its filesystem scope before installation.
 - [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - An Apache-2.0 multi-source distillation Skill for WorkBuddy, Codex, Claude Code, and other Agents. It turns repositories, websites, UI, images, audio/video, and documents into evidence-backed reusable methods and generation specifications; install its optional local analyzers only after reviewing dependencies and file scope.
+- [Skill Doctor](https://github.com/evilstar2016/skill-doctor) - A local MIT-licensed CLI for auditing Skill conflicts, duplicates, security risks, and context cost across WorkBuddy and other Agents. It reads local resources by default and binds its UI to loopback; still confirm scan scope and report contents before exporting results.
 
 ### Ready-to-use Skills
 
