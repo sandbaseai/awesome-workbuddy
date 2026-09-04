@@ -40,6 +40,16 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn("item.titleZh", html)
         self.assertIn('data-i18n="heroTitle"', html)
 
+    def test_page_has_shareable_filter_state(self) -> None:
+        html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('id="share"', html)
+        self.assertIn("get('q')", html)
+        self.assertIn("get('category')", html)
+        self.assertIn("history.replaceState", html)
+        self.assertIn("navigator.clipboard.writeText", html)
+        self.assertIn("navigator.share", html)
+        self.assertIn("shareCopied", html)
+
 
 if __name__ == "__main__":
     unittest.main()

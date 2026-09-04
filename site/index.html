@@ -79,7 +79,9 @@
         <div class="actions">
           <a class="button primary" data-i18n="githubButton" href="https://github.com/sandbaseai/awesome-workbuddy">View and star on GitHub</a>
           <a class="button" data-i18n="suggestButton" href="https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose">Suggest a resource</a>
+          <button class="button" id="share" type="button" data-i18n="shareButton" hidden>Share results</button>
         </div>
+        <p id="shareStatus" aria-live="polite" role="status"></p>
       </div>
       <img class="hero-image" src="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp" data-i18n-attr="alt:heroAlt" alt="WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills">
     </header>
@@ -110,7 +112,7 @@
         heroIntro: 'Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.',
         githubButton: 'View and star on GitHub', suggestButton: 'Suggest a resource', heroAlt: 'WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills',
         searchLabel: 'Search resources', searchPlaceholder: 'Search resources, tools, and use cases', categoryLabel: 'Filter by category', allCategories: 'All categories',
-        directoryTitle: 'Curated directory', footer: 'Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.',
+        directoryTitle: 'Curated directory', shareButton: 'Share results', shareCopied: 'Shareable link copied.', shareFailed: 'Could not copy the link. You can copy the address bar URL instead.', footer: 'Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.',
         count: (shown, total) => `${shown} of ${total} resources`, empty: 'No resources match those filters. Try a broader term or choose all categories.', unavailable: 'Unavailable', error: 'The directory could not load. Open the GitHub repository to browse the maintained list.'
       },
       'zh-CN': {
@@ -118,7 +120,7 @@
         heroIntro: '搜索官方文档、可复用 Skills、MCP 集成、实用工作流、评测与开源工具。主列表中的每个条目都经过审核。',
         githubButton: '在 GitHub 上 Star', suggestButton: '推荐资源', heroAlt: 'WorkBuddy 文档、表格、代码、MCP 集成与 Skills',
         searchLabel: '搜索资源', searchPlaceholder: '搜索资源、工具和使用场景', categoryLabel: '按类别筛选', allCategories: '全部类别',
-        directoryTitle: '精选目录', footer: '独立社区索引。安装第三方扩展前，请检查源码、权限、凭据和数据流向。',
+        directoryTitle: '精选目录', shareButton: '分享结果', shareCopied: '可分享链接已复制。', shareFailed: '复制失败，你也可以直接复制地址栏中的链接。', footer: '独立社区索引。安装第三方扩展前，请检查源码、权限、凭据和数据流向。',
         count: (shown, total) => `${shown} / ${total} 个资源`, empty: '没有匹配的资源。请尝试更宽泛的关键词或选择全部类别。', unavailable: '暂不可用', error: '目录加载失败。请打开 GitHub 仓库浏览维护中的资源列表。'
       }
     };
@@ -156,6 +158,30 @@
       });
       category.value = seen.has(selected) ? selected : '';
     }
+    function syncUrl() {
+      const url = new URL(location.href);
+      const query = search.value.trim();
+      const selected = category.value;
+      query ? url.searchParams.set('q', query) : url.searchParams.delete('q');
+      selected ? url.searchParams.set('category', selected) : url.searchParams.delete('category');
+      locale === 'zh-CN' ? url.searchParams.set('lang', locale) : url.searchParams.delete('lang');
+      history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
+    }
+    function setShareStatus(key) { document.querySelector('#shareStatus').textContent = currentCopy()[key]; }
+    async function shareResults() {
+      syncUrl();
+      const url = location.href;
+      try {
+        if (navigator.share) {
+          await navigator.share({ title: currentCopy().title, url });
+          return;
+        }
+        await navigator.clipboard.writeText(url);
+        setShareStatus('shareCopied');
+      } catch (error) {
+        if (error.name !== 'AbortError') setShareStatus('shareFailed');
+      }
+    }
     function render() {
       const query = search.value.trim().toLowerCase();
       const selected = category.value;
@@ -179,14 +205,24 @@
       }
     }
     const requested = new URLSearchParams(location.search).get('lang');
+    const requestedQuery = new URLSearchParams(location.search).get('q') || '';
+    const requestedCategory = new URLSearchParams(location.search).get('category') || '';
     const saved = localStorage.getItem('awesome-workbuddy-locale');
     const browserChinese = navigator.language.toLowerCase().startsWith('zh');
+    search.value = requestedQuery;
+    document.querySelector('#share').hidden = false;
     applyLocale(requested || saved || (browserChinese ? 'zh-CN' : 'en'), false);
-    language.addEventListener('change', () => applyLocale(language.value));
-    search.addEventListener('input', render); category.addEventListener('change', render);
+    language.addEventListener('change', () => { applyLocale(language.value); syncUrl(); });
+    search.addEventListener('input', () => { syncUrl(); render(); });
+    category.addEventListener('change', () => { syncUrl(); render(); });
+    document.querySelector('#share').addEventListener('click', shareResults);
     fetch('./resources.json')
       .then((response) => { if (!response.ok) throw new Error('Resource data unavailable'); return response.json(); })
-      .then((data) => { resources = data; rebuildCategories(); grid.setAttribute('aria-busy', 'false'); render(); })
+      .then((data) => {
+        resources = data; rebuildCategories();
+        if ([...category.options].some((option) => option.value === requestedCategory)) category.value = requestedCategory;
+        syncUrl(); grid.setAttribute('aria-busy', 'false'); render();
+      })
       .catch(() => { grid.setAttribute('aria-busy', 'false'); grid.replaceChildren(Object.assign(document.createElement('p'), { className: 'error', textContent: currentCopy().error })); count.textContent = currentCopy().unavailable; });
   </script>
 </body>
