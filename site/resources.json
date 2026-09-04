@@ -850,6 +850,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH Reminder",
+    "url": "https://github.com/Aisland-SJL/dsh-reminder",
+    "description": "An MIT-licensed DeepSeek Harness cross-window reminder plugin that notifies you when a task finishes or waits for human approval; it only reminds and never approves on your behalf, requires browser notification permission, and is a complementary tool for WorkBuddy/Codex-style agent workflows",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Reminder",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知；它只提醒、不代替用户批准，需在浏览器中授予通知权限，适合作为 WorkBuddy/Codex 风格 Agent 的相邻协作工具",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Devnors Data MCP",
     "url": "https://github.com/DevnorsAI/devnors-data-mcp",
     "description": "Legal, company, content, and research data APIs for WorkBuddy; requires an external API key",
