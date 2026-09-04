@@ -113,6 +113,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 ### Ready-to-use Skills
 
 - [BossMate](https://github.com/yinren112/bossmate) - An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope.
+- [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - An MIT-licensed IELTS learning Skill collection for WorkBuddy covering study plans, writing/speaking/reading/listening review, vocabulary, and mock exams, with installation and validation scripts; optional personal-learning API binding and local tokens require careful data-scope review, and passwords, cookies, and tokens should never be shared.
 
 This repository maintains four original installable Skills: [Document Quality Review](skills/document-quality-review/SKILL.md) performs read-only delivery checks, [Skill Security Audit](skills/skill-security-audit/SKILL.md) reviews third-party extensions before installation, [Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) turns web research into a verifiable brief with facts and inference kept distinct, and [Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) gives candidates evidence-backed include, hold, or exclude decisions across relevance, quality, licensing, provenance, and safety.
 
