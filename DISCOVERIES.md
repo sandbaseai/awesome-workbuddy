@@ -7,7 +7,7 @@ Last refreshed: **2026-09-04 UTC**
 
 | Repository | Stars | Last push | License | Description |
 | --- | ---: | --- | --- | --- |
-| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
+| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 187 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | Non-standard / unrecognized | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
