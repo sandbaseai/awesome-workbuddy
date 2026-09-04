@@ -74,6 +74,7 @@ Last refreshed: **2026-09-04 UTC**
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
 | [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | HTML | 2026-08-16 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
+| [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | Python | 2026-07-26 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
