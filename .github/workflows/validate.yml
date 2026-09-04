@@ -20,4 +20,6 @@ jobs:
         run: |
           python -m py_compile scripts/*.py
           python -m unittest discover -s tests -v
-          python scripts/validate_skill.py skills/document-quality-review
+          for skill_file in skills/*/SKILL.md; do
+            python scripts/validate_skill.py "$(dirname "$skill_file")"
+          done
