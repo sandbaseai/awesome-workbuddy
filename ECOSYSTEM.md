@@ -58,6 +58,7 @@ Last refreshed: **2026-09-04 UTC**
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 21 | JavaScript | 2026-09-04 |
 | [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-08-29 |
 | [sharptoolbox/WorkBuddy-AppBuilderSkill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) | 20 | Python | 2026-08-31 |
+| [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |
 | [yinren112/bossmate](https://github.com/yinren112/bossmate) | 19 | JavaScript | 2026-08-12 |
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | Python | 2026-09-04 |
 | [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | CSS | 2026-08-26 |
