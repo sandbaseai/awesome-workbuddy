@@ -780,6 +780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Career Copilot",
+    "url": "https://github.com/ronineymessjr-sudo/career-copilot",
+    "description": "An MIT-licensed, evidence-driven career workspace with native WorkBuddy Expert and MCP support for job search, JD analysis, profiles, resume generation, application tracking, and interview review; consequential actions such as applications and email are gated for human confirmation. The CLI requires a Tavily key, while career profiles, resumes, and job data may contain sensitive personal information, so review external search, storage, and final application content",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Career Copilot",
+    "descriptionZh": "MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递跟踪和面试复盘，并对投递/邮件等关键动作设置人工确认；CLI 需要 Tavily Key，求职画像、简历和岗位数据可能含敏感个人信息，使用前请核对外部搜索、保存位置和最终投递内容",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "IELTS Buddy Agent Skills",
     "url": "https://github.com/Jobo16/ielts-buddy",
     "description": "An MIT-licensed IELTS learning Skill collection for WorkBuddy covering study plans, writing/speaking/reading/listening review, vocabulary, and mock exams, with installation and validation scripts; optional personal-learning API binding and local tokens require careful data-scope review, and passwords, cookies, and tokens should never be shared",
