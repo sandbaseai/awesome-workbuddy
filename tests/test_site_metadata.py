@@ -56,6 +56,16 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn("skill-security-audit", llms)
         self.assertIn("releases/latest", llms)
 
+    def test_community_entry_points_are_published(self) -> None:
+        conduct = (ROOT / "CODE_OF_CONDUCT.md").read_text(encoding="utf-8")
+        self.assertIn("issues/new/choose", conduct)
+        self.assertIn("discussions", conduct)
+        for name in ("README.md", "README.en.md"):
+            readme = (ROOT / name).read_text(encoding="utf-8")
+            self.assertIn("CODE_OF_CONDUCT.md", readme)
+            self.assertIn("/discussions", readme)
+        self.assertIn("name: 社区行为报告", (ROOT / ".github/ISSUE_TEMPLATE/conduct.yml").read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()

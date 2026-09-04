@@ -28,6 +28,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Research and Engineering](#research-and-engineering)
 - [Related Lists](#related-lists)
 - [Selection Standard](#selection-standard)
+- [Community](#community)
 
 ## Start Here
 
@@ -214,6 +215,10 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. A stro
 4. discloses payment, promotion, data collection, and high-risk permissions.
 
 If this index saved you time, consider giving it a star. You can also [open an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) to nominate a resource you have verified.
+
+## Community
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community standards. Use an [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) for scoped bugs and resource nominations, and [Discussions](https://github.com/sandbaseai/awesome-workbuddy/discussions) for open-ended questions and experience sharing.
 
 ## Acknowledgements
 

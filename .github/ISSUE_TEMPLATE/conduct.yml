@@ -1,0 +1,23 @@
+name: 社区行为报告
+description: 报告违反社区行为准则的公开行为（请勿提交敏感隐私或凭据）
+title: "[Conduct]: "
+labels: [community]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先阅读 [CODE_OF_CONDUCT.md](../../CODE_OF_CONDUCT.md)。不要在公开 Issue 中提交密码、token、私人信息或可复现的攻击细节；敏感事项请使用准则中的维护者联系入口。
+  - type: textarea
+    id: summary
+    attributes:
+      label: 行为概述
+      description: 请客观说明发生了什么、在哪个公开位置发生，以及大致时间。
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我确认没有提交凭据、私人信息或敏感安全细节。
+          required: true

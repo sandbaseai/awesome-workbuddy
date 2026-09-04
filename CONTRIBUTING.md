@@ -18,6 +18,8 @@
 
 请勿提交纯营销软文、聚合转载、无法访问的私域链接、重复内容，或来源与权限不明的 Skill/MCP。若你是作者或与资源存在商业关系，请主动披露。
 
+行为准则见 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。需要明确范围的修复和资源推荐请使用 Issue；开放式问题、经验分享和方案讨论请使用 [Discussions](https://github.com/sandbaseai/awesome-workbuddy/discussions)。
+
 ## Review checklist
 
 - 链接使用 HTTPS，标题准确，没有跟踪参数。

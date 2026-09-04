@@ -33,6 +33,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Use Cases](#use-cases)
 - [Research and Engineering](#research-and-engineering)
 - [Selection Standard](#selection-standard)
+- [Community](#community)
 - [Acknowledgements](#acknowledgements)
 
 ## Start Here
@@ -222,6 +223,10 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 4. 清楚披露付费、推广、数据收集或高风险权限。
 
 如果这个清单帮你节省了时间，欢迎点一个 ⭐；也欢迎通过 [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) 推荐你验证过的资源。
+
+## Community
+
+行为准则见 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)；问题排查和资源建议请提交 [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)，开放讨论和经验交流请前往 [Discussions](https://github.com/sandbaseai/awesome-workbuddy/discussions)。
 
 ## Acknowledgements
 
