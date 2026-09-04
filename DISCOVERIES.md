@@ -24,7 +24,6 @@ Last refreshed: **2026-09-04 UTC**
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | 2026-08-25 | MIT | A WorkBuddy-style desktop client for the grok AI agent — Tauri 2 + React, in-process over ACP. |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 29 | 2026-08-30 | MIT | Local OpenAI-compatible gateway for Codex and desktop AI clients. Default WorkBuddy; optional QClaw / QwenWork / traework. One key, one channel. |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | 2026-03-31 | MIT | 小红书博主拆解 AI Skill — 输入博主昵称，自动爬取全量笔记并生成4份专业分析文档（博主深度拆解/内容公式总结/选题素材库/结构化数据分析）。支持对比分析、动态内容分类、多模型兼容。基于 MCP 协议，零代码安装，扫码登录即用。适配 Claude Code/WorkBuddy 等本地AI工具，macOS/Windows/Linux 全平台运行。 |
-| [zhouwei713/WorkBuddy-Dream-Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) | 24 | 2026-07-24 | MIT | Community image-driven skin for Tencent WorkBuddy desktop. External CDP injection, fully reversible, zero-dep, Windows tray. Adapted from Fei-Away/Codex-Dream-Skin. |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | 2026-09-04 | Not declared | 豆包办公模式、腾讯workbuddy、千问办公、ChatGPT agent内置的skills和专家团 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
@@ -44,8 +43,9 @@ Last refreshed: **2026-09-04 UTC**
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | 2026-08-11 | MIT | CODEX × WORKBUDDY Token 监控看板 \| 本地实时 SSE 看板，监控 AI 会话的 Token 消耗、命中率与活跃会话最新消息 / Local real-time SSE dashboard monitoring AI session token usage, hit-rate &amp; latest activity. |
 | [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | 2026-08-16 | MIT | AI 10x 学习法 —— 用 AI 真正"学会"的 10 步闭环 skill，跨 WorkBuddy / Claude Code / Codex / Cursor 通用。用 AI 真正"学会"（而非只拿答案）的 10 步闭环学习法。融合斯坦福 STORM 多视角研究法与 Rahul 的六角色学习框架。 |
-| [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | 2026-09-02 | MIT | An evidence-based AI skill that researches current roles and JDs, compares them with your resume, and prioritizes job-search actions — for ChatGPT, Codex, Claude, Cursor, and WorkBuddy. |
-| [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | 2026-09-03 | Apache-2.0 | Open WorkBuddy — 开源版 WorkBuddy，本地多智能体工作台（Desktop + Web + CLI） |
 | [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | 2026-08-21 | NOASSERTION | 12 个常用 Prompt 合集（数字生命卡兹克整理）· 多智能体分发版：WorkBuddy / Claude Code / Cursor / Trae / CodeBuddy / 通用 md。参考微信原文，CC BY-NC 4.0。 |
+| [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | 2026-07-26 | MIT | 《三分钟精读一本书》视频生成器 - Agent Skills 跨平台技能 \| 从扣子工作流移植，支持 WorkBuddy、OpenClaw、Codex、TRAE Work、Claude等。 |
+| [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | NOASSERTION | - |
+| [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

@@ -13,6 +13,7 @@ TencentEdgeOne/awesome-website-prompts-and-skills
 imraywang/rayskills
 arcboxlabs/linkcode
 cdredfox/workbuddy-skin-studio
+zhouwei713/WorkBuddy-Dream-Skin
 konnga/skill-buddy
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide

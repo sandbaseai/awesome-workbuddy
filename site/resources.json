@@ -820,6 +820,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "WorkBuddy Dream Skin",
+    "url": "https://github.com/zhouwei713/WorkBuddy-Dream-Skin",
+    "description": "An MIT-licensed, image-driven Windows theme system with presets, a tray controller, verification, and restore tooling. It restarts WorkBuddy with a loopback CDP port and runs unsigned PowerShell plus renderer injection, so save active work and review the scripts before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Dream Skin",
+    "descriptionZh": "MIT 许可的 Windows 图片驱动主题系统，提供预设、托盘控制、验证与恢复工具；它会通过本机 CDP 端口重启 WorkBuddy，并运行未签名 PowerShell 与渲染器注入，启用前应保存任务并审查脚本",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "LinkCode",
     "url": "https://github.com/arcboxlabs/linkcode",
     "description": "An open desktop client supporting multiple coding Agents",
