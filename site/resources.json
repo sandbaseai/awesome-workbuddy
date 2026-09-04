@@ -520,6 +520,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "QingFeng Skills",
+    "url": "https://github.com/chenwg001/qingfengskill",
+    "description": "An MIT-licensed WorkBuddy-first collection of 17 Skills for education and content work, covering writing, PPTs, image/video production, and platform draft publishing, with per-directory installation; publishing Skills use browser/CDP access to platform accounts and content, so confirm that credentials are not hard-coded, review approval gates, platform terms, and publishing scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "QingFeng Skills",
+    "descriptionZh": "MIT 许可、以 WorkBuddy 为主的 17 个教育工作与内容生产 Skill 集合，覆盖写作、PPT、图文/视频制作、平台草稿发布，并支持按目录单独复制安装；发布类 Skill 会通过浏览器/CDP接触平台账号和内容，使用前请确认凭据不硬编码、人工审核门禁、平台条款和发布范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "workbuddyskills",
     "url": "https://github.com/infometa/workbuddyskills",
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",

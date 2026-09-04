@@ -3,6 +3,7 @@ sandbaseai/workbuddy-skill
 SenMuShare/senmu-buildos
 liangdabiao/i18n-helper-skills
 wsdlp46/PMCockpit
+chenwg001/qingfengskill
 88lin/workbuddy-auto-signin
 AlephAITech/WorkBuddyGuide
 Lukanytsu7551/how-to-use-agent-guide
