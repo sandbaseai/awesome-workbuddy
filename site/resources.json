@@ -1000,6 +1000,26 @@
     "categoryZh": "Research and Engineering"
   },
   {
+    "title": "WorkBuddy Bench website",
+    "url": "https://workbuddybench.com/",
+    "description": "Official benchmark overview, tracks, results, and evaluation entry point",
+    "section": "Research and Engineering",
+    "category": "Research and Engineering",
+    "titleZh": "WorkBuddy Bench 官网",
+    "descriptionZh": "官方基准概览、评测赛道、结果与运行入口",
+    "categoryZh": "Research and Engineering"
+  },
+  {
+    "title": "WorkBuddy Bench dataset",
+    "url": "https://huggingface.co/datasets/tencent/workbuddy-bench",
+    "description": "Official task archives for the Code, Web, Office, and Security subsets",
+    "section": "Research and Engineering",
+    "category": "Research and Engineering",
+    "titleZh": "WorkBuddy Bench 数据集",
+    "descriptionZh": "Code、Web、Office 与 Security 四个子集的官方任务归档",
+    "categoryZh": "Research and Engineering"
+  },
+  {
     "title": "CloudBase model configuration",
     "url": "https://docs.cloudbase.net/ai/ai-tools/workbuddy",
     "description": "Connect an OpenAI-compatible model endpoint",
