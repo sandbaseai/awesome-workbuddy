@@ -130,6 +130,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Agent Learning Guide",
+    "url": "https://github.com/tangshiyegit/agent-guide",
+    "description": "A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies; verify changing third-party product details against official sources",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Agent 学习指南",
+    "descriptionZh": "包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "AI Coding Guide Zh",
     "url": "https://github.com/KimYx0207/AI-Coding-Guide-Zh",
     "description": "A Chinese learning path for AI coding tools and office Agents, including WorkBuddy",
