@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Search curated Tencent WorkBuddy resources, Skills, MCP integrations, workflows, guides, and open-source projects.">
+  <link rel="icon" type="image/webp" href="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp">
   <link rel="canonical" href="https://sandbaseai.github.io/awesome-workbuddy/">
   <link rel="alternate" hreflang="en" href="https://sandbaseai.github.io/awesome-workbuddy/">
   <link rel="alternate" hreflang="zh-CN" href="https://sandbaseai.github.io/awesome-workbuddy/?lang=zh-CN">
@@ -45,13 +46,16 @@
     header > * { min-width:0; }
     .hero-image { width:100%; min-width:0; aspect-ratio:16/9; object-fit:cover; border-radius:var(--radius); border:1px solid var(--line); }
     .actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:24px; }
-    .button { display:inline-flex; flex:0 0 auto; min-height:44px; align-items:center; padding:0 17px; border:1px solid var(--line); border-radius:var(--radius); text-decoration:none; font-weight:700; background:var(--surface); }
+    .button { display:inline-flex; flex:0 0 auto; min-height:44px; align-items:center; padding:0 17px; border:1px solid var(--line); border-radius:var(--radius); color:var(--text); text-decoration:none; font:inherit; font-weight:700; background:var(--surface); cursor:pointer; }
     .button.primary { color:var(--accent-ink); background:var(--accent); border-color:var(--accent); }
     .button:focus-visible, input:focus-visible, select:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
     .button:active { transform:translateY(1px); }
     .toolbar { position:sticky; top:0; z-index:1; display:grid; grid-template-columns:1fr minmax(210px,.34fr); gap:12px; padding:16px 0; background:color-mix(in srgb,var(--bg) 92%,transparent); backdrop-filter:blur(12px); }
+    .field { display:grid; gap:6px; }
+    .field-label { color:var(--muted); font-size:13px; font-weight:700; }
     input, select { width:100%; min-height:48px; border:1px solid var(--line); border-radius:var(--radius); padding:0 15px; background:var(--surface); color:var(--text); font:inherit; }
     .summary { display:flex; justify-content:space-between; gap:20px; align-items:baseline; margin:22px 0 14px; }
+    .summary-actions { display:flex; align-items:center; gap:12px; }
     h2 { margin:0; font-size:clamp(25px,4vw,38px); letter-spacing:-.035em; }
     #count { color:var(--muted); font-variant-numeric:tabular-nums; }
     .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; padding-bottom:72px; }
@@ -86,12 +90,15 @@
 
     <section aria-labelledby="directory-title">
       <div class="toolbar">
-        <label><span hidden data-i18n="searchLabel">Search resources</span><input id="search" type="search" data-i18n-attr="placeholder:searchPlaceholder" placeholder="Search resources, tools, and use cases" autocomplete="off"></label>
-        <label><span hidden data-i18n="categoryLabel">Filter by category</span><select id="category"><option value="" data-i18n="allCategories">All categories</option></select></label>
+        <label class="field"><span class="field-label" data-i18n="searchLabel">Search resources</span><input id="search" type="search" data-i18n-attr="placeholder:searchPlaceholder" placeholder="Search resources, tools, and use cases" autocomplete="off"></label>
+        <label class="field"><span class="field-label" data-i18n="categoryLabel">Filter by category</span><select id="category"><option value="" data-i18n="allCategories">All categories</option></select></label>
       </div>
       <div class="summary">
         <h2 id="directory-title" data-i18n="directoryTitle">Curated directory</h2>
-        <span id="count" aria-live="polite">Loading resources</span>
+        <div class="summary-actions">
+          <span id="count" aria-live="polite">Loading resources</span>
+          <button class="button" id="share" type="button" data-i18n="shareButton">Share results</button>
+        </div>
       </div>
       <div id="resources" class="grid" aria-busy="true"></div>
     </section>
@@ -103,14 +110,17 @@
     const category = document.querySelector('#category');
     const count = document.querySelector('#count');
     const language = document.querySelector('#language');
+    const share = document.querySelector('#share');
     let resources = [];
+    let requestedCategory = new URLSearchParams(location.search).get('category') || '';
+    let urlTimer;
     const copy = {
       en: {
         title: 'Awesome WorkBuddy Directory', languageLabel: 'Language', kicker: 'Community-curated and safety-conscious', heroTitle: 'Find the right WorkBuddy resource.',
         heroIntro: 'Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.',
         githubButton: 'View and star on GitHub', suggestButton: 'Suggest a resource', heroAlt: 'WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills',
         searchLabel: 'Search resources', searchPlaceholder: 'Search resources, tools, and use cases', categoryLabel: 'Filter by category', allCategories: 'All categories',
-        directoryTitle: 'Curated directory', footer: 'Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.',
+        directoryTitle: 'Curated directory', shareButton: 'Share results', sharedButton: 'Link copied', shareTitle: 'Awesome WorkBuddy resources', footer: 'Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.',
         count: (shown, total) => `${shown} of ${total} resources`, empty: 'No resources match those filters. Try a broader term or choose all categories.', unavailable: 'Unavailable', error: 'The directory could not load. Open the GitHub repository to browse the maintained list.'
       },
       'zh-CN': {
@@ -118,13 +128,25 @@
         heroIntro: '搜索官方文档、可复用 Skills、MCP 集成、实用工作流、评测与开源工具。主列表中的每个条目都经过审核。',
         githubButton: '在 GitHub 上 Star', suggestButton: '推荐资源', heroAlt: 'WorkBuddy 文档、表格、代码、MCP 集成与 Skills',
         searchLabel: '搜索资源', searchPlaceholder: '搜索资源、工具和使用场景', categoryLabel: '按类别筛选', allCategories: '全部类别',
-        directoryTitle: '精选目录', footer: '独立社区索引。安装第三方扩展前，请检查源码、权限、凭据和数据流向。',
+        directoryTitle: '精选目录', shareButton: '分享结果', sharedButton: '链接已复制', shareTitle: 'Awesome WorkBuddy 资源', footer: '独立社区索引。安装第三方扩展前，请检查源码、权限、凭据和数据流向。',
         count: (shown, total) => `${shown} / ${total} 个资源`, empty: '没有匹配的资源。请尝试更宽泛的关键词或选择全部类别。', unavailable: '暂不可用', error: '目录加载失败。请打开 GitHub 仓库浏览维护中的资源列表。'
       }
     };
     let locale = 'en';
 
     function currentCopy() { return copy[locale]; }
+    function syncUrl() {
+      const url = new URL(location.href);
+      const query = search.value.trim();
+      if (query) url.searchParams.set('q', query); else url.searchParams.delete('q');
+      if (category.value) url.searchParams.set('category', category.value); else url.searchParams.delete('category');
+      url.searchParams.set('lang', locale);
+      history.replaceState(null, '', url);
+    }
+    function scheduleUrlSync() {
+      clearTimeout(urlTimer);
+      urlTimer = setTimeout(syncUrl, 180);
+    }
     function setText(key) {
       document.querySelectorAll(`[data-i18n="${key}"]`).forEach((node) => { node.textContent = currentCopy()[key]; });
     }
@@ -154,7 +176,9 @@
         seen.add(item.category);
         category.add(new Option(locale === 'zh-CN' ? (item.categoryZh || item.category) : item.category, item.category));
       });
-      category.value = seen.has(selected) ? selected : '';
+      const next = requestedCategory || selected;
+      category.value = seen.has(next) ? next : '';
+      if (resources.length) requestedCategory = '';
     }
     function render() {
       const query = search.value.trim().toLowerCase();
@@ -178,15 +202,30 @@
         heading.append(link); card.append(heading, description, label); grid.append(card);
       }
     }
-    const requested = new URLSearchParams(location.search).get('lang');
+    const params = new URLSearchParams(location.search);
+    const requested = params.get('lang');
     const saved = localStorage.getItem('awesome-workbuddy-locale');
     const browserChinese = navigator.language.toLowerCase().startsWith('zh');
+    search.value = params.get('q') || '';
     applyLocale(requested || saved || (browserChinese ? 'zh-CN' : 'en'), false);
-    language.addEventListener('change', () => applyLocale(language.value));
-    search.addEventListener('input', render); category.addEventListener('change', render);
+    language.addEventListener('change', () => { applyLocale(language.value); syncUrl(); });
+    search.addEventListener('input', () => { render(); scheduleUrlSync(); });
+    category.addEventListener('change', () => { requestedCategory = ''; render(); syncUrl(); });
+    share.addEventListener('click', async () => {
+      syncUrl();
+      const data = { title: currentCopy().shareTitle, url: location.href };
+      try {
+        if (navigator.share) await navigator.share(data);
+        else await navigator.clipboard.writeText(data.url);
+        share.textContent = currentCopy().sharedButton;
+        setTimeout(() => { share.textContent = currentCopy().shareButton; }, 1800);
+      } catch (error) {
+        if (error.name !== 'AbortError') window.prompt(currentCopy().shareButton, data.url);
+      }
+    });
     fetch('./resources.json')
       .then((response) => { if (!response.ok) throw new Error('Resource data unavailable'); return response.json(); })
-      .then((data) => { resources = data; rebuildCategories(); grid.setAttribute('aria-busy', 'false'); render(); })
+      .then((data) => { resources = data; rebuildCategories(); grid.setAttribute('aria-busy', 'false'); render(); syncUrl(); })
       .catch(() => { grid.setAttribute('aria-busy', 'false'); grid.replaceChildren(Object.assign(document.createElement('p'), { className: 'error', textContent: currentCopy().error })); count.textContent = currentCopy().unavailable; });
   </script>
 </body>
