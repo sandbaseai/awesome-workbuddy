@@ -15,7 +15,7 @@ Last refreshed: **2026-09-04 UTC**
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | 2026-07-08 | MIT | CLIProxyAPI plugin wrapping Tencent CodeBuddy (copilot.tencent.com) as an OpenAI/Anthropic-compatible provider. Clean-room rebuild of Sliverkiss/cpa-plugin. |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | 2026-08-16 | NOASSERTION | 腾讯 WorkBuddy 生态资源精选清单：官方资源、技能插件、提示词工作流、教程、评测与对比 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 58 | 2026-09-04 | MIT | Self-hosted OpenAI-compatible API for Qoder CLI login,workbuddy, with SQLite multi-account routing |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | 2026-09-04 | MIT | Self-hosted OpenAI-compatible API for Qoder CLI login,workbuddy, with SQLite multi-account routing |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | 2026-06-19 | MIT | Convert CodeBuddy/WorkBuddy (Tencent coding assistant) subscription into an OpenAI-compatible API. Use CodeBuddy GLM-5.2/Kimi/DeepSeek models in Codex CLI or any OpenAI client. Cross-platform, single-file, no auth changes. |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | 2026-06-15 | Not declared | 用大白话讲透 AI 和 Agent，从 ChatGPT 到智能体，零基础也能看懂的工作指南。基于 WorkBuddy 多模型协作平台创作。使用求是skill作为主要技能。 |
