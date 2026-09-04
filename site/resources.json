@@ -570,6 +570,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Book Video Generator",
+    "url": "https://github.com/chenjun198711/book-video-generator",
+    "description": "An MIT-licensed book-video Skill compatible with WorkBuddy, Codex, Claude, and other Agents, covering book research, scripts, storyboards, AI images, TTS, subtitles, and ffmpeg MP4 composition; it contacts external model/voice services and may read API keys, so verify book facts, copyright and attribution, key storage, and generated-content quality first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Book Video Generator",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的读书视频 Skill，从书籍检索、文案与分镜到 AI 插图、TTS、字幕和 ffmpeg 合成输出 MP4；会访问外部模型/语音服务并可读取 API Key，使用前请核验书籍事实、版权与引用、密钥存储和生成内容质量",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
