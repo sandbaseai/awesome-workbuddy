@@ -140,3 +140,4 @@ oceanbase/powercontext
 jamesting-eng/workbuddy-skills
 NI9N/gerenshiyongshuomingshu
 NikoKennedy/translate-book-windows
+zhangx1234994/aicp-product-creator-skill

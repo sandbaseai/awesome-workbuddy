@@ -148,5 +148,6 @@ Last refreshed: **2026-09-04 UTC**
 | [JaguarJack/workbuddy-openapi](https://github.com/JaguarJack/workbuddy-openapi) | 0 | PHP | 2026-09-04 |
 | [NI9N/gerenshiyongshuomingshu](https://github.com/NI9N/gerenshiyongshuomingshu) | 0 | - | 2026-09-04 |
 | [NikoKennedy/translate-book-windows](https://github.com/NikoKennedy/translate-book-windows) | 0 | Python | 2026-09-04 |
+| [zhangx1234994/aicp-product-creator-skill](https://github.com/zhangx1234994/aicp-product-creator-skill) | 0 | JavaScript | 2026-09-04 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

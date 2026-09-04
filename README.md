@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**141 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**142 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -148,6 +148,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Translate Book Windows](https://github.com/NikoKennedy/translate-book-windows) - MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处理，维护术语表、manifest/哈希完整性校验并支持断点续传和 HTML/DOCX/EPUB/PDF 输出；需要 Calibre、Pandoc 和 Python，可能读取整本书并写入大量本地产物，使用前请确认版权/授权、外部模型与数据流、依赖来源及输出目录.
 - [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁；不会索取密码、Cookie 或会话令牌，但仍需遵守招聘平台规则并审查简历、浏览器资料和沟通内容范围.
 - [Career Copilot](https://github.com/ronineymessjr-sudo/career-copilot) - MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递跟踪和面试复盘，并对投递/邮件等关键动作设置人工确认；CLI 需要 Tavily Key，求职画像、简历和岗位数据可能含敏感个人信息，使用前请核对外部搜索、保存位置和最终投递内容.
+- [AI创品 Product Creator](https://github.com/zhangx1234994/aicp-product-creator-skill) - MIT 许可、提供 WorkBuddy Skill/插件包与 MCP 配置的商品设计工作流，可从图片或创意匹配实时商品、预览并生成报价，明确由用户确认后才扣积分和进入短期结算链接；账号、图片资产、商品、订单、支付和风控由外部服务托管，使用前请核对授权页面、上传隐私、积分扣除、最终商品与付款信息，不要把仓库内容视作官方服务本身.
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本；可选绑定个人学习 API 和本地令牌，使用前请确认数据范围，不要分享密码、Cookie 或 Token.
 - [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV；可识别双栏、扫描页和乱码并生成质量警告，默认无网络与遥测，但会读取用户指定的 PDF 并写入输出文件，使用前请确认文件和输出目录.
 - [Roundtable KG](https://github.com/xiewende424/roundtable-kg) - MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图；仅需 Python 3.8+、无第三方依赖，图谱展示的是讨论结构而非事实证明，使用时仍应复核来源与结论.
