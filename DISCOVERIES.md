@@ -14,7 +14,6 @@ Last refreshed: **2026-09-04 UTC**
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | 2026-07-01 | MIT | 把 CodeBuddy / WorkBuddy（腾讯代码助手） 的订阅，转换成 OpenAI 兼容 API、Anthropic 兼容 API，让你能在 Codex CLI、Claude Code、ZCode、Cherry Studio、NextChat、LobeChat 等任何支持 OpenAI 协议、Anthropic 协议的客户端里复用它。 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | 2026-07-08 | MIT | CLIProxyAPI plugin wrapping Tencent CodeBuddy (copilot.tencent.com) as an OpenAI/Anthropic-compatible provider. Clean-room rebuild of Sliverkiss/cpa-plugin. |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
-| [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | 2026-08-16 | NOASSERTION | 腾讯 WorkBuddy 生态资源精选清单：官方资源、技能插件、提示词工作流、教程、评测与对比 |
 | [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 59 | 2026-09-04 | MIT | Self-hosted OpenAI-compatible API for Qoder CLI login,workbuddy, with SQLite multi-account routing |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | 2026-06-19 | MIT | Convert CodeBuddy/WorkBuddy (Tencent coding assistant) subscription into an OpenAI-compatible API. Use CodeBuddy GLM-5.2/Kimi/DeepSeek models in Codex CLI or any OpenAI client. Cross-platform, single-file, no auth changes. |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-04 UTC**
 | [chenjun198711/book-video-generator](https://github.com/chenjun198711/book-video-generator) | 15 | 2026-07-26 | MIT | 《三分钟精读一本书》视频生成器 - Agent Skills 跨平台技能 \| 从扣子工作流移植，支持 WorkBuddy、OpenClaw、Codex、TRAE Work、Claude等。 |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | NOASSERTION | - |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | 2026-07-09 | Not declared | 无论是静态网站还是动态网站，都能够识别和正确的翻译成国际化多语言，适合codex、claude code、workbuddy等 agent skills 。一句话翻译一键搞定：❯ 翻译 XX项目/ 为德语 版本 |
+| [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

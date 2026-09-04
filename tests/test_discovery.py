@@ -56,6 +56,13 @@ class DiscoveryTests(unittest.TestCase):
 
 
 class EcosystemTests(unittest.TestCase):
+    def test_checked_in_ecosystem_contains_every_source(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        ecosystem = (root / "ECOSYSTEM.md").read_text(encoding="utf-8")
+        for repository in update_ecosystem.repositories():
+            with self.subTest(repository=repository):
+                self.assertIn(f"[{repository}]", ecosystem)
+
     def test_repository_source_rejects_case_insensitive_duplicates(self) -> None:
         with self.assertRaisesRegex(ValueError, "example/project"):
             update_ecosystem.parse_repositories(
