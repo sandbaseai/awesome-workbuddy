@@ -36,6 +36,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Product homepage](https://www.workbuddy.ai/) - Product overview, downloads, and plan information.
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - The authoritative documentation hub.
 - [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - From installation to a first completed task.
+- [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management.
+- [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Product capabilities, fixes, and compatibility changes.
 - [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - Create one-time or recurring tasks and send results to connected platforms.
 - [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - Connect external tools and data through visual configuration.
@@ -51,6 +53,9 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Expert Center](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work.
 - [Connectors](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector) - Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps.
 - [Memory](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory) - View, edit, import, or ask WorkBuddy to forget preferences and habits extracted from conversations.
+- [Model configuration](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model) - Choose automatic or built-in models, or connect a custom model and protocol.
+- [Data management](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Data) - Find shared files and manage archived tasks.
+- [System settings](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Setting) - Configure language, type size, display modes, safe installation behavior, and sleep prevention.
 - [From model to harness](https://mp.weixin.qq.com/s/X_kaKcXH2uELcemaNaZ4iQ) - An architectural introduction to the WorkBuddy Agent product.
 
 ### Platform integrations
@@ -187,6 +192,8 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 
 ### Documents, data, and professional work
 
+- [Document generation and editing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - Official walkthrough for generating Word documents and creating presentations from source material and templates.
+- [Data analysis and visualization](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - Official walkthrough for turning spreadsheets or collected data into charts and visual reports.
 - [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) - Presentation generation and visual refinement.
 - [Automated financial report analysis](https://mp.weixin.qq.com/s/QsiUU8aep-xDQpA4ikz_DA) - Analyze company reports in batches.
 - [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) - A long-document processing case study.
