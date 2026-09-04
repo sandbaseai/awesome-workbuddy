@@ -7,7 +7,6 @@ Last refreshed: **2026-09-04 UTC**
 
 | Repository | Stars | Last push | License | Description |
 | --- | ---: | --- | --- | --- |
-| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | 2026-09-04 | NOASSERTION | 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | 2026-03-21 | Not declared | 现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |

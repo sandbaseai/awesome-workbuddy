@@ -1020,6 +1020,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Beav",
+    "url": "https://github.com/Jamailar/Beav",
+    "description": "A local-first workspace for creator research, assets, ideation, and production that connects to WorkBuddy through a user-scoped plugin and loopback MCP service. It uses a custom MIT-derived license that prohibits commercial use, production packages may lead the public source snapshot, and workflows can involve local workspaces, model credentials, browser/social content, and localhost services; verify versions, licensing, platform terms, and permission scope before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Beav",
+    "descriptionZh": "本地优先的自媒体素材、调研、选题与创作工作台，通过用户级插件和本机 MCP 连接 WorkBuddy；采用限制商业使用的自定义 MIT 衍生许可，生产安装包可能领先公开源码，并会涉及本地工作区、模型密钥、浏览器/社媒内容和回环服务，安装前请核对版本、许可、平台条款与权限范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH WorkBuddy Connect",
     "url": "https://github.com/corrinehu/dsh-workbuddy-connect",
     "description": "Connects WorkBuddy desktop models to DeepSeek Harness across Web, Desktop, and TUI; it reads the local WorkBuddy sign-in file and stores refresh credentials in DSH's own directory, relies on unofficial endpoints, and should be reviewed against the source and account terms before installation",
