@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**38 curated repositories · 2 original Skills · 40 discovery candidates · weekly validation**
+**40 curated repositories · 2 original Skills · 40 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -97,6 +97,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - 以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用；安装前请复核生成代码与本地接口权限.
+- [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy；采用 PolyForm Noncommercial 1.0.0，且会读写个人规划数据，安装前请确认许可与权限.
 
 ### Tools and integrations
 
@@ -115,6 +116,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - WorkBuddy 风格的本地 AI 办公工作台实现.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - 支持多种 coding agent 的开源桌面客户端.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源.
+- [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - 跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款.
 
 ### Benchmarks
 

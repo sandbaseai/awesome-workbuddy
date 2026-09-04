@@ -91,6 +91,7 @@ This repository maintains two original installable Skills: [Document Quality Rev
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - Generates quotations, pro forma invoices, commercial invoices, and packing lists from one order record.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - A local-first, auditable long-term Markdown memory template for WorkBuddy and Codex.
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation; review generated code and local API permissions before installation.
+- [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy; it uses PolyForm Noncommercial 1.0.0 and reads/writes personal planning data, so review the license and permissions first.
 
 ### Tools and integrations
 
@@ -109,6 +110,7 @@ This repository maintains two original installable Skills: [Document Quality Rev
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - A local, WorkBuddy-style AI office workspace.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - An open desktop client supporting multiple coding Agents.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use.
+- [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first.
 
 ### Benchmarks
 
