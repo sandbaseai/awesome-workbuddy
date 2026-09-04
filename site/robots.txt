@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sandbaseai.github.io/awesome-workbuddy/sitemap.xml
