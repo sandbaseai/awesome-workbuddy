@@ -370,6 +370,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Kunpeng Skill",
+    "url": "https://github.com/hufeng173/kunpeng-skill",
+    "description": "An Apache-2.0 multi-source distillation Skill for WorkBuddy, Codex, Claude Code, and other Agents. It turns repositories, websites, UI, images, audio/video, and documents into evidence-backed reusable methods and generation specifications; install its optional local analyzers only after reviewing dependencies and file scope",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Kunpeng Skill",
+    "descriptionZh": "面向 WorkBuddy、Codex、Claude Code 等 Agent 的 Apache-2.0 多源蒸馏 Skill，可从代码、网站、UI、图片、音视频和文档建立带证据的可迁移方法与生成规范；本地分析器需要按需安装依赖，使用前请确认资源与本地文件范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it",
