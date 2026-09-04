@@ -180,6 +180,16 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Explore",
+    "url": "https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore",
+    "description": "Browse official creations across seven scenario categories, preload their Prompt, Skill, and Expert setup to make your own version, and understand how Explore differs from Skills and Experts",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
+  },
+  {
     "title": "Expert Center",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center",
     "description": "Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work",
