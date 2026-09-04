@@ -95,7 +95,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Learning and reference
 
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An open practical handbook covering tutorials, workflows, Skills, MCP, automation, and multi-agent patterns.
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases; it includes an [online reader](https://workbuddy.homes/), community case library, scenario intake, and reading guide, with cases documenting inputs, permissions, safety boundaries, and acceptance criteria.
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API; check the applicable license, storage, and network scope before reuse or local builds.
 - [Agent Learning Guide](https://github.com/tangshiyegit/agent-guide) - A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies; verify changing third-party product details against official sources.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - A Chinese learning path for AI coding tools and office Agents, including WorkBuddy.
