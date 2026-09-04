@@ -72,7 +72,6 @@ Last refreshed: **2026-09-04 UTC**
 | [shenchangyi/photo-to-monthly-zine-postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) | 17 | - | 2026-08-14 |
 | [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | Python | 2026-08-11 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
-| [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | Python | 2026-08-11 |
 | [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | HTML | 2026-08-16 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
