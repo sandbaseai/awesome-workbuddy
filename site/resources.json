@@ -380,6 +380,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Theme Skill",
+    "url": "https://github.com/comeonzhj/WorkBuddy-theme-skill",
+    "description": "Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy; it injects styles through local CDP and may restart the app and run a local guard, but does not modify app.asar, signatures, account data, or conversations, so review restart impact before use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Theme Skill",
+    "descriptionZh": "创建、校验、预览、应用和恢复可逆的 WorkBuddy 运行时主题；会通过本地 CDP 注入样式，必要时重启应用并运行本地 guard，但不修改 app.asar、签名、账号或对话数据，使用前请确认重启影响",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "ZhiGui Second Brain Skill",
     "url": "https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill",
     "description": "A local MCP-backed planning and knowledge-graph workspace for WorkBuddy; it uses PolyForm Noncommercial 1.0.0 and reads/writes personal planning data, so review the license and permissions first",
