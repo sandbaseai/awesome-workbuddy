@@ -58,6 +58,7 @@ masclown/usage-monitor-plugin-workbuddy
 YuanYiZheXue/workbuddy-wiki
 AriaXXX-free/job-navigation-skill
 yinren112/bossmate
+ronineymessjr-sudo/career-copilot
 Jobo16/ielts-buddy
 ttww1111/pdf-structured-extractor
 liangdabiao/math-concept-film
