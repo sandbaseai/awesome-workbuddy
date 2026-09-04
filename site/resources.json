@@ -1240,6 +1240,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy Jupyter Bridge",
+    "url": "https://github.com/Kallium-cn/workbuddy-jupyter-bridge",
+    "description": "An MIT-licensed JupyterLab MCP wiring Skill for WorkBuddy 5.x that provides code execution in the real kernel, notebook/cell read-write, persistent variables, and DataFrame introspection, with nine end-to-end checks for configuration and troubleshooting; it merges into `~/.workbuddy/mcp.json`, and connector calls can change live kernel state. Although it binds to `127.0.0.1` by default and requires explicit UI trust, back up configuration and review notebook, data, and WSL network scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Jupyter Bridge",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 5.x 的 JupyterLab MCP 接线 Skill，提供真实内核中的代码执行、Notebook/Cell 读写、变量留存和 DataFrame 自省，并用 9 项端到端校验固化配置与排障；它会合并写入 `~/.workbuddy/mcp.json`，连接器可改变当前内核状态，虽默认只监听 `127.0.0.1` 且需用户在 UI 中显式信任，仍应先备份配置并确认 Notebook、数据和 WSL 网络范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Computer Use for Intel Mac",
     "url": "https://github.com/Guyzn/workbuddy-cua-mcp",
     "description": "An MIT-licensed Intel-Mac WorkBuddy MCP providing screenshots, mouse/keyboard/window control, and Chrome CDP automation to cover the gap before Apple Silicon's native Computer Use; it requires macOS Accessibility permission, may launch Chrome with a debugging port, and can control the whole desktop, so confirm process authorization, port binding, browser profiles, sensitive pages, and human supervision for each action",

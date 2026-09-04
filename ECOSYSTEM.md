@@ -149,5 +149,6 @@ Last refreshed: **2026-09-04 UTC**
 | [NI9N/gerenshiyongshuomingshu](https://github.com/NI9N/gerenshiyongshuomingshu) | 0 | - | 2026-09-04 |
 | [NikoKennedy/translate-book-windows](https://github.com/NikoKennedy/translate-book-windows) | 0 | Python | 2026-09-04 |
 | [zhangx1234994/aicp-product-creator-skill](https://github.com/zhangx1234994/aicp-product-creator-skill) | 0 | JavaScript | 2026-09-04 |
+| [Kallium-cn/workbuddy-jupyter-bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) | 0 | Python | 2026-09-03 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
