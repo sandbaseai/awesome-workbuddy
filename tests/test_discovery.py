@@ -21,6 +21,7 @@ class DiscoveryTests(unittest.TestCase):
                 "stargazers_count": 100,
                 "pushed_at": "2026-09-01T00:00:00Z",
                 "description": "curated",
+                "license": {"spdx_id": "MIT", "name": "MIT License"},
                 "archived": False,
                 "fork": False,
             },
@@ -30,6 +31,7 @@ class DiscoveryTests(unittest.TestCase):
                 "stargazers_count": 90,
                 "pushed_at": "2026-09-01T00:00:00Z",
                 "description": "archived",
+                "license": None,
                 "archived": True,
                 "fork": False,
             },
@@ -39,6 +41,7 @@ class DiscoveryTests(unittest.TestCase):
                 "stargazers_count": 80,
                 "pushed_at": "2026-09-01T00:00:00Z",
                 "description": "new | useful",
+                "license": None,
                 "archived": False,
                 "fork": False,
             },
@@ -48,6 +51,8 @@ class DiscoveryTests(unittest.TestCase):
         self.assertNotIn("example/archived", output)
         self.assertIn("[example/candidate]", output)
         self.assertIn("new \\| useful", output)
+        self.assertIn("Not declared", output)
+        self.assertIn("| License |", output)
 
 
 class EcosystemTests(unittest.TestCase):
