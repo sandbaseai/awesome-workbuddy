@@ -21,7 +21,6 @@ Last refreshed: **2026-09-04 UTC**
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | 2026-05-21 | Non-standard / unrecognized | - |
 | [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
 | [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | 2026-07-12 | Not declared | WorkBuddy AI Agent Skills Collection - 78 skills for game dev, frontend, backend, and more |
-| [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | 2026-06-12 | Non-standard / unrecognized | ULA – 从收案到文书的律师诉讼全流程 AI 工作台 · WorkBuddy多Expert并行 · 元认知自蒸馏 · 非代码律师友好 |
 | [Senguk520/CodeRelay-tools](https://github.com/Senguk520/CodeRelay-tools) | 13 | 2026-09-04 | Non-standard / unrecognized | CodeBuddy / WorkBuddy 账号池管理工具 · Account pool manager —— 集中管理 CodeBuddy 中国站多账号，内置本地 OpenAI 兼容反代，多账号调度 / 配额监控 / 每日签到 / API Key 管理 / 模型同步与本地缓存 / 请求统计 / 系统托盘通知。Multi-account routing, quota monitoring, daily check-in, local reverse proxy &amp; more. |
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | 2026-09-04 | MIT | Windows desktop multi-account check-in &amp; management tool - Tauri 2 + React 18 + Rust (Trae + WorkBuddy) |
 | [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | 2026-07-13 | MIT | WorkBuddy 全自动免费领积分｜免费开源，复制一句话让 AI 自动安装，支持 macOS 和 Windows |

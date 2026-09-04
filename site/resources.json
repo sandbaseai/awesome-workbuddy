@@ -560,6 +560,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Unified Legal AI CN",
+    "url": "https://github.com/laubeing-droid/unified-legal-ai-cn",
+    "description": "An MIT-licensed China-law assistance workspace built primarily for WorkBuddy, with five core Agents, 17 legal tools, nine domain applications, evidence/legal guardrails, document output, and an optional MCP reasoning engine across the litigation lifecycle; it reads case/contract material and can connect to external member data sources, while outputs are not legal advice, so confirm confidentiality and authorization, jurisdiction/version, external tokens, and human lawyer review",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Unified Legal AI CN",
+    "descriptionZh": "MIT 许可、以 WorkBuddy 为主平台的中国法律辅助工作台，提供 5 个核心 Agent、17 个法律工具、9 个领域应用、证据与法律护栏、文书输出和可选 MCP 推理内核，覆盖诉讼全生命周期；会读取案件/合同资料、可连接外部会员数据源，输出不构成法律意见，使用前请确认保密与授权、法域/版本、外部 Token 和人工律师复核",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Five-layer Memory System",
     "url": "https://github.com/juventini10/Five-layer-memory-system",
     "description": "An MIT-licensed five-layer long-term-memory Skill for WorkBuddy that uses 33 onboarding questions to capture preferences, trade-offs, and behavior patterns in maintainable memory layers; answers may contain sensitive personal information and be written to local files, so review storage, backups, and sharing scope, and do not treat generated suggestions as medical, legal, financial, or other high-stakes advice",
