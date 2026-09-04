@@ -1030,6 +1030,36 @@
     "categoryZh": "Knowledge management"
   },
   {
+    "title": "File recognition and processing",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/File-Recognition",
+    "description": "Official workflow for batch renaming, meeting-note organization, and foreign-language video translation",
+    "section": "Use Cases",
+    "category": "Documents, data, and professional work",
+    "titleZh": "文件内容识别与处理",
+    "descriptionZh": "官方工作流：批量重命名、整理会议纪要和翻译外文视频",
+    "categoryZh": "Documents, data and professional work"
+  },
+  {
+    "title": "Google Calendar and Drive",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Google-Integration",
+    "description": "Connect Google services, describe the goal, and verify calendar or file results",
+    "section": "Use Cases",
+    "category": "Documents, data, and professional work",
+    "titleZh": "Google Calendar 与 Drive",
+    "descriptionZh": "连接 Google 服务、描述目标并核验日程或文件结果",
+    "categoryZh": "Documents, data and professional work"
+  },
+  {
+    "title": "Build a local app without code",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Local-App",
+    "description": "Design, troubleshoot, and iteratively upgrade a local application with WorkBuddy",
+    "section": "Use Cases",
+    "category": "Documents, data, and professional work",
+    "titleZh": "零代码制作本地应用",
+    "descriptionZh": "用 WorkBuddy 设计、排错并持续升级本地应用",
+    "categoryZh": "Documents, data and professional work"
+  },
+  {
     "title": "Document generation and editing",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation",
     "description": "Official walkthrough for generating Word documents and creating presentations from source material and templates",
@@ -1130,6 +1160,16 @@
     "categoryZh": "Education"
   },
   {
+    "title": "Social-media operations",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media",
+    "description": "Official workflow for producing Xiaohongshu and video content",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "自媒体运营",
+    "descriptionZh": "小红书图文和视频内容生产的官方工作流",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "AI content production pipeline",
     "url": "https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA",
     "description": "From topic selection through publishing",
@@ -1158,6 +1198,26 @@
     "titleZh": "Six time-consuming job-search tasks",
     "descriptionZh": "求职自动化案例",
     "categoryZh": "Content and career"
+  },
+  {
+    "title": "Automated daily briefing",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing",
+    "description": "Connect QQ Mail, test a briefing, schedule daily delivery, and personalize the result",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "每日自动资讯简报",
+    "descriptionZh": "连接 QQ 邮箱、测试简报、设置每日发送并进行个性化调整",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
+    "title": "AI self-directed execution",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/AI-Self-Driven",
+    "description": "Define an outcome, let WorkBuddy plan the steps, and require a self-check before delivery",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "AI 自驱动执行",
+    "descriptionZh": "说明任务目标，让 WorkBuddy 自行拆解步骤并在交付前完成自检",
+    "categoryZh": "Automation and Agent workflows"
   },
   {
     "title": "Tencent WorkBuddy Bench",
