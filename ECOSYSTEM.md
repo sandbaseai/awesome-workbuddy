@@ -88,6 +88,7 @@ Last refreshed: **2026-09-04 UTC**
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [yamingmou/session-fork-core](https://github.com/yamingmou/session-fork-core) | 3 | Python | 2026-09-04 |
+| [lovezi0/dsh-memory-palace](https://github.com/lovezi0/dsh-memory-palace) | 3 | JavaScript | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 

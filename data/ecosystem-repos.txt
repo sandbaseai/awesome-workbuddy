@@ -53,6 +53,7 @@ Dangooy/trade-pipeline-skill
 asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 corrinehu/dsh-workbuddy-connect
+lovezi0/dsh-memory-palace
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 HanHan666666/codebuddy2openai
