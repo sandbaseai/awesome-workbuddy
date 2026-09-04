@@ -17,6 +17,7 @@ konnga/skill-buddy
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 CatCatUncle/openworkbuddy
+ysyx2008/SailFish
 bigbay957-sudo/workbuddy-for-obsidian
 TencentCloud/tencentmeeting-cli
 feichanggege/ecommerce-visual-copywriting-skill

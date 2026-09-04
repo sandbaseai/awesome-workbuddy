@@ -620,6 +620,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "SailFish",
+    "url": "https://github.com/ysyx2008/SailFish",
+    "description": "A WorkBuddy-style personal desktop secretary for macOS and Windows with memory, Skills, MCP, browser, terminal, and multi-IM channels; dual-licensed under AGPL v3 and a commercial license. Confirm licensing, credential handling, and local/remote-operation permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "SailFish",
+    "descriptionZh": "面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多 IM 渠道；采用 AGPL v3 与商业许可双许可模式，使用前请确认许可、凭据和本地/远程操作权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Context Sync",
     "url": "https://github.com/westsource/agentctxsync",
     "description": "Self-hosted session synchronization and backup across devices and Agents",
