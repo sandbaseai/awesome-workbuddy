@@ -56,6 +56,18 @@ class DiscoveryTests(unittest.TestCase):
 
 
 class EcosystemTests(unittest.TestCase):
+    def test_repository_source_rejects_case_insensitive_duplicates(self) -> None:
+        with self.assertRaisesRegex(ValueError, "example/project"):
+            update_ecosystem.parse_repositories(
+                "# curated\nExample/Project\nexample/project\n"
+            )
+
+    def test_repository_source_ignores_comments_and_blank_lines(self) -> None:
+        self.assertEqual(
+            update_ecosystem.parse_repositories("# curated\n\nexample/project\n"),
+            ["example/project"],
+        )
+
     def test_render_orders_repositories_by_stars(self) -> None:
         items = [
             {

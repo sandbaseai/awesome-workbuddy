@@ -17,12 +17,25 @@ REPOSITORIES = ROOT / "data" / "ecosystem-repos.txt"
 OUTPUT = ROOT / "ECOSYSTEM.md"
 
 
-def repositories() -> list[str]:
-    return [
+def parse_repositories(text: str) -> list[str]:
+    repositories = [
         line.strip()
-        for line in REPOSITORIES.read_text(encoding="utf-8").splitlines()
+        for line in text.splitlines()
         if line.strip() and not line.startswith("#")
     ]
+    normalized = [repository.casefold() for repository in repositories]
+    if len(normalized) != len(set(normalized)):
+        duplicates = sorted(
+            repository
+            for repository in set(normalized)
+            if normalized.count(repository) > 1
+        )
+        raise ValueError(f"duplicate ecosystem repositories: {', '.join(duplicates)}")
+    return repositories
+
+
+def repositories() -> list[str]:
+    return parse_repositories(REPOSITORIES.read_text(encoding="utf-8"))
 
 
 def fetch(repository: str) -> dict[str, object]:
