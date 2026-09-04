@@ -60,7 +60,15 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Platform integrations
 
+- [Slack 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Slack-Guide) - 按官方步骤创建 Slack App、配置权限并连接 WorkBuddy.
+- [Telegram 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Telegram-Guide) - 配置 Telegram Bot，并将令牌安全地交给 WorkBuddy 完成连接.
+- [Discord 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Discord-Guide) - 创建 Discord 应用与 Bot、设置权限并添加到服务器.
+- [企业微信接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Wecom-Guide) - 将 WorkBuddy 助理接入企业微信，并完成企业侧配置.
+- [飞书接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Feishu-Guide) - 创建飞书应用、配置事件与权限并连接 WorkBuddy.
+- [钉钉接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Dingtalk-Guide) - 按官方流程配置钉钉机器人与 WorkBuddy 助理.
+- [QQ 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/QQ-Guide) - 将 WorkBuddy 助理接入 QQ，并完成机器人配置与授权.
 - [微信助理接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide) - 将 WorkBuddy 助理接入微信，并按官方步骤完成配置与二维码登录.
+- [元宝派接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/YuanBaoPai-Guide) - 将 WorkBuddy 助理接入元宝机器人，并完成官方配置流程.
 
 ### Community channels
 

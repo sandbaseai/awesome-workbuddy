@@ -55,7 +55,15 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Platform integrations
 
+- [Slack integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Slack-Guide) - Create a Slack App, configure permissions, and connect it to WorkBuddy using the official steps.
+- [Telegram integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Telegram-Guide) - Configure a Telegram Bot and provide its token to WorkBuddy using the documented flow.
+- [Discord integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Discord-Guide) - Create a Discord application and bot, configure permissions, and add it to a server.
+- [WeCom integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Wecom-Guide) - Connect the WorkBuddy assistant to WeCom and complete the organization-side setup.
+- [Feishu integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Feishu-Guide) - Create a Feishu app, configure events and permissions, and connect it to WorkBuddy.
+- [DingTalk integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Dingtalk-Guide) - Configure a DingTalk bot and the WorkBuddy assistant using the official flow.
+- [QQ integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/QQ-Guide) - Connect the WorkBuddy assistant to QQ and complete bot configuration and authorization.
 - [Weixin Assistant integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide) - Connect the WorkBuddy assistant to Weixin using the official configuration and QR sign-in flow.
+- [YuanBaoPai integration](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/YuanBaoPai-Guide) - Connect the WorkBuddy assistant to a YuanBao bot using the official configuration flow.
 
 ### Community channels
 
