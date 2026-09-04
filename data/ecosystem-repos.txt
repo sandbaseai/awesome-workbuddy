@@ -62,6 +62,7 @@ sharptoolbox/ontology-driven-dev
 sharptoolbox/codebase-reverse
 Dangooy/trade-pipeline-skill
 asen-goat-mine/boujoy-local-markdown-memory
+wangjialiang678/org-context
 DevnorsAI/devnors-data-mcp
 Jamailar/Beav
 HenryXiaoYang/wechat-openclaw-channel
