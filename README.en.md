@@ -135,6 +135,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation; review generated code and local API permissions before installation.
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy; it injects styles through local CDP and may restart the app and run a local guard, but does not modify app.asar, signatures, account data, or conversations, so review restart impact before use.
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy; it uses PolyForm Noncommercial 1.0.0 and reads/writes personal planning data, so review the license and permissions first.
+- [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - An MIT-licensed Skill for faithful Chinese translation and eight kinds of learning annotations over academic PDFs, producing HTML and PDF. It reads the source paper, writes extracted assets and documents, requires PyMuPDF plus Playwright/Chromium, and loads MathJax from jsDelivr by default; review sensitive papers and external-network requirements before use.
 
 ### Tools and integrations
 

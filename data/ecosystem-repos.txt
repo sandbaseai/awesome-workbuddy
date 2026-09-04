@@ -57,6 +57,7 @@ comeonzhj/WorkBuddy-theme-skill
 a735624258/dsh-skill-picker
 CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
+langlibai66/paper-cn-reader
 changexbc/workbuddy-switch
 shuishenghualalala/Ace
 tangshiyegit/agent-guide
