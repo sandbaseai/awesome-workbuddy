@@ -147,3 +147,4 @@ laubeing-droid/unified-legal-ai-cn
 ahang1598/doubao-workbuddy-qwenwork-skills
 zhuang-HE/workbuddy-harness
 mfkyddh/ZZZ-Simple-AI
+Tom6814/WorkBuddy2API

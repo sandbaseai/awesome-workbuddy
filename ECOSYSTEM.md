@@ -20,7 +20,7 @@ Last refreshed: **2026-09-04 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 235 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 236 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
@@ -66,6 +66,7 @@ Last refreshed: **2026-09-04 UTC**
 | [bitcjm/workbuddy-skills](https://github.com/bitcjm/workbuddy-skills) | 22 | Python | 2026-06-01 |
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 21 | JavaScript | 2026-09-04 |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | Python | 2026-09-04 |
+| [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | Python | 2026-08-29 |
 | [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-08-29 |
 | [sharptoolbox/WorkBuddy-AppBuilderSkill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) | 20 | Python | 2026-08-31 |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |
