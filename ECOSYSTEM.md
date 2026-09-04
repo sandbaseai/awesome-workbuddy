@@ -101,6 +101,7 @@ Last refreshed: **2026-09-04 UTC**
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [yamingmou/session-fork-core](https://github.com/yamingmou/session-fork-core) | 3 | Python | 2026-09-04 |
 | [lovezi0/dsh-memory-palace](https://github.com/lovezi0/dsh-memory-palace) | 3 | JavaScript | 2026-09-04 |
+| [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-04 |
 | [wsdlp46/PMCockpit](https://github.com/wsdlp46/PMCockpit) | 2 | HTML | 2026-08-29 |
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |

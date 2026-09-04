@@ -1410,6 +1410,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH Connect WorkBuddy",
+    "url": "https://github.com/dingminhua/dsh-connect-workbuddy",
+    "description": "An MIT-licensed DSH plugin building on the preceding project's published design, adding a selectable model catalog, per-model image opt-in, local multi-account switching, package-level credits, check-in, diagnostics, and a random-secret loopback shim. It reads current and historical WorkBuddy auth files, writes refreshed credentials under `$DSH_HOME` with mode 0600, sends prompts and tool results to non-public Tencent endpoints, and changes state through account selection, settings saves, and user-clicked check-in, so review credential provenance, account choice, network data, and platform terms before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Connect WorkBuddy",
+    "descriptionZh": "MIT 许可、建立在前者公开设计上的 DSH 插件，增加可选模型目录、逐模型图片输入授权、本机多账号切换、分套餐积分、签到和诊断面板，并以随机密钥保护回环 shim；它会读取 WorkBuddy 当前及历史登录文件、把刷新凭据以 0600 权限写入 `$DSH_HOME`，向非公开腾讯端点发送提示词与工具结果，且账号切换、设置保存和用户点击签到均会改变状态，使用前请审查凭据来源、账号选择、网络数据与平台条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DSH Memory Palace",
     "url": "https://github.com/lovezi0/dsh-memory-palace",
     "description": "An MIT-licensed DeepSeek Harness memory plugin that bridges existing `.workbuddy/memory` directories, keeps editable Markdown memories/logs/summaries across sessions, and gates deletion behind confirmation; it reads and writes local memory, while smart summaries may call an LLM, so review directory scope, sensitive content, and network/cost boundaries first",
