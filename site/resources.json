@@ -470,6 +470,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "CodeDrobe Desktop",
+    "url": "https://github.com/CodeDrobe/desktop",
+    "description": "An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "CodeDrobe Desktop",
+    "descriptionZh": "支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "workbuddy-bench",
     "url": "https://github.com/Tencent/workbuddy-bench",
     "description": "Tencent's multi-domain coding-agent benchmark, tasks, and evaluation code",

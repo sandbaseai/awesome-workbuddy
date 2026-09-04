@@ -36,3 +36,4 @@ asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
+CodeDrobe/desktop
