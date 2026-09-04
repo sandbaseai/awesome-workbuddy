@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search curated Tencent WorkBuddy resources, Skills, MCP integrations, workflows, guides, and open-source projects.">
+  <meta property="og:title" content="Awesome WorkBuddy Resource Directory">
+  <meta property="og:description" content="A searchable, safety-conscious index of the WorkBuddy ecosystem.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp">
+  <title>Awesome WorkBuddy Directory</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#f4f7f5; --surface:#e9efec; --text:#15201b; --muted:#56665e; --line:#bdcac3; --accent:#087f5b; --accent-ink:#f0fff8; --radius:14px; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#101612; --surface:#18221d; --text:#e7f0eb; --muted:#a4b5ac; --line:#33443b; --accent:#45c493; --accent-ink:#07140f; } }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font:16px/1.55 ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    a { color:inherit; }
+    .shell { width:min(1180px,calc(100% - 32px)); margin:auto; }
+    header { display:grid; grid-template-columns:minmax(0,1.08fr) minmax(280px,.92fr); gap:clamp(28px,6vw,84px); align-items:center; padding:48px 0 34px; }
+    .kicker { color:var(--accent); font-weight:750; letter-spacing:.02em; margin:0 0 10px; }
+    h1 { max-width:12ch; margin:0; font-size:clamp(42px,7vw,76px); line-height:.98; letter-spacing:-.055em; }
+    .intro { max-width:58ch; margin:22px 0 0; color:var(--muted); font-size:18px; }
+    header > * { min-width:0; }
+    .hero-image { width:100%; min-width:0; aspect-ratio:16/9; object-fit:cover; border-radius:var(--radius); border:1px solid var(--line); }
+    .actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:24px; }
+    .button { display:inline-flex; flex:0 0 auto; min-height:44px; align-items:center; padding:0 17px; border:1px solid var(--line); border-radius:var(--radius); text-decoration:none; font-weight:700; background:var(--surface); }
+    .button.primary { color:var(--accent-ink); background:var(--accent); border-color:var(--accent); }
+    .button:focus-visible, input:focus-visible, select:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+    .button:active { transform:translateY(1px); }
+    .toolbar { position:sticky; top:0; z-index:1; display:grid; grid-template-columns:1fr minmax(210px,.34fr); gap:12px; padding:16px 0; background:color-mix(in srgb,var(--bg) 92%,transparent); backdrop-filter:blur(12px); }
+    input, select { width:100%; min-height:48px; border:1px solid var(--line); border-radius:var(--radius); padding:0 15px; background:var(--surface); color:var(--text); font:inherit; }
+    .summary { display:flex; justify-content:space-between; gap:20px; align-items:baseline; margin:22px 0 14px; }
+    h2 { margin:0; font-size:clamp(25px,4vw,38px); letter-spacing:-.035em; }
+    #count { color:var(--muted); font-variant-numeric:tabular-nums; }
+    .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; padding-bottom:72px; }
+    article { min-width:0; padding:22px; border-radius:var(--radius); background:var(--surface); border:1px solid transparent; }
+    article:hover { border-color:var(--line); transform:translateY(-1px); }
+    article h3 { margin:0 0 8px; font-size:19px; }
+    article h3 a { text-decoration-thickness:1px; text-underline-offset:4px; }
+    article p { margin:0; color:var(--muted); }
+    .category { display:block; margin-top:17px; color:var(--accent); font-size:13px; font-weight:750; }
+    .empty, .error { grid-column:1/-1; padding:42px 0; color:var(--muted); }
+    footer { padding:26px 0 42px; border-top:1px solid var(--line); color:var(--muted); }
+    [hidden] { display:none !important; }
+    @media (max-width:760px) { header { grid-template-columns:1fr; padding-top:28px; } h1 { max-width:10ch; } .hero-image { order:-1; } .toolbar { grid-template-columns:1fr; } .grid { grid-template-columns:1fr; } .summary { align-items:flex-start; flex-direction:column; gap:4px; } }
+    @media (prefers-reduced-transparency:reduce) { .toolbar { background:var(--bg); backdrop-filter:none; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <p class="kicker">Community-curated and safety-conscious</p>
+        <h1>Find the right WorkBuddy resource.</h1>
+        <p class="intro">Search official documentation, reusable Skills, MCP integrations, practical workflows, benchmarks, and open-source tools. Every main-list entry is reviewed before inclusion.</p>
+        <div class="actions">
+          <a class="button primary" href="https://github.com/sandbaseai/awesome-workbuddy">View and star on GitHub</a>
+          <a class="button" href="https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose">Suggest a resource</a>
+        </div>
+      </div>
+      <img class="hero-image" src="https://raw.githubusercontent.com/sandbaseai/awesome-workbuddy/main/assets/awesome-workbuddy-banner.webp" alt="WorkBuddy documents, spreadsheets, code, MCP integrations, and Skills">
+    </header>
+
+    <section aria-labelledby="directory-title">
+      <div class="toolbar">
+        <label><span hidden>Search resources</span><input id="search" type="search" placeholder="Search resources, tools, and use cases" autocomplete="off"></label>
+        <label><span hidden>Filter by category</span><select id="category"><option value="">All categories</option></select></label>
+      </div>
+      <div class="summary">
+        <h2 id="directory-title">Curated directory</h2>
+        <span id="count" aria-live="polite">Loading resources</span>
+      </div>
+      <div id="resources" class="grid" aria-busy="true"></div>
+    </section>
+  </main>
+  <footer><div class="shell">Independent community index. Review source code, permissions, credentials, and data flows before installing third-party extensions.</div></footer>
+  <script>
+    const grid = document.querySelector('#resources');
+    const search = document.querySelector('#search');
+    const category = document.querySelector('#category');
+    const count = document.querySelector('#count');
+    let resources = [];
+
+    function render() {
+      const query = search.value.trim().toLowerCase();
+      const selected = category.value;
+      const matches = resources.filter((item) => {
+        const haystack = `${item.title} ${item.description} ${item.descriptionZh} ${item.category}`.toLowerCase();
+        return (!query || haystack.includes(query)) && (!selected || item.category === selected);
+      });
+      count.textContent = `${matches.length} of ${resources.length} resources`;
+      grid.replaceChildren();
+      if (!matches.length) {
+        const empty = document.createElement('p');
+        empty.className = 'empty';
+        empty.textContent = 'No resources match those filters. Try a broader term or choose all categories.';
+        grid.append(empty);
+        return;
+      }
+      for (const item of matches) {
+        const card = document.createElement('article');
+        const heading = document.createElement('h3');
+        const link = document.createElement('a');
+        const description = document.createElement('p');
+        const label = document.createElement('span');
+        link.href = item.url;
+        link.textContent = item.title;
+        description.textContent = item.description;
+        label.className = 'category';
+        label.textContent = item.category;
+        heading.append(link);
+        card.append(heading, description, label);
+        grid.append(card);
+      }
+    }
+
+    fetch('./resources.json')
+      .then((response) => { if (!response.ok) throw new Error('Resource data unavailable'); return response.json(); })
+      .then((data) => {
+        resources = data;
+        [...new Set(data.map((item) => item.category))].sort().forEach((name) => category.add(new Option(name, name)));
+        grid.setAttribute('aria-busy', 'false');
+        render();
+      })
+      .catch(() => {
+        grid.setAttribute('aria-busy', 'false');
+        grid.innerHTML = '<p class="error">The directory could not load. Open the GitHub repository to browse the maintained list.</p>';
+        count.textContent = 'Unavailable';
+      });
+    search.addEventListener('input', render);
+    category.addEventListener('change', render);
+  </script>
+</body>
+</html>
