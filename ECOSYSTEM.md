@@ -64,6 +64,7 @@ Last refreshed: **2026-09-04 UTC**
 | [langlibai66/paper-cn-reader](https://github.com/langlibai66/paper-cn-reader) | 18 | CSS | 2026-07-16 |
 | [comeonzhj/WorkBuddy-theme-skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) | 18 | CSS | 2026-07-18 |
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
+| [shenchangyi/photo-to-monthly-zine-postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) | 17 | - | 2026-08-14 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |

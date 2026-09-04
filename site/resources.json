@@ -520,6 +520,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Photo to Monthly Zine Postcard",
+    "url": "https://github.com/shenchangyi/photo-to-monthly-zine-postcard",
+    "description": "An MIT-licensed, directly installable WorkBuddy/Codex Skill that turns a user photo into a 3:4 monthly Zine postcard and requires verified, image-matched literature and music sources; it ships no executable scripts or credential handling, but photos may contain people, locations, EXIF, or branding and its research/image-generation steps may contact external services, so confirm media privacy and network boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Photo to Monthly Zine Postcard",
+    "descriptionZh": "MIT 许可、可直接安装的 WorkBuddy/Codex Skill，将用户照片制作成 3:4 月历 Zine 明信片，并要求先核验匹配的文学与音乐来源；仓库不含执行脚本或凭据处理，但照片可能包含人物、位置、EXIF 或品牌信息，且资料检索与图像生成可能访问外部服务，使用前请确认素材隐私和网络边界",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
