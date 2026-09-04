@@ -55,6 +55,8 @@ Last refreshed: **2026-09-04 UTC**
 | [comeonzhj/WorkBuddy-theme-skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) | 18 | CSS | 2026-07-18 |
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
+| [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
+| [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 
