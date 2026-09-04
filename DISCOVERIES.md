@@ -22,7 +22,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | 2026-08-18 | MIT | WorkBuddy 每日积分自动签到 Skill |
 | [liangdabiao/math-concept-film](https://github.com/liangdabiao/math-concept-film) | 19 | 2026-08-28 | Not declared | math-concept-film · 数学概念短片生成器 你说一个概念，AI 还你一部带旁白的数学动画短片。 这是一个给 AI 编程助手（Claude Code /codex/ Workbuddy 等）用的技能（skill）。 装好之后，你只需要对你的 AI 说一句： “帮我用视频讲清楚傅里叶级数” 几分钟后，你会得到一部 2~4 分钟、纸墨手账质感、中文配音、带字幕 的 final.mp4。基于Manim技术 |
 | [Sqhao-O/undergraduate-thesis-ai-workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) | 17 | 2026-04-14 | MIT | 本科毕业设计AI辅助工作流建议教学文档 \| 使用 Claude Code + Kimi Agent + CC Switch + Pandoc + Lark-Formatter + WorkBuddy 实现高效实验设计和仿真以及论文写作和排版 |
-| [taxueseek/session-digger](https://github.com/taxueseek/session-digger) | 17 | 2026-07-21 | ISC | 跨环境会话历史挖掘与知识管理。分析记录。支持 Claude/Grok/Kimi Code/Codex/WorkBuddy/Trae CN 等主流环境 |
 | [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | 2026-03-18 | MIT | [省 Token]热点监控 Skill for WorkBuddy - 多平台热点抓取与飞书集成 |
 | [sindney/m5stack_toys](https://github.com/sindney/m5stack_toys) | 16 | 2026-07-30 | MIT | Toys powered by M5Stack, software by WorkBuddy/OpenClaw, and an idea born from human creativity. |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 16 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |

@@ -70,9 +70,9 @@ Last refreshed: **2026-09-04 UTC**
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
 | [Aisland-SJL/dsh-reminder](https://github.com/Aisland-SJL/dsh-reminder) | 17 | TypeScript | 2026-08-16 |
 | [shenchangyi/photo-to-monthly-zine-postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) | 17 | - | 2026-08-14 |
+| [taxueseek/session-digger](https://github.com/taxueseek/session-digger) | 17 | Python | 2026-07-21 |
 | [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | Python | 2026-08-11 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
-| [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | Python | 2026-08-11 |
 | [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | HTML | 2026-08-16 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-03 |
