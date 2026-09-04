@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**147 curated repositories · 4 original Skills · 15 discovery candidates · weekly validation**
+**148 curated repositories · 4 original Skills · 14 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -105,6 +105,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从零实现 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程.
+- [ZZZ 白话讲 AI](https://github.com/mfkyddh/ZZZ-Simple-AI) - 许可未声明、以 WorkBuddy 为主要创作平台的零基础 AI 认知指南，按 9 章主线和 30 个扩展章节讲解大模型、Agent、上下文、记忆、MCP、Skills、多 Agent 与 AI 编程工作流；这是阅读与学习资料，不是官方文档，复用文章、图片或构建站点前请核对来源、版权和外部链接.
 - [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - 拆解提示词、记忆、插件、专家、Skill 与安全边界.
 - [WorkBuddy Harness](https://github.com/zhuang-HE/workbuddy-harness) - 许可未声明、面向 WorkBuddy 风格 Agent 的九维基础设施框架，包含 11 个插件、21 个 Hooks、Hook/评测运行引擎、守护进程和 30 条基准用例；它是第三方工程框架而非腾讯官方组件，Hooks、脚本和运行时可能读写项目或执行本地命令，使用前请审查代码、依赖、权限、测试数据和工作区范围.
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程；明确要求研究创新、实验数据和引用保持真实，配置 API Key 与使用 AI 辅助写作前请遵守学校规范并审查密钥和资料范围.

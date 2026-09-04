@@ -10,7 +10,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 186 | 2026-09-02 | Not declared | WorkBuddy CN（CodeBuddy / copilot.tencent.com）的 OpenAI 兼容反向代理，支持 OAuth 登录、多账号轮转、工具调用与流式响应。 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
-| [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | 2026-06-15 | Not declared | 用大白话讲透 AI 和 Agent，从 ChatGPT 到智能体，零基础也能看懂的工作指南。基于 WorkBuddy 多模型协作平台创作。使用求是skill作为主要技能。 |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | Non-standard / unrecognized | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
