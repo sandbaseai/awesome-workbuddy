@@ -125,5 +125,6 @@ Last refreshed: **2026-09-04 UTC**
 | [Ketian823/delivery-razor](https://github.com/Ketian823/delivery-razor) | 0 | Python | 2026-09-04 |
 | [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-04 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
+| [iuuunlyk/AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) | 0 | PowerShell | 2026-09-04 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

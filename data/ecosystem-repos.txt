@@ -117,3 +117,4 @@ maojiebc/majia-huiyuan
 Mariposa-FLOA/image-skill
 WaterCMY/A-share-watch-copilot
 joyparkray/agent-avatar
+iuuunlyk/AgentSessionQuery
