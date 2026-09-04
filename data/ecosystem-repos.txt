@@ -40,7 +40,6 @@ asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 corrinehu/dsh-workbuddy-connect
 Axiaohungry/dsh-llm-workbuddy
-CatCatUncle/openworkbuddy
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
 comeonzhj/WorkBuddy-theme-skill
