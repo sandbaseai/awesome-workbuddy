@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document Quality Review"
+  short_description: "Audit deliverables before they are sent"
+  default_prompt: "Review this deliverable for evidence, consistency, completeness, usability, and rendered quality."
