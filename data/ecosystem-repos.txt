@@ -137,3 +137,4 @@ JaguarJack/workbuddy-openapi
 Guyzn/workbuddy-cua-mcp
 qianzhu18/workisland
 jamesting-eng/workbuddy-skills
+NI9N/gerenshiyongshuomingshu
