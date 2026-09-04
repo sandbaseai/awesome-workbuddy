@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**97 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
+**98 curated repositories · 4 original Skills · 21 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -101,6 +101,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 开源实战蓝皮书，覆盖教程、真实工作流、Skills、MCP、自动化与多智能体.
+- [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策；部分 Agent 教程适用 CC BY-NC-SA 4.0，仓库含大量媒体文件，AI News 构建会请求外部公开 API，复用内容或本地构建前请核对对应许可、存储与网络范围.
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从零实现 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程.

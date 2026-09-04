@@ -410,6 +410,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "How to Use Agent",
+    "url": "https://github.com/Lukanytsu7551/how-to-use-agent-guide",
+    "description": "An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API; check the applicable license, storage, and network scope before reuse or local builds",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "How to Use Agent",
+    "descriptionZh": "MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策；部分 Agent 教程适用 CC BY-NC-SA 4.0，仓库含大量媒体文件，AI News 构建会请求外部公开 API，复用内容或本地构建前请核对对应许可、存储与网络范围",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "Agent Learning Guide",
     "url": "https://github.com/tangshiyegit/agent-guide",
     "description": "A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies; verify changing third-party product details against official sources",
