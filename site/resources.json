@@ -600,6 +600,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH WorkBuddy Provider",
+    "url": "https://github.com/Axiaohungry/dsh-llm-workbuddy",
+    "description": "Adds WorkBuddy China models to DeepSeek Harness with API-key and browser-token authentication; MIT licensed. The adapter stores credentials, opens a login page, and calls official `copilot.tencent.com` endpoints, but remains third-party software; review account terms and token storage before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH WorkBuddy Provider",
+    "descriptionZh": "为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌；MIT 许可。插件会保存凭据、打开登录页并请求 `copilot.tencent.com` 官方域名接口，但属于第三方适配器，使用前请核对账号条款与令牌存储",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Context Sync",
     "url": "https://github.com/westsource/agentctxsync",
     "description": "Self-hosted session synchronization and backup across devices and Agents",

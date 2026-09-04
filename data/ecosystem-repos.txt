@@ -35,6 +35,7 @@ Dangooy/trade-pipeline-skill
 asen-goat-mine/boujoy-local-markdown-memory
 DevnorsAI/devnors-data-mcp
 corrinehu/dsh-workbuddy-connect
+Axiaohungry/dsh-llm-workbuddy
 westsource/agentctxsync
 sharptoolbox/WorkBuddy-AppBuilderSkill
 comeonzhj/WorkBuddy-theme-skill
