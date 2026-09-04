@@ -410,6 +410,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "WorkBuddy Wiki",
+    "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
+    "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy Wiki",
+    "descriptionZh": "Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Skill Hub",
     "url": "https://github.com/sandbaseai/workbuddy-skill",
     "description": "A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields",
@@ -508,6 +518,16 @@
     "titleZh": "WorkBuddy Usage Status",
     "descriptionZh": "将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板；MIT 许可，默认只读本地数据且不联网，精确用量 API 仅在用户主动提供令牌时启用",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "BossMate",
+    "url": "https://github.com/yinren112/bossmate",
+    "description": "An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "BossMate",
+    "descriptionZh": "MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁；不会索取密码、Cookie 或会话令牌，但仍需遵守招聘平台规则并审查简历、浏览器资料和沟通内容范围",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "WorkBuddy Guide",

@@ -96,6 +96,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 
 ### Skill collections
 
+- [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use.
+
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - An offline archive of WorkBuddy Skills, connectors, and experts.
 - [Website Prompts and Skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne.
@@ -108,6 +110,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - Turns WorkBuddy's local data into an offline, auditable dashboard for token/credit usage, model efficiency, and errors; MIT licensed, read-only and zero-network by default, with precise usage API access enabled only when the user explicitly supplies a token.
 
 ### Ready-to-use Skills
+
+- [BossMate](https://github.com/yinren112/bossmate) - An MIT-licensed local job-search Skill for WorkBuddy that reads complete JDs in a visible browser, deduplicates opportunities, and gates messages before sending; it does not request passwords, cookies, or session tokens, but users must follow platform rules and review resume, browser-profile, and message-data scope.
 
 This repository maintains four original installable Skills: [Document Quality Review](skills/document-quality-review/SKILL.md) performs read-only delivery checks, [Skill Security Audit](skills/skill-security-audit/SKILL.md) reviews third-party extensions before installation, [Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) turns web research into a verifiable brief with facts and inference kept distinct, and [Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) gives candidates evidence-backed include, hold, or exclude decisions across relevance, quality, licensing, provenance, and safety.
 
