@@ -70,6 +70,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 ### Skill collections
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
+- [WorkBuddy Guide Skill](https://github.com/Neo5093/workbuddy-guide) - An installable Chinese reference covering connectors, Experts, automations, memory, quick cards, and troubleshooting; its optional diagnostic script reads local WorkBuddy configuration metadata and log excerpts, so redact output before sharing.
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - An offline archive of WorkBuddy Skills, connectors, and experts.
 - [Website Prompts and Skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne.
 - [Ray Skills](https://github.com/imraywang/rayskills) - Executable, verifiable, and recoverable workflows for content production and publishing.

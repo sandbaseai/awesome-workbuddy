@@ -17,7 +17,7 @@ Last refreshed: **2026-09-04 UTC**
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 233 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 234 | Python | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
@@ -44,8 +44,10 @@ Last refreshed: **2026-09-04 UTC**
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 21 | JavaScript | 2026-09-04 |
 | [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-08-29 |
 | [sharptoolbox/WorkBuddy-AppBuilderSkill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) | 20 | Python | 2026-08-31 |
+| [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | CSS | 2026-08-26 |
 | [bigbay957-sudo/workbuddy-for-obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) | 17 | TypeScript | 2026-08-27 |
 | [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 0 | Python | 2026-09-04 |
+| [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
