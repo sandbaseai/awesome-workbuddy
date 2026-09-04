@@ -106,6 +106,7 @@ Last refreshed: **2026-09-04 UTC**
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |
 | [Darling5/seatable-production](https://github.com/Darling5/seatable-production) | 2 | Python | 2026-09-03 |
 | [Frog755/dsh-hybrid-memory](https://github.com/Frog755/dsh-hybrid-memory) | 2 | JavaScript | 2026-08-26 |
+| [abc1317679842-ui/workbuddy-token-tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) | 2 | JavaScript | 2026-09-04 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-04 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
 | [wynter-cai/assetplex](https://github.com/wynter-cai/assetplex) | 1 | TypeScript | 2026-08-30 |
