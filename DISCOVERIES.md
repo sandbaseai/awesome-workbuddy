@@ -15,7 +15,6 @@ Last refreshed: **2026-09-04 UTC**
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | 2026-06-15 | Not declared | 用大白话讲透 AI 和 Agent，从 ChatGPT 到智能体，零基础也能看懂的工作指南。基于 WorkBuddy 多模型协作平台创作。使用求是skill作为主要技能。 |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 38 | 2026-07-02 | NOASSERTION | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | 2026-05-17 | Not declared | 🏗️ AI Agent 九维基础设施框架 - 9个架构维度、11个插件、21个Hooks、30条基准评测 |
-| [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 30 | 2026-08-30 | MIT | Local OpenAI-compatible gateway for Codex and desktop AI clients. Default WorkBuddy; optional QClaw / QwenWork / traework. One key, one channel. |
 | [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | 2026-04-29 | Not declared | law爷 - 精通中国法律体系的 AI 法律顾问 Skill（WorkBuddy/OpenClaw 兼容） |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | 2026-09-04 | Not declared | 豆包办公模式、腾讯workbuddy、千问办公、ChatGPT agent内置的skills和专家团 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | 2026-08-29 | MIT | WorkBuddy / CodeBuddy 的逆向 API 项目，支持 Docker 部署 |
