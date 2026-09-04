@@ -850,6 +850,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Knowledge Base Builder",
+    "url": "https://github.com/miaqu766520-a11y/kb-builder",
+    "description": "An MIT-licensed local knowledge-base setup Skill tested on WorkBuddy that interviews the user to create folders, templates, personal archives, and a manual, writing files only after the user approves the plan; migrating existing material reads and restructures local content, so review the knowledge-base root, confidential exclusions, backups, and write scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Knowledge Base Builder",
+    "descriptionZh": "MIT 许可、已在 WorkBuddy 验收的本地知识库搭建 Skill，通过逐题访谈生成目录、模板、个人档案和使用手册，并在用户确认计划后写入 Markdown 文件；迁移旧资料会读取并重组本地内容，安装前请确认知识库根目录、机密排除规则、备份和写入范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "1688 Product Reader",
     "url": "https://github.com/yyc424666lvy/1688-product-reader",
     "description": "An MIT-licensed, read-only WorkBuddy Skill for extracting product title, price, MOQ, seller, SKU, images, and specifications from logged-in 1688 pages; the user signs in manually in an isolated browser profile, and the Skill does not place orders or manage login state, so review platform terms, page access, and information freshness first",
@@ -1287,6 +1297,16 @@
     "category": "Tools and integrations",
     "titleZh": "BailingHub WorkBuddy Connector",
     "descriptionZh": "MIT 许可的独立 WorkBuddy 企业连接器，通过浏览器 PKCE 授权、能力校验、幂等 invocation、审批、限流和审计让 Agent 查询或操作已接入的业务系统；真实业务端点、租户授权和 Client/Agent Token 由部署方管理，安装前必须核对业务方授权页、凭据存储、权限版本和回退流程，不得分发内部令牌或 Cookie",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "AssetPlex",
+    "url": "https://github.com/wynter-cai/assetplex",
+    "description": "An MIT-licensed, fully local cross-agent asset hub that centralizes identity, Skills, rules, and MCP configuration and syncs them to WorkBuddy, Codex, Claude Code, TRAE, and Qoder, with reverse import, format translation, symlinks, and a local Web UI; syncing can read/write multiple agent configuration directories and replace/link files, so back up first, review adapters and path permissions, and ensure sensitive configuration is not exported accidentally",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AssetPlex",
+    "descriptionZh": "MIT 许可、完全本地的跨 Agent 资产中枢，将 identity、Skills、rules 和 MCP 配置集中管理并同步到 WorkBuddy、Codex、Claude Code、TRAE 和 Qoder，支持反向导入、格式转换、符号链接和本地 Web UI；同步可能读写多个 Agent 配置目录并覆盖/链接文件，使用前请备份、审查适配器与路径权限，并确认敏感配置不会被意外导出",
     "categoryZh": "Tools and integrations"
   },
   {
