@@ -5,6 +5,7 @@
     "description": "Product overview, downloads, and plan information",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "Product homepage",
     "descriptionZh": "产品能力、下载与套餐入口",
     "categoryZh": "Start Here"
   },
@@ -14,6 +15,7 @@
     "description": "The authoritative documentation hub",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "Official documentation",
     "descriptionZh": "功能说明与使用指南的权威入口",
     "categoryZh": "Start Here"
   },
@@ -23,6 +25,7 @@
     "description": "From installation to a first completed task",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "Quick start",
     "descriptionZh": "从安装到完成第一个任务",
     "categoryZh": "Start Here"
   },
@@ -32,6 +35,7 @@
     "description": "Product capabilities, fixes, and compatibility changes",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "Changelog",
     "descriptionZh": "版本能力、修复与兼容性变化",
     "categoryZh": "Start Here"
   },
@@ -41,6 +45,7 @@
     "description": "Create one-time or recurring tasks and send results to connected platforms",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "Automation guide",
     "descriptionZh": "创建一次性或周期任务，并向连接的平台推送结果",
     "categoryZh": "Start Here"
   },
@@ -50,6 +55,7 @@
     "description": "Connect external tools and data through visual configuration",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "MCP guide",
     "descriptionZh": "通过可视化配置连接外部工具与数据源",
     "categoryZh": "Start Here"
   },
@@ -59,6 +65,7 @@
     "description": "Create, test, publish, and connect an enterprise Agent to messaging channels",
     "section": "Start Here",
     "category": "Start Here",
+    "titleZh": "WorkBuddy Enterprise quick start",
     "descriptionZh": "创建、测试、发布企业 Agent 并接入消息渠道",
     "categoryZh": "Start Here"
   },
@@ -68,6 +75,7 @@
     "description": "Learn where to find, import, and create Skills",
     "section": "Official Resources",
     "category": "Core concepts",
+    "titleZh": "Task bar and Skills",
     "descriptionZh": "了解内置 Skill、导入与创建入口",
     "categoryZh": "Core concepts"
   },
@@ -77,6 +85,7 @@
     "description": "Turn a natural-language workflow into a reusable Skill",
     "section": "Official Resources",
     "category": "Core concepts",
+    "titleZh": "Create a Skill",
     "descriptionZh": "用自然语言沉淀可复用工作流",
     "categoryZh": "Core concepts"
   },
@@ -86,6 +95,7 @@
     "description": "An architectural introduction to the WorkBuddy Agent product",
     "section": "Official Resources",
     "category": "Core concepts",
+    "titleZh": "From model to harness",
     "descriptionZh": "WorkBuddy Agent 产品架构解读",
     "categoryZh": "Core concepts"
   },
@@ -95,6 +105,7 @@
     "description": "Tencent Cloud's product information and updates",
     "section": "Official Resources",
     "category": "Community channels",
+    "titleZh": "WorkBuddy product page",
     "descriptionZh": "腾讯云产品介绍与动态",
     "categoryZh": "Community channels"
   },
@@ -104,6 +115,7 @@
     "description": "Searchable community engineering articles",
     "section": "Official Resources",
     "category": "Community channels",
+    "titleZh": "Tencent Cloud developer articles",
     "descriptionZh": "社区技术文章检索入口",
     "categoryZh": "Community channels"
   },
@@ -113,6 +125,7 @@
     "description": "An open practical handbook covering tutorials, workflows, Skills, MCP, automation, and multi-agent patterns",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
+    "titleZh": "WorkBuddyGuide",
     "descriptionZh": "开源实战蓝皮书，覆盖教程、真实工作流、Skills、MCP、自动化与多智能体",
     "categoryZh": "Learning and reference"
   },
@@ -122,6 +135,7 @@
     "description": "A Chinese learning path for AI coding tools and office Agents, including WorkBuddy",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
+    "titleZh": "AI Coding Guide Zh",
     "descriptionZh": "包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径",
     "categoryZh": "Learning and reference"
   },
@@ -131,6 +145,7 @@
     "description": "A 24-chapter Python tutorial that builds a WorkBuddy-style desktop Agent from scratch",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
+    "titleZh": "learn-workbuddy",
     "descriptionZh": "从零实现 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程",
     "categoryZh": "Learning and reference"
   },
@@ -140,6 +155,7 @@
     "description": "Explains prompts, memory, plugins, experts, Skills, and safety boundaries",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
+    "titleZh": "WorkBuddy Harness Bluebook",
     "descriptionZh": "拆解提示词、记忆、插件、专家、Skill 与安全边界",
     "categoryZh": "Learning and reference"
   },
@@ -149,6 +165,7 @@
     "description": "A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "WorkBuddy Skill Hub",
     "descriptionZh": "可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态",
     "categoryZh": "Skill collections"
   },
@@ -158,6 +175,7 @@
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "workbuddyskills",
     "descriptionZh": "WorkBuddy Skills、连接器与专家的离线学习归档",
     "categoryZh": "Skill collections"
   },
@@ -167,6 +185,7 @@
     "description": "Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "website prompts and skills",
     "descriptionZh": "腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池",
     "categoryZh": "Skill collections"
   },
@@ -176,6 +195,7 @@
     "description": "Executable, verifiable, and recoverable workflows for content production and publishing",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "Ray Skills",
     "descriptionZh": "面向内容生产与发布的可执行、可验证、可恢复工作流",
     "categoryZh": "Skill collections"
   },
@@ -185,6 +205,7 @@
     "description": "Skills for writing, programming, office work, and general utilities",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "WorkBuddy Skills",
     "descriptionZh": "涵盖创作、编程、办公和通用工具的 Skill 集合",
     "categoryZh": "Skill collections"
   },
@@ -194,6 +215,7 @@
     "description": "A Chinese guide to connecting a local Zotero library to WorkBuddy",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
+    "titleZh": "Zotero MCP WorkBuddy Guide",
     "descriptionZh": "将 Zotero 文献库接入 WorkBuddy 的中文配置指南",
     "categoryZh": "Skill collections"
   },
@@ -203,6 +225,7 @@
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "E-commerce Visual Copywriting",
     "descriptionZh": "将电商卖点分析、文案和商品图制作沉淀为可执行 SOP",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -212,6 +235,7 @@
     "description": "An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Image Story Video Wizard",
     "descriptionZh": "面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -221,6 +245,7 @@
     "description": "Diagnoses accounts and high-performing posts across major Chinese content platforms",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Social Account Doctor",
     "descriptionZh": "分析主流中文内容平台账号与爆款，并输出诊断和选题建议",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -230,6 +255,7 @@
     "description": "Generates, validates, and exports draw.io diagrams across platforms",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Bruce Draw.io",
     "descriptionZh": "生成、校验并导出 draw.io 图表的跨平台 Skill",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -239,6 +265,7 @@
     "description": "Plans, writes, and reviews textbooks using Understanding by Design",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Textbook Writer Skills",
     "descriptionZh": "以 UbD 逆向设计驱动教材规划、逐章写作和审核",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -248,6 +275,7 @@
     "description": "An open job-search system built from seven Skills and a Feishu workspace",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "OfferLoop",
     "descriptionZh": "由七个 Skills 和飞书工作区组成的开源求职系统",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -257,6 +285,7 @@
     "description": "Produces copy, images, layout, and WeChat Official Account drafts",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy WeChat Publisher",
     "descriptionZh": "从写作、配图、排版到微信公众号草稿发布的 Skill 包",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -266,6 +295,7 @@
     "description": "Agent Skills covering a CRM lead-to-cash workflow",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "CordysCRM Skills",
     "descriptionZh": "覆盖销售 L2C 流程的 CRM Agent Skills",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -275,6 +305,7 @@
     "description": "Reviews videos, covers, subtitles, sales claims, and platform risks before publishing",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Self-media Compliance Review",
     "descriptionZh": "发布前审核视频、封面、字幕、带货信息与平台合规风险，并保留证据定位",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -284,6 +315,7 @@
     "description": "A traceable workflow from requirements and ontology modeling to application delivery",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Ontology-driven Development",
     "descriptionZh": "从需求探索、本体建模到应用构建的可追溯业务系统开发 Skill",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -293,6 +325,7 @@
     "description": "Reconstructs functional, architectural, API, and data-model documentation from Java services",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Codebase Reverse",
     "descriptionZh": "将 Java Web 或微服务代码逆向为功能、架构、接口和数据模型文档",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -302,6 +335,7 @@
     "description": "Generates quotations, pro forma invoices, commercial invoices, and packing lists from one order record",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Trade Pipeline",
     "descriptionZh": "由一份订单档案联动生成报价单、PI、CI 与装箱单",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -311,6 +345,7 @@
     "description": "A local-first, auditable long-term Markdown memory template for WorkBuddy and Codex",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
+    "titleZh": "Local Markdown Memory",
     "descriptionZh": "面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板",
     "categoryZh": "Ready-to-use Skills"
   },
@@ -320,6 +355,7 @@
     "description": "Access a WorkBuddy instance from another device",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Remote",
     "descriptionZh": "从其他设备远程使用 WorkBuddy",
     "categoryZh": "Tools and integrations"
   },
@@ -329,6 +365,7 @@
     "description": "Manage, install, and synchronize Skills and MCP servers across AI Agents",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "Skill Buddy",
     "descriptionZh": "跨 AI Agent 管理、安装和同步 Skills 与 MCP Servers",
     "categoryZh": "Tools and integrations"
   },
@@ -338,6 +375,7 @@
     "description": "Use local WorkBuddy inside Obsidian with references, edits, and provenance",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "WorkBuddy for Obsidian",
     "descriptionZh": "在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源",
     "categoryZh": "Tools and integrations"
   },
@@ -347,6 +385,7 @@
     "description": "Tencent's official CLI for meeting management and Agent integration",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "Tencent Meeting CLI",
     "descriptionZh": "腾讯会议官方 CLI，可作为 Agent 的会议管理工具",
     "categoryZh": "Tools and integrations"
   },
@@ -356,6 +395,7 @@
     "description": "Legal, company, content, and research data APIs for WorkBuddy; requires an external API key",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "Devnors Data MCP",
     "descriptionZh": "为 WorkBuddy 提供法律、企业、内容与研究数据 API；需要外部 API Key",
     "categoryZh": "Tools and integrations"
   },
@@ -365,6 +405,7 @@
     "description": "Self-hosted session synchronization and backup across devices and Agents",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
+    "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
   },
@@ -374,6 +415,7 @@
     "description": "Dependency-free check-in and reward automation; it reads a local session token and uses reverse-engineered unofficial endpoints, so review the source and account terms first",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Auto Sign-in",
     "descriptionZh": "零依赖的签到与成长任务自动化；会读取本机登录令牌并调用逆向得到的非官方接口，使用前应核对账号条款与源码",
     "categoryZh": "Community clients and enhancements"
   },
@@ -383,6 +425,7 @@
     "description": "A desktop enhancement for backups, session migration, and long-running task support",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
+    "titleZh": "WorkDaddy",
     "descriptionZh": "WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助",
     "categoryZh": "Community clients and enhancements"
   },
@@ -392,6 +435,7 @@
     "description": "A reversible theme manager for WorkBuddy Desktop",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Skin Studio",
     "descriptionZh": "可逆的 WorkBuddy Desktop 主题管理工具",
     "categoryZh": "Community clients and enhancements"
   },
@@ -401,6 +445,7 @@
     "description": "A local, WorkBuddy-style AI office workspace",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
+    "titleZh": "OpenWorkBuddy",
     "descriptionZh": "WorkBuddy 风格的本地 AI 办公工作台实现",
     "categoryZh": "Community clients and enhancements"
   },
@@ -410,6 +455,7 @@
     "description": "An open desktop client supporting multiple coding Agents",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
+    "titleZh": "LinkCode",
     "descriptionZh": "支持多种 coding agent 的开源桌面客户端",
     "categoryZh": "Community clients and enhancements"
   },
@@ -419,6 +465,7 @@
     "description": "Tencent's multi-domain coding-agent benchmark, tasks, and evaluation code",
     "section": "Open-source Ecosystem",
     "category": "Benchmarks",
+    "titleZh": "workbuddy-bench",
     "descriptionZh": "腾讯发布的多领域 coding-agent 基准、任务与评测代码",
     "categoryZh": "Benchmarks"
   },
@@ -428,6 +475,7 @@
     "description": "A complete document-review example",
     "section": "Skills, Prompts, and MCP",
     "category": "Build and use Skills",
+    "titleZh": "Build a document review Skill",
     "descriptionZh": "文件审核场景的完整示例",
     "categoryZh": "Build and use Skills"
   },
@@ -437,6 +485,7 @@
     "description": "Organize WeRead notes in Kingsoft Docs",
     "section": "Skills, Prompts, and MCP",
     "category": "Build and use Skills",
+    "titleZh": "WorkBuddy + Kingsoft Docs Skill",
     "descriptionZh": "整理微信读书笔记",
     "categoryZh": "Build and use Skills"
   },
@@ -446,6 +495,7 @@
     "description": "Prompt examples for product and operations work",
     "section": "Skills, Prompts, and MCP",
     "category": "Build and use Skills",
+    "titleZh": "Eight prompts for internet teams",
     "descriptionZh": "运营与产品工作的提示词示例",
     "categoryZh": "Build and use Skills"
   },
@@ -455,6 +505,7 @@
     "description": "MCP configuration and invocation tutorial",
     "section": "Skills, Prompts, and MCP",
     "category": "Connect tools with MCP",
+    "titleZh": "Use an MCP server in WorkBuddy",
     "descriptionZh": "MCP 配置与调用教程",
     "categoryZh": "Connect tools with MCP"
   },
@@ -464,6 +515,7 @@
     "description": "An automated email-processing workflow",
     "section": "Skills, Prompts, and MCP",
     "category": "Connect tools with MCP",
+    "titleZh": "WorkBuddy + Agent Mail",
     "descriptionZh": "自动处理邮件的实践",
     "categoryZh": "Connect tools with MCP"
   },
@@ -473,6 +525,7 @@
     "description": "A company due-diligence workflow",
     "section": "Skills, Prompts, and MCP",
     "category": "Connect tools with MCP",
+    "titleZh": "WorkBuddy + Qichacha MCP",
     "descriptionZh": "企业尽调工作流案例",
     "categoryZh": "Connect tools with MCP"
   },
@@ -482,6 +535,7 @@
     "description": "Quick tips for first-time users",
     "section": "Guides",
     "category": "Articles",
+    "titleZh": "Six WorkBuddy tips",
     "descriptionZh": "适合第一次使用的快速技巧",
     "categoryZh": "Articles"
   },
@@ -491,6 +545,7 @@
     "description": "A Chinese getting-started tutorial",
     "section": "Guides",
     "category": "Articles",
+    "titleZh": "WorkBuddy from zero to productive",
     "descriptionZh": "中文入门教程",
     "categoryZh": "Articles"
   },
@@ -500,6 +555,7 @@
     "description": "Long-term usage notes and workflows",
     "section": "Guides",
     "category": "Articles",
+    "titleZh": "Three-month field guide",
     "descriptionZh": "长期使用经验与工作流整理",
     "categoryZh": "Articles"
   },
@@ -509,6 +565,7 @@
     "description": "A beginner guide focused on Chinese office work",
     "section": "Guides",
     "category": "Articles",
+    "titleZh": "WorkBuddy beginner guide",
     "descriptionZh": "面向中文办公场景的上手指南",
     "categoryZh": "Articles"
   },
@@ -518,6 +575,7 @@
     "description": "Product positioning and capability overview",
     "section": "Guides",
     "category": "Videos",
+    "titleZh": "Why is WorkBuddy popular?",
     "descriptionZh": "产品定位与能力速览",
     "categoryZh": "Videos"
   },
@@ -527,6 +585,7 @@
     "description": "A complete feature demonstration",
     "section": "Guides",
     "category": "Videos",
+    "titleZh": "WorkBuddy in 35 minutes",
     "descriptionZh": "完整功能演示",
     "categoryZh": "Videos"
   },
@@ -536,6 +595,7 @@
     "description": "A structured video tutorial",
     "section": "Guides",
     "category": "Videos",
+    "titleZh": "From beginner to advanced",
     "descriptionZh": "系统化视频教程",
     "categoryZh": "Videos"
   },
@@ -545,6 +605,7 @@
     "description": "A solo-company automation case study",
     "section": "Guides",
     "category": "Videos",
+    "titleZh": "Build Agent workflows by talking",
     "descriptionZh": "一人公司自动化工作流案例",
     "categoryZh": "Videos"
   },
@@ -554,6 +615,7 @@
     "description": "A continuously maintained personal knowledge base",
     "section": "Use Cases",
     "category": "Knowledge management",
+    "titleZh": "WorkBuddy + IMA knowledge loop",
     "descriptionZh": "可持续更新的个人知识库",
     "categoryZh": "Knowledge management"
   },
@@ -563,6 +625,7 @@
     "description": "Local notes and Agent collaboration",
     "section": "Use Cases",
     "category": "Knowledge management",
+    "titleZh": "WorkBuddy + Obsidian",
     "descriptionZh": "本地笔记与 Agent 协作",
     "categoryZh": "Knowledge management"
   },
@@ -572,6 +635,7 @@
     "description": "Retrieval over large professional textbooks",
     "section": "Use Cases",
     "category": "Knowledge management",
+    "titleZh": "CFA knowledge base",
     "descriptionZh": "大型专业教材的检索实践",
     "categoryZh": "Knowledge management"
   },
@@ -581,6 +645,7 @@
     "description": "Presentation generation and visual refinement",
     "section": "Use Cases",
     "category": "Documents, data, and professional work",
+    "titleZh": "Create polished presentations",
     "descriptionZh": "PPT 生成与美化",
     "categoryZh": "Documents, data and professional work"
   },
@@ -590,6 +655,7 @@
     "description": "Analyze company reports in batches",
     "section": "Use Cases",
     "category": "Documents, data, and professional work",
+    "titleZh": "Automated financial report analysis",
     "descriptionZh": "批量公司财报分析",
     "categoryZh": "Documents, data and professional work"
   },
@@ -599,6 +665,7 @@
     "description": "A long-document processing case study",
     "section": "Use Cases",
     "category": "Documents, data, and professional work",
+    "titleZh": "Build a 1,000-page bid",
     "descriptionZh": "超长文档处理案例",
     "categoryZh": "Documents, data and professional work"
   },
@@ -608,6 +675,7 @@
     "description": "An introduction for legal work",
     "section": "Use Cases",
     "category": "Documents, data, and professional work",
+    "titleZh": "Commercial lawyer starter guide",
     "descriptionZh": "法律工作场景入门",
     "categoryZh": "Documents, data and professional work"
   },
@@ -617,6 +685,7 @@
     "description": "File classification and organization workflow",
     "section": "Use Cases",
     "category": "Documents, data, and professional work",
+    "titleZh": "Organize local files",
     "descriptionZh": "文件分类与整理工作流",
     "categoryZh": "Documents, data and professional work"
   },
@@ -626,6 +695,7 @@
     "description": "Process student learning data",
     "section": "Use Cases",
     "category": "Education",
+    "titleZh": "Student learning analysis",
     "descriptionZh": "学情数据处理",
     "categoryZh": "Education"
   },
@@ -635,6 +705,7 @@
     "description": "A collection of teaching scenarios",
     "section": "Use Cases",
     "category": "Education",
+    "titleZh": "Ten classroom applications",
     "descriptionZh": "教学场景合集",
     "categoryZh": "Education"
   },
@@ -644,6 +715,7 @@
     "description": "Generate individualized reports in batches",
     "section": "Use Cases",
     "category": "Education",
+    "titleZh": "Personalized student diagnostics",
     "descriptionZh": "批量生成个性化报告",
     "categoryZh": "Education"
   },
@@ -653,6 +725,7 @@
     "description": "From topic selection through publishing",
     "section": "Use Cases",
     "category": "Content and career",
+    "titleZh": "AI content production pipeline",
     "descriptionZh": "从选题到发布的内容工作流",
     "categoryZh": "Content and career"
   },
@@ -662,6 +735,7 @@
     "description": "Orchestrate study and job-search tasks",
     "section": "Use Cases",
     "category": "Content and career",
+    "titleZh": "Exam prep and job search",
     "descriptionZh": "学习与求职任务编排",
     "categoryZh": "Content and career"
   },
@@ -671,6 +745,7 @@
     "description": "Practical job-search automation",
     "section": "Use Cases",
     "category": "Content and career",
+    "titleZh": "Six time-consuming job-search tasks",
     "descriptionZh": "求职自动化案例",
     "categoryZh": "Content and career"
   },
@@ -680,6 +755,7 @@
     "description": "A multi-domain coding-agent benchmark with a reproducible evaluation protocol",
     "section": "Research and Engineering",
     "category": "Research and Engineering",
+    "titleZh": "Tencent WorkBuddy Bench",
     "descriptionZh": "多领域 coding-agent 基准与可复现实验协议",
     "categoryZh": "Research and Engineering"
   },
@@ -689,6 +765,7 @@
     "description": "Connect an OpenAI-compatible model endpoint",
     "section": "Research and Engineering",
     "category": "Research and Engineering",
+    "titleZh": "CloudBase model configuration",
     "descriptionZh": "OpenAI-compatible 模型接入示例",
     "categoryZh": "Research and Engineering"
   },
@@ -698,6 +775,7 @@
     "description": "A Chinese-first index of Skills, prompts, tutorials, evaluations, and integrations",
     "section": "Related Lists",
     "category": "Related Lists",
+    "titleZh": "staruhub/awesome-workbuddy",
     "descriptionZh": "中文优先的 Skills、提示词、教程、评测与集成索引",
     "categoryZh": "Related Lists"
   },
@@ -707,6 +785,7 @@
     "description": "Skills for automation, data, browsers, WeChat, and content production",
     "section": "Related Lists",
     "category": "Related Lists",
+    "titleZh": "awesome-workbuddy-skills",
     "descriptionZh": "自动化、数据、浏览器、微信与内容生产 Skills 集合",
     "categoryZh": "Related Lists"
   },
@@ -716,6 +795,7 @@
     "description": "A large use-case library organized by profession and task",
     "section": "Related Lists",
     "category": "Related Lists",
+    "titleZh": "awesome-workbuddy-use-cases",
     "descriptionZh": "按职业和任务类型组织的大规模使用场景库",
     "categoryZh": "Related Lists"
   },
@@ -725,6 +805,7 @@
     "description": "A broad MCP server list; review each server separately before connecting it to WorkBuddy",
     "section": "Related Lists",
     "category": "Related Lists",
+    "titleZh": "awesome-mcp-servers",
     "descriptionZh": "MCP Server 通用生态清单；接入 WorkBuddy 前需单独安全审核",
     "categoryZh": "Related Lists"
   }
