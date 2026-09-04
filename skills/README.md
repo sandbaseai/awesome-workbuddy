@@ -26,7 +26,8 @@ python scripts/validate_skill.py skills/source-backed-research-brief
 
 The validator catches malformed or missing frontmatter, invalid names, weak descriptions, unfinished placeholders, broken local Markdown references, and obvious embedded secrets. Passing it is not Tencent certification and does not prove that instructions or code are safe.
 
-Release `v0.4.0` archive SHA-256 digests:
+Release `v0.5.0` archive SHA-256 digests:
 
 - `document-quality-review.zip`: `25c18019afd207a57e49832cffe4f7bebfc4a4e7f5a5d795f14be6fd5a401d67`
 - `skill-security-audit.zip`: `867534cc9b1dc0ba68505bdb01365edcae5edba52c00372f03a0bb4d64d6463d`
+- `source-backed-research-brief.zip`: `ab903ae739d059562e2222d44b01750d214a2d0dd66732b58d40e1335a9a91e1`
