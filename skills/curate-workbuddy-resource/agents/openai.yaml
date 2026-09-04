@@ -1,0 +1,4 @@
+interface:
+  display_name: "Curate WorkBuddy Resource"
+  short_description: "Review a candidate for safe, useful inclusion"
+  default_prompt: "Use $curate-workbuddy-resource to review this WorkBuddy resource and recommend include, hold, or exclude."
