@@ -102,6 +102,7 @@ Last refreshed: **2026-09-04 UTC**
 | [wsdlp46/PMCockpit](https://github.com/wsdlp46/PMCockpit) | 2 | HTML | 2026-08-29 |
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |
 | [Darling5/seatable-production](https://github.com/Darling5/seatable-production) | 2 | Python | 2026-09-03 |
+| [Frog755/dsh-hybrid-memory](https://github.com/Frog755/dsh-hybrid-memory) | 2 | JavaScript | 2026-08-26 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-04 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
 | [Bolton-Z/ns-mcp-china](https://github.com/Bolton-Z/ns-mcp-china) | 1 | JavaScript | 2026-09-04 |
@@ -114,6 +115,7 @@ Last refreshed: **2026-09-04 UTC**
 | [bailinghub/bailinghub-workbuddy-connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) | 0 | JavaScript | 2026-09-03 |
 | [GYINT/infoseek](https://github.com/GYINT/infoseek) | 0 | Python | 2026-08-30 |
 | [stwhwing/markitdown-skill](https://github.com/stwhwing/markitdown-skill) | 0 | Python | 2026-09-02 |
+| [Willson-Huang/bilibili-video-summary](https://github.com/Willson-Huang/bilibili-video-summary) | 0 | Python | 2026-08-30 |
 | [yyc424666lvy/1688-product-reader](https://github.com/yyc424666lvy/1688-product-reader) | 0 | Python | 2026-09-04 |
 | [chenwg001/qingfengskill](https://github.com/chenwg001/qingfengskill) | 0 | Python | 2026-09-03 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |

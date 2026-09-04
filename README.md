@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**115 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
+**117 curated repositories · 4 original Skills · 19 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -151,6 +151,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AI Short Drama Skills](https://github.com/zkhyww/ai-short-drama-skills) - MIT 许可、面向 WorkBuddy 等 Agent 的短剧创作与制作双 Skill，将选题、剧本、桌读、分镜、资产、声音、剪辑和 QC 分阶段交接，并提供确定性预检与母稿/投稿稿分离；媒体执行可能调用 Dreamina OAuth、模型与 ffmpeg，涉及积分、版权和外部服务，交付前仍需人工试演与审核.
 - [Infoseek](https://github.com/GYINT/infoseek) - MIT 许可、兼容 WorkBuddy 的端到端研究 MCP/Skill，包含多源发现、四级抓取、四维评分、跨源矛盾检测、结构化报告和长期归档，并提供回归测试与 Key 管理；高级抓取可能使用浏览器、Whisper、搜索 Key 和外部模型，使用前请审查凭据注入、网络范围、个人数据与归档目录，并人工复核研究结论.
 - [MarkItDown Skill](https://github.com/stwhwing/markitdown-skill) - MIT 许可、兼容 WorkBuddy 的文档与网页转 Markdown Skill，基于 Microsoft MarkItDown 并提供 SPA/网页回退、批量转换和本地 token 估算；默认启用 SSRF 防护但可显式放开内网地址，浏览器回退和文件输出仍会读取外部页面/本地资料，使用前请确认 URL、依赖、输出目录和版权范围.
+- [Bilibili Video Summary](https://github.com/Willson-Huang/bilibili-video-summary) - MIT 许可、提供 WorkBuddy 版的本地视频知识整理 Skill，通过字幕或本地 Whisper 转写生成带时间戳、实体表和待核实声明的 14 节 Markdown 笔记；需要下载视频/字幕及可选 Cookie、faster-whisper 和模型文件，使用前请确认版权、隐私、磁盘空间和来源事实，生成笔记仍需人工复核.
 - [1688 Product Reader](https://github.com/yyc424666lvy/1688-product-reader) - MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数；独立浏览器 Profile 由用户手动登录，Skill 不负责下单或管理登录态，使用前请确认平台条款、页面访问和商品信息时效.
 - [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) - 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台；许可证在 MIT 文本后附加个人学习研究限制，金融数据和结论必须人工复核且不可用于自动下单或非法投顾。持仓文件含敏感财务数据，脚本会访问腾讯、东财、新浪等端点，本地服务默认监听 `0.0.0.0:8801`、无认证并可写回持仓，仅应在可信私网使用或改为回环地址.
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界.
@@ -206,6 +207,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) - 让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent；会把 WorkBuddy access/refresh token 写入 `~/.openclaw/openclaw.json`，消息经腾讯端点传输，且虽在 README/package 中声明 MIT，仓库并无 LICENSE 文件，使用前请保护配置、核对源码及微信/腾讯账号条款.
 - [DSH WorkBuddy Connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面端模型接入 DeepSeek Harness，支持 Web、Desktop 与 TUI；会读取本机 WorkBuddy 登录文件并将刷新凭据保存到 DSH 自有目录，依赖非官方接口，安装前请复核源码与账号条款.
 - [DSH Memory Palace](https://github.com/lovezi0/dsh-memory-palace) - MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具；会读写本地记忆，智能摘要可调用模型，使用前应确认目录、敏感内容和网络/费用边界.
+- [DSH Hybrid Memory](https://github.com/Frog755/dsh-hybrid-memory) - MIT 许可的本地混合记忆插件，将冻结快照、SQLite FTS5 可检索事实和跨 Hermes/Claude/Codex/WorkBuddy 导入结合，并提供威胁扫描、审核队列、原子写和漂移检测；它会读写记忆目录、导入会话内容并建立索引，安装前请确认数据根目录、备份、敏感内容和默认 auto-accept 行为.
 - [DSH Agent Selector](https://github.com/jiang12345-code/dsh-agent-selector) - MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证；WorkBuddy 通道会读取本地模型与会话数据、写入 automations 数据库并依赖逆向调度器，使用前请审查凭据、任务内容、数据库备份和账号条款.
 - [Tonghuasun Agent](https://github.com/zhuyifang/tonghuasun-agent) - 面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交；本机接口使用令牌并可选开启交易，且核心 Windows 插件未签名且暂时闭源，使用前务必核对二进制、隐私、证券账户权限和交易确认流程.
 - [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌；MIT 许可。插件会保存凭据、打开登录页并请求 `copilot.tencent.com` 官方域名接口，但属于第三方适配器，使用前请核对账号条款与令牌存储.

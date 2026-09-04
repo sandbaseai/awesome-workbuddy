@@ -12,6 +12,7 @@ Bolton-Z/ns-mcp-china
 zkhyww/ai-short-drama-skills
 GYINT/infoseek
 stwhwing/markitdown-skill
+Willson-Huang/bilibili-video-summary
 yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
 chenwg001/qingfengskill
@@ -82,6 +83,7 @@ Jamailar/Beav
 HenryXiaoYang/wechat-openclaw-channel
 corrinehu/dsh-workbuddy-connect
 lovezi0/dsh-memory-palace
+Frog755/dsh-hybrid-memory
 jiang12345-code/dsh-agent-selector
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
