@@ -600,6 +600,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Bazi-Ziwei Skill",
+    "url": "https://github.com/mingze21/bazi-ziwei-skill",
+    "description": "An MIT-licensed Bazi and Ziwei-doushu Skill compatible with WorkBuddy, Codex, Claude, and Cursor, using local chart algorithms, prompts, and shareable HTML posters with a test guide and synthetic examples; birth details enter local artifacts, and divination is not scientific diagnosis and should not guide medical, legal, financial, or major life decisions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Bazi-Ziwei Skill",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper CN Reader",
     "url": "https://github.com/langlibai66/paper-cn-reader",
     "description": "An MIT-licensed academic-paper reading, translation, and annotation Skill for WorkBuddy that preserves PDF figures, tables, and formulas while producing HTML/PDF; it requires PyMuPDF, Playwright, and Chromium, loads MathJax from jsDelivr by default, and writes documents/assets to a user-selected directory, so review dependency and network/write scope first",
