@@ -1068,5 +1068,15 @@
     "titleZh": "awesome-mcp-servers",
     "descriptionZh": "MCP Server 通用生态清单；接入 WorkBuddy 前需单独安全审核",
     "categoryZh": "Related Lists"
+  },
+  {
+    "title": "Awesome DeepSeek Harness Plugins",
+    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "description": "A CC0 directory of installable DSH plugins, adjacent to WorkBuddy-style Skill and Agent workflows; it is not an official Tencent list, so review each plugin's source and permissions before installation",
+    "section": "Related Lists",
+    "category": "Related Lists",
+    "titleZh": "Awesome DeepSeek Harness Plugins",
+    "descriptionZh": "CC0 的 DSH 插件生态清单，包含与 WorkBuddy 式 Skill/Agent 工作流相邻的可安装扩展；它不是腾讯官方清单，安装任何插件前仍需逐项审查源码与权限",
+    "categoryZh": "Related Lists"
   }
 ]
