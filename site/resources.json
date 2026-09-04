@@ -560,6 +560,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Personal User Manual Skill",
+    "url": "https://github.com/NI9N/gerenshiyongshuomingshu",
+    "description": "An MIT-licensed, zero-dependency WorkBuddy Skill that uses a multi-turn self-discovery coaching process to organize values, strengths, and interests, challenge the result, and produce a maintainable Markdown personal manual; it does not assess, match careers, or claim a single conclusion, and answers may contain sensitive self-knowledge, so review storage and sharing scope and treat the output as a hypothesis to validate",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Personal User Manual Skill",
+    "descriptionZh": "MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮自我认知教练流程整理价值观、才能和热情，经过证伪关后生成可自行维护的 Markdown；它不做测评、不替用户匹配职业或下唯一结论，回答可能包含敏感自我认知信息，使用前请确认保存和分享范围，并把输出当作待验证假设",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Website Prompts and Skills",
     "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
     "description": "Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne",
