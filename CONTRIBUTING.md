@@ -14,6 +14,8 @@
 
 4. 在 Pull Request 中说明你实际验证了什么，以及检查日期。
 
+涉及 Skill、MCP、脚本或桌面扩展时，还需要按 [SECURITY.md](SECURITY.md) 检查安装指令、依赖、权限、凭据和数据流向，并在 Pull Request 中记录结果。
+
 请勿提交纯营销软文、聚合转载、无法访问的私域链接、重复内容，或来源与权限不明的 Skill/MCP。若你是作者或与资源存在商业关系，请主动披露。
 
 ## Review checklist
