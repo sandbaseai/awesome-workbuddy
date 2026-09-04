@@ -480,6 +480,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Senmu BuildOS",
+    "url": "https://github.com/SenMuShare/senmu-buildos",
+    "description": "An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback; installation changes workspace rules and may perform deployment/version actions, so review instructions, host permissions, credentials, and release targets first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Senmu BuildOS",
+    "descriptionZh": "Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git、发布、版本证据和回滚；安装后会影响项目工作区规则并可执行部署/版本操作，使用前请审查其指令、主机权限、凭据和发布目标",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "workbuddyskills",
     "url": "https://github.com/infometa/workbuddyskills",
     "description": "An offline archive of WorkBuddy Skills, connectors, and experts",
