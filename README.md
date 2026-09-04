@@ -56,6 +56,11 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [专家中心](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - 选择带独立方法和工具链的专家，或由团长拆解并行任务的多 Agent 专家团.
 - [连接器](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector) - 将 QQ 邮箱、腾讯文档等外部服务接入工作流，并了解配置与授权步骤.
 - [记忆](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory) - 查看、编辑、导入或要求 WorkBuddy 忘记从对话中提取的偏好与习惯.
+- [模型配置](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model) - 了解自动模型、内置模型以及自定义模型与协议配置.
+- [数据管理](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Data) - 管理共享文件与已归档任务等工作数据.
+- [系统设置](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Setting) - 配置语言、显示、安全安装与防止设备休眠等系统选项.
+- [WorkBuddy 10 个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 官方整理的十个快速上手与高效使用技巧.
+- [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 查找 WorkBuddy 使用过程中的常见问题与排障说明.
 - [From model to harness](https://mp.weixin.qq.com/s/X_kaKcXH2uELcemaNaZ4iQ) - WorkBuddy Agent 产品架构解读.
 
 ### Platform integrations
@@ -215,6 +220,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Tencent WorkBuddy Bench](https://arxiv.org/abs/2607.20911) - 多领域 coding-agent 基准与可复现实验协议.
 - [WorkBuddy Bench 官网](https://workbuddybench.com/) - 官方基准概览、评测赛道、结果与运行入口.
 - [WorkBuddy Bench 数据集](https://huggingface.co/datasets/tencent/workbuddy-bench) - Code、Web、Office 与 Security 四个子集的官方任务归档.
+- [文档生成与编辑实践](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - 官方实践案例：使用 WorkBuddy 生成与编辑文档.
+- [数据分析并可视化实践](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - 官方实践案例：使用 WorkBuddy 完成数据分析与可视化.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - OpenAI-compatible 模型接入示例.
 
 ## Related Lists

@@ -51,6 +51,11 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Expert Center](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work.
 - [Connectors](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Connector) - Connect services such as QQ Mail and Tencent Docs, with first-party configuration and authorization steps.
 - [Memory](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Memory) - View, edit, import, or ask WorkBuddy to forget preferences and habits extracted from conversations.
+- [Model configuration](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model) - Learn about automatic, built-in, and custom model and protocol configuration.
+- [Data management](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Data) - Manage shared files and archived tasks alongside other WorkBuddy data.
+- [System settings](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Setting) - Configure language, display, safe installation, and sleep-prevention options.
+- [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Ten official tips for getting started and working efficiently.
+- [FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Find answers and troubleshooting guidance for common WorkBuddy questions.
 - [From model to harness](https://mp.weixin.qq.com/s/X_kaKcXH2uELcemaNaZ4iQ) - An architectural introduction to the WorkBuddy Agent product.
 
 ### Platform integrations
@@ -210,6 +215,8 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 - [Tencent WorkBuddy Bench](https://arxiv.org/abs/2607.20911) - A multi-domain coding-agent benchmark with a reproducible evaluation protocol.
 - [WorkBuddy Bench website](https://workbuddybench.com/) - Official benchmark overview, tracks, results, and evaluation entry point.
 - [WorkBuddy Bench dataset](https://huggingface.co/datasets/tencent/workbuddy-bench) - Official task archives for the Code, Web, Office, and Security subsets.
+- [Document generation and editing practice](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) - An official practice case for generating and editing documents with WorkBuddy.
+- [Data analysis and visualization practice](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) - An official practice case for data analysis and visualization with WorkBuddy.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - Connect an OpenAI-compatible model endpoint.
 
 ## Related Lists
