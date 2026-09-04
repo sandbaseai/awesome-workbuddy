@@ -10,6 +10,8 @@ English · [简体中文](README.md)
 
 New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE.md), or use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to filter by keyword and category.
 
+For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
+
 WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
 
 > [!IMPORTANT]
