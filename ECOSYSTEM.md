@@ -145,6 +145,7 @@ Last refreshed: **2026-09-05 UTC**
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | Rust | 2026-09-04 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
 | [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | Python | 2026-09-03 |
+| [luan-78-zao/official-document-writer-skill](https://github.com/luan-78-zao/official-document-writer-skill) | 12 | Shell | 2026-04-08 |
 | [xuboboo/xiaohongshu-viral-note-agent-skill](https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill) | 11 | Python | 2026-07-19 |
 | [dongsheng123132/task-passport](https://github.com/dongsheng123132/task-passport) | 11 | JavaScript | 2026-08-26 |
 | [Likenttt/garmin-connect-plugin-for-dsh](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) | 11 | TypeScript | 2026-08-29 |
