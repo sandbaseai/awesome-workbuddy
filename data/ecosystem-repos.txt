@@ -58,11 +58,13 @@ zhouwei713/WorkBuddy-Dream-Skin
 sindney/m5stack_toys
 konnga/skill-buddy
 nicechencs/AgentHub
+qufei1993/skills-hub
 xiaojinlucky/workbuddy-expert-bridge
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 normalpeople553/workbuddy-mcp-oauth-guide
 JustineJiao/llm-wiki-skill
+jinwyp/open-ppt-skill
 CatCatUncle/openworkbuddy
 ysyx2008/SailFish
 opensymph/OpenBuddy
