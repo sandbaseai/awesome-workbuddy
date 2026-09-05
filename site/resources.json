@@ -3160,6 +3160,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Better Harness",
+    "url": "https://github.com/QoderAI/better-harness",
+    "description": "An MIT-licensed Agent Harness Engineering platform with explicit WorkBuddy support, evidence-backed workflow reports, resumable tasks, Skill/MCP/Hook boundaries, controlled experiments, and adapters for 37 Agent platforms; WorkBuddy currently has no managed plugin lifecycle, and installation/analysis can create project configuration, reports, and state files, so review target paths, session scope, and external model connections first",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "Better Harness",
+    "descriptionZh": "MIT 许可的 Agent Harness 工程平台，明确支持 WorkBuddy，提供证据化工作流报告、可恢复任务、Skill/MCP/Hook 边界、受控实验和 37 个 Agent 平台适配；WorkBuddy 当前没有托管插件生命周期，安装与分析会产生项目配置、报告和状态文件，使用前请审查目标路径、会话范围与外部模型连接",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
     "title": "Comet",
     "url": "https://github.com/rpamis/comet",
     "description": "An MIT-licensed resumable long-running task and Skill platform with explicit WorkBuddy support, Native/Classic requirements workflows, phase gates, Skill authoring/evaluation/release tooling, and adapters for 37 Agent platforms; installation writes project configuration, scripts, state, and workflow files, so review target directories, generated artifacts, and external evaluation/model connections first",

@@ -88,6 +88,7 @@ ysyx2008/SailFish
 opensymph/OpenBuddy
 xiaoliuzhuan666/workbuddy-account-migrate
 rpamis/comet
+QoderAI/better-harness
 awesome-dsh-plugin/awesome-dsh-plugin
 hufeng173/kunpeng-skill
 juventini10/Five-layer-memory-system

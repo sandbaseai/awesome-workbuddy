@@ -431,6 +431,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Automation and Agent workflows
 
+- [Better Harness](https://github.com/QoderAI/better-harness) - MIT 许可的 Agent Harness 工程平台，明确支持 WorkBuddy，提供证据化工作流报告、可恢复任务、Skill/MCP/Hook 边界、受控实验和 37 个 Agent 平台适配；WorkBuddy 当前没有托管插件生命周期，安装与分析会产生项目配置、报告和状态文件，使用前请审查目标路径、会话范围与外部模型连接.
 - [Comet](https://github.com/rpamis/comet) - MIT 许可的可恢复长任务与 Skill 平台，明确支持 WorkBuddy，提供 Native/Classic 需求工作流、阶段门禁、Skill 创建/评测/发布和 37 个 Agent 平台适配；安装会写入项目配置、脚本、状态与工作流文件，使用前请审查目标目录、生成物和外部评测/模型连接.
 - [每日自动资讯简报](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing) - 连接 QQ 邮箱、测试简报、设置每日发送并进行个性化调整.
 - [AI 自驱动执行](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/AI-Self-Driven) - 说明任务目标，让 WorkBuddy 自行拆解步骤并在交付前完成自检.
