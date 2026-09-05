@@ -21,6 +21,8 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 机器可读目录：[`site/llms.txt`](site/llms.txt)。
 
+如果这个清单帮你找到有用资源，欢迎点一个 [Star](https://github.com/sandbaseai/awesome-workbuddy)。发现遗漏或失效链接，可以[推荐资源](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)。
+
 <details>
 <summary>更多官方入口</summary>
 

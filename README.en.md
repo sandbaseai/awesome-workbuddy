@@ -21,6 +21,8 @@ WorkBuddy uses natural language to help with research, documents, data, design, 
 
 Machine-readable index: [`site/llms.txt`](site/llms.txt).
 
+If this list helps you find something useful, consider giving it a [Star](https://github.com/sandbaseai/awesome-workbuddy). Found a missing resource or broken link? [Suggest an update](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
+
 <details>
 <summary>More official entry points</summary>
 
