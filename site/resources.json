@@ -910,6 +910,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WeChat 4.x Decrypt Skill",
+    "url": "https://github.com/xscanzm/wechat-4x-decrypt",
+    "description": "An MIT-licensed Windows-only WorkBuddy Skill for decrypting and searching local Weixin 4.x chat databases, with timestamped digests and structured exports; it extracts decryption material from the user's running account process and creates plaintext databases, so confirm authorization and participant privacy, protect keys/exports, review the upstream tool, and plan deletion and backups first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WeChat 4.x Decrypt Skill",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 的 Windows 本地微信 4.x 聊天记录解密与检索 Skill，可导出带时间戳的摘要和结构化结果；会从运行中的本人微信进程获取解密材料并生成明文数据库，使用前必须确认账号授权、聊天参与者隐私、密钥/导出文件保护、上游工具来源和删除备份策略",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "CareerStar",
     "url": "https://github.com/HanGu007/workbuddy-career-skills",
     "description": "An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking; it handles resume and employment data and can use IMA and Qichacha connectors, so redact inputs and review authorization, data flow, and background-check conclusions first",
