@@ -3700,6 +3700,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Investor Skill",
+    "url": "https://github.com/D-kart/investor-skill",
+    "description": "An MIT-licensed, native WorkBuddy Skill for early-stage investment research in an Equity Research style, covering projects, business models, markets, competition, diligence, and investment memos with a glossary and references; for research and drafts only, not investment advice",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "Investor Skill",
+    "descriptionZh": "MIT 许可、原生支持 WorkBuddy 的一级市场投资研究 Skill，按 Equity Research 风格整理项目、商业模式、市场、竞争、尽调和投资备忘录，并附术语表与参考资料；仅供研究和草稿使用，不构成投资建议",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "Social-media operations",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media",
     "description": "Official workflow for producing Xiaohongshu and video content",
