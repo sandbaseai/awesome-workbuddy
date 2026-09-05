@@ -37,7 +37,7 @@ Last refreshed: **2026-09-05 UTC**
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 544 | Python | 2026-09-02 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
-| [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-05 |
+| [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 293 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 277 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 262 | Python | 2026-08-13 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 257 | Python | 2026-09-02 |
@@ -186,6 +186,7 @@ Last refreshed: **2026-09-05 UTC**
 | [smartcai87/workbuddy-dream-skin](https://github.com/smartcai87/workbuddy-dream-skin) | 7 | JavaScript | 2026-07-18 |
 | [dayviwong/apple-design-skill](https://github.com/dayviwong/apple-design-skill) | 7 | - | 2026-04-28 |
 | [MLiang0920/mliang-ui-design-skill](https://github.com/MLiang0920/mliang-ui-design-skill) | 7 | - | 2026-05-08 |
+| [hanyangcg/video-story-clip](https://github.com/hanyangcg/video-story-clip) | 7 | Python | 2026-08-21 |
 | [simplast/workbuddy-api](https://github.com/simplast/workbuddy-api) | 6 | JavaScript | 2026-09-04 |
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |
@@ -263,7 +264,7 @@ Last refreshed: **2026-09-05 UTC**
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
-| [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-04 |
+| [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
 | [bailinghub/bailinghub-workbuddy-connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) | 0 | JavaScript | 2026-09-03 |
 | [simcrq/origin-auto](https://github.com/simcrq/origin-auto) | 0 | Python | 2026-09-01 |
 | [GYINT/infoseek](https://github.com/GYINT/infoseek) | 0 | Python | 2026-08-30 |

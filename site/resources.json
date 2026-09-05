@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Video Story Clip",
+    "url": "https://github.com/hanyangcg/video-story-clip",
+    "description": "An MIT-licensed movie short-clip editing Skill verified on WorkBuddy, planning 8–15 themed 50–75-second clips from subtitles with lossless cutting, merging, gap detection, and output validation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Video Story Clip",
+    "descriptionZh": "MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规划 8–15 个 50–75 秒片段，支持无损切割、合并、空白段检测和输出校验",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "MLiang UI Design",
     "url": "https://github.com/MLiang0920/mliang-ui-design-skill",
     "description": "An MIT-licensed universal UI-design Skill with explicit WorkBuddy support, offering 14 palettes, a 4px spacing system, modular typography, interaction states, HTML/React/Vue templates, and examples",

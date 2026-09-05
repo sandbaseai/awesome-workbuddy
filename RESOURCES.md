@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规划 8–15 个 50–75 秒片段，支持无损切割、合并、空白段检测和输出校验
 - [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) - MIT 许可、明确支持 WorkBuddy 的通用 UI 设计 Skill，提供 14 套调色板、4px 间距体系、字体比例、交互状态、HTML/React/Vue 模板和示例
 - [Douyin Operations](https://github.com/a-hue-1/Douyin-video-scraping-operation) - MIT 许可、明确支持 WorkBuddy 的抖音账号运营与内容研究 Skill，支持热榜抓取、视频链接解析、账号与评论分析、爆款拆解及文案脚本生成；评论数据需可选的第三方 API
 - [CSV Data Analyst](https://github.com/Errriclin/csv-data-analyst) - MIT 许可、明确面向 WorkBuddy 的多场景 CSV 分析 Skill，支持自然语言分析、图表、结构化结果和可审计产物清单，并提供示例与验证脚本
