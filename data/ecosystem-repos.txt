@@ -59,6 +59,7 @@ TencentEdgeOne/awesome-website-prompts-and-skills
 imraywang/rayskills
 arcboxlabs/linkcode
 cdredfox/workbuddy-skin-studio
+zhangxiaoqiang1991/workbuddy-skin-skill
 itcastWsy/workbuddy-skin
 zhouwei713/WorkBuddy-Dream-Skin
 sindney/m5stack_toys
