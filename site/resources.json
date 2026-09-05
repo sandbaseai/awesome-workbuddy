@@ -980,6 +980,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WeChat Article Skills",
+    "url": "https://github.com/aiworkskills/wechat-article-skills",
+    "description": "Apache-2.0 Skills compatible with WorkBuddy for WeChat Official Account operations, covering topic selection, writing, review, layout, images, and draft publishing, with a WorkBuddy integration guide; installation can touch local configuration, article/image material, and external model or publishing services, so confirm account authorization, content rights, key storage, and publishing scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WeChat Article Skills",
+    "descriptionZh": "Apache-2.0 许可、兼容 WorkBuddy 的公众号运营 Skills，覆盖选题、写作、审稿、排版、配图和草稿发布，并提供 WorkBuddy 组合教程；安装会接触本地配置、图片/文章资料及可能的外部模型或发布服务，使用前请确认账号授权、内容版权、密钥保存和发布范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Release Skill",
     "url": "https://github.com/ifoohoo/release-skill",
     "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",

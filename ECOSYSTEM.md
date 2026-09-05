@@ -7,21 +7,22 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,631 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,633 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,940 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,519 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,520 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,920 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,772 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,811 | TypeScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,777 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,589 | TypeScript | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,039 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,040 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 700 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 623 | JavaScript | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 624 | JavaScript | 2026-09-05 |
+| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 557 | Python | 2026-09-05 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-03 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-03 |
@@ -87,7 +88,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | PowerShell | 2026-08-18 |
 | [kuops/opencode-codebuddy-auth](https://github.com/kuops/opencode-codebuddy-auth) | 20 | TypeScript | 2026-06-05 |
 | [Jevil961/codebuddy-openai-proxy](https://github.com/Jevil961/codebuddy-openai-proxy) | 20 | Python | 2026-04-04 |
-| [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-08-29 |
+| [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-09-05 |
 | [sharptoolbox/WorkBuddy-AppBuilderSkill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) | 20 | Python | 2026-08-31 |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |
 | [yinren112/bossmate](https://github.com/yinren112/bossmate) | 19 | JavaScript | 2026-08-12 |
@@ -106,7 +107,7 @@ Last refreshed: **2026-09-05 UTC**
 | [taxueseek/session-digger](https://github.com/taxueseek/session-digger) | 17 | Python | 2026-07-21 |
 | [sindney/m5stack_toys](https://github.com/sindney/m5stack_toys) | 16 | C++ | 2026-07-30 |
 | [tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) | 16 | Python | 2026-08-11 |
-| [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-02 |
+| [riwonswain-ovo/OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) | 16 | Python | 2026-09-05 |
 | [luozhilzh/ai-10x-learning](https://github.com/luozhilzh/ai-10x-learning) | 16 | HTML | 2026-08-16 |
 | [jiangxu1024/hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill) | 16 | Python | 2026-03-18 |
 | [AriaXXX-free/job-navigation-skill](https://github.com/AriaXXX-free/job-navigation-skill) | 15 | Python | 2026-09-02 |

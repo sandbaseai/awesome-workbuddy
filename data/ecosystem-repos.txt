@@ -127,6 +127,7 @@ arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator
 THU-MAIC/OpenMAIC
+aiworkskills/wechat-article-skills
 ifoohoo/release-skill
 jiangxu1024/hotspot-monitor-skill
 mingze21/bazi-ziwei-skill
