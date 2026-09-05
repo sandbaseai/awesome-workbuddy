@@ -940,6 +940,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "TokenTracker",
+    "url": "https://github.com/xiufengsun/TokenTracker",
+    "description": "An MIT-licensed local-first token-usage and cost dashboard with explicit WorkBuddy support, collecting usage through a SessionEnd hook and local project logs with desktop apps, a CLI, limits, and trend views; it needs no cloud account or API key by default, but review the scope before enabling optional rankings or sync",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "TokenTracker",
+    "descriptionZh": "MIT 许可的本地优先 Token 用量与成本看板，明确支持 WorkBuddy，通过 SessionEnd Hook 和本地项目日志统计用量，提供桌面应用、CLI、限额和趋势视图；默认不需要云账号或 API Key，但启用可选排行榜/同步前请确认数据范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Usage Status",
     "url": "https://github.com/clancy-feng/workbuddy-usage-status",
     "description": "Turns WorkBuddy's local data into an offline, auditable dashboard for token/credit usage, model efficiency, and errors",
@@ -1028,6 +1038,16 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "Software Certificate Skill",
+    "url": "https://github.com/IvanCodesDev/software-certificate-skill",
+    "description": "An MIT-licensed Skill with explicit WorkBuddy support for generating software-copyright application forms, user manuals, source-code materials, DOCX, and PDF from a project; it does not replace ownership or factual review, so redact fixtures and manually check registration requirements before submission",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Software Certificate Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 PDF；它不替代权属和事实核验，提交前应脱敏并人工复核登记要求",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "WeCom-Unified",
@@ -2898,6 +2918,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Vibe Service Guardian",
+    "url": "https://github.com/keith-yan/vibe-service-guardian",
+    "description": "An MIT-licensed local service-attribution, AI-runtime health, and open-weight model-capacity diagnostic tool with explicit WorkBuddy/CodeBuddy process detection; it binds to loopback and redacts common secrets by default, but confirm target PIDs, ports, and resource boundaries before stopping services or running benchmarks",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Vibe Service Guardian",
+    "descriptionZh": "MIT 许可的本机服务溯源、AI 运行健康和开放权重模型容量诊断工具，明确识别 WorkBuddy/CodeBuddy 进程；默认只监听回环地址并脱敏常见密钥，停止服务或运行基准前仍需确认目标 PID、端口和资源边界",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "Open Agent Connect",

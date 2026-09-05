@@ -118,6 +118,7 @@
 - [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - Adds searchable, pinyin-aware, keyboard-friendly skill picking to the DeepSeek Harness Web GUI, reproducing WorkBuddy-style `/skill-name` invocation
 - [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - An Apache-2.0 multi-source distillation Skill for WorkBuddy, Codex, Claude Code, and other Agents. It turns repositories, websites, UI, images, audio/video, and documents into evidence-backed reusable methods and generation specifications
 - [Skill Doctor](https://github.com/evilstar2016/skill-doctor) - A local MIT-licensed CLI for auditing Skill conflicts, duplicates, security risks, and context cost across WorkBuddy and other Agents. It reads local resources by default and binds its UI to loopback
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - An MIT-licensed local-first token-usage and cost dashboard with explicit WorkBuddy support, collecting usage through a SessionEnd hook and local project logs with desktop apps, a CLI, limits, and trend views; it needs no cloud account or API key by default, but review the scope before enabling optional rankings or sync
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - Turns WorkBuddy's local data into an offline, auditable dashboard for token/credit usage, model efficiency, and errors
 - [Tokscale](https://github.com/junhoyeo/tokscale) - An MIT-licensed high-performance token-usage and cost-analysis CLI/dashboard with explicit WorkBuddy support, reading `~/.workbuddy/projects/**/*.jsonl` and local SQLite data while aggregating 40+ Agents; session content stays local and pricing data is refreshed according to its documented upstream sources
 - [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - An MIT-licensed, WorkBuddy-first usage-analysis Skill that reads local session/usage data to produce token, cache, model-cost, and anomaly reports in Markdown, HTML, or JSON, with 306 synthetic-fixture tests
@@ -129,6 +130,8 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - An MIT-licensed local-first cross-agent memory store with an MCP server and read-only Web panel, plus manual WorkBuddy connection guidance
 
 ### Ready-to-use Skills
+
+- [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - An MIT-licensed Skill with explicit WorkBuddy support for generating software-copyright application forms, user manuals, source-code materials, DOCX, and PDF from a project; it does not replace ownership or factual review, so redact fixtures and manually check registration requirements before submission
 
 - [WeCom-Unified](https://github.com/WecomTeam/wecom-unified) - An MIT-licensed enterprise WeChat toolkit Skill with explicit WorkBuddy support for messages, email, documents, todos, calendars, meetings, cloud drive, and contacts; it installs with one command and guides credential setup, so confirm authorization scope before any company-data access or external writes
 - [Get Note Skills](https://github.com/iswalle/getnote-cli) - An MIT-licensed Get Note CLI with five domain Skills and explicit WorkBuddy support for searching, organizing, and reading or writing knowledge bases; it requires a Get Note membership and OpenAPI authorization, WorkBuddy must restart after installation, and destructive moves or deletes deserve human review
@@ -329,6 +332,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [Vibe Service Guardian](https://github.com/keith-yan/vibe-service-guardian) - An MIT-licensed local service-attribution, AI-runtime health, and open-weight model-capacity diagnostic tool with explicit WorkBuddy/CodeBuddy process detection; it binds to loopback and redacts common secrets by default, but confirm target PIDs, ports, and resource boundaries before stopping services or running benchmarks
 
 - [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - An MIT-licensed local-agent network connector with explicit WorkBuddy support, giving a local Agent a persistent identity, public Bot page, and Bot-to-Bot communication; enabling it introduces network traffic and public content, so review sharing scope and credentials first
 - [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) - An MIT-licensed self-hosted AI gateway with WorkBuddy OAuth support, model routing, quota tracking, MCP mounting, and many upstream providers; it handles proxied requests and OAuth/cookie credentials, so review logs, tunnels, and secret permissions before deployment

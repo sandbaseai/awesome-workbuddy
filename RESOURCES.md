@@ -118,6 +118,7 @@
 - [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - 为 DeepSeek Harness Web GUI 增加可搜索、拼音检索和键盘导航的技能选择器，复刻 WorkBuddy 式 `/技能名` 调用交互
 - [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - 面向 WorkBuddy、Codex、Claude Code 等 Agent 的 Apache-2.0 多源蒸馏 Skill，可从代码、网站、UI、图片、音视频和文档建立带证据的可迁移方法与生成规范
 - [Skill Doctor](https://github.com/evilstar2016/skill-doctor) - 面向 WorkBuddy 等 Agent 的本地 Skill 冲突、重复、安全风险与上下文成本审计 CLI
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - MIT 许可的本地优先 Token 用量与成本看板，明确支持 WorkBuddy，通过 SessionEnd Hook 和本地项目日志统计用量，提供桌面应用、CLI、限额和趋势视图；默认不需要云账号或 API Key，但启用可选排行榜/同步前请确认数据范围
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - 将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板
 - [Tokscale](https://github.com/junhoyeo/tokscale) - MIT 许可的高性能 Token 用量与成本分析 CLI/看板，明确支持 WorkBuddy，读取 `~/.workbuddy/projects/**/*.jsonl` 与本地 SQLite 数据，并统一统计 40+ Agent 的用量；会话内容留在本地，价格数据按上游配置更新
 - [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例
@@ -129,6 +130,8 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引
 
 ### Ready-to-use Skills
+
+- [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 PDF；它不替代权属和事实核验，提交前应脱敏并人工复核登记要求
 
 - [WeCom-Unified](https://github.com/WecomTeam/wecom-unified) - MIT 许可、明确支持 WorkBuddy 的企业微信套件 Skill，覆盖消息、邮件、文档、待办、日程、会议、微盘和通讯录，可通过一条命令安装并引导配置凭证；涉及企业数据和外部写入，使用前应先确认授权范围
 - [Get 笔记 Skills](https://github.com/iswalle/getnote-cli) - MIT 许可的得到笔记 CLI 与五个领域 Skills，明确支持 WorkBuddy，可搜索、整理和读写知识库；需要得到笔记会员及 OpenAPI 授权，安装后 WorkBuddy 需要重启，删除或移动内容前请人工核对目标
@@ -328,6 +331,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 
 ### Tools and integrations
+
+- [Vibe Service Guardian](https://github.com/keith-yan/vibe-service-guardian) - MIT 许可的本机服务溯源、AI 运行健康和开放权重模型容量诊断工具，明确识别 WorkBuddy/CodeBuddy 进程；默认只监听回环地址并脱敏常见密钥，停止服务或运行基准前仍需确认目标 PID、端口和资源边界
 
 - [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - MIT 许可的本地 Agent 网络连接器，明确支持 WorkBuddy，可为本地 Agent 创建持久身份、公开 Bot 页面和 Bot 间通信；启用后会产生网络通信与公开内容，请先检查共享范围和凭据
 - [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) - MIT 许可的自托管 AI 网关，支持 WorkBuddy OAuth 适配、模型路由、配额统计、MCP 挂载和多种上游服务；它会处理中转请求及 OAuth/Cookie 凭据，部署前请审查日志、隧道和密钥权限
