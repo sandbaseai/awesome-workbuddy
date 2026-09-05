@@ -234,7 +234,7 @@
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
-- [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - 生成、校验并导出 draw.io 图表的跨平台 Skill.
+- [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - MIT 许可的跨平台 Draw.io 图表生成 Skill，明确支持 WorkBuddy，提供流程图、架构图、UML、ER 图和思维导图工作流，并附带零依赖 XML 校验脚本、示例和浏览器打开方案
 - [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.

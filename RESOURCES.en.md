@@ -235,7 +235,7 @@
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - An MIT-licensed video-production Skill compatible with WorkBuddy, Codex, and Claude, covering storyboards, image/video generation, TTS, subtitles, and local FFmpeg finishing
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - Diagnoses accounts and high-performing posts across major Chinese content platforms.
-- [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - Generates, validates, and exports draw.io diagrams across platforms.
+- [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - An MIT-licensed cross-platform Draw.io diagram-generation Skill with explicit WorkBuddy support, covering flowcharts, architecture, UML, ER diagrams, and mind maps, with zero-dependency XML validation scripts, examples, and a browser fallback
 - [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - An MIT-licensed WorkBuddy Skill that turns an article into 5–8 faithful knowledge cards
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - Plans, writes, and reviews textbooks using Understanding by Design.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - An open job-search system built from seven Skills and a Feishu workspace.
