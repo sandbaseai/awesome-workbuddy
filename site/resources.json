@@ -1050,6 +1050,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SpecGate",
+    "url": "https://github.com/supernisy/specgate",
+    "description": "An MIT-licensed deterministic acceptance-contract gate Skill with explicit user-level and project-level WorkBuddy installation paths, turning requirements into mechanically verifiable contracts and task packages; its first run installs a dependency and executes local scripts, so review its installation scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "SpecGate",
+    "descriptionZh": "MIT 许可的确定性验收契约门禁 Skill，提供明确的 WorkBuddy 用户级或项目级安装路径，可将需求转换为可验证契约和任务包；首次运行会安装依赖并执行本地脚本，使用前请审查其安装范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Turning Ideas into Projects",
+    "url": "https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects",
+    "description": "An MIT-licensed project workflow Skill with a Tencent WorkBuddy-specific ZIP, breaking vague ideas into approved, verifiable stages; platform packages are not interchangeable, so follow the project installation guide before importing",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Turning Ideas into Projects",
+    "descriptionZh": "MIT 许可的项目工作流 Skill，提供腾讯 WorkBuddy 专用 ZIP，可将模糊想法拆成经过批准、可验证的阶段；不同平台的安装包不可混用，导入前请按官方说明操作",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Gendangzou Skill",
     "url": "https://github.com/MobiusQuant/Gendangzou-skill",
     "description": "An Apache-2.0 traceable A-share sector-research Skill with explicit WorkBuddy support, covering policy, authoritative media, capital flows, companies, and ETFs; treat market and research output as informational and verify freshness and investment risk independently",
@@ -2968,6 +2988,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "27c.site",
+    "url": "https://github.com/idea-internet/idea_internet",
+    "description": "An MIT-licensed AI website-publishing platform with explicit WorkBuddy support through MCP or an HTTP API for creating, generating assets, and publishing sites; publishing creates external network traffic and public content, so confirm domains, credentials, assets, and rollback boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "27c.site",
+    "descriptionZh": "MIT 许可的 AI 网站发布平台，明确支持 WorkBuddy 通过 MCP 或 HTTP API 创建、生成素材并发布网站；发布操作会产生外部网络与公开内容，使用前请确认域名、凭据、素材和回滚边界",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "Agent Manager",

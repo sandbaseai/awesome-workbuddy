@@ -135,6 +135,9 @@
 
 ### Ready-to-use Skills
 
+- [SpecGate](https://github.com/supernisy/specgate) - An MIT-licensed deterministic acceptance-contract gate Skill with explicit user-level and project-level WorkBuddy installation paths, turning requirements into mechanically verifiable contracts and task packages; its first run installs a dependency and executes local scripts, so review its installation scope first
+- [Turning Ideas into Projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) - An MIT-licensed project workflow Skill with a Tencent WorkBuddy-specific ZIP, breaking vague ideas into approved, verifiable stages; platform packages are not interchangeable, so follow the project installation guide before importing
+
 - [Gendangzou Skill](https://github.com/MobiusQuant/Gendangzou-skill) - An Apache-2.0 traceable A-share sector-research Skill with explicit WorkBuddy support, covering policy, authoritative media, capital flows, companies, and ETFs; treat market and research output as informational and verify freshness and investment risk independently
 - [Awesome Research Skills](https://github.com/Yila-AI/awesome-research-skills) - An Apache-2.0 research-Skill collection designed for WorkBuddy-style research agents, covering literature, evidence, data, writing, and presentation workflows; review citations and conclusions manually
 
@@ -343,6 +346,7 @@
 
 ### Tools and integrations
 
+- [27c.site](https://github.com/idea-internet/idea_internet) - An MIT-licensed AI website-publishing platform with explicit WorkBuddy support through MCP or an HTTP API for creating, generating assets, and publishing sites; publishing creates external network traffic and public content, so confirm domains, credentials, assets, and rollback boundaries first
 - [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) - An Apache-2.0 cross-platform desktop app for managing Agents and MCP servers, supporting WorkBuddy sessions, usage, memory, and Skill sharing with local telemetry endpoints; it reads local sessions or transcripts by default, so review scan scope and export behavior first
 - [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - An Apache-2.0 local telemetry collector for AI coding Agents with explicit WorkBuddy Hook and transcript support, exporting token, cost, trace, and security-audit data; confirm content-capture policy and export destinations before enabling it
 - [Meldwork](https://github.com/Ryder-MHumble/Meldwork) - An Apache-2.0 local multi-agent workspace that invokes local Agent CLIs including WorkBuddy and provides scoped workspaces, permissions, and human decisions; its current macOS preview is ad-hoc signed and not notarized, so prefer a source build or review the release package

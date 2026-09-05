@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,913 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,914 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -384,6 +384,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jixingyu999/browser-mcp](https://github.com/jixingyu999/browser-mcp) | 1 | JavaScript | 2026-09-05 |
 | [openlxcn/openlx-weixin-baimindan](https://github.com/openlxcn/openlx-weixin-baimindan) | 1 | Python | 2026-09-05 |
 | [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-05 |
+| [supernisy/specgate](https://github.com/supernisy/specgate) | 1 | JavaScript | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
@@ -456,5 +457,7 @@ Last refreshed: **2026-09-05 UTC**
 | [luqi67677/produce-videos](https://github.com/luqi67677/produce-videos) | 0 | HTML | 2026-09-05 |
 | [LIN-LAB-AI/smartoken](https://github.com/LIN-LAB-AI/smartoken) | 0 | Python | 2026-09-05 |
 | [oreogong2/TokenFleet](https://github.com/oreogong2/TokenFleet) | 0 | Swift | 2026-09-05 |
+| [jiadakong2013wy-eng/turning-ideas-into-projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) | 0 | Shell | 2026-09-05 |
+| [idea-internet/idea_internet](https://github.com/idea-internet/idea_internet) | 0 | TypeScript | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
