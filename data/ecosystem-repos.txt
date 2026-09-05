@@ -267,6 +267,8 @@ kelegele/agentsmd-skill
 Young1108/skillhub
 yanjingxihaiyu/time-rhythm-planner
 Yinc25665-rgb/voice-refine-skill
+shrek-abaper/sap-engineering-skill
+maochengsun16-code/bazi-analysis-skill
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc

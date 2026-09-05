@@ -1480,6 +1480,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Bazi Analysis Skill",
+    "url": "https://github.com/maochengsun16-code/bazi-analysis-skill",
+    "description": "An MIT-licensed Bazi analysis Skill with explicit WorkBuddy support, charting workflows, knowledge references, and validation checklists; for cultural reference only, not medical, legal, or investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Bazi Analysis Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的八字分析 Skill，提供排盘、分析流程、知识库和校验清单；仅作传统文化参考，不用于医疗、法律或投资决策",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "SAP Engineering Skills",
+    "url": "https://github.com/shrek-abaper/sap-engineering-skill",
+    "description": "An MIT-licensed SAP ABAP engineering Skill collection with `SKILL.md` files, an ADT CLI, code review, security checks, and transport-release gates for custom-Skill Agent hosts",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "SAP Engineering Skills",
+    "descriptionZh": "MIT 许可的 SAP ABAP 工程 Skill 集合，包含 `SKILL.md`、ADT CLI、代码审查、安全检查和传输上线门控，适用于支持自定义 Skill 的 Agent",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Prompt Toolkit",
     "url": "https://github.com/xiaolouJB/prompt-toolkit",
     "description": "A CC BY-NC 4.0 multi-agent distribution package with 12 general-purpose prompts, including native WorkBuddy Skills and adaptations for Claude Code, Cursor, Trae, and CodeBuddy, covering questioning, learning, fact-checking, decisions, and life design",

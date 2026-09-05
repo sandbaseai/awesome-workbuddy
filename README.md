@@ -210,6 +210,8 @@
 - [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的发布 Skill，覆盖版本、审批和 GitHub/npm/插件分发
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例
+- [Bazi Analysis Skill](https://github.com/maochengsun16-code/bazi-analysis-skill) - MIT 许可、明确支持 WorkBuddy 的八字分析 Skill，提供排盘、分析流程、知识库和校验清单；仅作传统文化参考，不用于医疗、法律或投资决策
+- [SAP Engineering Skills](https://github.com/shrek-abaper/sap-engineering-skill) - MIT 许可的 SAP ABAP 工程 Skill 集合，包含 `SKILL.md`、ADT CLI、代码审查、安全检查和传输上线门控，适用于支持自定义 Skill 的 Agent
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计
 - [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF
 - [Reading Analysis](https://github.com/shenquan520/reading-analysis) - 许可证未声明的 WorkBuddy 英语阅读分析 Skill，提供 125 张方法卡，覆盖高考、四六级和考研阅读
