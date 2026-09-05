@@ -116,6 +116,7 @@ HanHan666666/codebuddy2openai
 orangeboyChen/codebuddy2api
 kuops/opencode-codebuddy-auth
 beeyang0/miniprogram-VirtualPayment
+JipZeonGit/codebuddy-ide-cn-linux
 wicm84266964/Buddy2api
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning

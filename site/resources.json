@@ -1590,6 +1590,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "CodeBuddy IDE CN for Linux",
+    "url": "https://github.com/JipZeonGit/codebuddy-ide-cn-linux",
+    "description": "An MIT-licensed unofficial Linux packaging adapter that converts a CodeBuddy CN x86_64 DEB fetched by the user from Tencent's official CDN into Arch/AUR, RPM, or AppImage packages locally. The repository explicitly does not host or redistribute Tencent binaries and documents version checks, ignored build directories, EULA, and trademark boundaries, but building it installs system dependencies, extracts, and repackages an upstream Electron application; verify the official source, version, signatures/supply chain, distro permissions, and Tencent terms, and do not present generated artifacts as official releases",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy IDE CN for Linux",
+    "descriptionZh": "MIT 许可的非官方 Linux 打包适配工具，将用户自行从腾讯官方 CDN 获取的 CodeBuddy CN x86_64 DEB 在本机转换为 Arch/AUR、RPM 或 AppImage；仓库明确不托管或分发腾讯二进制，并提供版本校验、构建忽略目录和 EULA/商标边界，但构建会安装系统依赖、解包并重组上游 Electron 应用，使用前请核对官方来源、版本、签名/供应链、发行版权限和腾讯许可，不要把生成物当作官方发行版",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Buddy2api",
     "url": "https://github.com/wicm84266964/Buddy2api",
     "description": "An MIT-licensed local multi-channel gateway that separately exposes WorkBuddy/CodeBuddy, QClaw, QwenWork, and TraeWork login states through OpenAI-compatible APIs, with Codex Responses, Docker, and API-key channel routing; upstream explicitly limits it to local use and says not to deploy publicly or share credentials, so review local auth files, the database, ports, and each provider's account terms first",
