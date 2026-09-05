@@ -14,7 +14,7 @@ Last refreshed: **2026-09-05 UTC**
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,770 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,810 | TypeScript | 2026-09-04 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,771 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,772 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,032 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-05 |
