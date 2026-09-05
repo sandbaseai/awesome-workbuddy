@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Data Lens](https://github.com/wangge-ai/data-lens) - Apache-2.0 许可、明确支持 WorkBuddy 的本地证据导向数据分析 Skill，可处理表格、文章、书籍和混合资料，核对数字、串联来源、寻找反例并输出可追溯报告
 - [Paper Mode](https://github.com/markbignews/paper-mode) - MIT 许可、明确适配 WorkBuddy 的中文学术论文 AI 痕迹自查与人工润色 Skill，可处理文本、Word 和 PDF，并强调估算结果不等于官方检测、不得用于规避检测或学术不端
 - [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS 生成可搜索、可筛选、支持暗色模式的单文件 HTML，并提供模型榜单、市场数据、引用和定时生成
 - [香港商業寫作](https://github.com/simonsiu2008-bit/hk-business-writing) - MIT 许可的 WorkBuddy/Claude Skill，将内地商业中文改写为香港书面语，提供 80+ 用语对照、叙事框架、示例和自查清单

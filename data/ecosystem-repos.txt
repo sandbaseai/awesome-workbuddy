@@ -291,3 +291,4 @@ hongshuhai/hongshuhai-market-briefings
 haoranx968-stack/training-incentive-designer
 simonsiu2008-bit/hk-business-writing
 markbignews/paper-mode
+wangge-ai/data-lens
