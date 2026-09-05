@@ -115,6 +115,7 @@
 ### Ready-to-use Skills
 
 - [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) - MIT 许可、兼容 WorkBuddy 的八字与紫微斗数 Skill，使用确定性本地算法排盘，提供三种分析模式、测试案例和可分享的 HTML 命盘海报；仅作传统文化/娱乐参考，不用于医疗、投资、婚姻或法律决策
+- [Loom of Heaven](https://github.com/Jowitt13/loom-of-heaven) - MIT 许可、离线且结果可复现的四系统命盘引擎，提供 WorkBuddy 已发布 Skill、SHA-256 校验和安装清单；由脚本负责计算、Agent 负责收集输入和表达结果，仅作传统文化/娱乐参考
 - [WorkBuddy XHS Skills](https://github.com/lvecho/workbuddy-xhs-skills) - 许可未声明的中文小红书运营 Skill 合集，含 6 个可安装模块，覆盖变现倒推定位、账号档案、选题标题、初稿人化、视觉规划和数据复盘；README 列出融合来源，使用或再分发前请核对上游归属
 - [boardgame-io Skill](https://github.com/liangdabiao/boardgame-io-skill) - 许可未声明、明确支持 WorkBuddy 的 boardgame.io 回合制游戏开发 Skill，提供 API 参考、多人/隐藏信息/AI 工作流，以及带测试的井字棋和卡牌项目模板
 - [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规划 8–15 个 50–75 秒片段，支持无损切割、合并、空白段检测和输出校验
