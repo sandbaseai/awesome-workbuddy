@@ -12,6 +12,7 @@ alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins
 huaweicloud/huaweicloud-devkit
 NarratorAI-Studio/narrator-ai-cli-skill
+geekjourneyx/md2wechat-skill
 TencentCloudBase/CloudBase-AI-Toolkit
 sandbaseai/workbuddy-skill
 SenMuShare/senmu-buildos
