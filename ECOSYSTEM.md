@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,080 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,775 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,778 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,959 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,554 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -57,7 +57,7 @@ Last refreshed: **2026-09-05 UTC**
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | Go | 2026-07-08 |
-| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 112 | Python | 2026-09-04 |
+| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 113 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
@@ -164,6 +164,7 @@ Last refreshed: **2026-09-05 UTC**
 | [xxxhh336/dream-work-theme](https://github.com/xxxhh336/dream-work-theme) | 9 | TypeScript | 2026-08-26 |
 | [MAXXXXXLI/workbuddy-cn-legal-skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) | 9 | - | 2026-05-14 |
 | [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) | 9 | Python | 2026-09-05 |
+| [xixihhhh/ai-short-drama-skill](https://github.com/xixihhhh/ai-short-drama-skill) | 9 | Python | 2026-08-29 |
 | [xscanzm/wechat-4x-decrypt](https://github.com/xscanzm/wechat-4x-decrypt) | 8 | Python | 2026-08-12 |
 | [SuperChason/ontology-driven-ai-data-management-skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) | 8 | Python | 2026-08-31 |
 | [MWang-TS/kindle2workbuddy](https://github.com/MWang-TS/kindle2workbuddy) | 8 | Python | 2026-08-11 |
@@ -172,6 +173,7 @@ Last refreshed: **2026-09-05 UTC**
 | [ben4202121/buddybridge](https://github.com/ben4202121/buddybridge) | 8 | TypeScript | 2026-09-03 |
 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | 8 | HTML | 2026-08-07 |
 | [genius916/CareerSail](https://github.com/genius916/CareerSail) | 8 | JavaScript | 2026-09-05 |
+| [zhjcreator/scholar-inbox-skill](https://github.com/zhjcreator/scholar-inbox-skill) | 8 | Shell | 2026-04-08 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
@@ -179,6 +181,7 @@ Last refreshed: **2026-09-05 UTC**
 | [runzhi/codebuddy-statusline](https://github.com/runzhi/codebuddy-statusline) | 7 | Python | 2026-08-31 |
 | [FlashFamily/workbuddy-buddy](https://github.com/FlashFamily/workbuddy-buddy) | 7 | TypeScript | 2026-07-30 |
 | [smartcai87/workbuddy-dream-skin](https://github.com/smartcai87/workbuddy-dream-skin) | 7 | JavaScript | 2026-07-18 |
+| [dayviwong/apple-design-skill](https://github.com/dayviwong/apple-design-skill) | 7 | - | 2026-04-28 |
 | [simplast/workbuddy-api](https://github.com/simplast/workbuddy-api) | 6 | JavaScript | 2026-09-04 |
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |
