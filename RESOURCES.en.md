@@ -256,6 +256,7 @@
 
 ### Tools and integrations
 
+- [collab-cli](https://github.com/yinsang0910-star/collab-cli) - An MIT-licensed WorkBuddy-compatible cross-agent collaboration CLI that discovers and syncs tasks, memory, inboxes, and reviews over a LAN; it can dispatch commands between Agents, so configure a shared secret and restrict network and execution permissions before use
 - [Codex ↔ WorkBuddy MCP Bridge](https://github.com/ZhaoXiangyu99/workbuddy-mcp) - A license-un-declared Node.js MCP bridge that hands Codex subtasks to a WorkBuddy inbox and provides tools for opening WorkBuddy views
 - [Lexiang Knowledge Base Skill](https://github.com/tencent-lexiang/lexiang-mcp-skill) - A license-un-declared Lexiang knowledge-base MCP Skill for search, reading, document writing, Block editing, file transfer, and external imports; its guide notes that WorkBuddy users can use the built-in Lexiang connector directly
 - [Claude Code Router](https://github.com/musistudio/claude-code-router) - An MIT-licensed local model router and Agent control plane with explicit WorkBuddy support, unifying model, account, failover, tool, and MCP configuration

@@ -8,10 +8,10 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,083 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,795 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,959 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,557 | Python | 2026-09-05 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,084 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,800 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,962 | TypeScript | 2026-09-03 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,558 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,926 | - | 2026-08-12 |
@@ -40,7 +40,7 @@ Last refreshed: **2026-09-05 UTC**
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 293 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 277 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 262 | Python | 2026-08-13 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 260 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 261 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [iBlinkQ/project-cairn](https://github.com/iBlinkQ/project-cairn) | 223 | Shell | 2026-09-04 |
@@ -157,6 +157,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
 | [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | TypeScript | 2026-09-04 |
 | [gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) | 11 | Python | 2026-07-26 |
+| [yinsang0910-star/collab-cli](https://github.com/yinsang0910-star/collab-cli) | 11 | JavaScript | 2026-06-14 |
 | [rollingSirius/TradeGit](https://github.com/rollingSirius/TradeGit) | 11 | Python | 2026-07-28 |
 | [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [liangdabiao/boardgame-io-skill](https://github.com/liangdabiao/boardgame-io-skill) | 10 | JavaScript | 2026-08-17 |
@@ -211,6 +212,7 @@ Last refreshed: **2026-09-05 UTC**
 | [wanghoween-design/gaoqingshang-skill](https://github.com/wanghoween-design/gaoqingshang-skill) | 4 | Python | 2026-04-13 |
 | [genapohub/graphic-design-guide](https://github.com/genapohub/graphic-design-guide) | 4 | - | 2026-09-02 |
 | [taikaikaikai-pixel/dsh-codebuddy-plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) | 4 | JavaScript | 2026-08-29 |
+| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 4 | - | 2026-09-04 |
 | [KKbaocai/topic-pipeline](https://github.com/KKbaocai/topic-pipeline) | 4 | - | 2026-07-30 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
@@ -225,7 +227,6 @@ Last refreshed: **2026-09-05 UTC**
 | [genapohub/devops-guide](https://github.com/genapohub/devops-guide) | 3 | - | 2026-09-02 |
 | [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
-| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 3 | - | 2026-09-04 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
 | [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
 | [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
@@ -277,7 +278,7 @@ Last refreshed: **2026-09-05 UTC**
 | [chenwg001/qingfengskill](https://github.com/chenwg001/qingfengskill) | 0 | Python | 2026-09-03 |
 | [ai3027/workbuddy-skills](https://github.com/ai3027/workbuddy-skills) | 0 | Python | 2026-08-30 |
 | [bangogo/define-product-and-roadmap](https://github.com/bangogo/define-product-and-roadmap) | 0 | Python | 2026-09-05 |
-| [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
+| [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-05 |
 | [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-05 |
 | [ZhaoXiangyu99/workbuddy-mcp](https://github.com/ZhaoXiangyu99/workbuddy-mcp) | 0 | JavaScript | 2026-07-20 |
 | [wzx11223344/one-person-company](https://github.com/wzx11223344/one-person-company) | 0 | - | 2026-07-18 |

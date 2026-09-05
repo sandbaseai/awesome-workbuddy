@@ -249,6 +249,7 @@ TimWongUp/agentnave
 mowenQWQ/Web-Security-Test-Rules
 GiaSip/ai-hr
 darker2016/workbuddy-skill-groups
+yinsang0910-star/collab-cli
 laubeing-droid/unified-legal-ai-cn
 ahang1598/doubao-workbuddy-qwenwork-skills
 vbarter/workbuddy-experts

@@ -2250,6 +2250,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "collab-cli",
+    "url": "https://github.com/yinsang0910-star/collab-cli",
+    "description": "An MIT-licensed WorkBuddy-compatible cross-agent collaboration CLI that discovers and syncs tasks, memory, inboxes, and reviews over a LAN; it can dispatch commands between Agents, so configure a shared secret and restrict network and execution permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "collab-cli",
+    "descriptionZh": "MIT 许可、支持 WorkBuddy 的跨 Agent 协作 CLI，通过局域网发现和同步共享任务、记忆、收件箱与审查结果；支持 Agent 间派发命令，使用前请配置共享密钥并限制网络与执行权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Codex ↔ WorkBuddy MCP Bridge",
     "url": "https://github.com/ZhaoXiangyu99/workbuddy-mcp",
     "description": "A license-un-declared Node.js MCP bridge that hands Codex subtasks to a WorkBuddy inbox and provides tools for opening WorkBuddy views",
