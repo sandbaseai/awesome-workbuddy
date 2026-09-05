@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Dreamina Web Image Skill",
+    "url": "https://github.com/leigegehaha/jimeng-cli-free",
+    "description": "An Apache-2.0 local Dreamina web image-generation Skill with explicit WorkBuddy support, model and aspect-ratio controls, reference-image upload, editing, and original downloads; it requires a browser extension and a signed-in Dreamina account",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "即梦网页端生图 Skill",
+    "descriptionZh": "Apache-2.0 许可、明确支持 WorkBuddy 的本地即梦网页端生图 Skill，支持模型与比例选择、参考图上传、图片编辑和原图下载；需要浏览器扩展及已登录的即梦账号",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Doc & Video QA Expert",
     "url": "https://github.com/liangdabiao/workbuddy-expert-doc-video-qa",
     "description": "A license-not-declared WorkBuddy expert package with four PDF/video visual-QA Skills, page/timestamp citations, hit-page or hit-frame verification, and GLM/DeepSeek dual engines; review API data flows before use",

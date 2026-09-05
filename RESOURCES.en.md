@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Dreamina Web Image Skill](https://github.com/leigegehaha/jimeng-cli-free) - An Apache-2.0 local Dreamina web image-generation Skill with explicit WorkBuddy support, model and aspect-ratio controls, reference-image upload, editing, and original downloads; it requires a browser extension and a signed-in Dreamina account
 - [Doc & Video QA Expert](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) - A license-not-declared WorkBuddy expert package with four PDF/video visual-QA Skills, page/timestamp citations, hit-page or hit-frame verification, and GLM/DeepSeek dual engines; review API data flows before use
 - [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) - An MIT-licensed image-generation and editing Skill with explicit WorkBuddy support, local API-key configuration, asynchronous task recovery, reference-image handling, and project-local output management
 - [Data Lens](https://github.com/wangge-ai/data-lens) - An Apache-2.0 local, evidence-grounded data-analysis Skill with explicit WorkBuddy support. It handles tables, articles, books, and mixed materials, checks numbers, connects sources, looks for counterevidence, and produces traceable reports.
