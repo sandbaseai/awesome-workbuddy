@@ -49,6 +49,7 @@
 
 ### Learning and reference
 
+- [WorkBuddy 跨设备迁移指南](https://github.com/junxi-fan/workbuddy-migration-guide) - MIT 许可的 WorkBuddy 数据迁移指南，梳理对话历史、记忆、Skills、工作区、`workbuddy.db` 及 WAL 文件的关系，并列出运行中迁移和敏感连接器文件的注意事项
 - [WorkBuddy 效率进阶实训课程](https://github.com/cloudzun/WorkBuddy-Course) - CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版本变化，使用或再分发时请遵守禁止演绎条款
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
 - [Hermes Agent 橙皮书](https://github.com/alchaincyf/hermes-agent-orange-book) - MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口
@@ -427,6 +428,7 @@
 
 ### Community clients and enhancements
 
+- [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - MIT 许可的本地主题管理器，通过回环 CDP 加载可逆样式，不修改官方程序或签名，提供 `.wbtheme` 签名、检查、导入、应用、卸载、恢复和主题制作 Skill
 - [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默认仅监听回环地址，使用前请核对版本基线和确认式重启权限
 - [Theoria](https://github.com/Waterkyuu/theoria) - 许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更，并将工作区记录保存在本地 SQLite；使用或再分发前请先向作者核对授权
 - [Bough](https://github.com/DGPisces/bough) - MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、完成、忙碌和空闲状态集中展示；首次启动需按系统提示确认并授予必要权限

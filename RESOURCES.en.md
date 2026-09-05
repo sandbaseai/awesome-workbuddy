@@ -49,6 +49,7 @@
 
 ### Learning and reference
 
+- [WorkBuddy Cross-Device Migration Guide](https://github.com/junxi-fan/workbuddy-migration-guide) - An MIT-licensed WorkBuddy migration guide explaining conversation history, memory, Skills, workspaces, `workbuddy.db`, and WAL files, with cautions about migrating while the app is running and copying sensitive connector files
 - [WorkBuddy Efficiency Training Course](https://github.com/cloudzun/WorkBuddy-Course) - A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases
 - [Hermes Agent Orange Book](https://github.com/alchaincyf/hermes-agent-orange-book) - An MIT-licensed Chinese hands-on guide to Hermes Agent covering memory, Skills, MCP, tools, collaboration, and security, with an online reading entry in the WorkBuddy knowledge base
@@ -428,6 +429,7 @@
 
 ### Community clients and enhancements
 
+- [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - An MIT-licensed local theme manager that loads reversible styles through loopback CDP without modifying official binaries or signatures, offering `.wbtheme` signing, validation, import, apply, uninstall, restore, and a theme-authoring Skill
 - [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - An MIT-licensed Windows WorkBuddy theme engine that injects reversible CSS through local CDP without modifying official binaries, resources, or code signatures; it binds to loopback by default, but verify the version baseline and restart permissions before use
 - [Theoria](https://github.com/Waterkyuu/theoria) - A license-not-declared local-first multi-agent workspace with explicit WorkBuddy support, parallel agent runs, isolated execution directories, side-by-side tool/file-change comparisons, and local SQLite records; verify authorization with the author before use or redistribution
 - [Bough](https://github.com/DGPisces/bough) - An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions

@@ -392,6 +392,8 @@ ruiguoz/workbuddy-doctor
 JanCong/workbuddy-migrator
 BlueSkyXN/tencent-workbuddy-sdk
 JiangSiyu2006/workbuddy-theme-forge
+junxi-fan/workbuddy-migration-guide
+ozrwayne/WorkBuddy-Skins
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
