@@ -74,6 +74,7 @@
 
 ### Skill collections
 
+- [Skills Hub](https://github.com/qufei1993/skills-hub) - An MIT-licensed cross-platform Skills manager that installs, organizes, updates, and syncs to 47 Agent tools, with explicit WorkBuddy support through `~/.workbuddy/skills`; review scanned directories and local settings such as GitHub tokens before use
 - [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - An MIT-licensed WorkBuddy Skill pack with 46 catalog-driven Skills, user/project-scoped installation, bilingual docs, and zero runtime dependencies
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - An MIT-licensed collection of seven WorkBuddy Skills covering academic research, frontend slides, knowledge-base linting, macOS maintenance, PPTX generation, engineering methodology, and tool-call repair
 - [SkillHub (Young1108)](https://github.com/Young1108/skillhub) - An MIT-licensed WorkBuddy Skill collection for account migration, Wake multi-agent daily reports, and local WeChat/WeCom data tools; the WeChat-related Skills are macOS-only
@@ -84,6 +85,7 @@
 - [Skills Constitution](https://github.com/jiabaobei/skills-constitution) - An MIT-licensed cross-platform meta-rule for Skills with explicit WorkBuddy support, matching available capabilities, rebuilding a Skill index, and optionally registering hooks; the installer copies files and rebuilds indexes, so review its scripts and rollback guidance before enabling hooks
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - An MIT-licensed documentation-only Skill covering virtual goods, coin top-ups, iOS routing, signing, idempotent callbacks, error diagnosis, and launch checklists. It is primarily written in the Claude Code Skill format but can serve as CodeBuddy reference material
+- [MOSS Skills](https://github.com/adoresever/moss-skills) - An Apache-2.0 Skill for meeting transcription, speaker diarization, subtitles, minutes, and voice generation with documented WorkBuddy import guidance; it requires a MOSS API key or local models, so confirm data authorization and storage boundaries before uploading audio or video
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
 - [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - Apache-2.0 skill aggregation and retrieval infrastructure with a WorkBuddy plugin for finding and loading task-specific Skills from multiple sources

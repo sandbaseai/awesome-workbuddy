@@ -74,6 +74,7 @@
 
 ### Skill collections
 
+- [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skills 管理桌面应用，集中安装、整理、更新并同步到 47 个 Agent 工具，明确支持 WorkBuddy 的 `~/.workbuddy/skills` 用户目录；使用前请检查待扫描目录和 GitHub Token 等本地配置
 - [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复
 - [SkillHub（Young1108）](https://github.com/Young1108/skillhub) - MIT 许可的 WorkBuddy Skill 合集，包含账号迁移、Wake 多 Agent 日报和 macOS 微信/企业微信本地数据工具；微信相关 Skill 仅适用于 macOS
@@ -84,6 +85,7 @@
 - [Skills Constitution](https://github.com/jiabaobei/skills-constitution) - MIT 许可的跨平台 Skill 元规则，明确支持 WorkBuddy，可先查找匹配能力、维护 Skill 索引并提供可选 hooks；安装会复制文件、重建索引，注册 hooks 前请先阅读脚本和回滚说明
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单
+- [MOSS Skills](https://github.com/adoresever/moss-skills) - Apache-2.0 许可的会议转录、说话人识别、字幕、纪要和语音生成 Skill，明确提供 WorkBuddy 导入方式；需要 MOSS API 密钥或本地模型，涉及音频/视频上传时请先确认数据授权和保存边界
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库.
 - [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - Apache-2.0 的 Skill 聚合与检索基础设施，提供 WorkBuddy 插件，可从多个来源查找并加载任务相关 Skill
