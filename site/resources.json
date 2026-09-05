@@ -1020,6 +1020,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "career-kit",
+    "url": "https://github.com/wangqiao258/career-kit",
+    "description": "An MIT-licensed local-first career profile and resume-building Skill set covering profile intake, job-description analysis, resume tailoring, and versioning; its README documents manual loading for WorkBuddy and other platforms, so keep personal data only in environments you trust",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "career-kit",
+    "descriptionZh": "MIT 许可的本地优先职业档案与简历定制 Skills，覆盖档案建档、JD 分析、简历裁剪和版本管理；README 提供 WorkBuddy 等平台的手动导入方式，个人资料应仅在你信任的本地环境中处理",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Chinese Official Writing Skill",
     "url": "https://github.com/gongyu0918-debug/chinese-official-writing-skill",
     "description": "An MIT-licensed formal-document writing Skill with explicit WorkBuddy/CodeBuddy support, covering notices, requests, reports, letters, plans, minutes, and technical materials with document routing, fact checks, format checks, and optional delivery hooks",
@@ -2838,6 +2848,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Harness Engineering Kit",
+    "url": "https://github.com/8425334/harness-engineering-kit",
+    "description": "An MIT-licensed engineering methodology and project-control toolkit for AI coding agents, with `hek handoff --agent workbuddy` for handing project context to WorkBuddy; WorkBuddy uses a manual handoff flow, so read its project-policy and local-permission guidance first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Harness Engineering Kit",
+    "descriptionZh": "MIT 许可的 AI Coding Agent 工程方法与项目控制工具，提供 `hek handoff --agent workbuddy` 将工程上下文交接给 WorkBuddy；WorkBuddy 走手动交接流程，使用前请阅读其项目策略和本地权限说明",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "easy-agent",

@@ -128,6 +128,8 @@
 
 ### Ready-to-use Skills
 
+- [career-kit](https://github.com/wangqiao258/career-kit) - An MIT-licensed local-first career profile and resume-building Skill set covering profile intake, job-description analysis, resume tailoring, and versioning; its README documents manual loading for WorkBuddy and other platforms, so keep personal data only in environments you trust
+
 - [Chinese Official Writing Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - An MIT-licensed formal-document writing Skill with explicit WorkBuddy/CodeBuddy support, covering notices, requests, reports, letters, plans, minutes, and technical materials with document routing, fact checks, format checks, and optional delivery hooks
 - [WorkBuddy Doctor](https://github.com/ruiguoz/workbuddy-doctor) - An MIT-licensed community troubleshooting Skill collection where each Doctor installs independently; its first `git-doctor` module covers push authentication, credential helpers, connector permissions, proxy formats, and dialog/sandbox confirmations
 - [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) - An MIT-licensed local WorkBuddy account-data migration tool with doctor, inventory, and migration flows; it does not copy keys, tokens, or credentials for sensitive connectors by default
@@ -318,6 +320,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [Harness Engineering Kit](https://github.com/8425334/harness-engineering-kit) - An MIT-licensed engineering methodology and project-control toolkit for AI coding agents, with `hek handoff --agent workbuddy` for handing project context to WorkBuddy; WorkBuddy uses a manual handoff flow, so read its project-policy and local-permission guidance first
 
 - [easy-agent](https://github.com/wangduoyu414-cell/easy-agent) - An MIT-licensed Windows/macOS security-first installer assistant for WorkBuddy, Hermes Agent, CC Switch, Claude Desktop, and ChatGPT; it pins official sources, signatures, and package identities and stops when evidence is insufficient, so review platform coverage and current-version status before use
 - [Fanqie Radar](https://github.com/WindXRan/fanqie-radar) - An MIT-licensed MCP for Fanqie novel rankings, discovery, and analysis, with an Agent Skill usable by WorkBuddy and Claude; it defaults to zero configuration with sample data, but online collection must follow the target platform's terms

@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,901 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,902 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,972 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,570 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -143,10 +143,10 @@ Last refreshed: **2026-09-05 UTC**
 | [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) | 27 | JavaScript | 2026-09-05 |
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |
+| [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 25 | - | 2026-04-29 |
 | [zhouwei713/WorkBuddy-Dream-Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) | 24 | CSS | 2026-07-24 |
 | [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) | 24 | TypeScript | 2026-09-05 |
 | [Dangooy/trade-pipeline-skill](https://github.com/Dangooy/trade-pipeline-skill) | 24 | Python | 2026-09-04 |
-| [Jarvis-starcloud/law-ye-skill](https://github.com/Jarvis-starcloud/law-ye-skill) | 24 | - | 2026-04-29 |
 | [bitcjm/workbuddy-skills](https://github.com/bitcjm/workbuddy-skills) | 22 | Python | 2026-06-01 |
 | [nana7chi/CubismExternalEditMCP](https://github.com/nana7chi/CubismExternalEditMCP) | 22 | Python | 2026-08-03 |
 | [beeyang0/miniprogram-VirtualPayment](https://github.com/beeyang0/miniprogram-VirtualPayment) | 21 | - | 2026-04-03 |
@@ -263,6 +263,7 @@ Last refreshed: **2026-09-05 UTC**
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [loonghao/maya_umbrella_scanner](https://github.com/loonghao/maya_umbrella_scanner) | 5 | Python | 2026-08-26 |
 | [haiyangchenbj/data-ai-daily-brief-skill](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) | 5 | Python | 2026-06-23 |
+| [8425334/harness-engineering-kit](https://github.com/8425334/harness-engineering-kit) | 5 | Python | 2026-09-05 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
@@ -420,5 +421,6 @@ Last refreshed: **2026-09-05 UTC**
 | [Echo-Smith/tencent-experienced-recruit](https://github.com/Echo-Smith/tencent-experienced-recruit) | 0 | Python | 2026-08-09 |
 | [stevenchengxy/maotuan](https://github.com/stevenchengxy/maotuan) | 0 | JavaScript | 2026-09-05 |
 | [jarvislee90s-dot/MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) | 0 | Rust | 2026-09-05 |
+| [wangqiao258/career-kit](https://github.com/wangqiao258/career-kit) | 0 | HTML | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
