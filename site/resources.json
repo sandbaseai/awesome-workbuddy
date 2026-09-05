@@ -1440,6 +1440,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "open-kimi-ppt-skill (acnlie)",
+    "url": "https://github.com/acnlie/open-kimi-ppt-skill",
+    "description": "An MIT-licensed unofficial Kimi Slides Skill supporting WorkBuddy, generating and editing PPTD/PPTX files with a local browser editor; it is implemented from public protocols and frontend behavior, so expect upstream breakage and use it for learning and research",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "open-kimi-ppt-skill（acnlie）",
+    "descriptionZh": "MIT 许可、支持 WorkBuddy 的非官方 Kimi Slides Skill，可生成和编辑 PPTD/PPTX，并提供本地浏览器编辑器；项目基于公开协议和前端行为实现，使用前请注意上游变更风险，仅供学习研究",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Naive Video Skill",
+    "url": "https://github.com/naive-kun/naive-video-skill",
+    "description": "An MIT-licensed talking-head video-production Skill with explicit WorkBuddy support, organizing rough cuts, transcription, captions, motion design, preview, and export into one on-demand workflow; it preserves the original by default and asks before installing optional dependencies",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Naive Video Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的口播视频制作 Skill，将粗剪、转写、字幕、动效、预览和导出组织为一个按需工作流；默认不覆盖原片，安装可选依赖前会先征得用户同意",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "MiniWorkBuddy",
     "url": "https://github.com/joezxh/mini-workbuddy",
     "description": "An MIT-licensed open-source AI workbench inspired by Tencent WorkBuddy, built on AgentScope with multi-agent teams, Skills, deep research, scheduling, MCP, knowledge-base/ontology workflows, and text/voice interfaces",

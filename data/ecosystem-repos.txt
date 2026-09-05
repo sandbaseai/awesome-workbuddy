@@ -14,6 +14,8 @@ huaweicloud/huaweicloud-devkit
 NarratorAI-Studio/narrator-ai-cli-skill
 geekjourneyx/md2wechat-skill
 TencentCloudBase/CloudBase-AI-Toolkit
+acnlie/open-kimi-ppt-skill
+naive-kun/naive-video-skill
 sandbaseai/workbuddy-skill
 SenMuShare/senmu-buildos
 liangdabiao/i18n-helper-skills

@@ -171,6 +171,8 @@
 
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - An MIT-licensed downloadable WorkBuddy Skill supporting local reference-image analysis, private theme generation, ten built-in skins, screenshot verification, and failure recovery
 - [open-kimi-ppt Skill](https://github.com/jinwyp/open-ppt-skill) - An MIT-licensed PPT Skill explicitly supporting WorkBuddy, installable with npx and able to produce editable PPTD projects and PPTX files with a local browser editor
+- [open-kimi-ppt-skill (acnlie)](https://github.com/acnlie/open-kimi-ppt-skill) - An MIT-licensed unofficial Kimi Slides Skill supporting WorkBuddy, generating and editing PPTD/PPTX files with a local browser editor; it is implemented from public protocols and frontend behavior, so expect upstream breakage and use it for learning and research
+- [Naive Video Skill](https://github.com/naive-kun/naive-video-skill) - An MIT-licensed talking-head video-production Skill with explicit WorkBuddy support, organizing rough cuts, transcription, captions, motion design, preview, and export into one on-demand workflow; it preserves the original by default and asks before installing optional dependencies
 - [MiniWorkBuddy](https://github.com/joezxh/mini-workbuddy) - An MIT-licensed open-source AI workbench inspired by Tencent WorkBuddy, built on AgentScope with multi-agent teams, Skills, deep research, scheduling, MCP, knowledge-base/ontology workflows, and text/voice interfaces
 - [Design Workflow](https://github.com/yang20040317-svg/design-workflow) - An MIT-licensed WorkBuddy/Claude Code-format design workflow Skill organized around five layers and reusable modules, with subskills for charts, frontend, icons, mobile, motion, references, typography, and more
 
