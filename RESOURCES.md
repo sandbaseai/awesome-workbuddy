@@ -313,6 +313,7 @@
 
 ### Tools and integrations
 
+- [WorkBuddy OSS](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) - MIT 许可的团队 IM/Agent 工作流中台，将飞书、企业微信、钉钉、Webhook 和聊天记录转为可审批、可审计、可复盘的工单、线索、任务和知识对象；自部署时请使用自己的域名和租户凭证，并先配置访问控制
 - [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - GPL-3.0 许可的非官方 CodeBuddy/WorkBuddy 企业 OpenAPI 多语言客户端，覆盖 Skills、模型、成员和用量等接口；使用企业 API 前请确认授权范围、凭证存储方式和 GPL 再分发义务
 - [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 WorkBuddy 等平台；安装前请确认桥接服务的监听范围
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - MIT 许可的 Agent 原生图表 MCP，将搜索、研究或表格数据转换为对话内图表，通用 MCP 模式明确支持 WorkBuddy，并提供 `npx` 安装方式
@@ -428,6 +429,7 @@
 
 ### Community clients and enhancements
 
+- [zisla](https://github.com/wzz6423/zisla) - 许可文件已提供、明确监控 WorkBuddy 本地活动的 macOS 顶部工作台，整合 Agent 状态、Skills 管理、文件与系统工具，并默认不读取对话正文；安装会信任第三方 Homebrew tap，发行包为 ad-hoc 签名且未公证，请按 README 核对权限和更新来源
 - [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - MIT 许可的本地主题管理器，通过回环 CDP 加载可逆样式，不修改官方程序或签名，提供 `.wbtheme` 签名、检查、导入、应用、卸载、恢复和主题制作 Skill
 - [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默认仅监听回环地址，使用前请核对版本基线和确认式重启权限
 - [Theoria](https://github.com/Waterkyuu/theoria) - 许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更，并将工作区记录保存在本地 SQLite；使用或再分发前请先向作者核对授权
