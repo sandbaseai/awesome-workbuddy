@@ -49,6 +49,8 @@ Hazehacker/backend-interview-simulator
 smile-xyy/resume-tailor
 chenin0931/OpenWorkbuddy
 touchine-ojo/OJO-Design-Skills
+AICreator-Wind/gstack-openclaw-skills
+ZSeven-W/dsh-noema
 louloulin/OpenBuddy
 wynter-cai/assetplex
 codesstar/loci
