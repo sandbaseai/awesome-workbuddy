@@ -570,6 +570,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "WorkBuddy Skills Collection",
+    "url": "https://github.com/yinqd3/workbuddy-skills",
+    "description": "An MIT-licensed collection of seven WorkBuddy Skills covering academic research, frontend slides, knowledge-base linting, macOS maintenance, PPTX generation, engineering methodology, and tool-call repair; each Skill has different dependencies and local read/write scope, so review them individually before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy Skills Collection",
+    "descriptionZh": "MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复；各 Skill 的文件、依赖和本地读写范围不同，安装前请逐项查看说明",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Ontology-Driven AI Data Management Skills",
     "url": "https://github.com/SuperChason/ontology-driven-ai-data-management-skills",
     "description": "An MIT-licensed set of 25 enterprise ontology and AI data-management Skills with explicit WorkBuddy support, WorkBuddy ZIPs, install scripts, version metadata, a NOTICE, and validation workflow; it handles business material and generates models/artifacts, so confirm source scope, output paths, and platform installation permissions",

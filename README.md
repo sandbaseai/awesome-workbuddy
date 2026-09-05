@@ -130,6 +130,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 
 ### Skill collections
 
+- [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复；各 Skill 的文件、依赖和本地读写范围不同，安装前请逐项查看说明.
 - [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流；会处理业务资料并生成模型/交付物，使用前请确认资料范围、输出目录和平台安装权限.
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接；不同 Skill 可能读取本地会话/文件或访问模型与网络服务，使用前请逐项确认权限和凭据范围.
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.

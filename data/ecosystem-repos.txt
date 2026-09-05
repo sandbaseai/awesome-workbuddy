@@ -53,6 +53,7 @@ babygoton/WorkDaddy
 zjp1997720/zhijian-ai-bluebook-workbuddy-harness
 zjp1997720/zhijian-skills
 SuperChason/ontology-driven-ai-data-management-skills
+yinqd3/workbuddy-skills
 Sqhao-O/undergraduate-thesis-ai-workflow
 vergess3/workbuddy-remote
 TencentEdgeOne/awesome-website-prompts-and-skills
