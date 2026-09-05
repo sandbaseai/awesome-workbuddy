@@ -318,3 +318,4 @@ erha19/ping-island
 Jowitt13/loom-of-heaven
 D-kart/investor-skill
 medstatstar/statsoft-cli
+otakuminami/psyche-writer

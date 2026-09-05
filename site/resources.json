@@ -3720,6 +3720,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Psyche Writer",
+    "url": "https://github.com/otakuminami/psyche-writer",
+    "description": "An MIT-licensed psychology-publication writing Skill installable directly in WorkBuddy, with structures for concept explainers, practical guides, phenomenon analysis, brand collaborations, and health education, requiring research citations and boundaries against fear-selling or harming vulnerable groups",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "Psyche Writer",
+    "descriptionZh": "MIT 许可的心理学公众号写作 Skill，支持 WorkBuddy 直接安装，提供概念科普、实用指南、现象解读、品牌合作和健康科普等文章结构，并要求研究引用、避免贩卖焦虑和伤害脆弱群体",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "Social-media operations",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media",
     "description": "Official workflow for producing Xiaohongshu and video content",
