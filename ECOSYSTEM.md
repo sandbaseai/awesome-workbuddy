@@ -8,8 +8,8 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,073 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,739 | TypeScript | 2026-09-04 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,074 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,742 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,953 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,544 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -240,6 +240,7 @@ Last refreshed: **2026-09-05 UTC**
 | [joyparkray/agent-avatar](https://github.com/joyparkray/agent-avatar) | 1 | TypeScript | 2026-09-04 |
 | [Guyzn/workbuddy-cua-mcp](https://github.com/Guyzn/workbuddy-cua-mcp) | 1 | Python | 2026-09-04 |
 | [flg1217/dsh-subagent-codebuddy](https://github.com/flg1217/dsh-subagent-codebuddy) | 1 | JavaScript | 2026-09-03 |
+| [yimiaoxiehou/oneplus-resukisu-kernel-skill](https://github.com/yimiaoxiehou/oneplus-resukisu-kernel-skill) | 1 | Shell | 2026-09-05 |
 | [Thome56/article-to-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) | 1 | - | 2026-09-05 |
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
