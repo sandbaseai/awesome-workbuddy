@@ -1,4 +1,5 @@
 # One GitHub owner/repository per line. Keep this list curated.
+rullerzhou-afk/clawd-on-desk
 vergess3/workbuddy-remote
 bigbay957-sudo/workbuddy-for-obsidian
 musistudio/claude-code-router
@@ -250,6 +251,5 @@ joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc
 bonboruyau-dev/wechat-article-to-md
-jnMetaCode/agency-agents-zh
 62656456/ai-film-skills
 lasoons/AgentSkillsManager
