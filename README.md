@@ -247,6 +247,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [WorkBuddy Agent File Parser Downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) - MIT 许可的 Python 3.11+ 专家/专家团清单解析与批量下载工具，可生成本地压缩包、Excel 统计和失败重跑清单；会产生网络请求并保存第三方智能体包，使用前请核对请求频率、输出目录、上游许可、账号条款和再分发边界.
 - [WorkBuddy × ChatCut MCP](https://github.com/chonpszhou/workbuddy-chatcut-mcp) - MIT 许可的 WorkBuddy 视频剪辑 MCP 接入，提供 OAuth 2.0 + PKCE 授权脚本、配置模板、令牌续期和 ChatCut 项目操作；令牌只在本地保存，连接的是 ChatCut 托管服务，使用前请确认账号授权、外部数据范围和平台条款.
 - [IMA Knowledge Base MCP](https://github.com/xuewolai/ima-mcp-server) - MIT 许可、明确支持 WorkBuddy 的 Node.js MCP 服务，将 IMA 知识库接入搜索、浏览、读取和网页导入；需要 IMA Client ID/API Key，且 `import_urls` 会写入知识库，使用前请确认凭据、目标知识库和导入内容.
 - [CaSee Intelligence MCP](https://github.com/xcasee/casee-mcp-server) - MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streamable HTTP 两种模式；需要外部 API Key，HTTP 服务暴露范围和研究结论都应由使用者复核.

@@ -1740,6 +1740,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Agent File Parser Downloader",
+    "url": "https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader",
+    "description": "An MIT-licensed Python 3.11+ CLI/GUI utility that parses the public expert/team manifest, downloads `.tar.gz` bundles, and produces local Excel summaries and retry lists; it makes network requests and stores third-party agent packages, so review rate limits, output scope, upstream licenses, account terms, and redistribution boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy Agent File Parser Downloader",
+    "descriptionZh": "MIT 许可的 Python 3.11+ 专家/专家团清单解析与批量下载工具，可生成本地压缩包、Excel 统计和失败重跑清单；会产生网络请求并保存第三方智能体包，使用前请核对请求频率、输出目录、上游许可、账号条款和再分发边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy × ChatCut MCP",
     "url": "https://github.com/chonpszhou/workbuddy-chatcut-mcp",
     "description": "An MIT-licensed WorkBuddy video-editing MCP integration with OAuth 2.0 + PKCE authorization scripts, a configuration template, token refresh, and ChatCut project operations; tokens stay local, while calls use ChatCut's hosted service, so confirm account authorization, external data scope, and platform terms first",
