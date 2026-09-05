@@ -47,6 +47,23 @@ author, maintainer, sponsor, or have another commercial relationship.
 - Keep one Pull Request focused on one resource or one coherent theme.
 - Update both language editions and run `python3 -m unittest discover -s tests`.
 
+### Refresh generated files
+
+When `data/ecosystem-repos.txt` changes, refresh the checked-in directory and
+metadata before opening the Pull Request:
+
+```bash
+python3 scripts/build_site_data.py
+GITHUB_TOKEN="$(gh auth token)" python3 scripts/update_ecosystem.py
+python3 scripts/update_readme_stats.py
+python3 -m unittest discover -s tests
+```
+
+Commit the resulting `ECOSYSTEM.md`, `README.md`, `README.en.md`, and
+`site/resources.json` changes together with the source edit. The ecosystem
+workflow refreshes dynamic metadata weekly or through manual dispatch; it does
+not run on every push, which keeps curation pushes free of metadata races.
+
 ### Report a broken or unsafe link
 
 Use the [structured Issue Form](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=broken-link.yml)
@@ -117,6 +134,21 @@ Skill、提示词、模板、数据集、二进制或其他第三方资源的来
 - 法律、医疗、财务等高风险内容明确要求人工复核。
 - 一个 Pull Request 只处理一个资源或一个连贯主题。
 - 同步更新两种语言，并运行 `python3 -m unittest discover -s tests`。
+
+### 刷新生成文件
+
+修改 `data/ecosystem-repos.txt` 后，开 Pull Request 前请先刷新已提交的目录和元数据：
+
+```bash
+python3 scripts/build_site_data.py
+GITHUB_TOKEN="$(gh auth token)" python3 scripts/update_ecosystem.py
+python3 scripts/update_readme_stats.py
+python3 -m unittest discover -s tests
+```
+
+请把生成的 `ECOSYSTEM.md`、`README.md`、`README.en.md` 和 `site/resources.json`
+与源文件修改一起提交。生态 workflow 每周定时或手动触发刷新动态元数据，
+不会在每次 push 后运行，从而避免统计提交与收录提交互相竞态。
 
 ### 报告失效或不安全链接
 
