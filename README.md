@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**164 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**165 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -215,6 +215,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff；安装会改写 `~/.workbuddy` 下的 hooks、settings、MCP 与 Skills，且提示词采集默认开启并作为 Source 持久化，自动召回内容仅是不可信历史，使用前应决定是否关闭采集、核对本地/远程 Server 与模型数据流、配置鉴权并让 CLI/Server/插件保持同一 Git revision，当前 WorkBuddy 集成仍位于未发布的 `master`.
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入；部署需配置两组模型 API Key，Proxy 会保存用户 Key、接收会话/任务内容并监听多个本地端口，团队共享会扩大敏感资料与权限边界，使用前请核对模型服务、密钥、端口、用户级 Key、数据留存和团队访问控制.
+- [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工；它能控制已登录网页，安装脚本会下载 CLI、扩展涉及浏览器权限，使用前请核对扩展来源、Profile、127.0.0.1 通信、登录态和每次写入/提交操作.
 - [WorkIsland](https://github.com/qianzhu18/workisland) - Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBuddy/CodeBuddy、Codex、Claude Code 等，可监控任务、处理审批/提问并跳回源会话；它会安装本地 hooks、观察任务/转录信号、读写剪贴板历史与终端状态，审批回复会改变 Agent 执行，打包版还默认开启可关闭的匿名 PostHog 遥测并联网检查更新，安装前请审查 hook 变更、遥测白名单、日志/剪贴板范围与每项审批，Windows 版本目前暂停公开发布.
 - [WorkBuddy OpenAPI PHP SDK](https://github.com/JaguarJack/workbuddy-openapi) - MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助手消息/权限、云任务、产物、兑换和 ACP；它本身不持久化令牌，但会处理客户端密钥、用户/任务令牌及提示词，并可发送消息、创建任务、响应权限、兑换权益和执行 ACP，且会信任官方 API 返回的 ACP/沙箱 URL 并向其发送任务令牌，接入时应使用最小权限、服务端密钥存储、OAuth state/幂等校验、主机白名单和逐项人工确认.
 - [WorkBuddy2API (Tom6814)](https://github.com/Tom6814/WorkBuddy2API) - MIT 许可的第三方本地/容器化协议转换器，将 WorkBuddy 模型包装为 OpenAI 兼容 REST API，支持流式对话、工具调用、文生图/图生图、Token 刷新和 Docker 部署；它需要读取本机 WorkBuddy 登录 Token 并调用未公开接口，部署到公网会扩大凭据和账号风险，使用前请审查源码、环境变量、端口、日志、平台条款，严格限于本人授权的本地测试.

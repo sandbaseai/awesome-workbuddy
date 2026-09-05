@@ -1380,6 +1380,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "BrowserSkill",
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "description": "Tencent-maintained MIT-licensed local browser bridge with explicit WorkBuddy support; its `bsk` CLI/daemon, browser extension, and separate Agent Window reuse logged-in browser state and hand captcha, login, and confirmation dialogs back to a human. It can control authenticated web pages, while installation downloads a CLI and requests browser-extension permissions, so review extension provenance, browser Profiles, 127.0.0.1 communication, login state, and every write/submit action",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "BrowserSkill",
+    "descriptionZh": "腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工；它能控制已登录网页，安装脚本会下载 CLI、扩展涉及浏览器权限，使用前请核对扩展来源、Profile、127.0.0.1 通信、登录态和每次写入/提交操作",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkIsland",
     "url": "https://github.com/qianzhu18/workisland",
     "description": "An Apache-2.0 local Agent status and attention router for Apple Silicon macOS with native WorkBuddy/CodeBuddy, Codex, Claude Code, and other integrations, providing task monitoring, approval/question handling, and source-session navigation. It installs local hooks, observes task/transcript signals, stores clipboard history and terminal state, and sends approval replies that change Agent execution; packaged builds also enable opt-out anonymous PostHog telemetry and perform update checks, so review hook changes, the telemetry allowlist, log/clipboard scope, and every approval before use. Public Windows releases are currently paused",
