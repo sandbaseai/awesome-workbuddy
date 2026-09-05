@@ -381,5 +381,6 @@ Last refreshed: **2026-09-05 UTC**
 | [CatchNo2/MindArchive](https://github.com/CatchNo2/MindArchive) | 0 | Python | 2026-07-15 |
 | [lirt1231/skill-sync](https://github.com/lirt1231/skill-sync) | 0 | Python | 2026-07-30 |
 | [fudonglee/md2pdf](https://github.com/fudonglee/md2pdf) | 0 | Python | 2026-06-12 |
+| [twin-arc/macro-cycle-locator](https://github.com/twin-arc/macro-cycle-locator) | 0 | - | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
