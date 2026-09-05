@@ -1020,6 +1020,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Xuanlan Governance Kit",
+    "url": "https://github.com/jackyjinggit/xuanlan-governance-kit",
+    "description": "An Apache-2.0 WorkBuddy planning Agent and architecture-compliance toolkit with a self-contained Agent, cross-runtime converter, and checks for PII, de-identification leaks, and source-pointer drift; the checker reads target repositories and the WorkBuddy expert package can affect planning behavior, so review inputs, outputs, and local permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Xuanlan Governance Kit",
+    "descriptionZh": "Apache-2.0 的 WorkBuddy 规划 Agent 与架构合规检测工具，提供自包含 Agent、跨平台转换器以及 PII、脱敏泄露和真源指针漂移检查；检测器会读取目标仓库，WorkBuddy 专家包也可能影响规划行为，使用前请核对输入资料、输出和本地权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "MaZhu",
+    "url": "https://github.com/kcylp/mazhu",
+    "description": "An Apache-2.0 offline tool for preparing software-copyright-registration materials, with a desktop app, CLI, and WorkBuddy Skill that reads local projects and validates generated source-program and manual documents; review source scope, registration details, output paths, and applicable local filing requirements before use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "MaZhu",
+    "descriptionZh": "Apache-2.0 的离线软著材料整理工具，提供桌面应用、CLI 和 WorkBuddy Skill，可从本地项目生成源程序/说明书材料并在导出前校验格式；它会读取代码并生成文档，使用前请确认源码范围、申报信息、输出目录和当地登记要求",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Release Skill",
     "url": "https://github.com/ifoohoo/release-skill",
     "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",

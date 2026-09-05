@@ -7,8 +7,8 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,636 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,940 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,637 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,939 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,520 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -195,6 +195,8 @@ Last refreshed: **2026-09-05 UTC**
 | [Ketian823/delivery-razor](https://github.com/Ketian823/delivery-razor) | 0 | Python | 2026-09-04 |
 | [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-05 |
 | [nehemc2026/ai-operating-protocol](https://github.com/nehemc2026/ai-operating-protocol) | 0 | - | 2026-09-05 |
+| [jackyjinggit/xuanlan-governance-kit](https://github.com/jackyjinggit/xuanlan-governance-kit) | 0 | Python | 2026-08-15 |
+| [kcylp/mazhu](https://github.com/kcylp/mazhu) | 0 | TypeScript | 2026-08-17 |
 | [ifoohoo/release-skill](https://github.com/ifoohoo/release-skill) | 0 | JavaScript | 2026-09-05 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 | [aosi526/dsh-workbuddy-xdpool](https://github.com/aosi526/dsh-workbuddy-xdpool) | 0 | TypeScript | 2026-09-05 |
