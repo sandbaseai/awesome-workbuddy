@@ -940,6 +940,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Minecraft Mod Search",
+    "url": "https://github.com/MasterHesse/minecraft-mod-search",
+    "description": "An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy; verify source, versions, and downloaded-file safety when using external search results",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Minecraft Mod Search",
+    "descriptionZh": "MIT 许可的 Minecraft Java 模组检索 Skill，提供 `SKILL.md` 和搜索脚本，可直接安装到 WorkBuddy/CodeBuddy 的 Skill 目录；使用外部搜索或下载结果时请核对来源、版本与文件安全性",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Workplace Communication",
+    "url": "https://github.com/wanghoween-design/gaoqingshang-skill",
+    "description": "An MIT-licensed WorkBuddy workplace-communication Skill covering 23 common scenarios and helping draft clear, tactful responses; treat outputs as drafts and apply human judgment to real commitments, conflicts, or sensitive information",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "高情商职场沟通",
+    "descriptionZh": "MIT 许可的 WorkBuddy 职场沟通 Skill，覆盖 23 类常见场景，帮助生成得体、清晰的回复与表达；输出只是沟通草稿，涉及真实承诺、冲突或敏感信息时仍需人工判断",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WeChat 4.x Decrypt Skill",
     "url": "https://github.com/xscanzm/wechat-4x-decrypt",
     "description": "An MIT-licensed Windows-only WorkBuddy Skill for decrypting and searching local Weixin 4.x chat databases, with timestamped digests and structured exports; it extracts decryption material from the user's running account process and creates plaintext databases, so confirm authorization and participant privacy, protect keys/exports, review the upstream tool, and plan deletion and backups first",

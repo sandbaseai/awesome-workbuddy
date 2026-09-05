@@ -117,6 +117,8 @@ PomeloR611/libtv-video-agent
 JuneYaooo/social-account-doctor
 CodeDrobe/skills
 bruc3van/bruce-drawio
+MasterHesse/minecraft-mod-search
+wanghoween-design/gaoqingshang-skill
 cnproduct/workbuddy-wechat-publisher
 1Panel-dev/CordysCRM-skills
 cabbage2000-lab/textbook-writer-skills

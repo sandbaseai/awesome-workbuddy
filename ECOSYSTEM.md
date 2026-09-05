@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,688 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,690 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,944 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,307 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,534 | Python | 2026-09-05 |
@@ -18,7 +18,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,780 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,590 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,583 | Rust | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,044 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,045 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -170,6 +170,7 @@ Last refreshed: **2026-09-05 UTC**
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
 | [JustineJiao/llm-wiki-skill](https://github.com/JustineJiao/llm-wiki-skill) | 4 | - | 2026-08-12 |
+| [wanghoween-design/gaoqingshang-skill](https://github.com/wanghoween-design/gaoqingshang-skill) | 4 | Python | 2026-04-13 |
 | [genapohub/graphic-design-guide](https://github.com/genapohub/graphic-design-guide) | 4 | - | 2026-09-02 |
 | [taikaikaikai-pixel/dsh-codebuddy-plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) | 4 | JavaScript | 2026-08-29 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
@@ -177,6 +178,7 @@ Last refreshed: **2026-09-05 UTC**
 | [feng-liu-1994/workbuddy-finance-workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) | 3 | JavaScript | 2026-09-03 |
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [yamingmou/session-fork-core](https://github.com/yamingmou/session-fork-core) | 3 | Python | 2026-09-04 |
+| [MasterHesse/minecraft-mod-search](https://github.com/MasterHesse/minecraft-mod-search) | 3 | Python | 2026-05-02 |
 | [lovezi0/dsh-memory-palace](https://github.com/lovezi0/dsh-memory-palace) | 3 | JavaScript | 2026-09-04 |
 | [genapohub/qa-testing-guide](https://github.com/genapohub/qa-testing-guide) | 3 | - | 2026-09-02 |
 | [genapohub/devops-guide](https://github.com/genapohub/devops-guide) | 3 | - | 2026-09-02 |
