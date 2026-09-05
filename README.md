@@ -158,6 +158,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [CareerStar（职途星）](https://github.com/HanGu007/workbuddy-career-skills) - MIT 许可的 WorkBuddy 求职专家包，覆盖简历诊断/改写、面试辅导、企业信息查询、HTML 简历和投递追踪；会处理简历与就业资料，并可连接 IMA、企查查等外部服务，使用前请脱敏并核对授权、数据流和背调结论.
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - MIT 许可、可直接下载 ZIP 的 WorkBuddy 换肤 Skill，支持上传参考图生成私有主题、10 套内置 Skin、截图验证和失败恢复；主题默认只保存在本机，使用时请确认图片权利、联网研究范围和本地 CDP 权限.
 - [open-kimi-ppt Skill](https://github.com/jinwyp/open-ppt-skill) - MIT 许可、明确支持 WorkBuddy 的 PPT Skill，可通过 npx 安装，生成可继续编辑的 PPTD 和 PPTX，并提供本地浏览器编辑器；项目是对 Kimi Slides 的非官方兼容实现，使用时请注意外部素材版权、网络依赖和导出质量.
 - [MiniWorkBuddy](https://github.com/joezxh/mini-workbuddy) - MIT 许可、受腾讯 WorkBuddy 启发的开源 AI 工作台，基于 AgentScope，提供多 Agent 团队、Skills、深度研究、调度、MCP、知识库/本体推理及文字/语音交互；运行需要模型/API Key、后端服务、数据库或向量库，并可能启用计划任务或外部集成，属于独立项目，使用前请审查租户隔离、数据流和生产边界.
