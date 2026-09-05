@@ -96,13 +96,13 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 ## Open-source Ecosystem
 
 > [!NOTE]
-> “Works with WorkBuddy” 不等于腾讯官方背书。使用非官方增强、自动化或 API 工具前请检查许可证、账号条款和权限范围。
+> “Works with WorkBuddy” 不等于腾讯官方背书。社区资源的许可证和使用方式请以原项目说明为准。
 
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - MIT 许可的中英双语新手启动器与 Prompt 库，支持 macOS、Linux、Windows 以及 Qwen Code、Kimi Code 和 CodeBuddy CLI
-- [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策
+- [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例
 - [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - Apache-2.0 许可的 15 分钟 Skill 构建入门教程，按创建、评估、迭代和基准测试的阶段带用户动手制作第一个 Skill，并明确提供 CodeBuddy 的 `~/.codebuddy/skills/` 安装路径
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
@@ -110,13 +110,13 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Superpowers 中文适配](https://github.com/squallopen/superpowers-zh-adapters) - MIT 许可的 `obra/superpowers` 中文适配层，明确支持 CodeBuddy、Codex、Claude Code、Cline、Droid、OpenCode 和 ZCode，提供中文触发词、中文文档输出、安装/更新/回滚脚本及上游版本同步
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从零实现 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程.
 - [ZZZ 白话讲 AI](https://github.com/mfkyddh/ZZZ-Simple-AI) - 许可未声明、以 WorkBuddy 为主要创作平台的零基础 AI 认知指南，按 9 章主线和 30 个扩展章节讲解大模型、Agent、上下文、记忆、MCP、Skills、多 Agent 与 AI 编程工作流
-- [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - 拆解提示词、记忆、插件、专家、Skill 与安全边界.
+- [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - 介绍提示词、记忆、插件、专家和 Skill.
 - [WorkBuddy Harness](https://github.com/zhuang-HE/workbuddy-harness) - 许可未声明、面向 WorkBuddy 风格 Agent 的九维基础设施框架，包含 11 个插件、21 个 Hooks、Hook/评测运行引擎、守护进程和 30 条基准用例
-- [LoopForge](https://github.com/Tencent/LoopForge) - 腾讯开源的 MIT 多智能体软件交付工作流，覆盖需求澄清、边界确认、设计、实现、独立审查、测试与可恢复交接，并为 CodeBuddy、Codex、Cursor 和 Claude Code 提供 CLI/Skill 安装入口
-- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配
+- [LoopForge](https://github.com/Tencent/LoopForge) - 腾讯开源的 MIT 多智能体软件交付工作流，支持 CodeBuddy、Codex、Cursor 和 Claude Code
+- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - MIT 许可的跨 Agent 软件交付工作流，支持 CodeBuddy
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程
-- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - MIT 许可、面向 WorkBuddy/CodeBuddy CLI 与 IDE 的自包含工作流 harness，提供分级计划、主机就绪验证、可恢复卸载、MCP/Skill 路由和分层测试
-- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品契约 Skill，将 PRD 与体验路线图按证据、用户价值、真值边界、假设和验收条件对齐，并提供版本化模板、确定性验证器、评测样例和测试
+- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - MIT 许可的 WorkBuddy/CodeBuddy CLI 与 IDE 工作流工具，提供计划、MCP/Skill 路由和任务管理
+- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品规划 Skill，帮助整理 PRD 与路线图
 
 ### Skill collections
 
@@ -124,12 +124,12 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复
 - [WorkBuddy Skills（ai3027）](https://github.com/ai3027/workbuddy-skills) - MIT 许可的 WorkBuddy Skill 集合，包含工作空间迁移/清理和技术公众号写作 Skill，并为每项能力提供 `SKILL.md` 与脚本
 - [WorkBuddy AI Agent Skills Collection](https://github.com/Tugoukezhang/workbuddy-skills) - 汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具
-- [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流
+- [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单
 
-- [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态.
+- [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库.
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git、发布、版本证据和回滚
 - [i18n Helper Skills](https://github.com/liangdabiao/i18n-helper-skills) - 许可未声明、面向 WorkBuddy/Codex 等 Agent 的国际化 Skill 集合，分别处理静态 HTML 多语言目录和 React/Vue/PHP/Python/Java 等源码翻译函数，附带提取、应用与完整性检查脚本
@@ -202,7 +202,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Frontend Development Guide](https://github.com/genapohub/frontend-dev-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的前端工程 Skill，按场景生成架构、组件、性能、测试和技术预研方案
 - [Growth Guide](https://github.com/genapohub/growth-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的增长 Skill，覆盖增长模型、获客矩阵、实验、留存和渠道 ROI 方案
 - [Monetization Guide](https://github.com/genapohub/monetization-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的商业化 Skill，覆盖商业模式、定价、销售漏斗、客户成功和财务预测
-- [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程
+- [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的发布 Skill，覆盖版本、审批和 GitHub/npm/插件分发
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计
@@ -462,4 +462,4 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ## About
 
-这是一个独立维护的 WorkBuddy 资源索引，采用 [CC0 1.0 Universal](LICENSE)。被收录资源遵循各自的许可证和使用条款；机器可读目录见 [`site/llms.txt`](site/llms.txt)，项目维护说明见 [CONTRIBUTING.md](CONTRIBUTING.md)，引用本清单可参考 [CITATION.cff](CITATION.cff)。
+这是一个独立维护的 WorkBuddy 资源索引，采用 [CC0 1.0 Universal](LICENSE)。被收录资源遵循各自的许可证和使用条款；机器可读目录见 [`site/llms.txt`](site/llms.txt)，引用信息见 [CITATION.cff](CITATION.cff)。
