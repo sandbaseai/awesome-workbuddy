@@ -550,6 +550,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "LazyBuddy",
+    "url": "https://github.com/elvinzhao10/LazyBuddy",
+    "description": "An MIT-licensed self-contained workflow harness for WorkBuddy/CodeBuddy CLI and IDE with staged planning, host-readiness verification, reversible offboarding, MCP/Skill routes, and layered tests; it explicitly keeps credentials, marketplace, plugin, and trust changes human-approved, while installation can write project/Agent configuration, so review the install root, scripts, dependencies, and permission boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "LazyBuddy",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy/CodeBuddy CLI 与 IDE 的自包含工作流 harness，提供分级计划、主机就绪验证、可恢复卸载、MCP/Skill 路由和分层测试；它明确要求对凭据、市场、插件和信任设置保留人工批准，并会安装或修改目标项目/Agent 配置，使用前请审查安装根目录、脚本、依赖和权限边界",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Wiki",
     "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
     "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use",
@@ -1597,6 +1607,26 @@
     "category": "Tools and integrations",
     "titleZh": "WorkBuddy Jupyter Bridge",
     "descriptionZh": "MIT 许可、面向 WorkBuddy 5.x 的 JupyterLab MCP 接线 Skill，提供真实内核中的代码执行、Notebook/Cell 读写、变量留存和 DataFrame 自省，并用 9 项端到端校验固化配置与排障；它会合并写入 `~/.workbuddy/mcp.json`，连接器可改变当前内核状态，虽默认只监听 `127.0.0.1` 且需用户在 UI 中显式信任，仍应先备份配置并确认 Notebook、数据和 WSL 网络范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "BuddyBridge",
+    "url": "https://github.com/ben4202121/buddybridge",
+    "description": "An MIT-licensed Windows-only Obsidian plugin that brings the local WorkBuddy/CodeBuddy CLI into a Vault sidebar with streaming chat, thinking/tool-step views, conversation history, and current-note context; it can read the Vault and invoke a local CLI, and includes a user-run Node/permission setup prompt, so review source, Vault scope, Node paths, and every tool call first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "BuddyBridge",
+    "descriptionZh": "MIT 许可的 Windows-only Obsidian 插件，将本机 WorkBuddy/CodeBuddy CLI 接入 Vault 侧边栏，支持流式对话、思考/工具步骤、会话历史和当前笔记上下文；插件可读取 Vault、调用本地 CLI，并附带需要用户执行的 Node/权限初始化提示词，使用前请审查源码、Vault 范围、Node 路径和每次工具调用",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Subagent CodeBuddy",
+    "url": "https://github.com/flg1217/dsh-subagent-codebuddy",
+    "description": "An MIT-licensed DeepSeek Harness plugin that registers CodeBuddy CLI as parallel, continuable subagents and translates tool steps; it spawns local `codebuddy` processes, defaults to `bypassPermissions`, and can read images/task files and execute tools. It supports the more conservative `acceptEdits`/`plan` modes, so review command, working-directory, temporary-file, and permission settings before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Subagent CodeBuddy",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，将 CodeBuddy CLI 注册为可并行、可续聊的子代理并翻译工具步骤；它会 spawn 本地 `codebuddy` 子进程，默认配置为 `bypassPermissions`，可读取图片/临时任务文件并执行工具，虽然支持 `acceptEdits`/`plan` 保守模式，安装前应审查命令、工作目录、临时文件和权限设置",
     "categoryZh": "Tools and integrations"
   },
   {

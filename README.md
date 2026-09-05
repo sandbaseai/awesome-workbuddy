@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**196 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
+**199 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -123,6 +123,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [LoopForge](https://github.com/Tencent/LoopForge) - 腾讯开源的 MIT 多智能体软件交付工作流，覆盖需求澄清、边界确认、设计、实现、独立审查、测试与可恢复交接，并为 CodeBuddy、Codex、Cursor 和 Claude Code 提供 CLI/Skill 安装入口；安装会写入对应 Agent 的项目规则与工作流文件，执行前请审查变更范围、依赖和本地执行权限.
 - [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配；它是社区项目而非腾讯官方组件，初始化会在目标项目写入规则、Skills、状态与文档，使用前请审查目标目录和执行权限.
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程；明确要求研究创新、实验数据和引用保持真实，配置 API Key 与使用 AI 辅助写作前请遵守学校规范并审查密钥和资料范围.
+- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - MIT 许可、面向 WorkBuddy/CodeBuddy CLI 与 IDE 的自包含工作流 harness，提供分级计划、主机就绪验证、可恢复卸载、MCP/Skill 路由和分层测试；它明确要求对凭据、市场、插件和信任设置保留人工批准，并会安装或修改目标项目/Agent 配置，使用前请审查安装根目录、脚本、依赖和权限边界.
 
 ### Skill collections
 
@@ -242,6 +243,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy OpenAPI PHP SDK](https://github.com/JaguarJack/workbuddy-openapi) - MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助手消息/权限、云任务、产物、兑换和 ACP；它本身不持久化令牌，但会处理客户端密钥、用户/任务令牌及提示词，并可发送消息、创建任务、响应权限、兑换权益和执行 ACP，且会信任官方 API 返回的 ACP/沙箱 URL 并向其发送任务令牌，接入时应使用最小权限、服务端密钥存储、OAuth state/幂等校验、主机白名单和逐项人工确认.
 - [WorkBuddy2API (Tom6814)](https://github.com/Tom6814/WorkBuddy2API) - MIT 许可的第三方本地/容器化协议转换器，将 WorkBuddy 模型包装为 OpenAI 兼容 REST API，支持流式对话、工具调用、文生图/图生图、Token 刷新和 Docker 部署；它需要读取本机 WorkBuddy 登录 Token 并调用未公开接口，部署到公网会扩大凭据和账号风险，使用前请审查源码、环境变量、端口、日志、平台条款，严格限于本人授权的本地测试.
 - [WorkBuddy Jupyter Bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) - MIT 许可、面向 WorkBuddy 5.x 的 JupyterLab MCP 接线 Skill，提供真实内核中的代码执行、Notebook/Cell 读写、变量留存和 DataFrame 自省，并用 9 项端到端校验固化配置与排障；它会合并写入 `~/.workbuddy/mcp.json`，连接器可改变当前内核状态，虽默认只监听 `127.0.0.1` 且需用户在 UI 中显式信任，仍应先备份配置并确认 Notebook、数据和 WSL 网络范围.
+- [BuddyBridge](https://github.com/ben4202121/buddybridge) - MIT 许可的 Windows-only Obsidian 插件，将本机 WorkBuddy/CodeBuddy CLI 接入 Vault 侧边栏，支持流式对话、思考/工具步骤、会话历史和当前笔记上下文；插件可读取 Vault、调用本地 CLI，并附带需要用户执行的 Node/权限初始化提示词，使用前请审查源码、Vault 范围、Node 路径和每次工具调用.
+- [DSH Subagent CodeBuddy](https://github.com/flg1217/dsh-subagent-codebuddy) - MIT 许可的 DeepSeek Harness 插件，将 CodeBuddy CLI 注册为可并行、可续聊的子代理并翻译工具步骤；它会 spawn 本地 `codebuddy` 子进程，默认配置为 `bypassPermissions`，可读取图片/临时任务文件并执行工具，虽然支持 `acceptEdits`/`plan` 保守模式，安装前应审查命令、工作目录、临时文件和权限设置.
 - [WorkBuddy Computer Use for Intel Mac](https://github.com/Guyzn/workbuddy-cua-mcp) - MIT 许可、面向 Intel Mac 的 WorkBuddy MCP，提供截图、鼠标/键盘/窗口控制和 Chrome CDP 自动化，用于补足 Apple Silicon 原生 Computer Use 的平台差异；它需要 macOS 辅助功能权限、可自动启动带调试端口的 Chrome，并能控制整台桌面，使用前请确认进程授权、调试端口绑定、浏览器 Profile、敏感页面和每次操作的人工监督.
 - [WorkBuddy Token Tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) - MIT 许可、面向 Windows WorkBuddy 的 Skill 与 hook，通过本地 trace/transcript 汇总每轮 Token、耗时、分模型日账本和系统通知；它会扫描完整会话、长期写入账本及诊断日志、调用 Node/Python/PowerShell，且默认联网刷新多个公开价格源，余额查询虽默认关闭但开启后会读取 DeepSeek API Key，费用仅为可变价格数据与人工时段规则下的估算，不能视为账单，安装前请审查源码、日志保留、网络和凭据范围.
 - [AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) - MIT 许可、基于 PowerShell 7 的本地会话查询工具，以统一命令检索 Codex、Claude Code 与 WorkBuddy 的会话、工作区、模型和 Token 统计；它不联网并以 SQLite 只读模式打开 WorkBuddy 数据库，但会扫描完整 transcript、调用本机 Python、短暂写入并删除临时 JSON，输出还可能暴露会话标题、路径、分支和恢复命令，分享或重定向结果前请先脱敏.
