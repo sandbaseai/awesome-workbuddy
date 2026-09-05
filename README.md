@@ -162,6 +162,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [Skill Integrator](https://github.com/smiling66652/skill-integrator) - MIT 许可的 WorkBuddy 元 Skill，用于扫描、对比、整合和优化多个 Skill，并提供按需加载与备用方案方法
 - [One-person Company](https://github.com/wzx11223344/one-person-company) - MIT 许可的 WorkBuddy 一人公司运营 Skill，覆盖内容、运营、产品、财务和增长自动化
 - [WorkBuddy Theme Manager](https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager) - Apache-2.0 许可的 WorkBuddy 主题 Skill，可将 `.codex-theme` 转为 `.workbuddy-theme` 并完成安装、切换和恢复
 - [Academic Research Skills for WorkBuddy](https://github.com/jinmao-lin/academic-research-skills-workbuddy) - CC BY-NC 4.0 许可的学术研究 Skill 套件，覆盖深度研究、论文写作、稿件审阅、研究流程和实验规划，并提供来源署名
