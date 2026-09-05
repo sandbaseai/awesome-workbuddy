@@ -21,6 +21,22 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("https://support.github.com/", content)
         self.assertNotIn("[INSERT", content)
 
+    def test_citation_metadata_is_complete_and_linked(self) -> None:
+        citation = (ROOT / "CITATION.cff").read_text(encoding="utf-8")
+        for field in (
+            "cff-version: 1.2.0",
+            "type: software",
+            'title: "Awesome WorkBuddy"',
+            "authors:",
+            'repository-code: "https://github.com/sandbaseai/awesome-workbuddy"',
+            'license: CC0-1.0',
+            "version: 0.10.14",
+            "date-released: 2026-09-05",
+        ):
+            self.assertIn(field, citation)
+        for filename in ("README.md", "README.en.md"):
+            self.assertIn("CITATION.cff", (ROOT / filename).read_text(encoding="utf-8"))
+
     def test_contribution_flow_is_bilingual(self) -> None:
         guide = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
         self.assertIn("## English", guide)
