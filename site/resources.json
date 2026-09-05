@@ -590,6 +590,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Frank Presales Skills",
+    "url": "https://github.com/frank666199/frank-presales-skills",
+    "description": "An MIT-licensed presales-solution Skill collection with 90 Skills across eight dimensions, covering AI tools, requirements, solution documents, bidding, government and enterprise projects, AI projects, and presentations, with documented WorkBuddy usage",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Frank Presales Skills",
+    "descriptionZh": "MIT 许可的售前解决方案 Skill 合集，包含 90 个 Skill、8 个维度，覆盖 AI 工具、需求、方案、招投标、政企项目、企业项目、AI 项目和演示沟通，并提供 WorkBuddy 使用方式",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Senmu BuildOS",
     "url": "https://github.com/SenMuShare/senmu-buildos",
     "description": "An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback",

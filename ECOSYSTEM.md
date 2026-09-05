@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,086 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,828 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,830 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,963 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,560 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -162,6 +162,7 @@ Last refreshed: **2026-09-05 UTC**
 | [gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) | 11 | Python | 2026-07-26 |
 | [yinsang0910-star/collab-cli](https://github.com/yinsang0910-star/collab-cli) | 11 | JavaScript | 2026-06-14 |
 | [rollingSirius/TradeGit](https://github.com/rollingSirius/TradeGit) | 11 | Python | 2026-07-28 |
+| [frank666199/frank-presales-skills](https://github.com/frank666199/frank-presales-skills) | 11 | - | 2026-07-03 |
 | [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [liangdabiao/boardgame-io-skill](https://github.com/liangdabiao/boardgame-io-skill) | 10 | JavaScript | 2026-08-17 |
 | [hawklithm/workbuddy2api](https://github.com/hawklithm/workbuddy2api) | 9 | Python | 2026-08-22 |
