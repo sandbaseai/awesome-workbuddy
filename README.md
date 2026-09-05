@@ -121,7 +121,10 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Skill collections
 
+- [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖；安装脚本会写入本地 WorkBuddy 目录并可注册 Hook，使用前请审查脚本、目标路径和权限.
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复；各 Skill 的文件、依赖和本地读写范围不同，安装前请逐项查看说明.
+- [WorkBuddy Skills（ai3027）](https://github.com/ai3027/workbuddy-skills) - MIT 许可的 WorkBuddy Skill 集合，包含工作空间迁移/清理和技术公众号写作 Skill，并为每项能力提供 `SKILL.md` 与脚本；迁移和清理操作会读取或改写本地 WorkBuddy 数据，使用前请备份并确认目标范围.
+- [WorkBuddy AI Agent Skills Collection](https://github.com/Tugoukezhang/workbuddy-skills) - 汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具；仓库未声明顶层许可证，且部分内容含独立文件许可，使用或再分发前必须逐项核对来源和许可.
 - [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流；会处理业务资料并生成模型/交付物，使用前请确认资料范围、输出目录和平台安装权限.
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接；不同 Skill 可能读取本地会话/文件或访问模型与网络服务，使用前请逐项确认权限和凭据范围.
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.

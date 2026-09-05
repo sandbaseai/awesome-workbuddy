@@ -560,6 +560,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "oh-my-workbuddy",
+    "url": "https://github.com/mrzhangguoguo/oh-my-workbuddy",
+    "description": "An MIT-licensed WorkBuddy Skill pack with 46 catalog-driven Skills, user/project-scoped installation, bilingual docs, and zero runtime dependencies; its installer writes to local WorkBuddy directories and can register a Hook, so review scripts, target paths, and permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "oh-my-workbuddy",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖；安装脚本会写入本地 WorkBuddy 目录并可注册 Hook，使用前请审查脚本、目标路径和权限",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Skills Collection",
     "url": "https://github.com/yinqd3/workbuddy-skills",
     "description": "An MIT-licensed collection of seven WorkBuddy Skills covering academic research, frontend slides, knowledge-base linting, macOS maintenance, PPTX generation, engineering methodology, and tool-call repair; each Skill has different dependencies and local read/write scope, so review them individually before installation",
@@ -567,6 +577,26 @@
     "category": "Skill collections",
     "titleZh": "WorkBuddy Skills Collection",
     "descriptionZh": "MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复；各 Skill 的文件、依赖和本地读写范围不同，安装前请逐项查看说明",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "WorkBuddy Skills (ai3027)",
+    "url": "https://github.com/ai3027/workbuddy-skills",
+    "description": "An MIT-licensed WorkBuddy Skill collection with workspace migration/cleanup and technical WeChat writing Skills, each documented with a `SKILL.md` and scripts; migration and cleanup touch local WorkBuddy data, so back up first and confirm the target scope",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy Skills（ai3027）",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill 集合，包含工作空间迁移/清理和技术公众号写作 Skill，并为每项能力提供 `SKILL.md` 与脚本；迁移和清理操作会读取或改写本地 WorkBuddy 数据，使用前请备份并确认目标范围",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "WorkBuddy AI Agent Skills Collection",
+    "url": "https://github.com/Tugoukezhang/workbuddy-skills",
+    "description": "A collection of 78 WorkBuddy Skills spanning games, frontend, backend, documents, AI creation, Tencent/WeChat, and Agent tooling; the repository declares no top-level license and some contents carry separate file licenses, so verify provenance and terms per item before use or redistribution",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy AI Agent Skills Collection",
+    "descriptionZh": "汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具；仓库未声明顶层许可证，且部分内容含独立文件许可，使用或再分发前必须逐项核对来源和许可",
     "categoryZh": "Skill collections"
   },
   {
