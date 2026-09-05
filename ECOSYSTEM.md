@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,080 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,779 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,782 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,959 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,554 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -30,8 +30,8 @@ Last refreshed: **2026-09-05 UTC**
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 627 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 569 | Python | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 628 | JavaScript | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 571 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 544 | Python | 2026-09-02 |
@@ -39,7 +39,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 277 | HTML | 2026-08-17 |
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 261 | Python | 2026-08-13 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 262 | Python | 2026-08-13 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 257 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
@@ -191,6 +191,8 @@ Last refreshed: **2026-09-05 UTC**
 | [shajoezhu/skills_codebuddy_rpackagedev](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) | 6 | - | 2026-09-01 |
 | [Maquer/workbuddy-checkin](https://github.com/Maquer/workbuddy-checkin) | 6 | Python | 2026-09-05 |
 | [yangchen0991/video-workshop](https://github.com/yangchen0991/video-workshop) | 6 | - | 2026-06-24 |
+| [Errriclin/csv-data-analyst](https://github.com/Errriclin/csv-data-analyst) | 6 | Python | 2026-08-28 |
+| [li845276863-tech/chatcut-video-workflow-skill](https://github.com/li845276863-tech/chatcut-video-workflow-skill) | 6 | - | 2026-07-20 |
 | [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-03 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |

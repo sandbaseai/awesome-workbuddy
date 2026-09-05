@@ -114,6 +114,8 @@
 
 ### Ready-to-use Skills
 
+- [CSV Data Analyst](https://github.com/Errriclin/csv-data-analyst) - MIT 许可、明确面向 WorkBuddy 的多场景 CSV 分析 Skill，支持自然语言分析、图表、结构化结果和可审计产物清单，并提供示例与验证脚本
+- [ChatCut Video Workflow](https://github.com/li845276863-tech/chatcut-video-workflow-skill) - MIT 许可、明确支持 WorkBuddy 的 ChatCut 口播视频工作流 Skill，先拆解方案再执行，覆盖精剪、爆款分析、画面包装、封面生成和导出检查
 - [TradeGit](https://github.com/rollingSirius/TradeGit) - MIT 许可、明确兼容 WorkBuddy 的本地交易日志 Skill，可记录交易理由、导入券商流水并按 FIFO 计算盈亏；数据保存在本地或用户自己的私有 GitHub 仓库
 - [Chanlun Engine](https://github.com/adsorgcn/chanlun-engine-skill) - MIT 许可、明确支持 WorkBuddy 的缠论分析 Skill，由确定性脚本计算分型、笔、线段、中枢和信号，结果可复核；仅作研究参考，不构成投资建议
 - [Scholar Inbox Skill](https://github.com/zhjcreator/scholar-inbox-skill) - MIT 许可的 WorkBuddy 学术论文检索 Skill，通过 Scholar Inbox CLI 支持关键词/语义搜索、趋势论文、日报、书签、收藏和会议论文管理；使用前需配置第三方账号
