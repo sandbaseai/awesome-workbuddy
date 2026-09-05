@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`
+
 - [skill-manager](https://github.com/GrubbyLee/skill-manager) - An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes
 
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - An MIT-licensed cross-platform Skills manager that installs, organizes, updates, and syncs to 47 Agent tools, with explicit WorkBuddy support through `~/.workbuddy/skills`; review scanned directories and local settings such as GitHub tokens before use
@@ -130,6 +132,9 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - An MIT-licensed local-first cross-agent memory store with an MCP server and read-only Web panel, plus manual WorkBuddy connection guidance
 
 ### Ready-to-use Skills
+
+- [X Mentor Skill](https://github.com/alchaincyf/x-mentor-skill) - An MIT-licensed X/Twitter research and writing Skill compatible with WorkBuddy and more than 50 other Agent runtimes, covering topic selection, writing, and growth workflows; follow platform rules and verify cited material before publishing
+- [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) - An MIT-licensed educational-animation Skill with explicit WorkBuddy installation steps that turns educational text into HTML presentation animations; review asset and model-service permissions before generating or publishing content
 
 - [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - An MIT-licensed Skill with explicit WorkBuddy support for generating software-copyright application forms, user manuals, source-code materials, DOCX, and PDF from a project; it does not replace ownership or factual review, so redact fixtures and manually check registration requirements before submission
 
@@ -332,6 +337,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [Fanbox](https://github.com/alchaincyf/fanbox) - An MIT-licensed local multi-agent cockpit that launches and manages multiple Agents including WorkBuddy, with window status and waiting-state reminders; review the commands, working directories, and client configuration it will use first
 
 - [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - An MIT-licensed local desktop gateway that translates the Codex CLI Responses API into Chat Completions, with a built-in WorkBuddy (Tencent CodeBuddy) provider adapter; see the project for the scope of long-term real-device verification for other providers
 - [Narrator AI CLI](https://github.com/NarratorAI-Studio/narrator-ai-cli) - An MIT-licensed video-narration CLI usable as a command-line tool inside WorkBuddy and other Agents, covering material search, scripting, voice, BGM, and video generation; confirm account, cost, and asset permissions before using its online services

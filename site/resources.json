@@ -530,6 +530,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Agency Agents 中文版",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "description": "An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Agency Agents 中文版",
+    "descriptionZh": "MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "skill-manager",
     "url": "https://github.com/GrubbyLee/skill-manager",
     "description": "An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes",
@@ -687,16 +697,6 @@
     "category": "Skill collections",
     "titleZh": "Skill Flow",
     "descriptionZh": "Apache-2.0 的跨 Agent Skill 工作流管理工具，明确支持 WorkBuddy，可从 GitHub、skills.sh 或本地导入 Skill，批量部署、更新并检查状态；提供 npm CLI 和 macOS 桌面端",
-    "categoryZh": "Skill collections"
-  },
-  {
-    "title": "Agency Agents 中文版",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "description": "An MIT-licensed Chinese community collection of 276 role-oriented experts across 20 departments, with explicit conversion and installation support for WorkBuddy's `~/.workbuddy/skills/` directory",
-    "section": "Open-source Ecosystem",
-    "category": "Skill collections",
-    "titleZh": "Agency Agents 中文版",
-    "descriptionZh": "MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持",
     "categoryZh": "Skill collections"
   },
   {
@@ -1038,6 +1038,26 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "X Mentor Skill",
+    "url": "https://github.com/alchaincyf/x-mentor-skill",
+    "description": "An MIT-licensed X/Twitter research and writing Skill compatible with WorkBuddy and more than 50 other Agent runtimes, covering topic selection, writing, and growth workflows; follow platform rules and verify cited material before publishing",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "X 导师 Skill",
+    "descriptionZh": "MIT 许可的 X/Twitter 内容研究与写作 Skill，兼容 WorkBuddy 等 50 多种 Agent runtime，覆盖选题、写作和增长流程；使用时请遵守目标平台规则并核对引用内容",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "AI Animation Skill",
+    "url": "https://github.com/Unclecheng-li/AI-Animation-Skill",
+    "description": "An MIT-licensed educational-animation Skill with explicit WorkBuddy installation steps that turns educational text into HTML presentation animations; review asset and model-service permissions before generating or publishing content",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Animation Skill",
+    "descriptionZh": "MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请核对素材与模型服务权限",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "Software Certificate Skill",
@@ -2918,6 +2938,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Fanbox",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "description": "An MIT-licensed local multi-agent cockpit that launches and manages multiple Agents including WorkBuddy, with window status and waiting-state reminders; review the commands, working directories, and client configuration it will use first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Fanbox",
+    "descriptionZh": "MIT 许可的本地多 Agent 工作台，可一键启动和管理包括 WorkBuddy 在内的多个 Agent，并提供窗口状态与等待提醒；使用前请确认它将启动的命令、工作目录和客户端配置",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "Codex App Transfer",
