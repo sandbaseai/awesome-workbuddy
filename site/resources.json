@@ -2500,6 +2500,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "EdgeEver",
+    "url": "https://github.com/tianma-if/edgeever",
+    "description": "An AGPL-3.0 open-source AI knowledge base and Evernote alternative with REST API, MCP, CLI, Markdown/ZIP export, and multi-device sync; its README provides a WorkBuddy-driven Cloudflare deployment flow, but it is not a native WorkBuddy plugin—review Cloudflare/R2 account and billing requirements before cloud deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "EdgeEver",
+    "descriptionZh": "AGPL-3.0 的开源 AI 知识库与 Evernote 替代品，提供 REST API、MCP、CLI、Markdown/ZIP 导出和多端同步；README 提供 WorkBuddy 执行 Cloudflare 部署的流程，但并非原生 WorkBuddy 插件，使用云端部署前请核对 Cloudflare/R2 账户与费用条件",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "CaSee Intelligence MCP",
     "url": "https://github.com/xcasee/casee-mcp-server",
     "description": "An MIT-licensed WorkBuddy-compatible research MCP offering 500+ source retrieval, T-Score credibility metadata, and stdio/Streamable HTTP modes",

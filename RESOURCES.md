@@ -283,6 +283,7 @@
 - [WorkBuddy Agent File Parser Downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) - MIT 许可的 Python 3.11+ 专家/专家团清单解析与批量下载工具，可生成本地压缩包、Excel 统计和失败重跑清单
 - [WorkBuddy × ChatCut MCP](https://github.com/chonpszhou/workbuddy-chatcut-mcp) - MIT 许可的 WorkBuddy 视频剪辑 MCP 接入，提供 OAuth 2.0 + PKCE 授权脚本、配置模板、令牌续期和 ChatCut 项目操作
 - [IMA Knowledge Base MCP](https://github.com/xuewolai/ima-mcp-server) - MIT 许可、明确支持 WorkBuddy 的 Node.js MCP 服务，将 IMA 知识库接入搜索、浏览、读取和网页导入
+- [EdgeEver](https://github.com/tianma-if/edgeever) - AGPL-3.0 的开源 AI 知识库与 Evernote 替代品，提供 REST API、MCP、CLI、Markdown/ZIP 导出和多端同步；README 提供 WorkBuddy 执行 Cloudflare 部署的流程，但并非原生 WorkBuddy 插件，使用云端部署前请核对 Cloudflare/R2 账户与费用条件
 - [CaSee Intelligence MCP](https://github.com/xcasee/casee-mcp-server) - MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streamable HTTP 两种模式
 - [QClaw × WorkBuddy Bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) - MIT 许可的 macOS 工作流桥，通过共享 JSON 队列和 launchd 事件把微信/QClaw 任务交给 WorkBuddy 执行，并提供任务提交、结果查询和队列管理三个 Skill
 - [GitHub Trending MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) - Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语言筛选热门仓库，并提供 MCP 与本地网页模式
