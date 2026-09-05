@@ -112,6 +112,7 @@ Frog755/dsh-hybrid-memory
 jiang12345-code/dsh-agent-selector
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
+wnddd839/codebuddyapi-proxy
 HanHan666666/codebuddy2openai
 orangeboyChen/codebuddy2api
 kuops/opencode-codebuddy-auth
