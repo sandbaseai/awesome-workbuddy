@@ -442,6 +442,7 @@
 
 ### Automation and Agent workflows
 
+- [DSH Agent Conductor](https://github.com/MJorgin/dsh-agent-conductor) - An MIT-licensed zero-dependency WorkBuddy-compatible Skill for dispatching tasks to external Agent CLIs such as Codex, Claude Code, Gemini, and WorkBuddy and returning their output; confirm local CLI availability, permissions, and account quotas before running it
 - [AT-Switch](https://github.com/atswitch/at-switch) - An MIT-licensed local AI Agent provider and model switcher for macOS and Windows, with explicit WorkBuddy support, model management, protocol conversion, configuration backups, and rollback
 - [Workbuddy](https://github.com/Lincyaw/workbuddy) - An Apache-2.0 GitHub Issue-driven Agent orchestration platform that maps Issue states to workflows and dispatches Claude, Codex, and other runtimes
 - [Better Harness](https://github.com/QoderAI/better-harness) - An MIT-licensed Agent Harness Engineering platform with explicit WorkBuddy support, evidence-backed workflow reports, resumable tasks, Skill/MCP/Hook boundaries, controlled experiments, and adapters for 37 Agent platforms

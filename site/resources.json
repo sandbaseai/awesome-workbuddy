@@ -3710,6 +3710,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "DSH Agent Conductor",
+    "url": "https://github.com/MJorgin/dsh-agent-conductor",
+    "description": "An MIT-licensed zero-dependency WorkBuddy-compatible Skill for dispatching tasks to external Agent CLIs such as Codex, Claude Code, Gemini, and WorkBuddy and returning their output; confirm local CLI availability, permissions, and account quotas before running it",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "DSH Agent Conductor",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的零依赖跨 Agent 派活 Skill，可调用 Codex、Claude Code、Gemini、WorkBuddy 等外部 CLI 并把结果回传；执行前请确认本机 CLI、权限和登录额度",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
     "title": "AT-Switch",
     "url": "https://github.com/atswitch/at-switch",
     "description": "An MIT-licensed local AI Agent provider and model switcher for macOS and Windows, with explicit WorkBuddy support, model management, protocol conversion, configuration backups, and rollback",
