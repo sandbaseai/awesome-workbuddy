@@ -134,6 +134,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Bolton-Z/ns-mcp-china](https://github.com/Bolton-Z/ns-mcp-china) | 1 | JavaScript | 2026-09-04 |
 | [zkhyww/ai-short-drama-skills](https://github.com/zkhyww/ai-short-drama-skills) | 1 | Python | 2026-09-04 |
 | [xiaojinlucky/workbuddy-expert-bridge](https://github.com/xiaojinlucky/workbuddy-expert-bridge) | 1 | Python | 2026-09-03 |
+| [normalpeople553/workbuddy-mcp-oauth-guide](https://github.com/normalpeople553/workbuddy-mcp-oauth-guide) | 1 | Python | 2026-08-13 |
 | [ronineymessjr-sudo/career-copilot](https://github.com/ronineymessjr-sudo/career-copilot) | 1 | TypeScript | 2026-09-04 |
 | [ttww1111/pdf-structured-extractor](https://github.com/ttww1111/pdf-structured-extractor) | 1 | Python | 2026-09-04 |
 | [joyparkray/agent-avatar](https://github.com/joyparkray/agent-avatar) | 1 | TypeScript | 2026-09-04 |
