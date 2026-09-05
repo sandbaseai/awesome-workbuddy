@@ -162,6 +162,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程；安装需要同时导入 `SKILL.md` 与 `references/`，并配置第三方 API Key，使用前请确认素材版权、费用、密钥和上传范围.
 - [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境.
 - [WorkBuddy Runbook](https://github.com/maning636/workbuddy-runbook) - MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy 及兼容 Agent；生成的命令仍需根据实际路径和权限人工确认.
 - [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - MIT 许可的 Minecraft Java 模组检索 Skill，提供 `SKILL.md` 和搜索脚本，可直接安装到 WorkBuddy/CodeBuddy 的 Skill 目录；使用外部搜索或下载结果时请核对来源、版本与文件安全性.
@@ -256,6 +257,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [CloudBase AI Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - 腾讯云 CloudBase 官方 MIT 工具包，为 WorkBuddy 提供数据库、身份认证、云函数、存储和部署相关的 Skills 与 MCP；需要 CloudBase 环境和账号授权，执行写入或部署操作前请确认目标环境、权限、费用与数据范围.
 - [workbuddy_to_api](https://github.com/yxxawa/workbuddy_to_api) - MIT 许可的本地 WorkBuddy 代理，将服务转换为 OpenAI/Anthropic 兼容 API，并提供健康检查、模型列表和可选 MCP 配置；会处理本地登录状态、提示词、端口和日志，且依赖非公开接口，使用前请限制回环访问、保护凭据并核对平台条款.
 - [SkillDeck](https://github.com/crossoverJie/SkillDeck) - MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、创建链接、检查更新、编辑 `SKILL.md` 并分配给不同 Agent；它会读写本地 Skill 目录，首次运行还涉及未签名应用和文件权限，使用前请确认来源与变更范围.
 - [DocuGenius](https://github.com/bruc3van/DocuGenius) - MIT 许可的开源编辑器插件，可将 Word、Excel、PowerPoint 和 PDF 转成结构化 Markdown，便于 WorkBuddy/CodeBuddy 等 AI 工具读取；支持插件市场和 VSIX 安装，处理本地文档并写入输出目录，使用前请确认敏感资料范围和转换结果.

@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Narrator AI CLI Skill",
+    "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+    "description": "An MIT-licensed video-narration Skill compatible with WorkBuddy, covering material search, scripting, voice, BGM, and video composition; installation requires both `SKILL.md` and `references/`, plus a third-party API key, so confirm media rights, cost, credentials, and upload scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Narrator AI CLI Skill",
+    "descriptionZh": "MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程；安装需要同时导入 `SKILL.md` 与 `references/`，并配置第三方 API Key，使用前请确认素材版权、费用、密钥和上传范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Superpowers WorkBuddy",
     "url": "https://github.com/ToussaintKnight/superpowers-workbuddy",
     "description": "An MIT-licensed WorkBuddy testing and debugging methodology with four Skills and a reported 19/19 experiment suite, useful for bringing tests, diagnosis, and result verification into task workflows; run the project instructions and check the experiment environment before relying on the results",
@@ -1828,6 +1838,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy；采用 PolyForm Noncommercial 1.0.0，且会读写个人规划数据，安装前请确认许可与权限",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "CloudBase AI Toolkit",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+    "description": "Tencent CloudBase's official MIT-licensed toolkit, bringing database, authentication, cloud functions, storage, and deployment Skills and MCP to WorkBuddy; it requires a CloudBase environment and account authorization, so confirm the target environment, permissions, cost, and data scope before writes or deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CloudBase AI Toolkit",
+    "descriptionZh": "腾讯云 CloudBase 官方 MIT 工具包，为 WorkBuddy 提供数据库、身份认证、云函数、存储和部署相关的 Skills 与 MCP；需要 CloudBase 环境和账号授权，执行写入或部署操作前请确认目标环境、权限、费用与数据范围",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "workbuddy_to_api",
