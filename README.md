@@ -361,7 +361,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [M5Stack Toys / Core2 Buddy](https://github.com/sindney/m5stack_toys) - MIT 许可的 M5Stack 硬件项目集合，其中 Core2 Buddy 通过 USB 串口扫描 WorkBuddy 任务，在触摸屏显示工作区/任务并用 TTS、LED 通知状态；需要 Arduino、Python、串口和 edge-tts，使用前请确认本地 WorkBuddy 数据读取范围、硬件烧录脚本与外部语音服务.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - 支持多种 coding agent 的开源桌面客户端.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题；使用登录、应用路径或下载功能前请复核权限与来源.
-- [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - 跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款.
+- [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - MIT 许可的跨平台 WorkBuddy/CodeBuddy 账号管理工具，支持 OAuth 登录、账号切换、会话备份/复制、积分与 Token 用量查看，并提供 macOS、Windows、Linux 安装包；切换会改写本地认证文件，签到/保活会代表账号执行操作，使用前请确认本人授权、备份、凭据存储和账号条款.
 - [Trae WorkBuddy Assistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) - MIT 许可的 Windows Tauri 工具，为 Trae 与 WorkBuddy 提供多账号管理、OAuth/Token、积分查询、签到和本地 OpenAI 兼容网关；它会处理账号凭据并包含本地 MITM 代理与自动化任务，使用前应审查源码、存储/日志、代理绑定、定时任务和服务条款，只使用本人授权账号.
 - [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - 迁移账号切换后的对话、长期记忆与 MCP 连接器；MIT 许可，支持备份、回滚与迁移后验证，但会改写 SQLite 中的 `user_id` 并合并本地数据，执行前务必确认备份、源/目标账号和数据范围.
 - [Crew](https://github.com/shuishenghualalala/Ace) - Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识库、任务自动化和多 Agent 协作；源码预览版默认可操作本地文件并支持浏览器、外部渠道和自有模型，使用前请检查安全开关、API 密钥、账号配置与数据边界.
