@@ -263,3 +263,4 @@ bonboruyau-dev/wechat-article-to-md
 62656456/ai-film-skills
 lasoons/AgentSkillsManager
 EverMind-AI/SkillCorpus
+Banye0517/ecommerce-detail-page-skill
