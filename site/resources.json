@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "AI Weekly Report Skill",
+    "url": "https://github.com/Elisabeth15501/ai-weekly",
+    "description": "An MIT-licensed cross-platform WorkBuddy Skill that uses pure Python and RSS to generate a searchable, filterable, dark-mode single-file HTML AI news site, with model rankings, market data, citations, and scheduled generation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Weekly Report",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Hong Kong Business Writing",
     "url": "https://github.com/simonsiu2008-bit/hk-business-writing",
     "description": "An MIT-licensed WorkBuddy/Claude Skill for rewriting Mainland Chinese business copy in natural Hong Kong written Chinese, with 80+ terminology mappings, narrative frameworks, examples, and a self-check list",
@@ -1557,16 +1567,6 @@
     "category": "Ready-to-use Skills",
     "titleZh": "Roundtable KG",
     "descriptionZh": "MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图",
-    "categoryZh": "Ready-to-use Skills"
-  },
-  {
-    "title": "AI Weekly Report",
-    "url": "https://github.com/Elisabeth15501/ai-weekly",
-    "description": "An MIT-licensed AI-industry weekly-report Skill compatible with WorkBuddy, Codex, and other Agents. It builds a searchable, filterable, dark-mode single-file HTML report from RSS and optional search data, preserving source links and fallbacks",
-    "section": "Open-source Ecosystem",
-    "category": "Ready-to-use Skills",
-    "titleZh": "AI Weekly Report",
-    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退",
     "categoryZh": "Ready-to-use Skills"
   },
   {
