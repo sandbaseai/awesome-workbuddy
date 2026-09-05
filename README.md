@@ -326,6 +326,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Community clients and enhancements
 
+- [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar；会重启应用并运行本地脚本，CDP 启用期间无鉴权，且适配版本可能变化，使用前请审查脚本、端口和图片权限.
 - [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy；源码、测试和本地事件白名单公开，但社区构建为 ad-hoc 签名且非 Apple 公证，安装脚本、Release 来源、控制面与回环权限请先审查.
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills；支持全局/项目范围、Git/本地来源、软链接或复制和定时更新，使用前请确认目标目录、来源可信度与同步范围.
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化；会读取本机登录令牌并调用逆向得到的非官方接口，使用前应核对账号条款与源码.
