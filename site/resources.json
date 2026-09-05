@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "OpenMobius Skill",
+    "url": "https://github.com/MobiusQuant/OpenMobius-skill",
+    "description": "An Apache-2.0 trading-knowledge Skill with explicit WorkBuddy support, attributable ICT/SMC knowledge cards, market analysis, and chart generation, with unsupported routes stopping explicitly; it handles market data and is not investment advice, so confirm data sources, account permissions, privacy, and risk boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "OpenMobius Skill",
+    "descriptionZh": "Apache-2.0 许可、明确支持 WorkBuddy 的交易知识 Skill，提供可溯源的 ICT/SMC 知识卡、行情分析和图表生成，并在不支持的分析路由上主动停止；它处理市场数据且不构成投资建议，使用前请核对数据来源、账号权限、隐私和风险边界",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Nuwa Skill",
     "url": "https://github.com/alchaincyf/nuwa-skill",
     "description": "An MIT-licensed cross-agent thought-distillation Skill with explicit WorkBuddy support, turning public material into reusable analysis and expression frameworks; confirm copyright, privacy, and subject authorization for source material, and do not treat generated content as fact or the subject's own view",

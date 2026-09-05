@@ -1,4 +1,5 @@
 # One GitHub owner/repository per line. Keep this list curated.
+MobiusQuant/OpenMobius-skill
 rullerzhou-afk/clawd-on-desk
 vergess3/workbuddy-remote
 bigbay957-sudo/workbuddy-for-obsidian
