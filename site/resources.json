@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Bazi-Ziwei Skills",
+    "url": "https://github.com/dzcmemory-web/bazi-ziwei-skills",
+    "description": "An MIT-licensed WorkBuddy-compatible Bazi and Ziwei-doushu Skill using deterministic local chart calculations, with three analysis modes, test cases, and shareable HTML chart posters; for traditional-culture/entertainment reference only, not medical, investment, marriage, or legal decision-making",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Bazi-Ziwei Skills",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy 的八字与紫微斗数 Skill，使用确定性本地算法排盘，提供三种分析模式、测试案例和可分享的 HTML 命盘海报；仅作传统文化/娱乐参考，不用于医疗、投资、婚姻或法律决策",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy XHS Skills",
     "url": "https://github.com/lvecho/workbuddy-xhs-skills",
     "description": "A Chinese Xiaohongshu-operations Skill collection with no declared license, containing six installable modules for monetization-led positioning, account profiles, topics and titles, humanized drafts, visual planning, and data review; the README lists upstream sources, so verify attribution before reuse or redistribution",
