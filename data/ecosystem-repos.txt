@@ -135,6 +135,7 @@ jinmao-lin/academic-research-skills-workbuddy
 codexthemes/skills
 wzx11223344/one-person-company
 smiling66652/skill-integrator
+lijq126/short-term-stock-picker
 maning636/workbuddy-runbook
 yxxawa/workbuddy_to_api
 MasterHesse/minecraft-mod-search
