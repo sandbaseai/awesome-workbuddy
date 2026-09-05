@@ -314,6 +314,7 @@
 
 ### Tools and integrations
 
+- [WorkBuddy OSS](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) - An MIT-licensed team IM/Agent workflow platform that turns Feishu, WeCom, DingTalk, Webhooks, and chat records into approval-gated, auditable, reviewable tickets, leads, tasks, and knowledge objects; for self-hosting, use your own domain and tenant credentials and configure access controls first
 - [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - An unofficial GPL-3.0 multi-language CodeBuddy/WorkBuddy enterprise OpenAPI client covering Skills, models, members, and usage; confirm authorization scope, credential storage, and GPL redistribution obligations before using the enterprise APIs
 - [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - An Apache-2.0 multi-agent roundtable engine with structured discussions, consensus tracking, and an MCP mode, plus an HTTP bridge for WorkBuddy and other platforms; confirm the bridge's listening scope before exposing it
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`
@@ -429,6 +430,7 @@
 
 ### Community clients and enhancements
 
+- [zisla](https://github.com/wzz6423/zisla) - A macOS top-of-screen workspace with a license file and explicit WorkBuddy local-activity monitoring, combining Agent status, Skill management, file tools, and system utilities while avoiding conversation bodies by default; installation trusts a third-party Homebrew tap, and releases are ad-hoc signed and not notarized, so review permissions and update sources in its README
 - [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - An MIT-licensed local theme manager that loads reversible styles through loopback CDP without modifying official binaries or signatures, offering `.wbtheme` signing, validation, import, apply, uninstall, restore, and a theme-authoring Skill
 - [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - An MIT-licensed Windows WorkBuddy theme engine that injects reversible CSS through local CDP without modifying official binaries, resources, or code signatures; it binds to loopback by default, but verify the version baseline and restart permissions before use
 - [Theoria](https://github.com/Waterkyuu/theoria) - A license-not-declared local-first multi-agent workspace with explicit WorkBuddy support, parallel agent runs, isolated execution directories, side-by-side tool/file-change comparisons, and local SQLite records; verify authorization with the author before use or redistribution

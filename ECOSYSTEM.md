@@ -8,9 +8,9 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,891 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,968 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,969 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -18,10 +18,10 @@ Last refreshed: **2026-09-05 UTC**
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,303 | Rust | 2026-09-05 |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,304 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
-| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,168 | Rust | 2026-09-05 |
+| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,169 | Rust | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,818 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
@@ -276,6 +276,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Flipped929/workbuddy-autofigure-edit-skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) | 4 | HTML | 2026-03-29 |
 | [bettermen/article-metaphor-illustrator](https://github.com/bettermen/article-metaphor-illustrator) | 4 | - | 2026-06-18 |
 | [JanCong/workbuddy-migrator](https://github.com/JanCong/workbuddy-migrator) | 4 | Python | 2026-07-06 |
+| [wzz6423/zisla](https://github.com/wzz6423/zisla) | 4 | Swift | 2026-09-05 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -343,6 +344,7 @@ Last refreshed: **2026-09-05 UTC**
 | [haiyangchenbj/invassistant-skill-cn](https://github.com/haiyangchenbj/invassistant-skill-cn) | 1 | Python | 2026-04-14 |
 | [ruiguoz/workbuddy-doctor](https://github.com/ruiguoz/workbuddy-doctor) | 1 | - | 2026-08-25 |
 | [JiangSiyu2006/workbuddy-theme-forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) | 1 | JavaScript | 2026-08-05 |
+| [a2681220474-glitch/workbuddy-oss-opensource](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) | 1 | Python | 2026-06-16 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
