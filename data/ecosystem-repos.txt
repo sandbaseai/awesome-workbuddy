@@ -15,6 +15,7 @@ mayuhaos/workbuddy-agent-file-parser-downloader
 xuboboo/xiaohongshu-viral-note-agent-skill
 xscanzm/wechat-4x-decrypt
 hawklithm/workbuddy2api
+simplast/workbuddy-api
 liuboacean/qclaw-workbuddy-bridge
 ImLeonLi/GitHub-Trending-MCP
 chenin0931/OpenWorkbuddy

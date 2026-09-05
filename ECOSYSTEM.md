@@ -7,8 +7,8 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,673 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,941 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,674 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,942 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,307 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,534 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -24,7 +24,7 @@ Last refreshed: **2026-09-05 UTC**
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 625 | JavaScript | 2026-09-05 |
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 563 | Python | 2026-09-05 |
-| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 558 | Python | 2026-09-05 |
+| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 559 | Python | 2026-09-05 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-03 |
@@ -153,6 +153,7 @@ Last refreshed: **2026-09-05 UTC**
 | [runzhi/codebuddy-statusline](https://github.com/runzhi/codebuddy-statusline) | 7 | Python | 2026-08-31 |
 | [FlashFamily/workbuddy-buddy](https://github.com/FlashFamily/workbuddy-buddy) | 7 | TypeScript | 2026-07-30 |
 | [smartcai87/workbuddy-dream-skin](https://github.com/smartcai87/workbuddy-dream-skin) | 7 | JavaScript | 2026-07-18 |
+| [simplast/workbuddy-api](https://github.com/simplast/workbuddy-api) | 6 | JavaScript | 2026-09-04 |
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
