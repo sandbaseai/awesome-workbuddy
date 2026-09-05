@@ -78,6 +78,11 @@ the exact structure below: `Candidate` is plain text, followed by real blank
 lines and the two level-two headings. Record the snapshot date and distinguish
 GitHub's recognized license from a README claim.
 
+When opening an audit from the command line, write the Markdown to a temporary
+body file and pass it with `gh issue create --body-file`; do not pass a string
+containing literal `\\n` sequences. This keeps GitHub rendering the blank lines
+and headings correctly.
+
 ```markdown
 Candidate
 
@@ -161,6 +166,10 @@ python3 -m unittest discover -s tests
 维护者应使用[发现审计模板](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=discovery-audit.md)，
 记录候选项目的收录、暂缓或排除决定。请保持下面的固定结构：`Candidate` 使用普通文本，
 其后是真实空行和两个二级标题；记录快照日期，并区分 GitHub 识别出的许可证与 README 声明。
+
+从命令行创建审计 issue 时，请先把 Markdown 写入临时正文文件，再使用
+`gh issue create --body-file`；不要把含有字面量 `\\n` 的字符串直接作为正文，
+以免 GitHub 把换行显示成普通字符。
 
 ```markdown
 Candidate

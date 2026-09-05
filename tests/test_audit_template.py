@@ -33,6 +33,10 @@ class AuditTemplateTests(unittest.TestCase):
         )
         self.assertIn("https://github.com/owner/repository", template)
         self.assertIn("- Describe the published contents", template)
+
+        contributing = (root / "CONTRIBUTING.md").read_text(encoding="utf-8")
+        self.assertIn("gh issue create --body-file", contributing)
+        self.assertIn("literal `\\\\n`", contributing)
         self.assertNotIn("<!--", template)
         self.assertNotIn("-->", template)
         self.assertNotIn("## Candidate", template)
