@@ -990,6 +990,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Beautiful Mermaid",
+    "url": "https://github.com/chouraycn/beautiful-mermaid",
+    "description": "A license-not-declared WorkBuddy/CodeBuddy chart Skill that renders Mermaid diagrams as themed SVG, PNG, or ASCII output with an interactive preview",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Beautiful Mermaid",
+    "descriptionZh": "未声明许可证的 WorkBuddy/CodeBuddy 图表 Skill，将 Mermaid 渲染为主题化 SVG、PNG 或 ASCII 图表，并提供交互式预览",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Skill Integrator",
     "url": "https://github.com/smiling66652/skill-integrator",
     "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",
