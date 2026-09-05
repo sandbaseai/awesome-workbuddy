@@ -1100,6 +1100,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "VisionBuddy",
+    "url": "https://github.com/FanZhangnan/VisionBuddy",
+    "description": "An MIT-licensed guarded visual Skill that uses the local WorkBuddy/CodeBuddy CLI to analyze images for Codex, defaults to a rate-checked Hy3 path, and requires explicit opt-in for paid vision models; it exposes only Read, stages images in an isolated temporary directory, and clears common API keys, but images are still sent to the selected model service, so confirm cost and data authorization first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "VisionBuddy",
+    "descriptionZh": "MIT 许可的受控视觉 Skill，通过本机 WorkBuddy/CodeBuddy CLI 为 Codex 分析图片，默认使用带倍率检查的 Hy3，并要求付费视觉模型显式开启；它只开放 Read、使用隔离临时目录并清理常见 API Key，但图片会发送到所选模型服务，使用前请确认费用和数据授权",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper Submission Skill",
     "url": "https://github.com/xxiao-git/paper-submission-skill",
     "description": "An MIT-licensed manuscript-submission Skill for Editorial Manager, ScholarOne, Nature journals, Frontiers, and other systems, covering material preparation, guideline interpretation, form filling, and submission, with six human checkpoints at critical stages",
