@@ -10,7 +10,7 @@ class AuditTemplateTests(unittest.TestCase):
         )
 
         self.assertIn("types: [opened, edited, reopened]", workflow)
-        self.assertIn("startsWith(github.event.issue.title, 'Discovery ')", workflow)
+        self.assertIn("startsWith(github.event.issue.title, 'Discovery')", workflow)
         self.assertIn("issues: write", workflow)
         self.assertIn("--add-label audit", workflow)
 

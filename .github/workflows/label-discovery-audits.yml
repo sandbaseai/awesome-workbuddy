@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   label:
-    if: startsWith(github.event.issue.title, 'Discovery ')
+    if: startsWith(github.event.issue.title, 'Discovery')
     runs-on: ubuntu-latest
     steps:
       - name: Apply audit label
