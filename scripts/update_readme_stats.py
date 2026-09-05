@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update the bounded repository snapshot in README.md."""
+"""Update the bounded repository snapshot in the bilingual READMEs."""
 
 from __future__ import annotations
 
@@ -44,9 +44,11 @@ def replace_snapshot(readme: str, value: str) -> str:
 
 
 def main() -> None:
-    readme_path = ROOT / "README.md"
-    readme = readme_path.read_text(encoding="utf-8")
-    readme_path.write_text(replace_snapshot(readme, snapshot(ROOT)), encoding="utf-8")
+    value = snapshot(ROOT)
+    for filename in ("README.md", "README.en.md"):
+        readme_path = ROOT / filename
+        readme = readme_path.read_text(encoding="utf-8")
+        readme_path.write_text(replace_snapshot(readme, value), encoding="utf-8")
 
 
 if __name__ == "__main__":
