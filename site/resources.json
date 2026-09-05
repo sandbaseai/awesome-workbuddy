@@ -300,6 +300,16 @@
     "categoryZh": "Community channels"
   },
   {
+    "title": "WorkBuddy Cross-Device Migration Guide",
+    "url": "https://github.com/junxi-fan/workbuddy-migration-guide",
+    "description": "An MIT-licensed WorkBuddy migration guide explaining conversation history, memory, Skills, workspaces, `workbuddy.db`, and WAL files, with cautions about migrating while the app is running and copying sensitive connector files",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "WorkBuddy 跨设备迁移指南",
+    "descriptionZh": "MIT 许可的 WorkBuddy 数据迁移指南，梳理对话历史、记忆、Skills、工作区、`workbuddy.db` 及 WAL 文件的关系，并列出运行中迁移和敏感连接器文件的注意事项",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Efficiency Training Course",
     "url": "https://github.com/cloudzun/WorkBuddy-Course",
     "description": "A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms",
@@ -3888,6 +3898,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "WorkBuddy Skins",
+    "url": "https://github.com/ozrwayne/WorkBuddy-Skins",
+    "description": "An MIT-licensed local theme manager that loads reversible styles through loopback CDP without modifying official binaries or signatures, offering `.wbtheme` signing, validation, import, apply, uninstall, restore, and a theme-authoring Skill",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Skins",
+    "descriptionZh": "MIT 许可的本地主题管理器，通过回环 CDP 加载可逆样式，不修改官方程序或签名，提供 `.wbtheme` 签名、检查、导入、应用、卸载、恢复和主题制作 Skill",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "WorkBuddy Theme Forge",
