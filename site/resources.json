@@ -2840,6 +2840,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Cubism External Edit MCP",
+    "url": "https://github.com/nana7chi/CubismExternalEditMCP",
+    "description": "An MIT-licensed Live2D Cubism Editor MCP with explicit WorkBuddy support, providing model parameter/part/deformer inspection and editing, batch transactions, and rollback on failure with Allow/Edit permission levels; it currently depends on Cubism Editor 5.4 Alpha (valid until 2026-09-14), and external-integration permissions must be re-confirmed after each editor restart",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Cubism External Edit MCP",
+    "descriptionZh": "MIT 许可的 Live2D Cubism Editor MCP，明确支持 WorkBuddy，提供模型参数/部件/变形器读取与编辑、批量事务和失败回滚，并按 Allow/Edit 分级授权；当前依赖 Cubism Editor 5.4 Alpha（有效期至 2026-09-14），每次编辑器重启后需重新确认外部集成权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy OSS",
     "url": "https://github.com/a2681220474-glitch/workbuddy-oss-opensource",
     "description": "An MIT-licensed team IM/Agent workflow platform that turns Feishu, WeCom, DingTalk, Webhooks, and chat records into approval-gated, auditable, reviewable tickets, leads, tasks, and knowledge objects; for self-hosting, use your own domain and tenant credentials and configure access controls first",

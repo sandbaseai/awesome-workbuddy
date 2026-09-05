@@ -403,6 +403,7 @@ blazingcd/golden-key-openmontage-for-workbuddy
 sunyet-01/WorkBuddy-Starter
 FanZhangnan/VisionBuddy
 Echo-Smith/tencent-experienced-recruit
+nana7chi/CubismExternalEditMCP
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
