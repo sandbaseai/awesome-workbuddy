@@ -163,6 +163,8 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Ready-to-use Skills
 
+- [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy; verify source, versions, and downloaded-file safety when using external search results.
+- [Workplace Communication](https://github.com/wanghoween-design/gaoqingshang-skill) - An MIT-licensed WorkBuddy workplace-communication Skill covering 23 common scenarios and helping draft clear, tactful responses; treat outputs as drafts and apply human judgment to real commitments, conflicts, or sensitive information.
 - [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - An MIT-licensed Windows-only WorkBuddy Skill for decrypting and searching local Weixin 4.x chat databases, with timestamped digests and structured exports; it extracts decryption material from the user's running account process and creates plaintext databases, so confirm authorization and participant privacy, protect keys/exports, review the upstream tool, and plan deletion and backups first.
 - [CareerStar](https://github.com/HanGu007/workbuddy-career-skills) - An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking; it handles resume and employment data and can use IMA and Qichacha connectors, so redact inputs and review authorization, data flow, and background-check conclusions first.
 

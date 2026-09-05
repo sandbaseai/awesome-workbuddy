@@ -163,6 +163,8 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - MIT 许可的 Minecraft Java 模组检索 Skill，提供 `SKILL.md` 和搜索脚本，可直接安装到 WorkBuddy/CodeBuddy 的 Skill 目录；使用外部搜索或下载结果时请核对来源、版本与文件安全性.
+- [高情商职场沟通](https://github.com/wanghoween-design/gaoqingshang-skill) - MIT 许可的 WorkBuddy 职场沟通 Skill，覆盖 23 类常见场景，帮助生成得体、清晰的回复与表达；输出只是沟通草稿，涉及真实承诺、冲突或敏感信息时仍需人工判断.
 - [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - MIT 许可、面向 WorkBuddy 的 Windows 本地微信 4.x 聊天记录解密与检索 Skill，可导出带时间戳的摘要和结构化结果；会从运行中的本人微信进程获取解密材料并生成明文数据库，使用前必须确认账号授权、聊天参与者隐私、密钥/导出文件保护、上游工具来源和删除备份策略.
 - [CareerStar（职途星）](https://github.com/HanGu007/workbuddy-career-skills) - MIT 许可的 WorkBuddy 求职专家包，覆盖简历诊断/改写、面试辅导、企业信息查询、HTML 简历和投递追踪；会处理简历与就业资料，并可连接 IMA、企查查等外部服务，使用前请脱敏并核对授权、数据流和背调结论.
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - MIT 许可、可直接下载 ZIP 的 WorkBuddy 换肤 Skill，支持上传参考图生成私有主题、10 套内置 Skin、截图验证和失败恢复；主题默认只保存在本机，使用时请确认图片权利、联网研究范围和本地 CDP 权限.
