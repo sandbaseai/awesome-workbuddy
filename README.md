@@ -12,23 +12,17 @@
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
 
-推荐起点： [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy)（自托管 OpenAI 兼容网关）、[Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill)（带证据的多源蒸馏）、[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）。
-
 WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
 
 > [!IMPORTANT]
 > 这是社区维护的第三方索引，不代表腾讯。安装第三方 Skill、MCP 或连接器前，请检查源码、权限和数据流向；不要上传密钥、个人隐私或未脱敏的公司资料。
 
-## Contents
+## 先看这里
 
-- [Start Here](#start-here)
-- [Official Resources](#official-resources)
-- [Open-source Ecosystem](#open-source-ecosystem)
-- [Skills, Prompts and MCP](#skills-prompts-and-mcp)
-- [Guides](#guides)
-- [Use Cases](#use-cases)
-- [Research and Engineering](#research-and-engineering)
-- [Acknowledgements](#acknowledgements)
+- [一分钟上手](#start-here)
+- [精选资源](#精选资源)
+- [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/)
+- [反馈问题](https://github.com/sandbaseai/awesome-workbuddy/issues)
 
 ## Start Here
 
@@ -43,6 +37,22 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - 创建一次性或周期任务，并向连接的平台推送结果.
 - [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - 通过可视化配置连接外部工具与数据源.
 - [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - 创建、测试、发布企业 Agent 并接入消息渠道.
+
+## 精选资源
+
+不知道从哪里开始，可以按下面顺序试用：
+
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 中文实战教程，从第一个任务到团队工作流.
+- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - 15 分钟学习如何制作和评估 Skill.
+- [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - 把网页、代码、图片和文档整理成可复用方法.
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - 用多 Agent 生成课程、课件、测验和互动页面.
+- [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - 为 WorkBuddy/Agent 提供团队记忆能力.
+- [AgentsView](https://github.com/kenn-io/agentsview) - 在本地查看和分析 Agent 会话.
+
+下面的完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类；也可以直接使用上方的可搜索目录。
+
+<details>
+<summary>展开完整目录</summary>
 
 ## Official Resources
 
@@ -107,6 +117,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配；它是社区项目而非腾讯官方组件，初始化会在目标项目写入规则、Skills、状态与文档，使用前请审查目标目录和执行权限.
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程；明确要求研究创新、实验数据和引用保持真实，配置 API Key 与使用 AI 辅助写作前请遵守学校规范并审查密钥和资料范围.
 - [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - MIT 许可、面向 WorkBuddy/CodeBuddy CLI 与 IDE 的自包含工作流 harness，提供分级计划、主机就绪验证、可恢复卸载、MCP/Skill 路由和分层测试；它明确要求对凭据、市场、插件和信任设置保留人工批准，并会安装或修改目标项目/Agent 配置，使用前请审查安装根目录、脚本、依赖和权限边界.
+- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品契约 Skill，将 PRD 与体验路线图按证据、用户价值、真值边界、假设和验收条件对齐，并提供版本化模板、确定性验证器、评测样例和测试；它会在目标项目创建或改写文档并可运行本地脚本，使用前请审查目标目录、业务资料、依赖、生成物和发布/审批边界.
 
 ### Skill collections
 
@@ -385,6 +396,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Bench 官网](https://workbuddybench.com/) - 官方基准概览、评测赛道、结果与运行入口.
 - [WorkBuddy Bench 数据集](https://huggingface.co/datasets/tencent/workbuddy-bench) - Code、Web、Office 与 Security 四个子集的官方任务归档.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - OpenAI-compatible 模型接入示例.
+
+</details>
 
 ## Related Lists
 

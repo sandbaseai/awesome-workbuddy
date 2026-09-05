@@ -40,6 +40,7 @@ Tencent/LoopForge
 AlanHuang168/AI-Project-Workflow
 adongwanai/learn-workbuddy
 howoneai/skill-onboarding
+bangogo/define-product-and-roadmap
 elvinzhao10/LazyBuddy
 infometa/workbuddyskills
 babygoton/WorkDaddy
