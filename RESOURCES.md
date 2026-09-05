@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) - MIT 许可、明确支持 WorkBuddy 的 macOS 窗口管理 Skill，将 Option+D 绑定为全局最小化/还原快捷键；仅支持 macOS，安装后需在系统设置中授予辅助功能权限
 - [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) - MIT 许可、明确支持 CodeBuddy/WorkBuddy 的行业情报日报 Skill，将指定行业的新闻、公司、技术和政策变化整理成结构化简报；使用时请核对数据来源与时效
 - [AutoFigure-Edit WorkBuddy Skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) - Apache-2.0 许可的论文配图 Skill，将方法段文字转换为可编辑 SVG，并提供网页内联编辑器；导出论文或投稿素材前请人工核对图示准确性与引用
 - [FreeCAD AI Skill](https://github.com/shanputaoye/freecad-ai-skill) - MIT 许可、明确支持 WorkBuddy 的 FreeCAD 专家 Skill，覆盖 3D 建模、Python 脚本、插件开发和 PySide6 界面集成
