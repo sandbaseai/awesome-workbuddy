@@ -720,6 +720,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Web Security Test Rules",
+    "url": "https://github.com/mowenQWQ/Web-Security-Test-Rules",
+    "description": "An MIT-licensed bilingual CodeBuddy/WorkBuddy web-security-testing Skill with authorization allowlists, expiry/signature gates, non-destructive checks, evidence records, and review intervals; it can still perform security probes and write reports, so use it only against explicitly authorized targets and review rules, scripts, scope, and report data first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Web Security Test Rules",
+    "descriptionZh": "MIT 许可、面向 CodeBuddy/WorkBuddy 的中英双语网站安全测试 Skill，包含授权白名单、有效期/签名门禁、非破坏性检查、证据留痕和复查周期；它仍可能执行安全探测并写入报告，必须只对明确授权的目标使用，先审查规则、脚本、目标范围和报告数据",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "AI HR Department",
+    "url": "https://github.com/GiaSip/ai-hr",
+    "description": "An MIT-licensed Chinese WorkBuddy Skill whose read-only Python collector emits only directory statistics, extensions, and fixed enum keys—never filenames, contents, or network requests—before generating a shareable profile card; it still scans the selected directory and creates potentially personal inferences, so review root, output, and sharing scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "AI HR Department",
+    "descriptionZh": "MIT 许可的中文 WorkBuddy Skill，通过只读 Python 收集器仅输出目录统计、扩展名和固定枚举，不输出文件名、内容或网络请求，再生成可分享的画像卡；它仍会扫描指定目录并产生可能反映个人习惯的结果，安装前请审查扫描根目录、输出和分享范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Website Prompts and Skills",
     "url": "https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills",
     "description": "Website-generation prompts, Skills, and challenge entries maintained by Tencent EdgeOne",
@@ -1687,6 +1707,16 @@
     "category": "Tools and integrations",
     "titleZh": "DSH Agent Preset Recommender",
     "descriptionZh": "MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBuddy/CodeBuddy 活动并推荐 preset，不调用 LLM、不发网络请求、不执行命令、不安装或修改 preset；但仍会读取指定本地元数据并写入安装本地的聚合报告，使用前请核对扫描根目录和 DSH 兼容基线",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "AgentNave",
+    "url": "https://github.com/TimWongUp/agentnave",
+    "description": "An MIT-licensed local STDIO MCP runtime that starts and supervises version-pinned CodeBuddy, Codex, Claude, Antigravity, and Grok CLI subagents with timeout, wait, cancel, provider-exclusion, and tested lifecycle controls; it is not a sandbox, so provider-native command permissions remain the security boundary. Pin a release tag, configure exclusions, and use OS-level isolation for untrusted environments",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AgentNave",
+    "descriptionZh": "MIT 许可的本地 STDIO MCP 运行时，可按固定版本启动和监督 CodeBuddy、Codex、Claude、Antigravity 与 Grok CLI 子代理，提供超时、等待、取消、提供方排除和完整测试；它不提供沙箱，提供方本身拥有的命令权限仍是安全边界，使用前请固定 release tag、配置排除项并按不可信环境进行 OS 级隔离",
     "categoryZh": "Tools and integrations"
   },
   {

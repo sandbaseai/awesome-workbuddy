@@ -181,6 +181,9 @@ zhangx1234994/aicp-product-creator-skill
 Kallium-cn/workbuddy-jupyter-bridge
 ben4202121/buddybridge
 flg1217/dsh-subagent-codebuddy
+TimWongUp/agentnave
+mowenQWQ/Web-Security-Test-Rules
+GiaSip/ai-hr
 darker2016/workbuddy-skill-groups
 laubeing-droid/unified-legal-ai-cn
 ahang1598/doubao-workbuddy-qwenwork-skills

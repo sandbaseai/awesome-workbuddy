@@ -127,6 +127,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Unified Legal AI CN](https://github.com/laubeing-droid/unified-legal-ai-cn) - MIT 许可、以 WorkBuddy 为主平台的中国法律辅助工作台，提供 5 个核心 Agent、17 个法律工具、9 个领域应用、证据与法律护栏、文书输出和可选 MCP 推理内核，覆盖诉讼全生命周期；会读取案件/合同资料、可连接外部会员数据源，输出不构成法律意见，使用前请确认保密与授权、法域/版本、外部 Token 和人工律师复核.
 - [Five-layer Memory System](https://github.com/juventini10/Five-layer-memory-system) - MIT 许可、面向 WorkBuddy 的五层长期记忆 Skill，通过 33 道问答沉淀偏好、取舍和行为模式，并按层级维护可持续更新的工作记忆；内容可能包含敏感个人信息并写入本地文件，使用前请确认保存位置、备份与共享范围，不要把生成建议作为医疗、法律、财务或其他重大决策依据.
 - [Personal User Manual Skill](https://github.com/NI9N/gerenshiyongshuomingshu) - MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮自我认知教练流程整理价值观、才能和热情，经过证伪关后生成可自行维护的 Markdown；它不做测评、不替用户匹配职业或下唯一结论，回答可能包含敏感自我认知信息，使用前请确认保存和分享范围，并把输出当作待验证假设.
+- [Web Security Test Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) - MIT 许可、面向 CodeBuddy/WorkBuddy 的中英双语网站安全测试 Skill，包含授权白名单、有效期/签名门禁、非破坏性检查、证据留痕和复查周期；它仍可能执行安全探测并写入报告，必须只对明确授权的目标使用，先审查规则、脚本、目标范围和报告数据.
+- [AI HR Department](https://github.com/GiaSip/ai-hr) - MIT 许可的中文 WorkBuddy Skill，通过只读 Python 收集器仅输出目录统计、扩展名和固定枚举，不输出文件名、内容或网络请求，再生成可分享的画像卡；它仍会扫描指定目录并产生可能反映个人习惯的结果，安装前请审查扫描根目录、输出和分享范围.
 - [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池.
 - [Ray Skills](https://github.com/imraywang/rayskills) - 面向内容生产与发布的可执行、可验证、可恢复工作流.
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - 涵盖创作、编程、办公和通用工具的 Skill 集合.
@@ -233,6 +235,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Agent Avatar](https://github.com/joyparkray/agent-avatar) - MIT 许可的 macOS/Windows Live2D 桌面伙伴，通过只读观察器连接 WorkBuddy、Codex、Claude Code、Hermes 和 DeepSeek Harness，并把 Agent 状态映射为动画；项目不附带模型，Live2D Cubism Core 受单独许可约束，应用未沙箱化且 Windows 构建未签名，安装器还会调用宿主 CLI、写入插件配置并携带 Python 运行时，启用前请核对二进制、模型许可、hook 权限和本地状态文件范围.
 - [AgentsView](https://github.com/kenn-io/agentsview) - MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy/projects`；只读查询可直接读取本地 SQLite，但 `sync`、用量统计及数据库/远程推送命令会启动可写 daemon 或访问配置的远端目标，使用前请审查会话内容、凭据、同步目的地、网络暴露和写入命令.
 - [DSH Agent Preset Recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) - MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBuddy/CodeBuddy 活动并推荐 preset，不调用 LLM、不发网络请求、不执行命令、不安装或修改 preset；但仍会读取指定本地元数据并写入安装本地的聚合报告，使用前请核对扫描根目录和 DSH 兼容基线.
+- [AgentNave](https://github.com/TimWongUp/agentnave) - MIT 许可的本地 STDIO MCP 运行时，可按固定版本启动和监督 CodeBuddy、Codex、Claude、Antigravity 与 Grok CLI 子代理，提供超时、等待、取消、提供方排除和完整测试；它不提供沙箱，提供方本身拥有的命令权限仍是安全边界，使用前请固定 release tag、配置排除项并按不可信环境进行 OS 级隔离.
 - [agentsw](https://github.com/tchivs/agentsw) - MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数据和 WorkBuddy/DSH 配置到九种编码 Agent；支持 `--dry-run` 和备份，但会读写多个本地配置文件并可能处理 API Key，执行前请审查 diff、目标路径、凭据范围和 Provider 条款.
 - [AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) - MIT 许可的 VS Code 扩展，可在 CodeBuddy、Cursor、Trae、Antigravity、Qoder、Windsurf 和 VS Code 之间浏览、管理和安装 Skill 仓库；它将 CodeBuddy 映射到 `.codebuddy/skills`，并可搜索第三方云端目录，安装前请审查仓库来源、分支变更、工作区写入、下载指令以及凭据或可执行内容范围.
 - [HTML to Feishu Doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) - MIT 许可的跨平台 Skill，可将 HTML 或 URL 转为 Markdown，并可选创建飞书文档，保留表格、图片、标题并提供完整性回查；URL 模式会抓取远程内容和素材，创建文档会上传到飞书并写入本地构建文件，使用前请核对凭据、目标空间、版权和保留范围.
