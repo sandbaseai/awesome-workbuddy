@@ -13,6 +13,7 @@
 - Curated the MIT-licensed `aosi526/dsh-workbuddy-xdpool` with multi-account snapshot, token-rotation, failover, billing, and loopback-bridge warnings.
 - Changed ecosystem refresh to weekly/manual triggers so dynamic-metadata commits do not race curation pushes; the scheduled job continues to refresh stars, discovery, and snapshots.
 - Added a standard `CITATION.cff` and bilingual citation links for the directory and v0.10.14 snapshot.
+- Published v0.10.15 for the current 184-repository snapshot and updated all first-screen/citation links.
 - Documented generated-file refresh commands and the weekly/manual ecosystem workflow trigger in the bilingual contribution guide.
 
 ## v0.10.12 — 2026-09-05
