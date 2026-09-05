@@ -2620,6 +2620,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Agent Roundtable",
+    "url": "https://github.com/MoyuFamily/agent-roundtable",
+    "description": "An Apache-2.0 multi-agent roundtable engine with structured discussions, consensus tracking, and an MCP mode, plus an HTTP bridge for WorkBuddy and other platforms; confirm the bridge's listening scope before exposing it",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Agent Roundtable",
+    "descriptionZh": "Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 WorkBuddy 等平台；安装前请确认桥接服务的监听范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "search2chart MCP",
     "url": "https://github.com/iqingyoung/search2chart-mcp",
     "description": "An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`",
