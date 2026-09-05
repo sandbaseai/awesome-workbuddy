@@ -23,7 +23,6 @@ Last refreshed: **2026-09-05 UTC**
 | [beeyang0/miniprogram-VirtualPayment](https://github.com/beeyang0/miniprogram-VirtualPayment) | 21 | 2026-04-03 | MIT | # 微信小程序虚拟支付 · 开发者接入 Skill &gt; **这是什么？** &gt; 这是一份 AI 助手的「技能说明书」。把它添加到你的 AI 编程助手（CodeBuddy、Cursor、Claude 等），AI 就能手把手引导你完成微信小程序虚拟支付的接入。 --- ## 技能目标 为开发者提供一套可直接执行的微信小程序虚拟支付接入流程，帮助快速完成从配置到上线的闭环。 **覆盖能力**： - 道具直购模式（直接购买虚拟商品） - 代币充值模式（充值虚拟货币后消费） - iOS 端接入（自动路由至 Apple IAP） - 签名计算、回调处理、幂等发货 **适用场景**： - 设计或实现虚拟支付接入方案 - 排查支付失败、签名失败、回调异常 - 制定沙箱联调和正式上线清单 |
 | [srp33/CodeBuddy](https://github.com/srp33/CodeBuddy) | 20 | 2026-09-01 | AGPL-3.0 | CodeBuddy: A programming assignment management system for short-form exercises |
 | [Jevil961/codebuddy-openai-proxy](https://github.com/Jevil961/codebuddy-openai-proxy) | 20 | 2026-04-04 | MIT | 将腾讯云 CodeBuddy CN 转换为标准 OpenAI API 格式的代理服务，支持任意 OpenAI 兼容客户端接入 |
-| [kuops/opencode-codebuddy-auth](https://github.com/kuops/opencode-codebuddy-auth) | 20 | 2026-06-05 | MIT | OpenCode 插件，用于 CodeBuddy (IOA) 认证。通过浏览器 OAuth 登录后，可在 OpenCode CLI 中使用 CodeBuddy 的对话模型。 |
 | [wnddd839/codebuddyapi-proxy](https://github.com/wnddd839/codebuddyapi-proxy) | 18 | 2026-09-03 | BSD-3-Clause | proxy-codebuddy |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 17 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [bruc3van/DocuGenius](https://github.com/bruc3van/DocuGenius) | 17 | 2026-04-28 | Not declared | DocuGenius 是一个 VSCode 插件，将 Word、Excel、PowerPoint、PDF 转换为结构化的 Markdown，让 Trae AI、CodeBuddy、Cursor 等 AI 编程工具能够原生理解你的产品文档、数据表格和技术资料。 |
