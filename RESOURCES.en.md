@@ -135,6 +135,9 @@
 
 ### Ready-to-use Skills
 
+- [Gendangzou Skill](https://github.com/MobiusQuant/Gendangzou-skill) - An Apache-2.0 traceable A-share sector-research Skill with explicit WorkBuddy support, covering policy, authoritative media, capital flows, companies, and ETFs; treat market and research output as informational and verify freshness and investment risk independently
+- [Awesome Research Skills](https://github.com/Yila-AI/awesome-research-skills) - An Apache-2.0 research-Skill collection designed for WorkBuddy-style research agents, covering literature, evidence, data, writing, and presentation workflows; review citations and conclusions manually
+
 - [X Mentor Skill](https://github.com/alchaincyf/x-mentor-skill) - An MIT-licensed X/Twitter research and writing Skill compatible with WorkBuddy and more than 50 other Agent runtimes, covering topic selection, writing, and growth workflows; follow platform rules and verify cited material before publishing
 - [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) - An MIT-licensed educational-animation Skill with explicit WorkBuddy installation steps that turns educational text into HTML presentation animations; review asset and model-service permissions before generating or publishing content
 
@@ -339,6 +342,10 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) - An Apache-2.0 cross-platform desktop app for managing Agents and MCP servers, supporting WorkBuddy sessions, usage, memory, and Skill sharing with local telemetry endpoints; it reads local sessions or transcripts by default, so review scan scope and export behavior first
+- [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - An Apache-2.0 local telemetry collector for AI coding Agents with explicit WorkBuddy Hook and transcript support, exporting token, cost, trace, and security-audit data; confirm content-capture policy and export destinations before enabling it
+- [Meldwork](https://github.com/Ryder-MHumble/Meldwork) - An Apache-2.0 local multi-agent workspace that invokes local Agent CLIs including WorkBuddy and provides scoped workspaces, permissions, and human decisions; its current macOS preview is ad-hoc signed and not notarized, so prefer a source build or review the release package
 
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - An MIT-licensed local-first content-discovery Agent with a bundled Skill and Agent Bridge for WorkBuddy, searching multiple public platforms; data stays local by default, but review model services, browser access, and personal-profile boundaries first
 - [Smartoken](https://github.com/LIN-LAB-AI/smartoken) - An MIT-licensed local-first LLM router and usage dashboard with explicit WorkBuddy OpenAI-compatible setup, task-aware backend selection, and audit records; review `.env`, logs, and bind addresses before configuring API keys, cloud models, or exposed ports
