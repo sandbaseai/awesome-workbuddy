@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,885 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,886 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,966 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -25,7 +25,7 @@ Last refreshed: **2026-09-05 UTC**
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,818 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
-| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,548 | - | 2026-07-05 |
+| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,549 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,954 | JavaScript | 2026-09-05 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,787 | TypeScript | 2026-09-04 |
@@ -47,7 +47,7 @@ Last refreshed: **2026-09-05 UTC**
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 726 | TypeScript | 2026-09-05 |
 | [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 706 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
-| [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 679 | - | 2026-07-19 |
+| [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 680 | - | 2026-07-19 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -259,6 +259,7 @@ Last refreshed: **2026-09-05 UTC**
 | [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [loonghao/maya_umbrella_scanner](https://github.com/loonghao/maya_umbrella_scanner) | 5 | Python | 2026-08-26 |
+| [haiyangchenbj/data-ai-daily-brief-skill](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) | 5 | Python | 2026-06-23 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
@@ -270,6 +271,7 @@ Last refreshed: **2026-09-05 UTC**
 | [KKbaocai/topic-pipeline](https://github.com/KKbaocai/topic-pipeline) | 4 | - | 2026-07-30 |
 | [2022Hao/SJTU-AIA-PPT-SKILL](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) | 4 | HTML | 2026-05-27 |
 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 4 | Python | 2026-07-03 |
+| [Flipped929/workbuddy-autofigure-edit-skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) | 4 | HTML | 2026-03-29 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -283,6 +285,7 @@ Last refreshed: **2026-09-05 UTC**
 | [genapohub/devops-guide](https://github.com/genapohub/devops-guide) | 3 | - | 2026-09-02 |
 | [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
+| [shanputaoye/freecad-ai-skill](https://github.com/shanputaoye/freecad-ai-skill) | 3 | Python | 2026-03-29 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
 | [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
 | [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
@@ -302,6 +305,7 @@ Last refreshed: **2026-09-05 UTC**
 | [medstatstar/statsoft-cli](https://github.com/medstatstar/statsoft-cli) | 2 | PowerShell | 2026-08-02 |
 | [PhilRobinluo/ai-coevolution-skills](https://github.com/PhilRobinluo/ai-coevolution-skills) | 2 | Python | 2026-09-04 |
 | [DGPisces/bough](https://github.com/DGPisces/bough) | 2 | Swift | 2026-08-25 |
+| [tony-apan/allincms-content-ops](https://github.com/tony-apan/allincms-content-ops) | 2 | Python | 2026-06-26 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
@@ -326,6 +330,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Thome56/article-to-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) | 1 | - | 2026-09-05 |
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
 | [iqingyoung/search2chart-mcp](https://github.com/iqingyoung/search2chart-mcp) | 1 | JavaScript | 2026-08-29 |
+| [chief-YE/workbuddy-skills](https://github.com/chief-YE/workbuddy-skills) | 1 | Python | 2026-08-07 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |

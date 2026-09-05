@@ -376,3 +376,8 @@ PhilRobinluo/ai-coevolution-skills
 twin-arc/macro-cycle-locator
 MoyuFamily/agent-roundtable
 DGPisces/bough
+haiyangchenbj/data-ai-daily-brief-skill
+Flipped929/workbuddy-autofigure-edit-skill
+shanputaoye/freecad-ai-skill
+tony-apan/allincms-content-ops
+chief-YE/workbuddy-skills
