@@ -2350,6 +2350,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Agent Chamber",
+    "url": "https://github.com/LtyFantasy/agent-chamber",
+    "description": "An MIT-licensed self-hosted Agent collaboration middleware whose README explicitly lists WorkBuddy among supported harnesses, exposing topics, task boards, and document spaces through MCP/REST; Docker Compose defaults to local ports and agent API keys are required, so configure strong secrets and access controls before exposing it remotely",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Agent Chamber",
+    "descriptionZh": "MIT 许可的自托管 Agent 协作中间件，README 明确将 WorkBuddy 列为支持的 harness，通过 MCP/REST 提供话题、任务看板和文档空间；Docker Compose 默认使用本地端口，接入需要为 Agent 创建 API Key，暴露到公网前请配置强密钥和访问控制",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Codex ↔ WorkBuddy MCP Bridge",
     "url": "https://github.com/ZhaoXiangyu99/workbuddy-mcp",
     "description": "A license-un-declared Node.js MCP bridge that hands Codex subtasks to a WorkBuddy inbox and provides tools for opening WorkBuddy views",
