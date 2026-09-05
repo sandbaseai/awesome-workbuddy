@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) - An MIT-licensed macOS window-management Skill with explicit WorkBuddy support that binds Option+D to a global minimize/restore shortcut; macOS only, and Accessibility permission is required after installation
 - [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) - An MIT-licensed industry-intelligence daily-brief Skill with explicit CodeBuddy/WorkBuddy support, turning news, companies, technology, and policy changes for selected industries into structured briefs; verify source provenance and freshness
 - [AutoFigure-Edit WorkBuddy Skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) - An Apache-2.0 paper-figure Skill that turns method text into editable SVG diagrams with an inline web editor; manually verify diagram accuracy and citations before exporting paper or submission assets
 - [FreeCAD AI Skill](https://github.com/shanputaoye/freecad-ai-skill) - An MIT-licensed FreeCAD expert Skill with explicit WorkBuddy support, covering 3D modeling, Python scripting, addon development, and PySide6 interface integration
