@@ -3650,6 +3650,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Ad Trader",
+    "url": "https://github.com/bettermen/ad-trader",
+    "description": "An MIT-licensed WorkBuddy Skill for analyzing local CSV/Excel/JSON ad data, diagnosing multi-platform KPIs, reviewing creatives, generating reports, and suggesting budget changes; it provides recommendations rather than directly changing ad accounts",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "Ad Trader",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的广告数据分析 Skill，读取 CSV/Excel/JSON 后完成多平台 KPI 诊断、素材分析、报表和预算建议；它提供分析建议，不代表自动修改广告账户",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "Social-media operations",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media",
     "description": "Official workflow for producing Xiaohongshu and video content",

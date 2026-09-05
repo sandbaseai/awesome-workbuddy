@@ -433,6 +433,7 @@
 ### Content and career
 
 - [CareerSail](https://github.com/genius916/CareerSail) - An MIT-licensed cross-agent job-search dashboard and WorkBuddy Skill for job discovery, progress tracking, resume tailoring, interview preparation, and Feishu workspace synchronization
+- [Ad Trader](https://github.com/bettermen/ad-trader) - An MIT-licensed WorkBuddy Skill for analyzing local CSV/Excel/JSON ad data, diagnosing multi-platform KPIs, reviewing creatives, generating reports, and suggesting budget changes; it provides recommendations rather than directly changing ad accounts
 - [Social-media operations](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - Official workflow for producing Xiaohongshu and video content.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - From topic selection through publishing.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - Orchestrate study and job-search tasks.

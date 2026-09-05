@@ -307,3 +307,4 @@ li845276863-tech/chatcut-video-workflow-skill
 a-hue-1/Douyin-video-scraping-operation
 MLiang0920/mliang-ui-design-skill
 hanyangcg/video-story-clip
+bettermen/ad-trader

@@ -432,6 +432,7 @@
 ### Content and career
 
 - [CareerSail](https://github.com/genius916/CareerSail) - MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、进度追踪、简历定制、面试准备和飞书工作区同步
+- [Ad Trader](https://github.com/bettermen/ad-trader) - MIT 许可、明确支持 WorkBuddy 的广告数据分析 Skill，读取 CSV/Excel/JSON 后完成多平台 KPI 诊断、素材分析、报表和预算建议；它提供分析建议，不代表自动修改广告账户
 - [自媒体运营](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - 小红书图文和视频内容生产的官方工作流.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - 从选题到发布的内容工作流.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - 学习与求职任务编排.
