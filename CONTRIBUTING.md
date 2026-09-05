@@ -12,7 +12,7 @@ genuinely useful collection over a large unreviewed list.
 1. Search both READMEs and confirm that the resource is not already listed.
 2. Confirm that the link is publicly accessible and directly relevant to
    Tencent WorkBuddy.
-3. Add it to the narrowest category in both `README.md` and `README.en.md`:
+3. Add it to the narrowest category in both `RESOURCES.md` and `RESOURCES.en.md`:
 
    ```markdown
    - [Resource title](https://example.com) - One sentence explaining its value.
@@ -59,8 +59,10 @@ python3 scripts/update_readme_stats.py
 python3 -m unittest discover -s tests
 ```
 
-Commit the resulting `ECOSYSTEM.md`, `README.md`, `README.en.md`, and
-`site/resources.json` changes together with the source edit. The ecosystem
+Commit the resulting `ECOSYSTEM.md` and `site/resources.json` changes together
+with the source edit. The user-facing README files are intentionally kept
+short and should not be expanded with the full catalog or maintainer
+workflow. The ecosystem
 workflow refreshes dynamic metadata weekly or through manual dispatch; it does
 not run on every push, which keeps curation pushes free of metadata races.
 
@@ -110,7 +112,7 @@ Hold, curate, or exclude with the evidence needed for the next decision. This is
 
 1. 搜索两份 README，确认条目尚未收录。
 2. 确认链接可公开访问，内容与腾讯 WorkBuddy 直接相关。
-3. 将条目加入 `README.md` 和 `README.en.md` 中最精确的分类：
+3. 将条目加入 `RESOURCES.md` 和 `RESOURCES.en.md` 中最精确的分类：
 
    ```markdown
    - [资源标题](https://example.com) - 一句话说明它解决什么问题。
@@ -151,8 +153,8 @@ python3 scripts/update_readme_stats.py
 python3 -m unittest discover -s tests
 ```
 
-请把生成的 `ECOSYSTEM.md`、`README.md`、`README.en.md` 和 `site/resources.json`
-与源文件修改一起提交。生态 workflow 每周定时或手动触发刷新动态元数据，
+请把生成的 `ECOSYSTEM.md` 和 `site/resources.json` 与源文件修改一起提交。
+面向普通用户的 README 会保持简短，不放入完整目录或维护流程。生态 workflow 每周定时或手动触发刷新动态元数据，
 不会在每次 push 后运行，从而避免统计提交与收录提交互相竞态。
 
 ### 报告失效或不安全链接
