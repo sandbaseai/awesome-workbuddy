@@ -2670,6 +2670,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "PanXiaozi",
+    "url": "https://github.com/towelong/panxiaozi",
+    "description": "An MIT-licensed cloud-drive resource search engine and Skill aggregating Quark, Baidu, and Aliyun drives for natural-language search from WorkBuddy; the upstream one-command install targets OpenClaw/ClawHub, so WorkBuddy users may need to import the Skill manually, and should verify copyright and source before using results",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "PanXiaozi",
+    "descriptionZh": "MIT 许可的网盘资源搜索引擎与 Skill，聚合夸克、百度和阿里云盘，可供 WorkBuddy 用自然语言搜索；上游的一键安装命令面向 OpenClaw/ClawHub，WorkBuddy 用户可能需要手动导入 Skill，使用搜索结果前请自行确认版权和来源",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "PowerContext",
     "url": "https://github.com/oceanbase/powercontext",
     "description": "An Apache-2.0 cross-Agent memory and work-handoff system maintained by the OceanBase team, with a one-command WorkBuddy `UserPromptSubmit` hook, Streamable HTTP MCP, and `project-context` Skill for searching/writing Memory and creating/committing Handoffs. Installation updates hooks, settings, MCP, and Skills under `~/.workbuddy`",

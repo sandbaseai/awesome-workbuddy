@@ -41,6 +41,7 @@ hawklithm/workbuddy2api
 simplast/workbuddy-api
 liuboacean/qclaw-workbuddy-bridge
 ImLeonLi/GitHub-Trending-MCP
+towelong/panxiaozi
 chenin0931/OpenWorkbuddy
 louloulin/OpenBuddy
 wynter-cai/assetplex
