@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,087 | TypeScript | 2026-09-02 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,073 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,721 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,950 | TypeScript | 2026-09-03 |
@@ -180,6 +180,7 @@ Last refreshed: **2026-09-05 UTC**
 | [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-03 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
+| [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
