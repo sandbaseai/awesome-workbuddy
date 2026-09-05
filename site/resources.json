@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "InvAssistant",
+    "url": "https://github.com/haiyangchenbj/invassistant-skill-cn",
+    "description": "An MIT-licensed CodeBuddy/WorkBuddy Skill for configurable U.S.-stock portfolio signal checks, reading Yahoo Finance quotes for entry and exit rules and optionally pushing results to WeCom, DingTalk, or Lark; for research only, not investment advice, and webhook credentials must be protected",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "InvAssistant",
+    "descriptionZh": "MIT 许可、明确支持 CodeBuddy/WorkBuddy 的美股持仓信号检查 Skill，基于可配置的入场/退出规则读取 Yahoo Finance 行情，并可推送到企业微信、钉钉或飞书；仅用于研究，不构成投资建议，Webhook 凭证请妥善保管",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Article Metaphor Illustrator",
     "url": "https://github.com/bettermen/article-metaphor-illustrator",
     "description": "An MIT-licensed WorkBuddy Skill for illustrating Chinese articles, automatically understanding the text, selecting illustration positions and types, and generating flowcharts, architecture diagrams, comparisons, relationships, structures, or concept illustrations; it is a WorkBuddy adaptation of an upstream project",

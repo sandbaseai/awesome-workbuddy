@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [InvAssistant](https://github.com/haiyangchenbj/invassistant-skill-cn) - An MIT-licensed CodeBuddy/WorkBuddy Skill for configurable U.S.-stock portfolio signal checks, reading Yahoo Finance quotes for entry and exit rules and optionally pushing results to WeCom, DingTalk, or Lark; for research only, not investment advice, and webhook credentials must be protected
 - [Article Metaphor Illustrator](https://github.com/bettermen/article-metaphor-illustrator) - An MIT-licensed WorkBuddy Skill for illustrating Chinese articles, automatically understanding the text, selecting illustration positions and types, and generating flowcharts, architecture diagrams, comparisons, relationships, structures, or concept illustrations; it is a WorkBuddy adaptation of an upstream project
 - [Paper Submission Skill](https://github.com/xxiao-git/paper-submission-skill) - An MIT-licensed manuscript-submission Skill for Editorial Manager, ScholarOne, Nature journals, Frontiers, and other systems, covering material preparation, guideline interpretation, form filling, and submission, with six human checkpoints at critical stages
 - [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) - An MIT-licensed macOS window-management Skill with explicit WorkBuddy support that binds Option+D to a global minimize/restore shortcut; macOS only, and Accessibility permission is required after installation
