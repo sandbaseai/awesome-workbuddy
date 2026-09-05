@@ -53,6 +53,32 @@ Use the [structured Issue Form](https://github.com/sandbaseai/awesome-workbuddy/
 and include the URL, observed problem, and review date. Maintainers may remove
 malicious, unavailable, moved, or out-of-scope resources directly.
 
+### Record a discovery audit
+
+Maintainers should use the [discovery audit template](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=discovery-audit.md)
+for candidates that need a documented include, hold, or exclude decision. Keep
+the exact structure below: `Candidate` is plain text, followed by real blank
+lines and the two level-two headings. Record the snapshot date and distinguish
+GitHub's recognized license from a README claim.
+
+```markdown
+Candidate
+
+- Repository: https://github.com/owner/repository
+- Latest verified snapshot: YYYY-MM-DD
+- GitHub reports N stars and SPDX license.
+
+## Audit result
+
+- Evidence about contents and direct WorkBuddy relevance.
+- Evidence about license, provenance, and redistribution.
+- Evidence about permissions, credentials, network/data flow, and account terms.
+
+## Decision
+
+Hold, curate, or exclude with the evidence needed for the next decision. This issue is an audit record, not an endorsement.
+```
+
 ## 简体中文
 
 感谢你帮助完善 Awesome WorkBuddy。我们重视少而精、可验证、对读者真正
@@ -97,3 +123,27 @@ Skill、提示词、模板、数据集、二进制或其他第三方资源的来
 使用[结构化 Issue 表单](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=broken-link.yml)，
 附上链接、观察到的问题和检查日期。维护者可以直接移除恶意、失效、已迁移
 或与主题无关的资源。
+
+### 记录发现审计
+
+维护者应使用[发现审计模板](https://github.com/sandbaseai/awesome-workbuddy/issues/new?template=discovery-audit.md)，
+记录候选项目的收录、暂缓或排除决定。请保持下面的固定结构：`Candidate` 使用普通文本，
+其后是真实空行和两个二级标题；记录快照日期，并区分 GitHub 识别出的许可证与 README 声明。
+
+```markdown
+Candidate
+
+- Repository: https://github.com/owner/repository
+- Latest verified snapshot: YYYY-MM-DD
+- GitHub reports N stars and SPDX license.
+
+## Audit result
+
+- 记录内容和与 WorkBuddy 直接相关的证据。
+- 记录许可证、来源和再分发依据。
+- 记录权限、凭据、网络/数据流以及账号条款证据。
+
+## Decision
+
+写明暂缓、收录或排除，以及下一步需要的证据。本 Issue 是审计记录，不是背书。
+```
