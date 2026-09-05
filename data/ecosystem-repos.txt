@@ -34,6 +34,7 @@ Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
 squallopen/superpowers-zh-adapters
 Tencent/workbuddy-bench
+joosure/Maestro
 Tencent/LoopForge
 AlanHuang168/AI-Project-Workflow
 adongwanai/learn-workbuddy
