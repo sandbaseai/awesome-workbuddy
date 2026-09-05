@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.7 — 2026-09-05
+
+- Added the MIT-licensed cross-platform WorkBuddy Auto Check-in Skill with macOS/Windows installers, one-instance locking, sanitized logs, legacy-job backup, and tests.
+- Added a maintainer-facing discovery audit Issue template that fixes the `Candidate` / `Audit result` / `Decision` structure and prompts for licensing, provenance, permissions, data flow, and account-term evidence.
+- Refreshed the synchronized directory snapshot to 158 curated repositories and 34 discovery candidates.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.6 — 2026-09-05
 
 - Added the MIT-licensed Travel Planner Skill with WorkBuddy/CodeBuddy installation, requirement confirmation, external research, and responsive HTML itinerary generation.
