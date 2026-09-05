@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**165 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**166 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -274,6 +274,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) - An MIT-licensed macOS/Windows WorkBuddy daily check-in Skill with credential-path checks, a single-instance lock, sanitized logs, scheduled-task install/uninstall, legacy-job backup, and tests; it reads only the current user's local login state and calls a Tencent endpoint, but still handles account-equivalent credentials and performs account actions, so review source, credential/log permissions, official terms, and authorization scope, and never use it on others' accounts or for batch point farming.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - A desktop enhancement for backups, session migration, and long-running task support.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - A reversible theme manager for WorkBuddy Desktop.
+- [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin) - An MIT-licensed cross-platform WorkBuddy skinning CLI that uses a loopback-only `127.0.0.1` CDP injector for wallpapers, frosted-glass themes, local image processing, live switching, restore, and offline self-tests. Optional persistence writes a user environment variable or rewrites Windows shortcuts, and the published single-file binaries have no signing statement; review the source and local state directory before enabling it.
 - [WorkBuddy Dream Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) - An MIT-licensed, image-driven Windows theme system with presets, a tray controller, verification, and restore tooling. It restarts WorkBuddy with a loopback CDP port and runs unsigned PowerShell plus renderer injection, so save active work and review the scripts before enabling it.
 - [M5Stack Toys / Core2 Buddy](https://github.com/sindney/m5stack_toys) - An MIT-licensed collection of M5Stack hardware projects; Core2 Buddy scans WorkBuddy tasks over USB serial, shows workspaces/tasks on a touchscreen, and announces status with TTS and LEDs. It requires Arduino, Python, serial access, and edge-tts, so confirm local WorkBuddy data scope, firmware-upload scripts, and external voice-service boundaries first.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - An open desktop client supporting multiple coding Agents.

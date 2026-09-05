@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,547 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,550 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,928 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,483 | Python | 2026-09-04 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -15,7 +15,7 @@ Last refreshed: **2026-09-05 UTC**
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,769 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,808 | TypeScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,770 | TypeScript | 2026-09-04 |
-| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
+| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,031 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 698 | Python | 2026-07-09 |
@@ -24,14 +24,14 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 290 | Python | 2026-09-03 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 257 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 245 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
-| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 179 | TypeScript | 2026-09-02 |
+| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 180 | TypeScript | 2026-09-02 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 178 | JavaScript | 2026-07-17 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 174 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
@@ -117,6 +117,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Likenttt/garmin-connect-plugin-for-dsh](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) | 11 | TypeScript | 2026-08-29 |
 | [ycyliu/travel-planner-skill](https://github.com/ycyliu/travel-planner-skill) | 11 | HTML | 2026-03-19 |
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
+| [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-04 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |

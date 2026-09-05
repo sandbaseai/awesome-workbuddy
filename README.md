@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**165 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**166 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -273,6 +273,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) - MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任务安装/卸载、旧任务备份和测试；它只代表当前用户读取本机登录态并调用腾讯接口，仍会处理账号等价凭据并执行账号操作，使用前应核对源码、凭据/日志权限、官方条款和授权范围，不得用于他人账户或批量刷分.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - 可逆的 WorkBuddy Desktop 主题管理工具.
+- [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin) - MIT 许可的跨平台 WorkBuddy 换肤 CLI，通过仅绑定 `127.0.0.1` 的 CDP 注入背景、毛玻璃主题和本地图片，并提供实时切换、恢复、离线自测与可选持久化调试端口；持久化功能会写用户环境变量或改写 Windows 快捷方式，发布的单文件程序未见签名说明，启用前请审查源码与本地状态目录.
 - [WorkBuddy Dream Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) - MIT 许可的 Windows 图片驱动主题系统，提供预设、托盘控制、验证与恢复工具；它会通过本机 CDP 端口重启 WorkBuddy，并运行未签名 PowerShell 与渲染器注入，启用前应保存任务并审查脚本.
 - [M5Stack Toys / Core2 Buddy](https://github.com/sindney/m5stack_toys) - MIT 许可的 M5Stack 硬件项目集合，其中 Core2 Buddy 通过 USB 串口扫描 WorkBuddy 任务，在触摸屏显示工作区/任务并用 TTS、LED 通知状态；需要 Arduino、Python、串口和 edge-tts，使用前请确认本地 WorkBuddy 数据读取范围、硬件烧录脚本与外部语音服务.
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - 支持多种 coding agent 的开源桌面客户端.

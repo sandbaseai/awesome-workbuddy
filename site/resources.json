@@ -1930,6 +1930,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "WorkBuddy Skin",
+    "url": "https://github.com/itcastWsy/workbuddy-skin",
+    "description": "An MIT-licensed cross-platform WorkBuddy skinning CLI that uses a loopback-only `127.0.0.1` CDP injector for wallpapers, frosted-glass themes, local image processing, live switching, restore, and offline self-tests. Optional persistence writes a user environment variable or rewrites Windows shortcuts, and the published single-file binaries have no signing statement; review the source and local state directory before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Skin",
+    "descriptionZh": "MIT 许可的跨平台 WorkBuddy 换肤 CLI，通过仅绑定 `127.0.0.1` 的 CDP 注入背景、毛玻璃主题和本地图片，并提供实时切换、恢复、离线自测与可选持久化调试端口；持久化功能会写用户环境变量或改写 Windows 快捷方式，发布的单文件程序未见签名说明，启用前请审查源码与本地状态目录",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkBuddy Dream Skin",
     "url": "https://github.com/zhouwei713/WorkBuddy-Dream-Skin",
     "description": "An MIT-licensed, image-driven Windows theme system with presets, a tray controller, verification, and restore tooling. It restarts WorkBuddy with a loopback CDP port and runs unsigned PowerShell plus renderer injection, so save active work and review the scripts before enabling it",
