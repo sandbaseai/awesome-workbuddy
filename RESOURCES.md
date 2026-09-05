@@ -135,6 +135,10 @@
 
 ### Ready-to-use Skills
 
+- [赛博书屋](https://github.com/Raven7979/cyber-bookhouse) - MIT 许可的本地 Obsidian 内容沉淀 Skill，支持 Codex、Claude 和 WorkBuddy，将文章、视频与播客整理为带来源的 Markdown 笔记；处理本地文件和在线内容前请确认授权与敏感信息范围
+- [一鱼多吃内容转化 Skill](https://github.com/ZOORO-NEW/qianjin-content-repurposer) - MIT 许可的内容再创作 Skill，提供 WorkBuddy 专用安装路径，可将一篇长文转换为微信公众号、小红书、知乎、B 站、视频号和抖音内容；发布前请人工核对事实、版权和平台规则
+- [个性化旅行手册 Skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - MIT 许可的旅行攻略生成 Skill，明确支持 WorkBuddy，可输出适合手机阅读的路线、景点、餐饮和准备事项网页；旅行信息会变化，出行前请回到官方渠道核验
+
 - [SpecGate](https://github.com/supernisy/specgate) - MIT 许可的确定性验收契约门禁 Skill，提供明确的 WorkBuddy 用户级或项目级安装路径，可将需求转换为可验证契约和任务包；首次运行会安装依赖并执行本地脚本，使用前请审查其安装范围
 - [Turning Ideas into Projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) - MIT 许可的项目工作流 Skill，提供腾讯 WorkBuddy 专用 ZIP，可将模糊想法拆成经过批准、可验证的阶段；不同平台的安装包不可混用，导入前请按官方说明操作
 
@@ -345,6 +349,9 @@
 
 ### Tools and integrations
 
+- [LidKeeper](https://github.com/Luchioxy/LidKeeper) - MIT 许可的本地防休眠工具，支持 Claude Code、Codex 和 WorkBuddy 运行时保持电脑唤醒；安装脚本会修改系统电源相关设置，使用前请审查脚本并确认恢复方式
+- [Aivatar](https://github.com/ruiwuniu/Aivatar-Demo) - MIT 许可的本地优先 AI Agent 桌面伙伴，明确支持腾讯 WorkBuddy，可将 Agent 状态映射为像素房间互动；它会读取本地 Agent 状态并运行桌面应用，首次使用请检查数据路径和权限
+
 - [27c.site](https://github.com/idea-internet/idea_internet) - MIT 许可的 AI 网站发布平台，明确支持 WorkBuddy 通过 MCP 或 HTTP API 创建、生成素材并发布网站；发布操作会产生外部网络与公开内容，使用前请确认域名、凭据、素材和回滚边界
 - [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) - Apache-2.0 许可的跨平台 Agent 与 MCP 管理桌面应用，支持 WorkBuddy 会话、用量、记忆和 Skill 共享，并提供本地遥测端点；默认会读取本地会话或转录文件，使用前请检查扫描范围和发送策略
 - [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - Apache-2.0 许可的 AI Coding Agent 本地遥测采集器，明确支持 WorkBuddy 的 Hook 和本地 transcript 采集，可导出 Token、费用、Trace 与安全审计数据；启用前请确认内容采集策略和导出目标
@@ -498,6 +505,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
+
+- [WorkBuddy for Linux](https://github.com/JipZeonGit/workbuddy-linux) - MIT 许可的非官方 Linux 构建工具，可将用户自行获取的 WorkBuddy macOS Intel DMG 转换为本地 Electron 应用；项目已归档，且不提供腾讯官方二进制，使用前请确认来源、兼容性和许可边界
 
 - [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) - MIT 许可的桌面主题工具，明确支持 WorkBuddy/腾讯 CodeBuddy，可切换、恢复和诊断主题；它会注入或调整客户端渲染层，使用前请备份配置并确认当前版本兼容性
 

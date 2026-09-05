@@ -42,7 +42,7 @@ Last refreshed: **2026-09-05 UTC**
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,061 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,062 | Rust | 2026-09-05 |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 1,000 | JavaScript | 2026-09-03 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
@@ -185,6 +185,7 @@ Last refreshed: **2026-09-05 UTC**
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |
 | [Jobo16/ielts-buddy](https://github.com/Jobo16/ielts-buddy) | 19 | Python | 2026-09-04 |
 | [tangshiyegit/agent-guide](https://github.com/tangshiyegit/agent-guide) | 19 | CSS | 2026-08-26 |
+| [JipZeonGit/workbuddy-linux](https://github.com/JipZeonGit/workbuddy-linux) | 19 | Shell | 2026-06-18 |
 | [yinren112/bossmate](https://github.com/yinren112/bossmate) | 18 | JavaScript | 2026-08-12 |
 | [langlibai66/paper-cn-reader](https://github.com/langlibai66/paper-cn-reader) | 18 | CSS | 2026-07-16 |
 | [wnddd839/codebuddyapi-proxy](https://github.com/wnddd839/codebuddyapi-proxy) | 18 | Go | 2026-09-05 |
@@ -211,6 +212,7 @@ Last refreshed: **2026-09-05 UTC**
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | Python | 2026-07-09 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 14 | - | 2026-06-14 |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | Go Template | 2026-05-21 |
+| [ZOORO-NEW/qianjin-content-repurposer](https://github.com/ZOORO-NEW/qianjin-content-repurposer) | 14 | - | 2026-08-03 |
 | [chaoliuzhu65-tech/universal-travel-planner-skill](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) | 13 | Python | 2026-04-17 |
 | [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | Java | 2026-07-12 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
@@ -220,6 +222,7 @@ Last refreshed: **2026-09-05 UTC**
 | [darker2016/workbuddy-skill-groups](https://github.com/darker2016/workbuddy-skill-groups) | 13 | Python | 2026-08-16 |
 | [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | Python | 2026-06-12 |
 | [LtyFantasy/agent-chamber](https://github.com/LtyFantasy/agent-chamber) | 13 | TypeScript | 2026-09-02 |
+| [ruiwuniu/Aivatar-Demo](https://github.com/ruiwuniu/Aivatar-Demo) | 13 | TypeScript | 2026-08-23 |
 | [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | Python | 2026-07-13 |
 | [JipZeonGit/codebuddy-ide-cn-linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) | 12 | Shell | 2026-09-02 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
@@ -236,6 +239,7 @@ Last refreshed: **2026-09-05 UTC**
 | [rollingSirius/TradeGit](https://github.com/rollingSirius/TradeGit) | 11 | Python | 2026-07-28 |
 | [frank666199/frank-presales-skills](https://github.com/frank666199/frank-presales-skills) | 11 | - | 2026-07-03 |
 | [Waterkyuu/theoria](https://github.com/Waterkyuu/theoria) | 11 | Rust | 2026-09-05 |
+| [Raven7979/cyber-bookhouse](https://github.com/Raven7979/cyber-bookhouse) | 11 | Python | 2026-08-20 |
 | [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [liangdabiao/boardgame-io-skill](https://github.com/liangdabiao/boardgame-io-skill) | 10 | JavaScript | 2026-08-17 |
 | [hawklithm/workbuddy2api](https://github.com/hawklithm/workbuddy2api) | 9 | Python | 2026-08-22 |
@@ -259,6 +263,8 @@ Last refreshed: **2026-09-05 UTC**
 | [Jowitt13/loom-of-heaven](https://github.com/Jowitt13/loom-of-heaven) | 8 | TypeScript | 2026-09-05 |
 | [D-kart/investor-skill](https://github.com/D-kart/investor-skill) | 8 | CSS | 2026-06-10 |
 | [otakuminami/psyche-writer](https://github.com/otakuminami/psyche-writer) | 8 | - | 2026-05-18 |
+| [TokenHungryMash/personalized-travel-guide-skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) | 8 | HTML | 2026-09-04 |
+| [Luchioxy/LidKeeper](https://github.com/Luchioxy/LidKeeper) | 8 | PowerShell | 2026-06-01 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
