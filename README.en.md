@@ -162,6 +162,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Ready-to-use Skills
 
+- [WorkBuddy Theme Manager](https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager) - An Apache-2.0 WorkBuddy theme Skill that converts `.codex-theme` packages to `.workbuddy-theme` and supports installation, switching, and restoration
 - [Academic Research Skills for WorkBuddy](https://github.com/jinmao-lin/academic-research-skills-workbuddy) - A CC BY-NC 4.0 academic-research Skill suite covering deep research, paper writing, manuscript review, research pipelines, and experiment planning, with attribution information included
 - [OpenMobius Skill](https://github.com/MobiusQuant/OpenMobius-skill) - An Apache-2.0 trading-knowledge Skill with explicit WorkBuddy support, attributable ICT/SMC knowledge cards, market analysis, and chart generation, with unsupported routes stopping explicitly
 - [Nuwa Skill](https://github.com/alchaincyf/nuwa-skill) - An MIT-licensed cross-agent thought-distillation Skill with explicit WorkBuddy support, turning public material into reusable analysis and expression frameworks
