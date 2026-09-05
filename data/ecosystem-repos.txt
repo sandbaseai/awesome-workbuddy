@@ -368,3 +368,7 @@ wanghuan9/skilldock
 EverMind-AI/EverMe
 chenjin-cmd/wechat-miniprogram-builder
 Unclecheng-li/note-skill
+loonghao/maya_umbrella_scanner
+iqingyoung/search2chart-mcp
+luffysolution-svg/obsidian-vault-mcp
+fudonglee/md2pdf

@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [Maya Umbrella Scanner](https://github.com/loonghao/maya_umbrella_scanner) - MIT 许可、支持 WorkBuddy 的 Windows Maya 场景恶意代码扫描 Skill，提供范围确认、批量扫描、结果披露、清理前明确批准、备份和复扫门禁；它不是通用系统杀毒软件
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - MIT 许可、提供 WorkBuddy 专用入口的微信小程序全生命周期 Skill，覆盖选题、备案、开发、变现、审核、推广和矩阵运营，可复制到 `~/.workbuddy/skills/` 使用
 - [学霸笔记 Skill](https://github.com/Unclecheng-li/note-skill) - MIT 许可、明确支持 WorkBuddy 的单文件 HTML 笔记 Skill，将技术内容、漏洞分析或知识总结转换为手写笔记本风格的网页笔记
 - [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent CLI；上传 Skill 到 Web UI 或调用模型评测前请确认数据范围
@@ -293,6 +294,9 @@
 
 ### Tools and integrations
 
+- [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - MIT 许可的 Agent 原生图表 MCP，将搜索、研究或表格数据转换为对话内图表，通用 MCP 模式明确支持 WorkBuddy，并提供 `npx` 安装方式
+- [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - MIT 许可的本地科研文献 MCP 服务，结合 Zotero、MinerU 和 Obsidian，提供 31 个工具、7 个科研 Skill 及可追溯的导入、检索、分析和写入流程，并支持 WorkBuddy
+- [md2pdf](https://github.com/fudonglee/md2pdf) - MIT 许可的 Markdown/mrkdwn 转 PDF 工具，可作为 MCP Tool 接入 WorkBuddy、Codex 和 Cherry Studio，适合把 Agent 产物转换为排版完整的 PDF
 - [Skill Sync](https://github.com/lirt1231/skill-sync) - MIT 许可的跨设备、跨 Agent Skill 同步工具，明确支持 WorkBuddy，通过本地管理源和私有 Git 仓库同步用户选定的 Skill；所有文件或网络变更都会先生成预览并要求确认
 - [EverMe](https://github.com/EverMind-AI/EverMe) - Apache-2.0 许可的跨设备、跨 Agent 个人记忆 CLI、MCP 服务和插件套件，提供 WorkBuddy 插件安装方式；托管服务涉及账号和网络请求，自托管时请确认 API 地址与数据边界
 - [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - AGPL-3.0 许可、明确支持 WorkBuddy 的同花顺本地数据 Agent，可查询行情、K 线、持仓、Level-2 委托和逐笔成交；令牌和本地数据访问涉及敏感权限，使用前请阅读隐私政策并遵守许可证

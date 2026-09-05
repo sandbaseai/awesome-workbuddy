@@ -11,11 +11,11 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,880 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,965 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,567 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,568 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,927 | JavaScript | 2026-09-02 |
-| [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,148 | JavaScript | 2026-09-05 |
+| [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,303 | Rust | 2026-09-05 |
@@ -77,7 +77,7 @@ Last refreshed: **2026-09-05 UTC**
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
-| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 194 | Go | 2026-09-02 |
+| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 195 | Go | 2026-09-02 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 192 | TypeScript | 2026-09-02 |
 | [Unclecheng-li/note-skill](https://github.com/Unclecheng-li/note-skill) | 178 | HTML | 2026-06-12 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
@@ -103,6 +103,7 @@ Last refreshed: **2026-09-05 UTC**
 | [wink-run/tokenbank](https://github.com/wink-run/tokenbank) | 90 | JavaScript | 2026-09-05 |
 | [touchine-ojo/OJO-Design-Skills](https://github.com/touchine-ojo/OJO-Design-Skills) | 89 | Shell | 2026-07-29 |
 | [rebootmindful/openclaw-expert-suite](https://github.com/rebootmindful/openclaw-expert-suite) | 80 | - | 2026-03-11 |
+| [luffysolution-svg/obsidian-vault-mcp](https://github.com/luffysolution-svg/obsidian-vault-mcp) | 80 | Python | 2026-08-11 |
 | [xiaolai/ai-cli-kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) | 77 | Shell | 2026-07-18 |
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens) | 75 | TypeScript | 2026-05-17 |
@@ -257,6 +258,7 @@ Last refreshed: **2026-09-05 UTC**
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
+| [loonghao/maya_umbrella_scanner](https://github.com/loonghao/maya_umbrella_scanner) | 5 | Python | 2026-08-26 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
@@ -320,6 +322,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Young1108/skillhub](https://github.com/Young1108/skillhub) | 1 | Python | 2026-09-04 |
 | [Thome56/article-to-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) | 1 | - | 2026-09-05 |
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
+| [iqingyoung/search2chart-mcp](https://github.com/iqingyoung/search2chart-mcp) | 1 | JavaScript | 2026-08-29 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
@@ -376,5 +379,6 @@ Last refreshed: **2026-09-05 UTC**
 | [liangdabiao/workbuddy-expert-doc-video-qa](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) | 0 | Python | 2026-09-05 |
 | [CatchNo2/MindArchive](https://github.com/CatchNo2/MindArchive) | 0 | Python | 2026-07-15 |
 | [lirt1231/skill-sync](https://github.com/lirt1231/skill-sync) | 0 | Python | 2026-07-30 |
+| [fudonglee/md2pdf](https://github.com/fudonglee/md2pdf) | 0 | Python | 2026-06-12 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
