@@ -7,17 +7,17 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,639 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,640 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,939 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,521 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,522 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,920 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,772 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,811 | TypeScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,777 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,589 | TypeScript | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,040 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,041 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 700 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -133,6 +133,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
 | [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | TypeScript | 2026-09-04 |
 | [gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) | 11 | Python | 2026-07-26 |
+| [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
 | [MAXXXXXLI/workbuddy-cn-legal-skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) | 9 | - | 2026-05-14 |
 | [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) | 9 | Python | 2026-09-05 |
@@ -150,11 +151,14 @@ Last refreshed: **2026-09-05 UTC**
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
+| [genapohub/graphic-design-guide](https://github.com/genapohub/graphic-design-guide) | 4 | - | 2026-09-02 |
 | [taikaikaikai-pixel/dsh-codebuddy-plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) | 4 | JavaScript | 2026-08-29 |
 | [feng-liu-1994/workbuddy-finance-workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) | 3 | JavaScript | 2026-09-03 |
 | [clancy-feng/workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) | 3 | HTML | 2026-09-04 |
 | [yamingmou/session-fork-core](https://github.com/yamingmou/session-fork-core) | 3 | Python | 2026-09-04 |
 | [lovezi0/dsh-memory-palace](https://github.com/lovezi0/dsh-memory-palace) | 3 | JavaScript | 2026-09-04 |
+| [genapohub/qa-testing-guide](https://github.com/genapohub/qa-testing-guide) | 3 | - | 2026-09-02 |
+| [genapohub/devops-guide](https://github.com/genapohub/devops-guide) | 3 | - | 2026-09-02 |
 | [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |

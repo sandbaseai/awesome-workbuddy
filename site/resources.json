@@ -1050,6 +1050,46 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Data Analysis Skills",
+    "url": "https://github.com/cabbage2000-lab/data-analysis-skills",
+    "description": "An MIT-licensed multi-host data-analysis Skill with documented WorkBuddy adaptation and testing. It turns CSV, Excel, JSON, and TSV files into insight-led single-file HTML reports with industry templates, evaluations, and tests; it reads data and may load chart libraries from a CDN, so redact inputs and review output and network scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Data Analysis Skills",
+    "descriptionZh": "MIT 许可、已说明 WorkBuddy 适配和实测的多平台数据分析 Skill，可将 CSV、Excel、JSON、TSV 整理为带洞察的单文件 HTML 报告，并提供行业模板、评测和测试；它会读取数据并可能加载 CDN 图表资源，使用前请脱敏并核对输出与网络范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Graphic Design Guide",
+    "url": "https://github.com/genapohub/graphic-design-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy graphic-design Skill that routes brand, marketing, single-asset, rebrand, and style-exploration work into color, typography, logo, asset, and rights-review deliverables; human review of source materials and copyright remains required",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Graphic Design Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的平面设计方案 Skill，按品牌、营销物料、单件设计、品牌焕新和风格探索生成色彩、字体、Logo、物料与版权检查方案；输出仍需人工确认素材来源和版权",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "QA Testing Guide",
+    "url": "https://github.com/genapohub/qa-testing-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy QA Skill covering test foundations, functional testing, automation, performance, defect management, and technical research with scenario-specific templates; generated plans are not real verification, so confirm test environments, data, and permissions before execution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "QA Testing Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的 QA Skill，覆盖测试体系、功能测试、自动化、性能压测、缺陷管理和技术预研，并按场景提供模板；生成的测试方案不等于真实验证，执行前请确认测试环境、数据和权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "DevOps Guide",
+    "url": "https://github.com/genapohub/devops-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy DevOps Skill covering CI/CD, Kubernetes, observability, logs, disaster recovery, migrations, and incident repair; it can generate infrastructure-changing recommendations, so manually review environments, credentials, changes, and rollback plans before acting",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "DevOps Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的 DevOps Skill，覆盖 CI/CD、Kubernetes、监控告警、日志、灾备、迁移和故障修复方案；它可能生成会影响基础设施的操作建议，执行前请人工审查环境、凭据、变更和回滚方案",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Release Skill",
     "url": "https://github.com/ifoohoo/release-skill",
     "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",

@@ -174,6 +174,10 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Xuanlan Governance Kit](https://github.com/jackyjinggit/xuanlan-governance-kit) - Apache-2.0 的 WorkBuddy 规划 Agent 与架构合规检测工具，提供自包含 Agent、跨平台转换器以及 PII、脱敏泄露和真源指针漂移检查；检测器会读取目标仓库，WorkBuddy 专家包也可能影响规划行为，使用前请核对输入资料、输出和本地权限.
 - [MaZhu](https://github.com/kcylp/mazhu) - Apache-2.0 的离线软著材料整理工具，提供桌面应用、CLI 和 WorkBuddy Skill，可从本地项目生成源程序/说明书材料并在导出前校验格式；它会读取代码并生成文档，使用前请确认源码范围、申报信息、输出目录和当地登记要求.
 - [CodeDrobe Skills](https://github.com/CodeDrobe/skills) - Apache-2.0 的可安装主题 Skill，明确支持 Tencent WorkBuddy，提供主题创建、应用、验证、修复、恢复和发布流程；它会通过本地 CDP 连接目标桌面应用，应用主题可能需要启动或重启应用，使用前请确认参考图片、应用权限和重启影响.
+- [Data Analysis Skills](https://github.com/cabbage2000-lab/data-analysis-skills) - MIT 许可、已说明 WorkBuddy 适配和实测的多平台数据分析 Skill，可将 CSV、Excel、JSON、TSV 整理为带洞察的单文件 HTML 报告，并提供行业模板、评测和测试；它会读取数据并可能加载 CDN 图表资源，使用前请脱敏并核对输出与网络范围.
+- [Graphic Design Guide](https://github.com/genapohub/graphic-design-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的平面设计方案 Skill，按品牌、营销物料、单件设计、品牌焕新和风格探索生成色彩、字体、Logo、物料与版权检查方案；输出仍需人工确认素材来源和版权.
+- [QA Testing Guide](https://github.com/genapohub/qa-testing-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的 QA Skill，覆盖测试体系、功能测试、自动化、性能压测、缺陷管理和技术预研，并按场景提供模板；生成的测试方案不等于真实验证，执行前请确认测试环境、数据和权限.
+- [DevOps Guide](https://github.com/genapohub/devops-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的 DevOps Skill，覆盖 CI/CD、Kubernetes、监控告警、日志、灾备、迁移和故障修复方案；它可能生成会影响基础设施的操作建议，执行前请人工审查环境、凭据、变更和回滚方案.
 - [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程；它可能执行 GitHub Git Data API、npm 与 Skill Family Hub 外部写入，且真实宿主安装/验收仍需单独完成，使用前请核对计划、权限、令牌、目标仓库、版本一致性和每个发布动作.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
