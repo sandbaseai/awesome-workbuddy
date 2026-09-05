@@ -780,6 +780,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "law-ye",
+    "url": "https://github.com/Jarvis-starcloud/law-ye-skill",
+    "description": "A license-not-declared WorkBuddy/Hermes legal Skill with Chinese law references, research, document, and litigation modules; for learning, research, and drafts only—consult a licensed lawyer for specific matters",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "law爷",
+    "descriptionZh": "许可证未声明的 WorkBuddy/Hermes 法律 Skill，含中国法律原文、检索、文书和诉讼流程模块；仅供学习、检索和草稿参考，具体案件请咨询执业律师",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Five-layer Memory System",
     "url": "https://github.com/juventini10/Five-layer-memory-system",
     "description": "An MIT-licensed five-layer long-term-memory Skill for WorkBuddy that uses 33 onboarding questions to capture preferences, trade-offs, and behavior patterns in maintainable memory layers",
