@@ -294,3 +294,4 @@ markbignews/paper-mode
 wangge-ai/data-lens
 atswitch/at-switch
 yfpgle-glitch/rightcode-imagegen
+genius916/CareerSail

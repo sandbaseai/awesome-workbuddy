@@ -419,6 +419,7 @@
 
 ### Content and career
 
+- [CareerSail](https://github.com/genius916/CareerSail) - MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、进度追踪、简历定制、面试准备和飞书工作区同步
 - [自媒体运营](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - 小红书图文和视频内容生产的官方工作流.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - 从选题到发布的内容工作流.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - 学习与求职任务编排.

@@ -3520,6 +3520,16 @@
     "categoryZh": "Education"
   },
   {
+    "title": "CareerSail",
+    "url": "https://github.com/genius916/CareerSail",
+    "description": "An MIT-licensed cross-agent job-search dashboard and WorkBuddy Skill for job discovery, progress tracking, resume tailoring, interview preparation, and Feishu workspace synchronization",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "CareerSail",
+    "descriptionZh": "MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、进度追踪、简历定制、面试准备和飞书工作区同步",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "Social-media operations",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media",
     "description": "Official workflow for producing Xiaohongshu and video content",
