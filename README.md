@@ -171,6 +171,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) - MIT 许可的 WorkBuddy Skill，通过 Eagle MCP 批量整理未标记的设计素材，支持多语言名称、结构化注释、标签、预览确认、快照和恢复；它会读取并写回选定的 Eagle 素材，使用前请确认 MCP 信任、素材范围和备份位置.
 - [Rainskills](https://github.com/goodrain/rainskills) - Apache-2.0 的跨 Agent Skills 集合，明确支持 WorkBuddy，覆盖项目识别、部署、排障、交付验证、版本管理和回滚；安装器和部分 Skills 可能连接 Rainbond Cloud、服务器或本地运行时，执行部署前请确认目标环境、凭据和发布权限.
 - [AI Operating Protocol](https://github.com/nehemc2026/ai-operating-protocol) - MIT 许可、面向 WorkBuddy 的零依赖行为协议，用六条规则、风险分级和 Stop Rule 帮助 Agent 区分讨论、执行和停止；它是可复制的 Markdown Skill，不是技术强制或业务判断，使用前请结合自己的授权边界调整.
+- [Xuanlan Governance Kit](https://github.com/jackyjinggit/xuanlan-governance-kit) - Apache-2.0 的 WorkBuddy 规划 Agent 与架构合规检测工具，提供自包含 Agent、跨平台转换器以及 PII、脱敏泄露和真源指针漂移检查；检测器会读取目标仓库，WorkBuddy 专家包也可能影响规划行为，使用前请核对输入资料、输出和本地权限.
+- [MaZhu](https://github.com/kcylp/mazhu) - Apache-2.0 的离线软著材料整理工具，提供桌面应用、CLI 和 WorkBuddy Skill，可从本地项目生成源程序/说明书材料并在导出前校验格式；它会读取代码并生成文档，使用前请确认源码范围、申报信息、输出目录和当地登记要求.
 - [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程；它可能执行 GitHub Git Data API、npm 与 Skill Family Hub 外部写入，且真实宿主安装/验收仍需单独完成，使用前请核对计划、权限、令牌、目标仓库、版本一致性和每个发布动作.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
