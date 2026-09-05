@@ -49,6 +49,7 @@
 
 ### Learning and reference
 
+- [WorkBuddy 效率进阶实训课程](https://github.com/cloudzun/WorkBuddy-Course) - CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版本变化，使用或再分发时请遵守禁止演绎条款
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
 - [Hermes Agent 橙皮书](https://github.com/alchaincyf/hermes-agent-orange-book) - MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口
 - [Claude Code 橙皮书](https://github.com/alchaincyf/claude-code-orange-book) - CC BY-NC-SA 4.0 许可的 Claude Code 中文实战指南，覆盖安装、提示词、Skills、Hooks、MCP、多 Agent 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用
@@ -123,6 +124,9 @@
 
 ### Ready-to-use Skills
 
+- [中文公文写作 Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料，并提供文种路由、事实核验、格式检查和可选交付 Hook
+- [WorkBuddy Doctor](https://github.com/ruiguoz/workbuddy-doctor) - MIT 许可的社区故障排查 Skill 合集，每个 Doctor 独立安装，首个 `git-doctor` 覆盖推送认证、凭据助手、连接器权限、代理格式和弹窗/沙盒确认问题
+- [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) - MIT 许可的本地 WorkBuddy 账号数据迁移工具，支持 doctor、清单和迁移流程，默认不复制密钥、Token 或 credentials 等敏感连接器文件
 - [Circuit Interactive Tutor](https://github.com/weblwh/circuit-interactive-tutor) - MIT 许可、明确支持 WorkBuddy 的电路分析互动学习 Skill，提供分步推导、公式解释、故障排查和可视化学习辅助
 - [FMG PPT Courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) - MIT 许可、明确提供 WorkBuddy 安装入口的精品课 PPT 课件 Skill，根据主题和大纲批量生成结构、字号和视觉统一的 PPTX，并复用指定模板
 - [Live Stream Ops](https://github.com/uahz/live-stream-ops) - MIT 许可的跨客户端直播运营 Skill，明确支持 WorkBuddy，覆盖直播脚本、回放拆解、排品表、促单话术、切片挖掘和场控 SOP
@@ -308,6 +312,7 @@
 
 ### Tools and integrations
 
+- [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - GPL-3.0 许可的非官方 CodeBuddy/WorkBuddy 企业 OpenAPI 多语言客户端，覆盖 Skills、模型、成员和用量等接口；使用企业 API 前请确认授权范围、凭证存储方式和 GPL 再分发义务
 - [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 WorkBuddy 等平台；安装前请确认桥接服务的监听范围
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - MIT 许可的 Agent 原生图表 MCP，将搜索、研究或表格数据转换为对话内图表，通用 MCP 模式明确支持 WorkBuddy，并提供 `npx` 安装方式
 - [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - MIT 许可的本地科研文献 MCP 服务，结合 Zotero、MinerU 和 Obsidian，提供 31 个工具、7 个科研 Skill 及可追溯的导入、检索、分析和写入流程，并支持 WorkBuddy
@@ -422,6 +427,7 @@
 
 ### Community clients and enhancements
 
+- [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默认仅监听回环地址，使用前请核对版本基线和确认式重启权限
 - [Theoria](https://github.com/Waterkyuu/theoria) - 许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更，并将工作区记录保存在本地 SQLite；使用或再分发前请先向作者核对授权
 - [Bough](https://github.com/DGPisces/bough) - MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、完成、忙碌和空闲状态集中展示；首次启动需按系统提示确认并授予必要权限
 - [SkillDock](https://github.com/wanghuan9/skilldock) - MIT 许可的跨 Agent 桌面 Skill/MCP/插件管理器，支持 WorkBuddy，提供真实目录扫描、安装整理、Git 感知 Diff 预览、更新和冲突检查

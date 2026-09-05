@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,888 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,889 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,968 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -99,6 +99,7 @@ Last refreshed: **2026-09-05 UTC**
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
+| [gongyu0918-debug/chinese-official-writing-skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) | 92 | Python | 2026-09-04 |
 | [lasoons/AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) | 91 | TypeScript | 2026-01-17 |
 | [wink-run/tokenbank](https://github.com/wink-run/tokenbank) | 90 | JavaScript | 2026-09-05 |
 | [touchine-ojo/OJO-Design-Skills](https://github.com/touchine-ojo/OJO-Design-Skills) | 89 | Shell | 2026-07-29 |
@@ -254,7 +255,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Errriclin/csv-data-analyst](https://github.com/Errriclin/csv-data-analyst) | 6 | Python | 2026-08-28 |
 | [li845276863-tech/chatcut-video-workflow-skill](https://github.com/li845276863-tech/chatcut-video-workflow-skill) | 6 | - | 2026-07-20 |
 | [bettermen/ad-trader](https://github.com/bettermen/ad-trader) | 6 | Python | 2026-06-21 |
-| [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-03 |
+| [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-05 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
@@ -274,6 +275,7 @@ Last refreshed: **2026-09-05 UTC**
 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 4 | Python | 2026-07-03 |
 | [Flipped929/workbuddy-autofigure-edit-skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) | 4 | HTML | 2026-03-29 |
 | [bettermen/article-metaphor-illustrator](https://github.com/bettermen/article-metaphor-illustrator) | 4 | - | 2026-06-18 |
+| [JanCong/workbuddy-migrator](https://github.com/JanCong/workbuddy-migrator) | 4 | Python | 2026-07-06 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -339,6 +341,8 @@ Last refreshed: **2026-09-05 UTC**
 | [iqingyoung/search2chart-mcp](https://github.com/iqingyoung/search2chart-mcp) | 1 | JavaScript | 2026-08-29 |
 | [chief-YE/workbuddy-skills](https://github.com/chief-YE/workbuddy-skills) | 1 | Python | 2026-08-07 |
 | [haiyangchenbj/invassistant-skill-cn](https://github.com/haiyangchenbj/invassistant-skill-cn) | 1 | Python | 2026-04-14 |
+| [ruiguoz/workbuddy-doctor](https://github.com/ruiguoz/workbuddy-doctor) | 1 | - | 2026-08-25 |
+| [JiangSiyu2006/workbuddy-theme-forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) | 1 | JavaScript | 2026-08-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
@@ -397,5 +401,7 @@ Last refreshed: **2026-09-05 UTC**
 | [lirt1231/skill-sync](https://github.com/lirt1231/skill-sync) | 0 | Python | 2026-07-30 |
 | [fudonglee/md2pdf](https://github.com/fudonglee/md2pdf) | 0 | Python | 2026-06-12 |
 | [twin-arc/macro-cycle-locator](https://github.com/twin-arc/macro-cycle-locator) | 0 | - | 2026-09-05 |
+| [cloudzun/WorkBuddy-Course](https://github.com/cloudzun/WorkBuddy-Course) | 0 | HTML | 2026-08-17 |
+| [BlueSkyXN/tencent-workbuddy-sdk](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) | 0 | Python | 2026-07-31 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
