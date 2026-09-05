@@ -1540,6 +1540,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "md2wechat",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill",
+    "description": "A Source Available Markdown-to-WeChat Official Account CLI/Skill with explicit WorkBuddy support, 40+ layout styles, image support, preview checks, multiple accounts, and draft-box output; publishing needs WeChat credentials, while commercial use, SaaS, and redistribution require separate authorization",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "md2wechat",
+    "descriptionZh": "Source Available 许可、明确支持 WorkBuddy 的 Markdown 转公众号 CLI/Skill，支持 40+ 排版样式、配图、预览检查、多账号和草稿箱；发布功能需要微信凭证，商业使用、SaaS 和再分发需单独授权",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Eagle Untagged Organizer",
     "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
     "description": "An MIT-licensed WorkBuddy Skill that batch-organizes untagged design assets in Eagle through Eagle MCP, with multilingual names, structured annotations, tags, dry-run approval, snapshots, and restore",
