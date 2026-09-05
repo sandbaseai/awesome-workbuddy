@@ -940,6 +940,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Superpowers WorkBuddy",
+    "url": "https://github.com/ToussaintKnight/superpowers-workbuddy",
+    "description": "An MIT-licensed WorkBuddy testing and debugging methodology with four Skills and a reported 19/19 experiment suite, useful for bringing tests, diagnosis, and result verification into task workflows; run the project instructions and check the experiment environment before relying on the results",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Superpowers WorkBuddy",
+    "descriptionZh": "MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "WorkBuddy Runbook",
+    "url": "https://github.com/maning636/workbuddy-runbook",
+    "description": "An MIT-licensed workflow Skill that turns multi-step work into runbooks with objectives, expected output, verification, fallback, and definition-of-done sections; it works with WorkBuddy and compatible Agents, but generated commands still require human review against actual paths and permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Runbook",
+    "descriptionZh": "MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy 及兼容 Agent；生成的命令仍需根据实际路径和权限人工确认",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Minecraft Mod Search",
     "url": "https://github.com/MasterHesse/minecraft-mod-search",
     "description": "An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy; verify source, versions, and downloaded-file safety when using external search results",
@@ -1798,6 +1818,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy；采用 PolyForm Noncommercial 1.0.0，且会读写个人规划数据，安装前请确认许可与权限",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "workbuddy_to_api",
+    "url": "https://github.com/yxxawa/workbuddy_to_api",
+    "description": "An MIT-licensed local WorkBuddy proxy exposing OpenAI/Anthropic-compatible APIs, health/model endpoints, and optional MCP configuration; it handles local sign-in state, prompts, ports, and logs through undocumented upstream behavior, so restrict loopback access, protect credentials, and follow platform terms",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "workbuddy_to_api",
+    "descriptionZh": "MIT 许可的本地 WorkBuddy 代理，将服务转换为 OpenAI/Anthropic 兼容 API，并提供健康检查、模型列表和可选 MCP 配置；会处理本地登录状态、提示词、端口和日志，且依赖非公开接口，使用前请限制回环访问、保护凭据并核对平台条款",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "SkillDeck",
