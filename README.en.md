@@ -6,6 +6,10 @@ English · [简体中文](README.md)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
+<!-- REPOSITORY-SNAPSHOT:START -->
+**154 curated repositories · 4 original Skills · 38 discovery candidates · weekly validation**
+<!-- REPOSITORY-SNAPSHOT:END -->
+
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
 
 Want to help us reach 100 genuine stars? Use the [community roadmap issue](https://github.com/sandbaseai/awesome-workbuddy/issues/172) to suggest verifiable resources, report broken links, or share usage feedback.
