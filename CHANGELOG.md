@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Added a live GitHub Issue workflow gate that rejects discovery audits with escaped newlines or missing `Candidate`, `Audit result`, and `Decision` structure; the gate was exercised against a real audit Issue after correcting its JavaScript escaping.
 - Expanded the bilingual `workbuddy-bench` entry with its four tracks, 260 tasks, Docker sandbox, Hugging Face dataset, setup Skill, and data/credential handling guidance.
 - Curated the MIT-licensed `runzhi/codebuddy-statusline` with transcript, configuration-write, cache, and auto-update boundaries.
 - Curated the Apache-2.0 `shajoezhu/skills_codebuddy_rpackagedev` R-package Skill collection with attribution and user-directory installation guidance.
