@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "One-person Company",
+    "url": "https://github.com/wzx11223344/one-person-company",
+    "description": "An MIT-licensed WorkBuddy Skill for one-person company operations across content, operations, product, finance, and growth automation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "One-person Company",
+    "descriptionZh": "MIT 许可的 WorkBuddy 一人公司运营 Skill，覆盖内容、运营、产品、财务和增长自动化",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Theme Manager",
     "url": "https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager",
     "description": "An Apache-2.0 WorkBuddy theme Skill that converts `.codex-theme` packages to `.workbuddy-theme` and supports installation, switching, and restoration",
