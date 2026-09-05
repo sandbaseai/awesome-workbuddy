@@ -167,6 +167,7 @@ a735624258/dsh-skill-picker
 CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch
+FlashFamily/workbuddy-buddy
 cxqc168-wq/Trae-workbuddyAssistant
 shuishenghualalala/Ace
 tangshiyegit/agent-guide

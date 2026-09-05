@@ -323,6 +323,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Community clients and enhancements
 
+- [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy；源码、测试和本地事件白名单公开，但社区构建为 ad-hoc 签名且非 Apple 公证，安装脚本、Release 来源、控制面与回环权限请先审查.
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills；支持全局/项目范围、Git/本地来源、软链接或复制和定时更新，使用前请确认目标目录、来源可信度与同步范围.
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化；会读取本机登录令牌并调用逆向得到的非官方接口，使用前应核对账号条款与源码.
 - [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) - MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求；令牌等同账号密码且定时任务会代表用户执行账号操作，使用前应核对源码、日志/凭据保护、官方条款和授权范围，不得用于他人账户或批量刷分.
