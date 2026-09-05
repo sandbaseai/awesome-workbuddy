@@ -161,7 +161,6 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引；默认回环服务使用本地 SQLite/FTS5，可按需扫描源码、Markdown 与 Git 历史写入记忆，LLM 抽取/评测可读取 `OPENAI_API_KEY` 并访问配置的模型端点，使用前请核对扫描目录、MCP 写入工具、端口、日志、密钥和数据保留.
 
 ### Ready-to-use Skills
-
 - [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) - MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架；使用时请确认输入材料的版权、隐私和人物授权，不要把生成内容当作事实或本人观点.
 - [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程；安装需要同时导入 `SKILL.md` 与 `references/`，并配置第三方 API Key，使用前请确认素材版权、费用、密钥和上传范围.
 - [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境.
@@ -344,6 +343,8 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
+
+- [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知；部分 Agent 支持审批自动化，WorkBuddy 当前仅使用状态与通知集成，启用前请确认 hooks、通知内容、自动批准范围和许可证义务.
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单；通常通过本机 CDP 注入，但会重启目标应用、下载 Electron 依赖，部分 Windows AgnesCode 兼容路径还会调整 ASAR 完整性校验，使用前请审查脚本、端口、版本和应用备份.
 - [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar；会重启应用并运行本地脚本，CDP 启用期间无鉴权，且适配版本可能变化，使用前请审查脚本、端口和图片权限.
 - [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy；源码、测试和本地事件白名单公开，但社区构建为 ad-hoc 签名且非 Apple 公证，安装脚本、Release 来源、控制面与回环权限请先审查.

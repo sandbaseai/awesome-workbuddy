@@ -2690,6 +2690,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Clawd on Desk",
+    "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+    "description": "An AGPL-3.0 cross-platform Agent desktop pet and status notifier with explicit WorkBuddy support through optional hooks; some Agents also support approval automation, while WorkBuddy currently uses state and notification integration only, so confirm hooks, notification content, auto-approval scope, and license obligations first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Clawd on Desk",
+    "descriptionZh": "AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知；部分 Agent 支持审批自动化，WorkBuddy 当前仅使用状态与通知集成，启用前请确认 hooks、通知内容、自动批准范围和许可证义务",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "Dream Work Theme",
     "url": "https://github.com/xxxhh336/dream-work-theme",
     "description": "An Apache-2.0 cross-platform Electron theme manager with explicit WorkBuddy support, app discovery, compatibility filtering, runtime switching/restoration, and a floating theme menu; it normally injects through local CDP but restarts target apps and downloads Electron dependencies, while a Windows AgnesCode compatibility path changes ASAR integrity checking, so review scripts, ports, versions, and app backups first",
