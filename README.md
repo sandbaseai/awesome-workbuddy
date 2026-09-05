@@ -157,6 +157,7 @@
 ### Ready-to-use Skills
 
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - MIT 许可的 WorkBuddy A 股短线与 ETF 研究 Skill，按实时行情、情绪和技术信号生成候选分析；仅作研究参考，不构成投资建议
+- [WorkBuddy Market Briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) - MIT 许可的 WorkBuddy 大宗商品晨报与美股盘前日报工作流，包含 `SKILL.md`、数据脚本、HTML 示例和定时发送；仅作研究参考
 - [Ecommerce Detail-page Planner](https://github.com/Banye0517/ecommerce-detail-page-skill) - MIT 许可的 WorkBuddy 电商详情页策划 Skill，根据产品和卖点生成竞品分析、分屏文案与画面描述
 - [Student Application Skills](https://github.com/cuic19053-hue/awesome-student-ai-skills) - MIT 许可、兼容 WorkBuddy 的 35 个大学生申报 Skills，覆盖竞赛、立项、奖学金、保研和留学申请
 - [Beautiful Mermaid](https://github.com/chouraycn/beautiful-mermaid) - 未声明许可证的 WorkBuddy/CodeBuddy 图表 Skill，将 Mermaid 渲染为主题化 SVG、PNG 或 ASCII 图表，并提供交互式预览
@@ -243,6 +244,7 @@
 - [WorkBuddy Check-in (Maquer)](https://github.com/Maquer/workbuddy-checkin) - MIT 许可、零第三方依赖的 Python 签到与积分查询工具，支持 CN/Global 账号、Token 自动刷新、多账号轮换、日报和 cron 定时模式
 - [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) - MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供模型目录、额度、冷却和回环流式桥
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
+- [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) - MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
