@@ -1600,6 +1600,26 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "DSH Agent Preset Recommender",
+    "url": "https://github.com/LeemanCheung/dsh-agent-preset-recommender",
+    "description": "An MIT-licensed DeepSeek Harness host plugin that boundedly summarizes local Codex, Claude Code, and WorkBuddy/CodeBuddy activity and recommends a preset without an LLM call, network request, command execution, installation, or preset mutation; it still reads selected local metadata and writes an installation-local aggregate report, so review the scan roots and DSH compatibility baseline first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Agent Preset Recommender",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBuddy/CodeBuddy 活动并推荐 preset，不调用 LLM、不发网络请求、不执行命令、不安装或修改 preset；但仍会读取指定本地元数据并写入安装本地的聚合报告，使用前请核对扫描根目录和 DSH 兼容基线",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "agentsw",
+    "url": "https://github.com/tchivs/agentsw",
+    "description": "An MIT-licensed cross-agent provider switcher that imports and synchronizes OpenAI/Anthropic-compatible provider settings, model metadata, and WorkBuddy/DSH configuration across nine coding agents; it offers `--dry-run` and backups, but reads and writes multiple local config files and may handle API keys, so inspect diffs, target paths, credential scope, and provider terms before applying changes",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "agentsw",
+    "descriptionZh": "MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数据和 WorkBuddy/DSH 配置到九种编码 Agent；支持 `--dry-run` 和备份，但会读写多个本地配置文件并可能处理 API Key，执行前请审查 diff、目标路径、凭据范围和 Provider 条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Codex Mate",
     "url": "https://github.com/SakuraByteCore/codexmate",
     "description": "An Apache-2.0 local CLI + Web UI for managing CodeBuddy, Codex, Claude Code, Gemini CLI, OpenCode, KiloCode, OpenClaw, and Pi configurations, sessions, Skills, MCP, and task queues. It explicitly supports WorkBuddy/CodeBuddy session browsing and a local Skills market, with unit and E2E tests. It reads and writes local configuration, sessions, and credentials, and can start protocol bridges, import Skills, or delete sessions, so back up first and review paths, keys, ports, and each write action",
