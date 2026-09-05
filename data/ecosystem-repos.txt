@@ -399,6 +399,7 @@ a2681220474-glitch/workbuddy-oss-opensource
 wzz6423/zisla
 buben12310/skillmanager
 jsun2020/workbuddy-obsidian-plugin
+blazingcd/golden-key-openmontage-for-workbuddy
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
