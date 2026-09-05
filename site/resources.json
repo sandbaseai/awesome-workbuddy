@@ -920,6 +920,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "TradeGit",
+    "url": "https://github.com/rollingSirius/TradeGit",
+    "description": "An MIT-licensed local trading-journal Skill with explicit WorkBuddy support, recording trade rationale, importing broker statements, and calculating FIFO profit/loss; data stays local or in the user's own private GitHub repository",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "TradeGit",
+    "descriptionZh": "MIT 许可、明确兼容 WorkBuddy 的本地交易日志 Skill，可记录交易理由、导入券商流水并按 FIFO 计算盈亏；数据保存在本地或用户自己的私有 GitHub 仓库",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Chanlun Engine",
+    "url": "https://github.com/adsorgcn/chanlun-engine-skill",
+    "description": "An MIT-licensed Chan theory analysis Skill with explicit WorkBuddy support, using deterministic scripts for fractals, strokes, segments, centers, and signals; results are reproducible and for research only, not investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Chanlun Engine",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的缠论分析 Skill，由确定性脚本计算分型、笔、线段、中枢和信号，结果可复核；仅作研究参考，不构成投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Scholar Inbox Skill",
     "url": "https://github.com/zhjcreator/scholar-inbox-skill",
     "description": "An MIT-licensed WorkBuddy Skill for academic-paper discovery through the Scholar Inbox CLI, covering keyword/semantic search, trending papers, digests, bookmarks, collections, and conference proceedings; a third-party account is required",

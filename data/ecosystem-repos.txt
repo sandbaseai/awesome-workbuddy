@@ -300,3 +300,5 @@ leigegehaha/jimeng-cli-free
 zhjcreator/scholar-inbox-skill
 dayviwong/apple-design-skill
 xixihhhh/ai-short-drama-skill
+rollingSirius/TradeGit
+adsorgcn/chanlun-engine-skill
