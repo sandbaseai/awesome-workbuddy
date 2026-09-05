@@ -231,6 +231,7 @@
 - [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) - 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱系树
+- [OnePlus ReSukiSU Kernel Skill](https://github.com/yimiaoxiehou/oneplus-resukisu-kernel-skill) - MIT 许可的 WorkBuddy/Agent Skill，提供 OnePlus 内核构建、刷写、回滚镜像提取和验证；涉及解锁与刷机，请先备份并确认设备风险
 - [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) - MIT 许可、面向 Windows 的跨设备任务续接 Skill，以 WPS 云盘 Junction 为主通道、HANDOFF/记忆文件为交接通道，并用守护进程与看门狗维持同步
 - [正能日语](https://github.com/notbadhuang/notbadhuang-japanese-skill) - CC BY-NC 4.0 的 WorkBuddy/Codex 日语学习 Skill，提供 0 到 N5 的课程安装、学习编排和本地学习记录
 

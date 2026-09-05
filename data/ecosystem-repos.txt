@@ -258,6 +258,7 @@ Tom6814/WorkBuddy2API
 fy-agent/fyagent
 LeemanCheung/dsh-agent-preset-recommender
 tchivs/agentsw
+yimiaoxiehou/oneplus-resukisu-kernel-skill
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc
