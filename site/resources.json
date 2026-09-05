@@ -2260,6 +2260,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy2API (Sliverkiss)",
+    "url": "https://github.com/Sliverkiss/workbuddy2api",
+    "description": "A license-not-declared local protocol proxy for WorkBuddy CN with OpenAI-compatible APIs, streaming, tool calls, OAuth login, multi-account rotation, and Docker deployment; it handles local credentials and includes automated check-in, so verify licensing, account authorization, and upstream terms before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy2API (Sliverkiss)",
+    "descriptionZh": "许可未声明的 WorkBuddy CN 本地协议代理，提供 OpenAI 兼容接口、流式输出、工具调用、OAuth 登录和多账号轮换，并支持 Docker 部署；它会处理本地凭证且包含自动签到功能，使用前请核对许可证、账号授权和上游服务条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "collab-cli",
     "url": "https://github.com/yinsang0910-star/collab-cli",
     "description": "An MIT-licensed WorkBuddy-compatible cross-agent collaboration CLI that discovers and syncs tasks, memory, inboxes, and reviews over a LAN; it can dispatch commands between Agents, so configure a shared secret and restrict network and execution permissions before use",
