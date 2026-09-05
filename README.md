@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**163 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**164 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -146,6 +146,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) - Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模型、渠道与操作切片；它通过浏览器登录态访问 `workbuddy.cn` 的官方网页接口并处理 Cookie，使用前请核对账号授权、网络请求、保存范围和服务条款.
 - [Session Digger](https://github.com/taxueseek/session-digger) - ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告；它会读取完整会话并写入索引、报告和可选记忆文件，内容可能包含提示词、路径与项目资料，环境诊断还可探测外部端点，使用 `apply`/`prune` 等写入或删除命令前应逐项确认目标与备份.
 - [memU](https://github.com/NevaMind-AI/memU) - Apache-2.0 许可的跨 Agent 个人记忆系统，直接支持 WorkBuddy，可从会话与工具调用中提炼可复用 Skill，并通过本地 sidecar 做记忆注入与检索；WorkBuddy 适配会读取 `~/.workbuddy/projects` 会话、修改宿主说明文件并创建定时桥接任务，自托管需要 embedding Key，使用前请确认会话/个人资料范围、模型与存储提供方、备份及卸载保留策略.
+- [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引；默认回环服务使用本地 SQLite/FTS5，可按需扫描源码、Markdown 与 Git 历史写入记忆，LLM 抽取/评测可读取 `OPENAI_API_KEY` 并访问配置的模型端点，使用前请核对扫描目录、MCP 写入工具、端口、日志、密钥和数据保留.
 
 ### Ready-to-use Skills
 

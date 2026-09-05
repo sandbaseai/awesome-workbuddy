@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**163 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**164 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -147,6 +147,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) - An Apache-2.0 independently versioned UsageMonitor provider that reads WorkBuddy subscription quotas, gift packages, and request history with model, channel, and operation slicing; it uses browser login state to call official `workbuddy.cn` web endpoints and handles Cookies, so review account authorization, network requests, storage scope, and service terms first.
 - [Session Digger](https://github.com/taxueseek/session-digger) - An ISC-licensed cross-agent session search and knowledge-management toolkit that natively parses `~/.workbuddy/projects`, builds an incremental SQLite FTS index, and produces self-contained local reports; it reads full transcripts and writes indexes, reports, and optional memory files that may expose prompts, paths, or project data, its environment doctor can probe external endpoints, and every target and backup should be reviewed before using mutating `apply`/`prune` commands.
 - [memU](https://github.com/NevaMind-AI/memU) - An Apache-2.0 cross-agent personal-memory system with direct WorkBuddy support that distills reusable Skills from sessions and tool calls, then uses a local sidecar for memory injection and retrieval; its WorkBuddy adapter reads `~/.workbuddy/projects` sessions, changes host instruction files, and creates scheduled bridge tasks, while self-hosting requires an embedding key, so review session/personal-data scope, model and storage providers, backups, and uninstall retention.
+- [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - An MIT-licensed local-first cross-agent memory store with an MCP server and read-only Web panel, plus manual WorkBuddy connection guidance; its default loopback service uses local SQLite/FTS5 and can scan source, Markdown, and Git history into memory, while LLM extraction/evaluation may read `OPENAI_API_KEY` and call configured model endpoints, so review scan directories, MCP write tools, ports, logs, keys, and retention.
 
 ### Ready-to-use Skills
 
