@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,094 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,896 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,897 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,971 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -17,7 +17,7 @@ Last refreshed: **2026-09-05 UTC**
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,778 | Go | 2026-09-05 |
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,305 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
@@ -28,12 +28,12 @@ Last refreshed: **2026-09-05 UTC**
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,549 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,955 | JavaScript | 2026-09-05 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,787 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,788 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
-| [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
+| [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,592 | Rust | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
-| [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,265 | TypeScript | 2026-09-05 |
+| [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,266 | TypeScript | 2026-09-05 |
 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,229 | JavaScript | 2026-09-05 |
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
@@ -411,5 +411,6 @@ Last refreshed: **2026-09-05 UTC**
 | [ozrwayne/WorkBuddy-Skins](https://github.com/ozrwayne/WorkBuddy-Skins) | 0 | Rust | 2026-07-20 |
 | [buben12310/skillmanager](https://github.com/buben12310/skillmanager) | 0 | Dart | 2026-07-11 |
 | [blazingcd/golden-key-openmontage-for-workbuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) | 0 | Python | 2026-09-05 |
+| [sunyet-01/WorkBuddy-Starter](https://github.com/sunyet-01/WorkBuddy-Starter) | 0 | Astro | 2026-07-30 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

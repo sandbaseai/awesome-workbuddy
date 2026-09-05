@@ -400,6 +400,7 @@ wzz6423/zisla
 buben12310/skillmanager
 jsun2020/workbuddy-obsidian-plugin
 blazingcd/golden-key-openmontage-for-workbuddy
+sunyet-01/WorkBuddy-Starter
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
