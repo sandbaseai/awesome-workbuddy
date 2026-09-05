@@ -440,6 +440,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Skill Onboarding",
+    "url": "https://github.com/howoneai/skill-onboarding",
+    "description": "An Apache-2.0 15-minute hands-on guide to building Skills through creation, evaluation, iteration, and benchmark stages, with an explicit CodeBuddy installation path at `~/.codebuddy/skills/`; it invokes local scripts and optional evaluation tooling, so review scripts, dependencies, write locations, and benchmark-data scope before running it",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Skill Onboarding",
+    "descriptionZh": "Apache-2.0 许可的 15 分钟 Skill 构建入门教程，按创建、评估、迭代和基准测试的阶段带用户动手制作第一个 Skill，并明确提供 CodeBuddy 的 `~/.codebuddy/skills/` 安装路径；它会引导使用本地脚本和可选评测工具，运行前请审查脚本、依赖、写入目录及评测数据范围",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "AI Coding Guide Zh",
     "url": "https://github.com/KimYx0207/AI-Coding-Guide-Zh",
     "description": "A Chinese learning path for AI coding tools and office Agents, including WorkBuddy",

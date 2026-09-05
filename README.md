@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**195 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
+**196 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -112,6 +112,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - MIT 许可的中英双语新手启动器与 Prompt 库，支持 macOS、Linux、Windows 以及 Qwen Code、Kimi Code 和 CodeBuddy CLI；状态机包含环境探测、安装前确认和结果验证，适合第一次配置 AI CLI 的 WorkBuddy/CodeBuddy 用户。启动器会在确认后从固定官方域名下载并直接执行供应商脚本，使用前请核对 URL、脚本内容和供应商条款，不要在未审查的机器或高权限环境中运行.
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策；部分 Agent 教程适用 CC BY-NC-SA 4.0，仓库含大量媒体文件，AI News 构建会请求外部公开 API，复用内容或本地构建前请核对对应许可、存储与网络范围.
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核.
+- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - Apache-2.0 许可的 15 分钟 Skill 构建入门教程，按创建、评估、迭代和基准测试的阶段带用户动手制作第一个 Skill，并明确提供 CodeBuddy 的 `~/.codebuddy/skills/` 安装路径；它会引导使用本地脚本和可选评测工具，运行前请审查脚本、依赖、写入目录及评测数据范围.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
 - [AgenticMetaEngineering](https://github.com/AiToByte/AgenticMetaEngineering) - MIT 许可的团队 AI 上下文工程模板，将 `AGENTS.md`、`context/`、需求记录和 `.codebuddy/commands/` 纳入 Git 版本管理，并用独立分支/checkout 隔离并行任务；不依赖向量数据库或外部服务，适合把 WorkBuddy/CodeBuddy 的团队规则和经验变成可审阅的共享资产。共享仓库可能包含业务知识、路径或内部规则，使用前请脱敏、限制仓库权限并确认分支策略.
 - [Superpowers 中文适配](https://github.com/squallopen/superpowers-zh-adapters) - MIT 许可的 `obra/superpowers` 中文适配层，明确支持 CodeBuddy、Codex、Claude Code、Cline、Droid、OpenCode 和 ZCode，提供中文触发词、中文文档输出、安装/更新/回滚脚本及上游版本同步；CodeBuddy 适配会更新专用规则段，PowerShell 安装默认面向 Windows 用户并会写入用户或项目 Skills/说明文件，执行前请确认备份、目标范围、上游内容和脚本权限.

@@ -39,6 +39,7 @@ joosure/Maestro
 Tencent/LoopForge
 AlanHuang168/AI-Project-Workflow
 adongwanai/learn-workbuddy
+howoneai/skill-onboarding
 infometa/workbuddyskills
 babygoton/WorkDaddy
 zjp1997720/zhijian-ai-bluebook-workbuddy-harness
