@@ -432,6 +432,7 @@
 
 ### Community clients and enhancements
 
+- [WorkBuddy Obsidian Plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) - MIT 许可的 Obsidian 社区插件，在侧边栏调用本机 WorkBuddy CLI，支持当前笔记或选中文本引用、多个任务页签、复制与插入回复；默认权限允许修改笔记，启用前请按需切换为只读并确认笔记内容发送范围
 - [workbuddy-buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，通过结构化生命周期事件显示 Agent 状态、审批气泡和完成/阻塞提示，默认不读取提示词、回复、工具参数或文件路径；社区安装包采用 ad-hoc 签名且未公证，远程 Control Plane 挂载功能还会涉及网络与设备配对，请先核对来源和权限
 - [zisla](https://github.com/wzz6423/zisla) - 许可文件已提供、明确监控 WorkBuddy 本地活动的 macOS 顶部工作台，整合 Agent 状态、Skills 管理、文件与系统工具，并默认不读取对话正文；安装会信任第三方 Homebrew tap，发行包为 ad-hoc 签名且未公证，请按 README 核对权限和更新来源
 - [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - MIT 许可的本地主题管理器，通过回环 CDP 加载可逆样式，不修改官方程序或签名，提供 `.wbtheme` 签名、检查、导入、应用、卸载、恢复和主题制作 Skill
