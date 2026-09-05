@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**162 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**163 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -156,6 +156,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AI 10x Learning](https://github.com/luozhilzh/ai-10x-learning) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的十步学习闭环 Skill，结合多视角研究、主动回忆、费曼复述和 HTML 学习卡；带安装脚本、引用/核实规则与本地校验器，使用前请确认外部事实、个人学习资料和安装脚本的文件范围.
 - [Book Video Generator](https://github.com/chenjun198711/book-video-generator) - MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的读书视频 Skill，从书籍检索、文案与分镜到 AI 插图、TTS、字幕和 ffmpeg 合成输出 MP4；会访问外部模型/语音服务并可读取 API Key，使用前请核验书籍事实、版权与引用、密钥存储和生成内容质量.
 - [OpenMAIC Skill](https://github.com/THU-MAIC/OpenMAIC) - MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验、互动 HTML、PBL 和 TTS，并支持托管或自托管模式；托管模式需要访问码，自托管会安装 Node/pnpm 依赖、配置模型 Key 并处理上传资料，生成内容还可能经外部模型/语音服务，使用前请核对数据上传、费用、版权、密钥和最终教学事实.
+- [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程；它可能执行 GitHub Git Data API、npm 与 Skill Family Hub 外部写入，且真实宿主安装/验收仍需单独完成，使用前请核对计划、权限、令牌、目标仓库、版本一致性和每个发布动作.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计；内容整理改编自数字生命卡兹克并要求署名、保留来源且不得商用，使用前请遵守原作者许可.
