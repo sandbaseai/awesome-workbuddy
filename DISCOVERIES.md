@@ -3,7 +3,7 @@
 > Automatically discovered GitHub repositories that are **not yet vetted or endorsed**.
 > Check relevance, source, license, permissions, and account terms before moving any entry into the curated list.
 
-Last refreshed: **2026-09-04 UTC**
+Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Last push | License | Description |
 | --- | ---: | --- | --- | --- |
