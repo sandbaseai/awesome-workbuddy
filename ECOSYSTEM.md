@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,466 | Python | 2026-09-04 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,468 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
@@ -21,7 +21,7 @@ Last refreshed: **2026-09-05 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 238 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 240 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
@@ -70,6 +70,7 @@ Last refreshed: **2026-09-05 UTC**
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 21 | JavaScript | 2026-09-04 |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | Python | 2026-09-04 |
 | [Tom6814/WorkBuddy2API](https://github.com/Tom6814/WorkBuddy2API) | 21 | Python | 2026-08-29 |
+| [Coco-katarina/workbuddy-checkin](https://github.com/Coco-katarina/workbuddy-checkin) | 20 | PowerShell | 2026-08-18 |
 | [westsource/agentctxsync](https://github.com/westsource/agentctxsync) | 20 | Python | 2026-08-29 |
 | [sharptoolbox/WorkBuddy-AppBuilderSkill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) | 20 | Python | 2026-08-31 |
 | [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) | 20 | - | 2026-07-19 |

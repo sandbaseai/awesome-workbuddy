@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**154 curated repositories · 4 original Skills · 38 discovery candidates · weekly validation**
+**155 curated repositories · 4 original Skills · 37 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -255,6 +255,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 ### Community clients and enhancements
 
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - Dependency-free check-in and reward automation; it reads a local session token and uses reverse-engineered unofficial endpoints, so review the source and account terms first.
+- [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) - An MIT-licensed WorkBuddy daily check-in Skill that reads local login state and makes idempotent requests to Tencent's documented official endpoint; the token is equivalent to the account password and scheduled tasks perform account actions on the user's behalf, so review the source, credential/log protection, official terms, and authorization scope, and never use it on others' accounts or for batch point farming.
 - [WorkDaddy](https://github.com/babygoton/WorkDaddy) - A desktop enhancement for backups, session migration, and long-running task support.
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - A reversible theme manager for WorkBuddy Desktop.
 - [WorkBuddy Dream Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) - An MIT-licensed, image-driven Windows theme system with presets, a tray controller, verification, and restore tooling. It restarts WorkBuddy with a loopback CDP port and runs unsigned PowerShell plus renderer injection, so save active work and review the scripts before enabling it.
