@@ -32,6 +32,7 @@ Last refreshed: **2026-09-05 UTC**
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,593 | Rust | 2026-09-05 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
+| [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1,521 | JavaScript | 2026-09-05 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,266 | TypeScript | 2026-09-05 |
 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,230 | JavaScript | 2026-09-05 |
@@ -52,7 +53,7 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 634 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 579 | Python | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 580 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 547 | Python | 2026-09-02 |
@@ -92,11 +93,13 @@ Last refreshed: **2026-09-05 UTC**
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 140 | Python | 2026-08-07 |
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
+| [IvanCodesDev/software-certificate-skill](https://github.com/IvanCodesDev/software-certificate-skill) | 134 | Python | 2026-08-17 |
 | [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) | 130 | TypeScript | 2026-08-21 |
 | [naive-kun/naive-video-skill](https://github.com/naive-kun/naive-video-skill) | 123 | Python | 2026-08-11 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 122 | Go | 2026-07-08 |
 | [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 114 | Python | 2026-09-04 |
 | [acnlie/open-kimi-ppt-skill](https://github.com/acnlie/open-kimi-ppt-skill) | 112 | - | 2026-08-06 |
+| [keith-yan/vibe-service-guardian](https://github.com/keith-yan/vibe-service-guardian) | 111 | Python | 2026-09-04 |
 | [WecomTeam/wecom-unified](https://github.com/WecomTeam/wecom-unified) | 108 | Python | 2026-08-21 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |

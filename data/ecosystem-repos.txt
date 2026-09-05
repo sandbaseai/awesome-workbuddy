@@ -422,6 +422,9 @@ rsalmn/ExtremeRouter
 luqi67677/produce-videos
 WecomTeam/wecom-unified
 iswalle/getnote-cli
+xiufengsun/TokenTracker
+IvanCodesDev/software-certificate-skill
+keith-yan/vibe-service-guardian
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
