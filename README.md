@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**186 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**190 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -158,6 +158,9 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Ready-to-use Skills
 
+- [MiniWorkBuddy](https://github.com/joezxh/mini-workbuddy) - MIT 许可、受腾讯 WorkBuddy 启发的开源 AI 工作台，基于 AgentScope，提供多 Agent 团队、Skills、深度研究、调度、MCP、知识库/本体推理及文字/语音交互；运行需要模型/API Key、后端服务、数据库或向量库，并可能启用计划任务或外部集成，属于独立项目，使用前请审查租户隔离、数据流和生产边界.
+- [Design Workflow](https://github.com/yang20040317-svg/design-workflow) - MIT 许可、WorkBuddy/Claude Code 格式的设计工作流 Skill，以五层模型和可复用模块组织，并含图表、前端、图标、移动端、动效、参考资料、字体等子技能；具体工作流可能访问外部参考或本地素材，执行前请核对来源/素材许可、输出路径和工具审批.
+
 - [Majia Huiyuan](https://github.com/maojiebc/majia-huiyuan) - MIT 许可的会员运营与数据体系 Skill，提供 WorkBuddy 单专家发布包、55 个模拟逻辑数据集、25 条 ETL、12 类角色看板以及 RFM、留存、券效益和数据质量参考；所有数值均非真实经营基准，SQL 面向 Spark 3.4，历史平台 JSON 不可直接作为当前导入包，生产使用前必须完成字段映射、口径确认和回归验收，构建脚本还会重建指定的输出目录与 ZIP.
 - [Pandadata API Skill](https://github.com/quantskills/skill-pandadata-api) - GPL-3.0 的可安装 WorkBuddy/Codex 金融数据 Skill，内置 218 个接口的本地文档、检索工具、兼容性索引和可选真实调用；运行时会安装 `panda_data` 及数据依赖并连接用户配置的外部服务，配置器可将用户名和明文密码保存到权限为 600 的 `~/.pandadata/pandadata.env`，SDK 还会写入 `user.json`，因此请保护凭据、核对数据授权，且勿将结果视为投资建议.
 - [Photo to Monthly Zine Postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) - MIT 许可、可直接安装的 WorkBuddy/Codex Skill，将用户照片制作成 3:4 月历 Zine 明信片，并要求先核验匹配的文学与音乐来源；仓库不含执行脚本或凭据处理，但照片可能包含人物、位置、EXIF 或品牌信息，且资料检索与图像生成可能访问外部服务，使用前请确认素材隐私和网络边界.
@@ -243,6 +246,8 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AgentsView](https://github.com/kenn-io/agentsview) - MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy/projects`；只读查询可直接读取本地 SQLite，但 `sync`、用量统计及数据库/远程推送命令会启动可写 daemon 或访问配置的远端目标，使用前请审查会话内容、凭据、同步目的地、网络暴露和写入命令.
 - [DSH Agent Preset Recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) - MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBuddy/CodeBuddy 活动并推荐 preset，不调用 LLM、不发网络请求、不执行命令、不安装或修改 preset；但仍会读取指定本地元数据并写入安装本地的聚合报告，使用前请核对扫描根目录和 DSH 兼容基线.
 - [agentsw](https://github.com/tchivs/agentsw) - MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数据和 WorkBuddy/DSH 配置到九种编码 Agent；支持 `--dry-run` 和备份，但会读写多个本地配置文件并可能处理 API Key，执行前请审查 diff、目标路径、凭据范围和 Provider 条款.
+- [HTML to Feishu Doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) - MIT 许可的跨平台 Skill，可将 HTML 或 URL 转为 Markdown，并可选创建飞书文档，保留表格、图片、标题并提供完整性回查；URL 模式会抓取远程内容和素材，创建文档会上传到飞书并写入本地构建文件，使用前请核对凭据、目标空间、版权和保留范围.
+- [WeChat Article to Markdown](https://github.com/bonboruyau-dev/wechat-article-to-md) - MIT 许可的 Python Skill，可抓取微信公众号文章、提取结构化 Markdown、下载图片、转换 GFM 表格并输出 Obsidian 格式，兼容 WorkBuddy、Claude Code 和 Codex；它会把文章内容写入本地，索引或再分发前必须审查来源授权、版权、隐私和平台条款.
 - [Codex Mate](https://github.com/SakuraByteCore/codexmate) - Apache-2.0 许可的本地 CLI + Web UI，统一管理 CodeBuddy、Codex、Claude Code、Gemini CLI、OpenCode、KiloCode、OpenClaw 与 Pi 的配置、会话、Skills、MCP 和任务队列；支持 WorkBuddy/CodeBuddy 会话浏览与本地 Skills 市场，并提供测试覆盖。它会读写本地配置、会话和凭据，也能启动本地协议桥接、导入 Skill 或删除会话，使用前请备份并逐项确认路径、密钥、端口和写入操作.
 - [CLI2API](https://github.com/caigee-cmd/cli2api) - MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，支持多账号路由、独立 worker、Docker 和回环控制台；默认仅监听 `127.0.0.1` 并要求 API Key，但会处理 OAuth/PAT/凭据导入，使用前请保护导出文件、端口和账号条款边界，勿用于共享转售.
 - [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - MIT 许可的本地协议转换器，将已登录的 WorkBuddy/CodeBuddy 会话转为 OpenAI、Responses 和 Anthropic 兼容接口；它会读取本机登录态并向 `copilot.tencent.com` 转发，使用前请审查源码、凭据文件、端口暴露和腾讯账号条款.

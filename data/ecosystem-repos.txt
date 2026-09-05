@@ -185,3 +185,7 @@ Tom6814/WorkBuddy2API
 fy-agent/fyagent
 LeemanCheung/dsh-agent-preset-recommender
 tchivs/agentsw
+joezxh/mini-workbuddy
+yang20040317-svg/design-workflow
+bonboruyau-dev/html-to-feishu-doc
+bonboruyau-dev/wechat-article-to-md

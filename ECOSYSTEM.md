@@ -7,14 +7,14 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,605 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,936 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,606 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,935 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,509 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
-| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,919 | - | 2026-08-12 |
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,770 | Go | 2026-09-05 |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,812 | TypeScript | 2026-09-04 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,775 | TypeScript | 2026-09-04 |
+| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,920 | - | 2026-08-12 |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,771 | Go | 2026-09-05 |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,811 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,776 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,037 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
@@ -193,5 +193,9 @@ Last refreshed: **2026-09-05 UTC**
 | [zhangx1234994/aicp-product-creator-skill](https://github.com/zhangx1234994/aicp-product-creator-skill) | 0 | JavaScript | 2026-09-04 |
 | [Kallium-cn/workbuddy-jupyter-bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) | 0 | Python | 2026-09-03 |
 | [tchivs/agentsw](https://github.com/tchivs/agentsw) | 0 | TypeScript | 2026-09-05 |
+| [joezxh/mini-workbuddy](https://github.com/joezxh/mini-workbuddy) | 0 | Python | 2026-09-05 |
+| [yang20040317-svg/design-workflow](https://github.com/yang20040317-svg/design-workflow) | 0 | Python | 2026-09-05 |
+| [bonboruyau-dev/html-to-feishu-doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) | 0 | Python | 2026-09-05 |
+| [bonboruyau-dev/wechat-article-to-md](https://github.com/bonboruyau-dev/wechat-article-to-md) | 0 | Python | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

@@ -830,6 +830,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "MiniWorkBuddy",
+    "url": "https://github.com/joezxh/mini-workbuddy",
+    "description": "An MIT-licensed open-source AI workbench inspired by Tencent WorkBuddy, built on AgentScope with multi-agent teams, Skills, deep research, scheduling, MCP, knowledge-base/ontology workflows, and text/voice interfaces; running it involves model/API keys, backend services, databases or vector stores, and potentially scheduled or external integrations, so treat it as an independent project and review tenant, data, and production boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "MiniWorkBuddy",
+    "descriptionZh": "MIT 许可、受腾讯 WorkBuddy 启发的开源 AI 工作台，基于 AgentScope，提供多 Agent 团队、Skills、深度研究、调度、MCP、知识库/本体推理及文字/语音交互；运行需要模型/API Key、后端服务、数据库或向量库，并可能启用计划任务或外部集成，属于独立项目，使用前请审查租户隔离、数据流和生产边界",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Design Workflow",
+    "url": "https://github.com/yang20040317-svg/design-workflow",
+    "description": "An MIT-licensed WorkBuddy/Claude Code-format design workflow Skill organized around five layers and reusable modules, with subskills for charts, frontend, icons, mobile, motion, references, typography, and more; selected workflows may access external references or local assets, so review source/asset licensing, output paths, and tool approvals before execution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Design Workflow",
+    "descriptionZh": "MIT 许可、WorkBuddy/Claude Code 格式的设计工作流 Skill，以五层模型和可复用模块组织，并含图表、前端、图标、移动端、动效、参考资料、字体等子技能；具体工作流可能访问外部参考或本地素材，执行前请核对来源/素材许可、输出路径和工具审批",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Majia Huiyuan",
     "url": "https://github.com/maojiebc/majia-huiyuan",
     "description": "An MIT-licensed membership-operations and data-system Skill with a WorkBuddy single-expert package, 55 simulated logical datasets, 25 ETL flows, 12 role-oriented dashboards, and RFM, retention, coupon-effectiveness, and data-quality references; no values are real business benchmarks, SQL targets Spark 3.4, historical platform JSON is not a current import package, production use requires schema mapping, metric agreement, and regression acceptance, and its build tool recreates the selected output directory and ZIP",
@@ -1617,6 +1637,26 @@
     "category": "Tools and integrations",
     "titleZh": "agentsw",
     "descriptionZh": "MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数据和 WorkBuddy/DSH 配置到九种编码 Agent；支持 `--dry-run` 和备份，但会读写多个本地配置文件并可能处理 API Key，执行前请审查 diff、目标路径、凭据范围和 Provider 条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "HTML to Feishu Doc",
+    "url": "https://github.com/bonboruyau-dev/html-to-feishu-doc",
+    "description": "An MIT-licensed cross-platform Skill that converts HTML or URLs to Markdown and optionally creates Feishu/Lark documents while preserving tables, images, headings, and integrity checks; URL mode fetches remote content and assets, while document creation uploads to Feishu and writes local build files, so verify credentials, destination scope, copyright, and retention first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "HTML to Feishu Doc",
+    "descriptionZh": "MIT 许可的跨平台 Skill，可将 HTML 或 URL 转为 Markdown，并可选创建飞书文档，保留表格、图片、标题并提供完整性回查；URL 模式会抓取远程内容和素材，创建文档会上传到飞书并写入本地构建文件，使用前请核对凭据、目标空间、版权和保留范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "WeChat Article to Markdown",
+    "url": "https://github.com/bonboruyau-dev/wechat-article-to-md",
+    "description": "An MIT-licensed Python Skill that fetches WeChat Official Account articles, extracts structured Markdown, downloads images, converts tables to GFM, and supports Obsidian output for WorkBuddy, Claude Code, and Codex; it writes article content locally and involves source authorization, copyright, privacy, and platform-term review before indexing or redistribution",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WeChat Article to Markdown",
+    "descriptionZh": "MIT 许可的 Python Skill，可抓取微信公众号文章、提取结构化 Markdown、下载图片、转换 GFM 表格并输出 Obsidian 格式，兼容 WorkBuddy、Claude Code 和 Codex；它会把文章内容写入本地，索引或再分发前必须审查来源授权、版权、隐私和平台条款",
     "categoryZh": "Tools and integrations"
   },
   {
