@@ -96,13 +96,13 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 ## Open-source Ecosystem
 
 > [!NOTE]
-> “Works with WorkBuddy” does not mean “endorsed by Tencent.” Check licenses, account terms, permissions, and credentials before using unofficial automation or API tooling.
+> “Works with WorkBuddy” does not mean “endorsed by Tencent.” See each project for its license and usage instructions.
 
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine.
-- [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API
+- [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths
 - [Agent Learning Guide](https://github.com/tangshiyegit/agent-guide) - A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies
 - [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - An Apache-2.0 15-minute hands-on guide to building Skills through creation, evaluation, iteration, and benchmark stages, with an explicit CodeBuddy installation path at `~/.codebuddy/skills/`
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - A Chinese learning path for AI coding tools and office Agents, including WorkBuddy.
@@ -112,11 +112,11 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 - [ZZZ Plain-language AI Guide](https://github.com/mfkyddh/ZZZ-Simple-AI) - A license-not-declared beginner guide created primarily with WorkBuddy, organized into nine core chapters and 30 extensions on LLMs, Agents, context, memory, MCP, Skills, multi-Agent systems, and AI coding workflows
 - [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - Explains prompts, memory, plugins, experts, Skills, and safety boundaries.
 - [WorkBuddy Harness](https://github.com/zhuang-HE/workbuddy-harness) - A license-not-declared nine-dimension infrastructure framework for WorkBuddy-style Agents, with 11 plugins, 21 Hooks, Hook/evaluation runtimes, a daemon, and 30 benchmark cases
-- [LoopForge](https://github.com/Tencent/LoopForge) - Tencent's MIT-licensed multi-agent software-delivery workflow for requirement clarification, boundary confirmation, design, implementation, independent review, testing, and resumable handoff, with CLI/Skill installation for CodeBuddy, Codex, Cursor, and Claude Code
-- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - An MIT-licensed cross-agent software-delivery workflow with explicit CodeBuddy support, a single source of truth, stage Skill contracts, state files, artifact gates, real verification, and CLI adapters
+- [LoopForge](https://github.com/Tencent/LoopForge) - Tencent's MIT-licensed multi-agent software-delivery workflow for CodeBuddy, Codex, Cursor, and Claude Code
+- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - An MIT-licensed cross-agent software-delivery workflow with CodeBuddy support
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses
-- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - An MIT-licensed self-contained workflow harness for WorkBuddy/CodeBuddy CLI and IDE with staged planning, host-readiness verification, reversible offboarding, MCP/Skill routes, and layered tests
-- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - An MIT-licensed product-contract Skill for WorkBuddy, CodeBuddy, and Codex that aligns PRDs and experience roadmaps around evidence, user value, truth boundaries, assumptions, and acceptance criteria, with versioned templates, deterministic validators, evaluation fixtures, and tests
+- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - An MIT-licensed workflow tool for WorkBuddy/CodeBuddy CLI and IDE with planning and MCP/Skill routing
+- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - An MIT-licensed product-planning Skill for WorkBuddy, CodeBuddy, and Codex that helps organize PRDs and roadmaps
 
 ### Skill collections
 
@@ -463,4 +463,4 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ## About
 
-This is an independently maintained WorkBuddy resource index released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms; the machine-readable index is [`site/llms.txt`](site/llms.txt), project-maintenance notes are in [CONTRIBUTING.md](CONTRIBUTING.md), and citation metadata is in [CITATION.cff](CITATION.cff).
+This is an independently maintained WorkBuddy resource index released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms; the machine-readable index is [`site/llms.txt`](site/llms.txt), with citation metadata in [CITATION.cff](CITATION.cff).
