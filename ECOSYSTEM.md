@@ -7,10 +7,10 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,094 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,896 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,970 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,971 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -18,7 +18,7 @@ Last refreshed: **2026-09-05 UTC**
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,304 | Rust | 2026-09-05 |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,305 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
 | [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,169 | Rust | 2026-09-05 |
@@ -34,7 +34,7 @@ Last refreshed: **2026-09-05 UTC**
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,265 | TypeScript | 2026-09-05 |
-| [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,228 | JavaScript | 2026-09-05 |
+| [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,229 | JavaScript | 2026-09-05 |
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-05 |
@@ -52,7 +52,7 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 634 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 578 | Python | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 579 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 547 | Python | 2026-09-02 |
