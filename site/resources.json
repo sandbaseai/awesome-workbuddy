@@ -530,6 +530,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Xiaozhi Learning Skills",
+    "url": "https://github.com/qizhitang/xiaozhi-skills",
+    "description": "An MIT-licensed K-12 learning and teaching Skill collection with 57 student and teacher Skills and explicit WorkBuddy support; confirm the authorization boundaries for students, parents, teachers, and shared learning evidence before use",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "小智伴学 Skills",
+    "descriptionZh": "MIT 许可的 K12 学习与教学 Skill 集合，包含 57 个学生端/教师端 Skill，并明确支持 WorkBuddy；涉及学习记录或共享证据时请先确认家长、学生和教师的授权边界",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Agency Agents 中文版",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
     "description": "An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`",
@@ -2940,6 +2950,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Tokdash",
+    "url": "https://github.com/JingbiaoMei/Tokdash",
+    "description": "An MIT-licensed local Agent session and quota analytics dashboard with explicit WorkBuddy support, reading local transcripts to report tokens, cost, sessions, and quotas; review scanned directories, output content, and local-data permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Tokdash",
+    "descriptionZh": "MIT 许可的本地 Agent 会话与额度分析面板，明确支持 WorkBuddy，可读取本地 transcript 统计 Token、费用、会话和配额；使用前请检查扫描目录、输出内容和本地数据权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Fanbox",
     "url": "https://github.com/alchaincyf/fanbox",
     "description": "An MIT-licensed local multi-agent cockpit that launches and manages multiple Agents including WorkBuddy, with window status and waiting-state reminders; review the commands, working directories, and client configuration it will use first",
@@ -4248,6 +4268,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "HeiGe Codex Skin Studio",
+    "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+    "description": "An MIT-licensed desktop theming tool with explicit WorkBuddy/Tencent CodeBuddy support for switching, restoring, and diagnosing themes; it injects or adjusts the client rendering layer, so back up configuration and confirm compatibility with the current version first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "HeiGe Codex Skin Studio",
+    "descriptionZh": "MIT 许可的桌面主题工具，明确支持 WorkBuddy/腾讯 CodeBuddy，可切换、恢复和诊断主题；它会注入或调整客户端渲染层，使用前请备份配置并确认当前版本兼容性",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "MultiCC",

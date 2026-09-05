@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [Xiaozhi Learning Skills](https://github.com/qizhitang/xiaozhi-skills) - An MIT-licensed K-12 learning and teaching Skill collection with 57 student and teacher Skills and explicit WorkBuddy support; confirm the authorization boundaries for students, parents, teachers, and shared learning evidence before use
+
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`
 
 - [skill-manager](https://github.com/GrubbyLee/skill-manager) - An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes
@@ -338,6 +340,8 @@
 
 ### Tools and integrations
 
+- [Tokdash](https://github.com/JingbiaoMei/Tokdash) - An MIT-licensed local Agent session and quota analytics dashboard with explicit WorkBuddy support, reading local transcripts to report tokens, cost, sessions, and quotas; review scanned directories, output content, and local-data permissions first
+
 - [Fanbox](https://github.com/alchaincyf/fanbox) - An MIT-licensed local multi-agent cockpit that launches and manages multiple Agents including WorkBuddy, with window status and waiting-state reminders; review the commands, working directories, and client configuration it will use first
 
 - [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - An MIT-licensed local desktop gateway that translates the Codex CLI Responses API into Chat Completions, with a built-in WorkBuddy (Tencent CodeBuddy) provider adapter; see the project for the scope of long-term real-device verification for other providers
@@ -479,6 +483,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements
+
+- [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) - An MIT-licensed desktop theming tool with explicit WorkBuddy/Tencent CodeBuddy support for switching, restoring, and diagnosing themes; it injects or adjusts the client rendering layer, so back up configuration and confirm compatibility with the current version first
 
 - [MultiCC](https://github.com/lsjwzh/MultiCC) - An MIT-licensed multi-agent controller with explicit WorkBuddy support for parallel sessions, isolated Git worktrees, desktop/mobile notifications, and unified Skills/MCP management; confirm worktree and permission boundaries before parallel edits in one repository
 

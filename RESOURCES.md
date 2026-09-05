@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [小智伴学 Skills](https://github.com/qizhitang/xiaozhi-skills) - MIT 许可的 K12 学习与教学 Skill 集合，包含 57 个学生端/教师端 Skill，并明确支持 WorkBuddy；涉及学习记录或共享证据时请先确认家长、学生和教师的授权边界
+
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区 AI 专家角色集合，覆盖工程、设计、营销、金融等 20 个部门，并提供转换与安装到 WorkBuddy `~/.workbuddy/skills/` 的脚本
 
 - [skill-manager](https://github.com/GrubbyLee/skill-manager) - MIT 许可的零依赖本地 Skills/MCP 管理 CLI，明确支持 WorkBuddy，可扫描、推荐、去重、审计和可视化本地资源；默认只读，执行 setup 或写入前请先查看变更计划
@@ -337,6 +339,8 @@
 
 ### Tools and integrations
 
+- [Tokdash](https://github.com/JingbiaoMei/Tokdash) - MIT 许可的本地 Agent 会话与额度分析面板，明确支持 WorkBuddy，可读取本地 transcript 统计 Token、费用、会话和配额；使用前请检查扫描目录、输出内容和本地数据权限
+
 - [Fanbox](https://github.com/alchaincyf/fanbox) - MIT 许可的本地多 Agent 工作台，可一键启动和管理包括 WorkBuddy 在内的多个 Agent，并提供窗口状态与等待提醒；使用前请确认它将启动的命令、工作目录和客户端配置
 
 - [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - MIT 许可的本地桌面网关，将 Codex CLI 的 Responses API 转换为 Chat Completions，内置 WorkBuddy（腾讯 CodeBuddy）提供商适配；其他提供商的长期真机验证范围请以项目说明为准
@@ -478,6 +482,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
+
+- [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) - MIT 许可的桌面主题工具，明确支持 WorkBuddy/腾讯 CodeBuddy，可切换、恢复和诊断主题；它会注入或调整客户端渲染层，使用前请备份配置并确认当前版本兼容性
 
 - [MultiCC](https://github.com/lsjwzh/MultiCC) - MIT 许可的多 Agent 控制器，明确支持 WorkBuddy，可并行管理多个 Agent、使用隔离 Git worktree、接收桌面/移动端通知，并统一管理 Skills 与 MCP；并行修改同一仓库前请确认 worktree 和权限边界
 
