@@ -1740,6 +1740,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Xiaohongshu Viral Note Agent Skill",
+    "url": "https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill",
+    "description": "An MIT-licensed WorkBuddy-compatible Skill/MCP for public trend research, note generation, claim/originality/compliance checks, account analytics, and draft-preview-approval-publish workflows; it may use login state, a browser, and external model/search providers, so review platform terms, session storage, content rights, network scope, and final publishing results first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Xiaohongshu Viral Note Agent Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的内容运营 Skill/MCP，覆盖公开热点研究、笔记生成、声明/原创/合规检查、账号分析和“草稿→预览→确认→发布”流程；会使用登录态、浏览器和外部模型/搜索服务，使用前请核对平台条款、会话存储、内容版权、网络范围与发布结果",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Agent File Parser Downloader",
     "url": "https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader",
     "description": "An MIT-licensed Python 3.11+ CLI/GUI utility that parses the public expert/team manifest, downloads `.tar.gz` bundles, and produces local Excel summaries and retry lists; it makes network requests and stores third-party agent packages, so review rate limits, output scope, upstream licenses, account terms, and redistribution boundaries first",

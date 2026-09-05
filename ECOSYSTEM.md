@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,666 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,668 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,941 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,307 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,531 | Python | 2026-09-05 |
@@ -18,7 +18,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,779 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,590 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,582 | Rust | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,042 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,043 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -29,7 +29,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-03 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 259 | Python | 2026-08-13 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 260 | Python | 2026-08-13 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 252 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
@@ -81,9 +81,9 @@ Last refreshed: **2026-09-05 UTC**
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |
 | [zhouwei713/WorkBuddy-Dream-Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) | 24 | CSS | 2026-07-24 |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 24 | JavaScript | 2026-09-05 |
 | [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) | 24 | TypeScript | 2026-09-05 |
 | [Dangooy/trade-pipeline-skill](https://github.com/Dangooy/trade-pipeline-skill) | 24 | Python | 2026-09-04 |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 23 | JavaScript | 2026-09-05 |
 | [bitcjm/workbuddy-skills](https://github.com/bitcjm/workbuddy-skills) | 22 | Python | 2026-06-01 |
 | [beeyang0/miniprogram-VirtualPayment](https://github.com/beeyang0/miniprogram-VirtualPayment) | 21 | - | 2026-04-03 |
 | [ahang1598/doubao-workbuddy-qwenwork-skills](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) | 21 | Python | 2026-09-04 |
@@ -130,6 +130,7 @@ Last refreshed: **2026-09-05 UTC**
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | Rust | 2026-09-04 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
 | [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | Python | 2026-09-03 |
+| [xuboboo/xiaohongshu-viral-note-agent-skill](https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill) | 11 | Python | 2026-07-19 |
 | [dongsheng123132/task-passport](https://github.com/dongsheng123132/task-passport) | 11 | JavaScript | 2026-08-26 |
 | [Likenttt/garmin-connect-plugin-for-dsh](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) | 11 | TypeScript | 2026-08-29 |
 | [ycyliu/travel-planner-skill](https://github.com/ycyliu/travel-planner-skill) | 11 | HTML | 2026-03-19 |
