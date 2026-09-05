@@ -135,6 +135,10 @@
 
 ### Ready-to-use Skills
 
+- [Cyber Bookhouse](https://github.com/Raven7979/cyber-bookhouse) - An MIT-licensed local Obsidian-ingestion Skill for Codex, Claude, and WorkBuddy that turns articles, videos, and podcasts into sourced Markdown notes; confirm content authorization and sensitive-data boundaries before processing local or online material
+- [Qianjin Content Repurposer](https://github.com/ZOORO-NEW/qianjin-content-repurposer) - An MIT-licensed content-repurposing Skill with a WorkBuddy-specific installation path, turning one article into native content for WeChat, Xiaohongshu, Zhihu, Bilibili, Video Account, and Douyin; manually review facts, rights, and platform rules before publishing
+- [Personalized Travel Guide Skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - An MIT-licensed travel-guide Skill with explicit WorkBuddy support that outputs mobile-friendly web handbooks for routes, sights, food, and preparation; travel information changes, so verify it through official sources before a trip
+
 - [SpecGate](https://github.com/supernisy/specgate) - An MIT-licensed deterministic acceptance-contract gate Skill with explicit user-level and project-level WorkBuddy installation paths, turning requirements into mechanically verifiable contracts and task packages; its first run installs a dependency and executes local scripts, so review its installation scope first
 - [Turning Ideas into Projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) - An MIT-licensed project workflow Skill with a Tencent WorkBuddy-specific ZIP, breaking vague ideas into approved, verifiable stages; platform packages are not interchangeable, so follow the project installation guide before importing
 
@@ -346,6 +350,8 @@
 
 ### Tools and integrations
 
+- [LidKeeper](https://github.com/Luchioxy/LidKeeper) - An MIT-licensed local keep-awake tool that supports Claude Code, Codex, and WorkBuddy while running with the lid closed; its installer changes system power-related settings, so inspect the script and confirm how to restore them first
+- [Aivatar](https://github.com/ruiwuniu/Aivatar-Demo) - An MIT-licensed local-first desktop companion with explicit Tencent WorkBuddy support, mapping Agent status to a pixel-room experience; it reads local Agent state and runs as a desktop app, so review data paths and permissions on first use
 - [27c.site](https://github.com/idea-internet/idea_internet) - An MIT-licensed AI website-publishing platform with explicit WorkBuddy support through MCP or an HTTP API for creating, generating assets, and publishing sites; publishing creates external network traffic and public content, so confirm domains, credentials, assets, and rollback boundaries first
 - [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) - An Apache-2.0 cross-platform desktop app for managing Agents and MCP servers, supporting WorkBuddy sessions, usage, memory, and Skill sharing with local telemetry endpoints; it reads local sessions or transcripts by default, so review scan scope and export behavior first
 - [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - An Apache-2.0 local telemetry collector for AI coding Agents with explicit WorkBuddy Hook and transcript support, exporting token, cost, trace, and security-audit data; confirm content-capture policy and export destinations before enabling it
@@ -499,6 +505,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements
+
+- [WorkBuddy for Linux](https://github.com/JipZeonGit/workbuddy-linux) - An MIT-licensed unofficial Linux build tool that converts a user-supplied WorkBuddy macOS Intel DMG into a local Electron app; the project is archived and does not provide Tencent binaries, so verify provenance, compatibility, and license boundaries first
 
 - [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) - An MIT-licensed desktop theming tool with explicit WorkBuddy/Tencent CodeBuddy support for switching, restoring, and diagnosing themes; it injects or adjusts the client rendering layer, so back up configuration and confirm compatibility with the current version first
 

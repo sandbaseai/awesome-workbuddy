@@ -448,6 +448,12 @@ Ryder-MHumble/Meldwork
 supernisy/specgate
 jiadakong2013wy-eng/turning-ideas-into-projects
 idea-internet/idea_internet
+Raven7979/cyber-bookhouse
+ZOORO-NEW/qianjin-content-repurposer
+TokenHungryMash/personalized-travel-guide-skill
+Luchioxy/LidKeeper
+ruiwuniu/Aivatar-Demo
+JipZeonGit/workbuddy-linux
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
