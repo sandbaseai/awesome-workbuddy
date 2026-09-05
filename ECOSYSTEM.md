@@ -11,9 +11,9 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,875 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,964 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,566 | Python | 2026-09-05 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,382 | Python | 2026-09-04 |
-| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,248 | - | 2026-08-25 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,567 | Python | 2026-09-05 |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
+| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,927 | JavaScript | 2026-09-02 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,148 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
@@ -96,6 +96,7 @@ Last refreshed: **2026-09-05 UTC**
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
 | [lasoons/AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) | 91 | TypeScript | 2026-01-17 |
 | [wink-run/tokenbank](https://github.com/wink-run/tokenbank) | 90 | JavaScript | 2026-09-05 |
+| [touchine-ojo/OJO-Design-Skills](https://github.com/touchine-ojo/OJO-Design-Skills) | 89 | Shell | 2026-07-29 |
 | [xiaolai/ai-cli-kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) | 77 | Shell | 2026-07-18 |
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |

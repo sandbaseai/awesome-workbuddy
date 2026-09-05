@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it
 - [XHS Virtual Product](https://github.com/chenjin-cmd/xhs-virtual-product) - An MIT-licensed end-to-end Xiaohongshu digital-product workflow Skill with explicit WorkBuddy support, covering product selection, competitor analysis, production, listing, content, and review while putting originality and copyright checks into the workflow
 - [Gongkao Essay Review](https://github.com/liuyuexi1987/shenlun-review-pro) - A GPL-3.0 WorkBuddy Skill/plugin for Chinese civil-service essay review, covering material analysis, answer calibration, response grading, suggested scoring, and MCP tools; redistribution must retain the license, copyright notice, and corresponding source
 - [Backend Interview Simulator](https://github.com/Hazehacker/backend-interview-simulator) - An MIT-licensed Java/Go/C++ backend-interview simulation Skill with explicit WorkBuddy support, offering multiple personas, styles, and progressive follow-ups; ask WorkBuddy to install it and start a mock interview
