@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "A-share Short-term Stock Picker",
+    "url": "https://github.com/lijq126/short-term-stock-picker",
+    "description": "An MIT-licensed WorkBuddy Skill for A-share short-term-stock and ETF research using live market, sentiment, and technical signals; for research only and not investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "A-share Short-term Stock Picker",
+    "descriptionZh": "MIT 许可的 WorkBuddy A 股短线与 ETF 研究 Skill，按实时行情、情绪和技术信号生成候选分析；仅作研究参考，不构成投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Skill Integrator",
     "url": "https://github.com/smiling66652/skill-integrator",
     "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",
