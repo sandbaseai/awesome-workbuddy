@@ -126,6 +126,7 @@
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - MIT 许可、明确支持 WorkBuddy 的升学与职业规划思维框架 Skill，覆盖高考志愿、考研和就业方向，可通过 `npx skills add` 安装；内容来自公开资料蒸馏，不代表本人或官方建议，涉及现实决策时请核对最新政策、院校和就业数据
 - [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) - MIT 许可、明确支持 WorkBuddy 的产品、设计与战略思维 Skill，提炼心智模型、决策启发式和表达方式，可通过 `npx skills add` 安装；内容来自公开资料整理，不代表本人或官方观点
 - [MCK PPT Design Skill](https://github.com/likaku/Mck-ppt-design-skill) - Apache-2.0 许可、原生支持 WorkBuddy 的咨询风格 PPT 设计 Skill，提供 70 种布局模式、`python-pptx` 生成和分阶段结构/渲染校验
+- [Humanize PPT](https://github.com/LearnPrompt/humanize-ppt) - MIT 许可的演讲型 PPT 大纲与体检 Skill，提供 WorkBuddy Team 适配说明，先按观众状态组织演讲线，再交给下游 Skill 渲染，并检查逐页可讲性、素材和演示模式
 - [dbskill](https://github.com/dontbesilent2025/dbskill) - CC BY-NC 4.0 许可、明确支持 WorkBuddy 的中文商业诊断 Skills 工具箱，覆盖业务、内容、选择和行动问题，提供 31 个可安装 Skill；商业使用和再分发请遵守非商业许可
 - [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) - MIT 许可、兼容 WorkBuddy 的八字与紫微斗数 Skill，使用确定性本地算法排盘，提供三种分析模式、测试案例和可分享的 HTML 命盘海报；仅作传统文化/娱乐参考，不用于医疗、投资、婚姻或法律决策
 - [YueYuan Bazi](https://github.com/qianye-wuyu/yueyuan-bazi) - MIT 许可、明确支持 WorkBuddy 的研究型八字 Skill，使用确定性排盘引擎、证据/不确定度标注、预注册预测与后验验证，附规则冻结版本和 100 个虚构案例测试；仅作传统文化参考，不作宿命、医疗或投资决策依据

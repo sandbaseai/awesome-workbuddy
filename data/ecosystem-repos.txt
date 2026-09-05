@@ -11,6 +11,7 @@ alchaincyf/claude-code-orange-book
 alchaincyf/codex-orange-book
 alchaincyf/steve-jobs-skill
 likaku/Mck-ppt-design-skill
+LearnPrompt/humanize-ppt
 dontbesilent2025/dbskill
 platonai/Browser4
 alchaincyf/nuwa-skill
