@@ -1010,6 +1010,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Topic Pipeline",
+    "url": "https://github.com/KKbaocai/topic-pipeline",
+    "description": "An MIT-licensed WorkBuddy ideation Skill that combines multi-platform trends with knowledge-base analysis in focused-topic, global-scan, and competitor-reference modes",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Topic Pipeline",
+    "descriptionZh": "MIT 许可的 WorkBuddy 选题 Skill，结合多平台热点和知识库分析，支持主题聚焦、全局扫描与竞品对标",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Skill Integrator",
     "url": "https://github.com/smiling66652/skill-integrator",
     "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",

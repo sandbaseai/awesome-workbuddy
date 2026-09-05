@@ -267,3 +267,4 @@ Banye0517/ecommerce-detail-page-skill
 cuic19053-hue/awesome-student-ai-skills
 chouraycn/beautiful-mermaid
 yangchen0991/video-workshop
+KKbaocai/topic-pipeline
