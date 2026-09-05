@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Awesome WorkBuddy updates</title>
+    <link>https://sandbaseai.github.io/awesome-workbuddy/</link>
+    <description>Newly curated WorkBuddy resources, audits, and directory improvements.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>v0.10.9: TencentDB Agent Memory</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.9</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.9</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Added TencentDB Agent Memory and documented WorkBuddy Proxy, credential, port, retention, and team-sharing boundaries.</description>
+    </item>
+    <item>
+      <title>Four new WorkBuddy integrations curated</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/discussions/299</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/discussions/299</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <description>OpenMAIC, memU, AgentsView, and TencentDB Agent Memory are now highlighted in the bilingual directory with safety notes.</description>
+    </item>
+  </channel>
+</rss>
