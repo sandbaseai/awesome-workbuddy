@@ -46,6 +46,7 @@ KimYx0207/AI-Coding-Guide-Zh
 AiToByte/AgenticMetaEngineering
 squallopen/superpowers-zh-adapters
 Tencent/workbuddy-bench
+bruc3van/DocuGenius
 mrzhangguoguo/oh-my-workbuddy
 ai3027/workbuddy-skills
 Tugoukezhang/workbuddy-skills
