@@ -2540,6 +2540,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "MemoraX Code",
+    "url": "https://github.com/memorax-ai/memorax-code",
+    "description": "An MIT-licensed cross-agent engineering-memory layer with explicit WorkBuddy support, installable through npm to share project context, engineering knowledge, and reusable lessons; guest mode works without an account, while full features require a MemoraX account/API key, so follow upstream credential and data-flow guidance",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "MemoraX Code",
+    "descriptionZh": "MIT 许可的跨 Agent 工程记忆层，明确支持 WorkBuddy，可通过 npm 安装并共享项目上下文、工程经验和可复用教训；支持无账号访客模式，但完整功能需要 MemoraX 账户/API Key，请按上游说明保管凭证并核对数据流",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "TencentDB Agent Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "description": "An MIT-licensed team Agent-memory hub maintained by Tencent with direct WorkBuddy Proxy integration, turning sessions, documents, and code into Chat Memory, Skills, an LLM Wiki, and CodeGraph through a local Docker stack",

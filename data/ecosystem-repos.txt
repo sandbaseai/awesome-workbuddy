@@ -241,6 +241,7 @@ Guyzn/workbuddy-cua-mcp
 qianzhu18/workisland
 oceanbase/powercontext
 AVIDS2/memorix
+memorax-ai/memorax-code
 TencentCloud/TencentDB-Agent-Memory
 Tencent/BrowserSkill
 edison7009/EchoBird
