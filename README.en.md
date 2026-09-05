@@ -241,6 +241,8 @@ The full catalog is grouped below. For everyday browsing, use the [searchable re
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage
 - [OnePlus ReSukiSU Kernel Skill](https://github.com/yimiaoxiehou/oneplus-resukisu-kernel-skill) - An MIT-licensed WorkBuddy/Agent Skill for building, flashing, rolling back, and verifying OnePlus kernels; unlocking and flashing are high-risk device operations, so back up first
 - [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) - An MIT-licensed Windows Skill for cross-device task continuity that uses a WPS cloud-drive Junction as the primary channel, HANDOFF/memory files as a transit channel, and a daemon/watchdog for ongoing sync
+- [Time Rhythm Planner](https://github.com/yanjingxihaiyu/time-rhythm-planner) - A license-not-declared WorkBuddy user-level Skill that turns personal templates into weekly/daily plans, creator-workbench tasks, and retrospectives
+- [Voice Refine Skill](https://github.com/Yinc25665-rgb/voice-refine-skill) - A license-not-declared WorkBuddy/Claude Code Skill that turns verbose voice input into concise, actionable task instructions
 - [Zhengneng Japanese](https://github.com/notbadhuang/notbadhuang-japanese-skill) - A CC BY-NC 4.0 WorkBuddy/Codex Japanese-learning Skill with 0-to-N5 course installation, study orchestration, and local learning records
 
 
