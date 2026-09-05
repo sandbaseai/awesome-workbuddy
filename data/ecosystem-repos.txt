@@ -43,6 +43,10 @@ simplast/workbuddy-api
 liuboacean/qclaw-workbuddy-bridge
 ImLeonLi/GitHub-Trending-MCP
 towelong/panxiaozi
+chenjin-cmd/xhs-virtual-product
+liuyuexi1987/shenlun-review-pro
+Hazehacker/backend-interview-simulator
+smile-xyy/resume-tailor
 chenin0931/OpenWorkbuddy
 louloulin/OpenBuddy
 wynter-cai/assetplex

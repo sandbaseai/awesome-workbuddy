@@ -970,6 +970,46 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "XHS Virtual Product",
+    "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
+    "description": "An MIT-licensed end-to-end Xiaohongshu digital-product workflow Skill with explicit WorkBuddy support, covering product selection, competitor analysis, production, listing, content, and review while putting originality and copyright checks into the workflow",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "XHS Virtual Product",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的小红书虚拟资料全流程 Skill，覆盖选品、竞品分析、制作、上架、内容和复盘，并将原创与版权合规检查放在工作流中",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Gongkao Essay Review",
+    "url": "https://github.com/liuyuexi1987/shenlun-review-pro",
+    "description": "A GPL-3.0 WorkBuddy Skill/plugin for Chinese civil-service essay review, covering material analysis, answer calibration, response grading, suggested scoring, and MCP tools; redistribution must retain the license, copyright notice, and corresponding source",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "申论复盘一体版",
+    "descriptionZh": "GPL-3.0 许可的 WorkBuddy 申论复盘 Skill/插件，提供材料解析、答案校准、作答批改、建议评分和 MCP 工具，并要求保留许可证、版权声明和对应源码",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Backend Interview Simulator",
+    "url": "https://github.com/Hazehacker/backend-interview-simulator",
+    "description": "An MIT-licensed Java/Go/C++ backend-interview simulation Skill with explicit WorkBuddy support, offering multiple personas, styles, and progressive follow-ups; ask WorkBuddy to install it and start a mock interview",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Backend Interview Simulator",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 Java/Go/C++ 后端面试模拟 Skill，提供多身份、多风格和逐步追问，可直接让 WorkBuddy 安装后开始模拟",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Resume Tailor",
+    "url": "https://github.com/smile-xyy/resume-tailor",
+    "description": "An MIT-licensed local-first resume-tailoring Skill with explicit WorkBuddy support, generating traceable match analysis, tailored resumes, and local HTML/PDF reports from resumes, experience libraries, and job descriptions; review permissions for personal-data directories",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Resume Tailor",
+    "descriptionZh": "MIT 许可的本地优先简历定制 Skill，明确支持 WorkBuddy，可根据简历、经历库和岗位信息生成可追溯匹配分析、定制简历和本地 HTML/PDF 报告；使用时请确认个人资料目录权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Zhang Xuefeng Skill",
     "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
     "description": "An MIT-licensed WorkBuddy-compatible Skill for education and career planning, covering university-major choices, graduate-school decisions, and employment direction via `npx skills add`; it distills public material and is not an endorsement or official advice, so verify current policies, school information, and employment data before making real decisions",
