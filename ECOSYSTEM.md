@@ -8,7 +8,7 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,562 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,929 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,930 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,492 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
