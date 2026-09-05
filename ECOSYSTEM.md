@@ -8,7 +8,7 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,074 | Python | 2026-08-25 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,075 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,742 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,953 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,544 | Python | 2026-09-05 |
@@ -32,7 +32,7 @@ Last refreshed: **2026-09-05 UTC**
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 627 | JavaScript | 2026-09-05 |
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 565 | Python | 2026-09-05 |
-| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 559 | Python | 2026-09-05 |
+| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 544 | Python | 2026-09-02 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
@@ -40,7 +40,7 @@ Last refreshed: **2026-09-05 UTC**
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 277 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 261 | Python | 2026-08-13 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 256 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 257 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [iBlinkQ/project-cairn](https://github.com/iBlinkQ/project-cairn) | 223 | Shell | 2026-09-04 |
@@ -279,6 +279,7 @@ Last refreshed: **2026-09-05 UTC**
 | [mowenQWQ/Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | 0 | Shell | 2026-09-04 |
 | [GiaSip/ai-hr](https://github.com/GiaSip/ai-hr) | 0 | Python | 2026-09-05 |
 | [tchivs/agentsw](https://github.com/tchivs/agentsw) | 0 | TypeScript | 2026-09-05 |
+| [iithink88/wechat-cli](https://github.com/iithink88/wechat-cli) | 0 | Python | 2026-09-05 |
 | [joezxh/mini-workbuddy](https://github.com/joezxh/mini-workbuddy) | 0 | Python | 2026-09-05 |
 | [yang20040317-svg/design-workflow](https://github.com/yang20040317-svg/design-workflow) | 0 | Python | 2026-09-05 |
 | [bonboruyau-dev/html-to-feishu-doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) | 0 | Python | 2026-09-05 |

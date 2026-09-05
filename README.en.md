@@ -181,6 +181,7 @@ The full catalog is grouped below. For everyday browsing, use the [searchable re
 - [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy
 - [Workplace Communication](https://github.com/wanghoween-design/gaoqingshang-skill) - An MIT-licensed WorkBuddy workplace-communication Skill covering 23 common scenarios and helping draft clear, tactful responses
 - [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - An MIT-licensed Windows-only WorkBuddy Skill for decrypting and searching local Weixin 4.x chat databases, with timestamped digests and structured exports
+- [WeChat CLI](https://github.com/iithink88/wechat-cli) - A license-not-declared local WorkBuddy Skill for querying, searching, exporting, and analyzing the user's own WeChat records without network access by default
 - [CareerStar](https://github.com/HanGu007/workbuddy-career-skills) - An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking
 
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - An MIT-licensed downloadable WorkBuddy Skill supporting local reference-image analysis, private theme generation, ten built-in skins, screenshot verification, and failure recovery
