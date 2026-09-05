@@ -262,6 +262,8 @@ yimiaoxiehou/oneplus-resukisu-kernel-skill
 iithink88/wechat-cli
 majiabin2020/github-accelerator
 shenquan520/reading-analysis
+chenstacey/video-transcribe-summary
+kelegele/agentsmd-skill
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc

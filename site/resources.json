@@ -1630,6 +1630,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Video Transcribe Summary",
+    "url": "https://github.com/chenstacey/video-transcribe-summary",
+    "description": "A license-not-declared WorkBuddy video and podcast transcription Skill that uses local Whisper to produce timestamped Chinese documents, summaries, and optional long images",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Video Transcribe Summary",
+    "descriptionZh": "许可证未声明的 WorkBuddy 视频/播客转写 Skill，使用本地 Whisper 生成带时间戳的中文文档、摘要和可选长图",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Knowledge Base Builder",
     "url": "https://github.com/miaqu766520-a11y/kb-builder",
     "description": "An MIT-licensed local knowledge-base setup Skill tested on WorkBuddy that interviews the user to create folders, templates, personal archives, and a manual, writing files only after the user approves the plan",
@@ -1997,6 +2007,16 @@
     "category": "Ready-to-use Skills",
     "titleZh": "Local Markdown Memory",
     "descriptionZh": "面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "AGENTS.md Skill",
+    "url": "https://github.com/kelegele/agentsmd-skill",
+    "description": "A license-not-declared WorkBuddy Skill that distills project lessons into concise, reusable `AGENTS.md` files with a specification reference and template",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AGENTS.md Skill",
+    "descriptionZh": "许可证未声明的 WorkBuddy Skill，将项目经验整理成精简、可复用的 `AGENTS.md`，并提供规范参考和模板",
     "categoryZh": "Ready-to-use Skills"
   },
   {
