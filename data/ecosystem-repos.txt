@@ -7,6 +7,8 @@ AriaXXX-free/job-navigation-skill
 musistudio/claude-code-router
 alchaincyf/hermes-agent-orange-book
 alchaincyf/zhangxuefeng-skill
+alchaincyf/steve-jobs-skill
+likaku/Mck-ppt-design-skill
 dontbesilent2025/dbskill
 platonai/Browser4
 alchaincyf/nuwa-skill

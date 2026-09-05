@@ -960,6 +960,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Steve Jobs Skill",
+    "url": "https://github.com/alchaincyf/steve-jobs-skill",
+    "description": "An MIT-licensed WorkBuddy-compatible Skill for product, design, and strategy thinking, distilling mental models, decision heuristics, and communication patterns via `npx skills add`; it is compiled from public material and is not an endorsement or official viewpoint",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "乔布斯.skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的产品、设计与战略思维 Skill，提炼心智模型、决策启发式和表达方式，可通过 `npx skills add` 安装；内容来自公开资料整理，不代表本人或官方观点",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "MCK PPT Design Skill",
+    "url": "https://github.com/likaku/Mck-ppt-design-skill",
+    "description": "An Apache-2.0 consulting-style PPT design Skill with native WorkBuddy support, offering 70 layout patterns, `python-pptx` generation, and staged structure/rendering checks",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "MCK PPT Design Skill",
+    "descriptionZh": "Apache-2.0 许可、原生支持 WorkBuddy 的咨询风格 PPT 设计 Skill，提供 70 种布局模式、`python-pptx` 生成和分阶段结构/渲染校验",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "dbskill",
     "url": "https://github.com/dontbesilent2025/dbskill",
     "description": "A CC BY-NC 4.0 Chinese business-diagnosis Skill toolbox with explicit WorkBuddy support, covering business, content, decision, and action problems through 31 installable Skills; follow the non-commercial license for commercial use and redistribution",
