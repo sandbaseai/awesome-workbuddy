@@ -1200,6 +1200,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "DSH CodeBuddy Plugin",
+    "url": "https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin",
+    "description": "An MIT-licensed DeepSeek Harness plugin offering 18 CodeBuddy models, search/web fetch, image generation, OAuth/API-key login, usage accounting, and a loopback-only streaming bridge; it reads and writes local credentials, settings, usage data, and generated files and sends search, fetch, and image requests to an unofficial gateway, so review secret storage, key rotation, external network, ports, and account terms before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "DSH CodeBuddy Plugin",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，提供 18 个 CodeBuddy 模型、搜索/网页抓取、生图、OAuth/API Key 登录、额度统计和仅回环监听的流式桥；它会读写本地凭据、配置、会话用量与生成文件，并把搜索、抓取和图片请求发送到非官方网关，安装前请复核密钥存储、自动轮换、外部网络、端口和账号条款",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",

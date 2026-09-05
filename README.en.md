@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**178 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**179 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -199,6 +199,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it.
 - [R Package Development Skills for CodeBuddy](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) - An Apache-2.0 collection of five Skills for Claude Code and CodeBuddy Code covering R-package scaffolding, quality, `R CMD check`, CI gates, collaboration, and releases; it includes attribution and test/checklists, while copy or symlink installation writes to a user-level Skills directory, so confirm the R project, toolchain, source materials, and local path scope first.
+- [DSH CodeBuddy Plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) - An MIT-licensed DeepSeek Harness plugin offering 18 CodeBuddy models, search/web fetch, image generation, OAuth/API-key login, usage accounting, and a loopback-only streaming bridge; it reads and writes local credentials, settings, usage data, and generated files and sends search, fetch, and image requests to an unofficial gateway, so review secret storage, key rotation, external network, ports, and account terms before installation.
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - A repeatable workflow for product analysis, copywriting, and commerce imagery.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - An MIT-licensed video-production Skill compatible with WorkBuddy, Codex, and Claude, covering storyboards, image/video generation, TTS, subtitles, and local FFmpeg finishing; it uses the official LibTV login flow and may contact external model/voice services, so protect local credentials, verify media rights and costs, confirm upload scope, and keep human review before and after generation.

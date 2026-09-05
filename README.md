@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**178 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**179 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -198,6 +198,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - 可直接安装的 WorkBuddy 使用与故障排查 Skill，覆盖连接器、专家、自动化、记忆、交互模式和常见问题；MIT 许可。其可选诊断脚本会读取本机 `~/.workbuddy` 配置与近期日志并探测本地健康端点，分享输出前请先检查并脱敏。
 - [R Package Development Skills for CodeBuddy](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) - Apache-2.0 许可、面向 Claude Code 与 CodeBuddy Code 的 5 个 R 包开发 Skill，覆盖脚手架、质量、`R CMD check`、CI 门禁、协作与发布；仓库包含来源署名和测试/检查清单，复制或链接安装会写入用户级 Skill 目录，使用前请确认 R 项目、工具链、来源材料与本地目录范围.
+- [DSH CodeBuddy Plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) - MIT 许可的 DeepSeek Harness 插件，提供 18 个 CodeBuddy 模型、搜索/网页抓取、生图、OAuth/API Key 登录、额度统计和仅回环监听的流式桥；它会读写本地凭据、配置、会话用量与生成文件，并把搜索、抓取和图片请求发送到非官方网关，安装前请复核密钥存储、自动轮换、外部网络、端口和账号条款.
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪；需通过官方 LibTV 流程登录并可能访问外部模型/语音服务，使用前请保护本机凭据、核对媒体版权与费用、确认上传范围，并在生成前后保留人工审核.

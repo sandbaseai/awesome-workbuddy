@@ -142,6 +142,7 @@ shuishenghualalala/Ace
 tangshiyegit/agent-guide
 Neo5093/workbuddy-guide
 shajoezhu/skills_codebuddy_rpackagedev
+taikaikaikai-pixel/dsh-codebuddy-plugin
 staruhub/awesome-workbuddy
 shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy
