@@ -9,6 +9,8 @@ tonycc/skillhive
 1186247283zj-pixel/github-mcp-server-lite
 bailinghub/bailinghub-workbuddy-connector
 chonpszhou/workbuddy-chatcut-mcp
+xuewolai/ima-mcp-server
+xcasee/casee-mcp-server
 chenin0931/OpenWorkbuddy
 wynter-cai/assetplex
 laoyudashu/voko
