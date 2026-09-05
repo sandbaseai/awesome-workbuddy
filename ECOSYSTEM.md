@@ -9,14 +9,14 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,847 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,848 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,963 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,564 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,565 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,148 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
-| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,166 | Rust | 2026-09-05 |
+| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,167 | Rust | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,817 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
@@ -30,6 +30,7 @@ Last refreshed: **2026-09-05 UTC**
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,054 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
+| [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 726 | TypeScript | 2026-09-05 |
 | [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 702 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |

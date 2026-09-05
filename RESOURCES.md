@@ -286,6 +286,7 @@
 - [QClaw × WorkBuddy Bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) - MIT 许可的 macOS 工作流桥，通过共享 JSON 队列和 launchd 事件把微信/QClaw 任务交给 WorkBuddy 执行，并提供任务提交、结果查询和队列管理三个 Skill
 - [GitHub Trending MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) - Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语言筛选热门仓库，并提供 MCP 与本地网页模式
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff
+- [Memorix](https://github.com/AVIDS2/memorix) - Apache-2.0 的本地优先跨 Agent 项目记忆层，明确支持 WorkBuddy，通过 MCP、Hooks、CLI 和 Skills 保存会话摘要、Git 事实、推理记录和任务交接；可选启用模型能力，默认支持本地全文检索
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工
 - [EchoBird](https://github.com/edison7009/EchoBird) - MIT 许可的跨平台 Agent 桌面管理器，明确支持 WorkBuddy（腾讯 CodeBuddy 办公版），可统一安装和切换模型，并提供本地大模型、应用管理和安装修复功能；使用前请审阅其会写入的客户端配置与网络权限

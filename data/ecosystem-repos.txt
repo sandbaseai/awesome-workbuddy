@@ -240,6 +240,7 @@ JaguarJack/workbuddy-openapi
 Guyzn/workbuddy-cua-mcp
 qianzhu18/workisland
 oceanbase/powercontext
+AVIDS2/memorix
 TencentCloud/TencentDB-Agent-Memory
 Tencent/BrowserSkill
 edison7009/EchoBird
