@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Paper Mode](https://github.com/markbignews/paper-mode) - MIT 许可、明确适配 WorkBuddy 的中文学术论文 AI 痕迹自查与人工润色 Skill，可处理文本、Word 和 PDF，并强调估算结果不等于官方检测、不得用于规避检测或学术不端
 - [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS 生成可搜索、可筛选、支持暗色模式的单文件 HTML，并提供模型榜单、市场数据、引用和定时生成
 - [香港商業寫作](https://github.com/simonsiu2008-bit/hk-business-writing) - MIT 许可的 WorkBuddy/Claude Skill，将内地商业中文改写为香港书面语，提供 80+ 用语对照、叙事框架、示例和自查清单
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - MIT 许可的 WorkBuddy A 股短线与 ETF 研究 Skill，按实时行情、情绪和技术信号生成候选分析；仅作研究参考，不构成投资建议
