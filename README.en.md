@@ -22,6 +22,8 @@ For the latest curation and audit notes, see the [bilingual community update](ht
 
 For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
 
+Browse the complete [discovery audit record](https://github.com/sandbaseai/awesome-workbuddy/issues?q=is%3Aissue%20label%3Aaudit) index to review licensing, provenance, permissions, and data-flow evidence.
+
 The four original Skills in this directory are also indexed on [agent-skills.md](https://agent-skills.md/authors/sandbaseai) for online browsing and install-path verification.
 
 This week's highlights: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics); see [v0.10.12](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.12) for the full curation update.

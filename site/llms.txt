@@ -23,6 +23,7 @@ Use these pages first:
 
 - [Curated ecosystem ranking](https://github.com/sandbaseai/awesome-workbuddy/blob/main/ECOSYSTEM.md): refreshed GitHub stars, languages, and recent activity for reviewed repositories.
 - [Unvetted discovery queue](https://github.com/sandbaseai/awesome-workbuddy/blob/main/DISCOVERIES.md): automatically found candidates that still require relevance, license, permission, and maintenance review.
+- [Discovery audit records](https://github.com/sandbaseai/awesome-workbuddy/issues?q=is%3Aissue%20label%3Aaudit): evidence-backed include, hold, and exclude decisions for candidate resources.
 
 ## Contributing and community
 

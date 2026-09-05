@@ -22,6 +22,8 @@
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
 
+完整的[发现审计记录](https://github.com/sandbaseai/awesome-workbuddy/issues?q=is%3Aissue%20label%3Aaudit)可按许可证、来源、权限和数据流证据复核。
+
 本目录的 4 个原创 Skill 也已同步到 [agent-skills.md](https://agent-skills.md/authors/sandbaseai)，可在线浏览和核对安装路径。
 
 本周精选： [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy)（自托管 OpenAI 兼容网关）、[Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill)（带证据的多源蒸馏）、[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）；完整变更见 [v0.10.12](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.12)。
