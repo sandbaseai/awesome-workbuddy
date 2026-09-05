@@ -355,6 +355,7 @@ The full catalog is grouped below. For everyday browsing, use the [searchable re
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - An open-source WorkBuddy-style local Agent workspace with Skills, MCP, desktop support, and multiple IM channels
 - [SailFish](https://github.com/ysyx2008/SailFish) - A WorkBuddy-style personal desktop secretary for macOS and Windows with memory, Skills, MCP, browser, terminal, and multi-IM channels
 - [OpenBuddy](https://github.com/opensymph/OpenBuddy) - An MIT-licensed Rust/Tauri WorkBuddy-style cross-platform desktop client with BYOK, multi-provider models, Skills, MCP, plan mode, sub-agents, and local automations
+- [OpenBuddy (louloulin)](https://github.com/louloulin/OpenBuddy) - An MIT-licensed open-source WorkBuddy-style desktop workspace with plan mode, Skills, MCP, multi-agent collaboration, and local files
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements

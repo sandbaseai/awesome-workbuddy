@@ -351,6 +351,7 @@
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - 腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道
 - [SailFish](https://github.com/ysyx2008/SailFish) - 面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多 IM 渠道
 - [OpenBuddy](https://github.com/opensymph/OpenBuddy) - 基于 Rust/Tauri 的 MIT 开源 WorkBuddy 风格跨平台桌面客户端，支持 BYOK、多模型、Skills、MCP、计划模式、子 Agent 和本地自动化
+- [OpenBuddy（louloulin）](https://github.com/louloulin/OpenBuddy) - MIT 许可的开源 WorkBuddy 风格桌面工作台，支持计划模式、Skills、MCP、多 Agent 和本地文件
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements

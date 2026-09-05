@@ -2840,6 +2840,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "OpenBuddy (louloulin)",
+    "url": "https://github.com/louloulin/OpenBuddy",
+    "description": "An MIT-licensed open-source WorkBuddy-style desktop workspace with plan mode, Skills, MCP, multi-agent collaboration, and local files",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "OpenBuddy（louloulin）",
+    "descriptionZh": "MIT 许可的开源 WorkBuddy 风格桌面工作台，支持计划模式、Skills、MCP、多 Agent 和本地文件",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Context Sync",
     "url": "https://github.com/westsource/agentctxsync",
     "description": "Self-hosted session synchronization and backup across devices and Agents",

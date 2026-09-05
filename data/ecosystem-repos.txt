@@ -29,6 +29,7 @@ simplast/workbuddy-api
 liuboacean/qclaw-workbuddy-bridge
 ImLeonLi/GitHub-Trending-MCP
 chenin0931/OpenWorkbuddy
+louloulin/OpenBuddy
 wynter-cai/assetplex
 laoyudashu/voko
 dongsheng123132/task-passport
