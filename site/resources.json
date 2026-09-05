@@ -860,6 +860,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Tokscale",
+    "url": "https://github.com/junhoyeo/tokscale",
+    "description": "An MIT-licensed high-performance token-usage and cost-analysis CLI/dashboard with explicit WorkBuddy support, reading `~/.workbuddy/projects/**/*.jsonl` and local SQLite data while aggregating 40+ Agents; session content stays local and pricing data is refreshed according to its documented upstream sources",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Tokscale",
+    "descriptionZh": "MIT 许可的高性能 Token 用量与成本分析 CLI/看板，明确支持 WorkBuddy，读取 `~/.workbuddy/projects/**/*.jsonl` 与本地 SQLite 数据，并统一统计 40+ Agent 的用量；会话内容留在本地，价格数据按上游配置更新",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Agent Analytics Report",
     "url": "https://github.com/Elisabeth15501/agent-analytics-report",
     "description": "An MIT-licensed, WorkBuddy-first usage-analysis Skill that reads local session/usage data to produce token, cache, model-cost, and anomaly reports in Markdown, HTML, or JSON, with 306 synthetic-fixture tests",

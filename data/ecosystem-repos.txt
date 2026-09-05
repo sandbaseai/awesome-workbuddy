@@ -333,3 +333,4 @@ tourmind-com/Tourmind-Booking-Skills
 Javis603/token-monitor
 tianma-if/edgeever
 LtyFantasy/agent-chamber
+junhoyeo/tokscale
