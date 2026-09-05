@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - An MIT-licensed self-hosted Skill evaluation tool with rubric scores, evidence, Deep Review, and improvement suggestions, plus a WorkBuddy-compatible Agent CLI; confirm the data scope before uploading Skills or invoking model review
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it
@@ -291,6 +292,8 @@
 
 ### Tools and integrations
 
+- [Skill Sync](https://github.com/lirt1231/skill-sync) - An MIT-licensed cross-device, cross-agent Skill synchronizer with explicit WorkBuddy support, using a local managed source and private Git repositories for selected user-authored Skills; every filesystem or network mutation is previewed and requires confirmation
+- [EverMe](https://github.com/EverMind-AI/EverMe) - An Apache-2.0 CLI, MCP server, and plugin suite for cross-device, cross-agent personal memory, with an explicit WorkBuddy plugin install path; hosted use involves accounts and network requests, so confirm the API endpoint and data boundary when self-hosting
 - [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use
 - [MindArchive](https://github.com/CatchNo2/MindArchive) - An MIT-licensed AI-conversation insight archive with incremental processing, resumable runs, usage and cost limits, and an export mode that lets WorkBuddy answer chunked prompts before collecting the results
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - A license-not-declared local protocol proxy for WorkBuddy CN with OpenAI-compatible APIs, streaming, tool calls, OAuth login, multi-account rotation, and Docker deployment; it handles local credentials and includes automated check-in, so verify licensing, account authorization, and upstream terms before use
@@ -399,6 +402,7 @@
 
 ### Community clients and enhancements
 
+- [SkillDock](https://github.com/wanghuan9/skilldock) - An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - An AGPL-3.0 cross-platform Agent desktop pet and status notifier with explicit WorkBuddy support through optional hooks
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - An Apache-2.0 cross-platform Electron theme manager with explicit WorkBuddy support, app discovery, compatibility filtering, runtime switching/restoration, and a floating theme menu
 - [WorkBuddy Dream Skin (macOS)](https://github.com/smartcai87/workbuddy-dream-skin) - An MIT-licensed macOS skin utility that injects reversible themes through loopback CDP, supports light/dark modes, local images, hot switching, and restoration without modifying WorkBuddy.app, its signature, or `app.asar`

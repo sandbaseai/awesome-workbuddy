@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,878 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,880 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,965 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,567 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -56,6 +56,7 @@ Last refreshed: **2026-09-05 UTC**
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 545 | Python | 2026-09-02 |
+| [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
 | [zhangxiaoqiang1991/luopan](https://github.com/zhangxiaoqiang1991/luopan) | 379 | HTML | 2026-07-18 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
@@ -102,11 +103,13 @@ Last refreshed: **2026-09-05 UTC**
 | [rebootmindful/openclaw-expert-suite](https://github.com/rebootmindful/openclaw-expert-suite) | 80 | - | 2026-03-11 |
 | [xiaolai/ai-cli-kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) | 77 | Shell | 2026-07-18 |
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
+| [AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens) | 75 | TypeScript | 2026-05-17 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 67 | Go | 2026-09-05 |
 | [smile-xyy/resume-tailor](https://github.com/smile-xyy/resume-tailor) | 63 | JavaScript | 2026-08-13 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
+| [EverMind-AI/EverMe](https://github.com/EverMind-AI/EverMe) | 59 | JavaScript | 2026-09-03 |
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 56 | PowerShell | 2026-08-30 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 56 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
@@ -370,5 +373,6 @@ Last refreshed: **2026-09-05 UTC**
 | [yfpgle-glitch/rightcode-imagegen](https://github.com/yfpgle-glitch/rightcode-imagegen) | 0 | Python | 2026-09-05 |
 | [liangdabiao/workbuddy-expert-doc-video-qa](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) | 0 | Python | 2026-09-05 |
 | [CatchNo2/MindArchive](https://github.com/CatchNo2/MindArchive) | 0 | Python | 2026-07-15 |
+| [lirt1231/skill-sync](https://github.com/lirt1231/skill-sync) | 0 | Python | 2026-07-30 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
