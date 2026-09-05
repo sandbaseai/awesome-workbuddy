@@ -8,9 +8,9 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,660 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,940 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,941 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,528 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,529 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,921 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,773 | Go | 2026-09-05 |
@@ -30,7 +30,7 @@ Last refreshed: **2026-09-05 UTC**
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-03 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 259 | Python | 2026-08-13 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 251 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 252 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
@@ -183,6 +183,7 @@ Last refreshed: **2026-09-05 UTC**
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
+| [liuboacean/qclaw-workbuddy-bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) | 1 | Python | 2026-04-21 |
 | [ImLeonLi/GitHub-Trending-MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) | 1 | TypeScript | 2026-03-23 |
 | [wynter-cai/assetplex](https://github.com/wynter-cai/assetplex) | 1 | TypeScript | 2026-08-30 |
 | [Bolton-Z/ns-mcp-china](https://github.com/Bolton-Z/ns-mcp-china) | 1 | JavaScript | 2026-09-04 |
@@ -225,7 +226,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Kallium-cn/workbuddy-jupyter-bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) | 0 | Python | 2026-09-03 |
 | [TimWongUp/agentnave](https://github.com/TimWongUp/agentnave) | 0 | Python | 2026-09-05 |
 | [mowenQWQ/Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | 0 | Shell | 2026-09-04 |
-| [GiaSip/ai-hr](https://github.com/GiaSip/ai-hr) | 0 | Python | 2026-09-04 |
+| [GiaSip/ai-hr](https://github.com/GiaSip/ai-hr) | 0 | Python | 2026-09-05 |
 | [tchivs/agentsw](https://github.com/tchivs/agentsw) | 0 | TypeScript | 2026-09-05 |
 | [joezxh/mini-workbuddy](https://github.com/joezxh/mini-workbuddy) | 0 | Python | 2026-09-05 |
 | [yang20040317-svg/design-workflow](https://github.com/yang20040317-svg/design-workflow) | 0 | Python | 2026-09-05 |

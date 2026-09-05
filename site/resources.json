@@ -1750,6 +1750,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "QClaw × WorkBuddy Bridge",
+    "url": "https://github.com/liuboacean/qclaw-workbuddy-bridge",
+    "description": "An MIT-licensed macOS workflow bridge that sends Weixin/QClaw tasks to WorkBuddy through a shared JSON queue and launchd events, with Skills for submission, result checking, and queue management; confirm queue contents, launchd permissions, and unattended-execution scope before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "QClaw × WorkBuddy Bridge",
+    "descriptionZh": "MIT 许可的 macOS 工作流桥，通过共享 JSON 队列和 launchd 事件把微信/QClaw 任务交给 WorkBuddy 执行，并提供任务提交、结果查询和队列管理三个 Skill；启用前请确认队列内容、launchd 权限和无人值守执行范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "GitHub Trending MCP",
     "url": "https://github.com/ImLeonLi/GitHub-Trending-MCP",
     "description": "An Apache-2.0 GitHub Trending retrieval tool with WorkBuddy Skill support, filtering by time range, programming language, and spoken language, with MCP and local web modes; it scrapes network data, so verify the WorkBuddy Skill target directory and source before installation",
