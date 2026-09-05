@@ -130,6 +130,9 @@
 
 ### Ready-to-use Skills
 
+- [WeCom-Unified](https://github.com/WecomTeam/wecom-unified) - MIT 许可、明确支持 WorkBuddy 的企业微信套件 Skill，覆盖消息、邮件、文档、待办、日程、会议、微盘和通讯录，可通过一条命令安装并引导配置凭证；涉及企业数据和外部写入，使用前应先确认授权范围
+- [Get 笔记 Skills](https://github.com/iswalle/getnote-cli) - MIT 许可的得到笔记 CLI 与五个领域 Skills，明确支持 WorkBuddy，可搜索、整理和读写知识库；需要得到笔记会员及 OpenAPI 授权，安装后 WorkBuddy 需要重启，删除或移动内容前请人工核对目标
+
 - [Produce Videos](https://github.com/luqi67677/produce-videos) - MIT 许可、提供 WorkBuddy 专用 ZIP 的视频制作 Skill，覆盖脚本、素材、配音、分镜、动画、字幕、预览、质检和导出；安装流程要求先验证本地文件与依赖，涉及隐私、素材授权、模型下载或付费服务时需单独确认
 
 - [OpenLX 微信公众号发布 Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - MIT 许可、明确支持 WorkBuddy 的公众号内容发布 Skill，支持素材上传、草稿创建、明确发布和状态查询，并提供版本清单与 SHA-256 校验；首次使用仍需管理员扫码授权，建议先创建草稿核对再发布

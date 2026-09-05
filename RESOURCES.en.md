@@ -130,6 +130,9 @@
 
 ### Ready-to-use Skills
 
+- [WeCom-Unified](https://github.com/WecomTeam/wecom-unified) - An MIT-licensed enterprise WeChat toolkit Skill with explicit WorkBuddy support for messages, email, documents, todos, calendars, meetings, cloud drive, and contacts; it installs with one command and guides credential setup, so confirm authorization scope before any company-data access or external writes
+- [Get Note Skills](https://github.com/iswalle/getnote-cli) - An MIT-licensed Get Note CLI with five domain Skills and explicit WorkBuddy support for searching, organizing, and reading or writing knowledge bases; it requires a Get Note membership and OpenAPI authorization, WorkBuddy must restart after installation, and destructive moves or deletes deserve human review
+
 - [Produce Videos](https://github.com/luqi67677/produce-videos) - An MIT-licensed video-production Skill with a WorkBuddy-specific ZIP, covering scripts, assets, narration, storyboards, animation, subtitles, previews, quality checks, and export; its install flow verifies local files and dependencies first and separately confirms privacy, asset rights, model downloads, and paid services
 
 - [OpenLX WeChat Official Account Publishing Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - An MIT-licensed publishing Skill with explicit WorkBuddy support for media uploads, draft creation, explicit publishing, and status queries, with a version manifest and SHA-256 verification; an administrator must still authorize it by QR code, and draft review should precede publishing
