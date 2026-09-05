@@ -47,6 +47,7 @@ AiToByte/AgenticMetaEngineering
 squallopen/superpowers-zh-adapters
 Tencent/workbuddy-bench
 bruc3van/DocuGenius
+crossoverJie/SkillDeck
 mrzhangguoguo/oh-my-workbuddy
 ai3027/workbuddy-skills
 Tugoukezhang/workbuddy-skills

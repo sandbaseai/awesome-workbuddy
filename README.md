@@ -253,6 +253,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [SkillDeck](https://github.com/crossoverJie/SkillDeck) - MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、创建链接、检查更新、编辑 `SKILL.md` 并分配给不同 Agent；它会读写本地 Skill 目录，首次运行还涉及未签名应用和文件权限，使用前请确认来源与变更范围.
 - [DocuGenius](https://github.com/bruc3van/DocuGenius) - MIT 许可的开源编辑器插件，可将 Word、Excel、PowerPoint 和 PDF 转成结构化 Markdown，便于 WorkBuddy/CodeBuddy 等 AI 工具读取；支持插件市场和 VSIX 安装，处理本地文档并写入输出目录，使用前请确认敏感资料范围和转换结果.
 - [workbuddy-api（simplast）](https://github.com/simplast/workbuddy-api) - MIT 许可的轻量 Node.js 18+ 本地代理，将 CodeBuddy/WorkBuddy 接入 OpenAI 兼容客户端和 Vercel AI SDK，提供聊天、模型和健康检查端点；会处理 API Key、提示词和上游请求头并依赖非公开协议，使用前请保护环境文件、保持回环绑定、审查上游地址和账号条款.
 - [WorkBuddy2API (hawklithm)](https://github.com/hawklithm/workbuddy2api) - MIT 许可、测试覆盖较完整的本地协议兼容代理，将 WorkBuddy/CodeBuddy 接口转换为 OpenAI、Anthropic 和 Responses 格式，支持流式输出、工具调用、脱敏和多账号隔离；会处理登录态、提示词、工具请求与本地日志，并依赖非公开接口，使用前请审查包来源、凭据、端口、日志和账号条款.
