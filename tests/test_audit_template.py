@@ -21,6 +21,10 @@ class AuditTemplateTests(unittest.TestCase):
         )
 
         self.assertIn("\nCandidate\n\n- Repository:", template)
+        self.assertTrue(template.startswith("---\n"))
+        self.assertIn("\n\nCandidate\n\n- Repository:", template)
+        self.assertLess(template.index("\nCandidate\n"), template.index("\n## Audit result\n"))
+        self.assertLess(template.index("\n## Audit result\n"), template.index("\n## Decision\n"))
         self.assertIn("\n## Audit result\n\n", template)
         self.assertIn("\n## Decision\n\n", template)
         self.assertIn(
