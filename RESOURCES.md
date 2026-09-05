@@ -295,6 +295,7 @@
 - [Memmy Agent](https://github.com/MemTensor/memmy-agent) - MIT 许可的本地优先跨 Agent 记忆与助手运行时，明确支持 WorkBuddy，可运行本地 Memory Service，并通过 WorkBuddy Skill 访问共享记忆；支持账户试用 Token 或自带 API Key，安装服务后需由用户主动初始化 Agent 接入
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工
+- [Browser4](https://github.com/platonai/Browser4) - Apache-2.0 许可的 AI 浏览器引擎，提供 WorkBuddy 可直接执行的 Skill、CLI、MCP 和本地网页抽取能力，支持导航、点击、表单填写、批量处理与结构化数据提取；安装会下载运行时，联网浏览和自动化操作前请确认目标网站与数据权限
 - [EchoBird](https://github.com/edison7009/EchoBird) - MIT 许可的跨平台 Agent 桌面管理器，明确支持 WorkBuddy（腾讯 CodeBuddy 办公版），可统一安装和切换模型，并提供本地大模型、应用管理和安装修复功能；使用前请审阅其会写入的客户端配置与网络权限
 - [Maestro](https://github.com/joosure/Maestro) - AGPL-3.0 的真实项目任务编排平台，支持将 Linear/TAPD 任务连接到 GitHub/CNB 和 Codex、Claude Code、OpenCode、CodeBuddy，按隔离工作区执行、记录 diff/日志/工具调用并回写任务结果
 - [WorkIsland](https://github.com/qianzhu18/workisland) - Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBuddy/CodeBuddy、Codex、Claude Code 等，可监控任务、处理审批/提问并跳回源会话
