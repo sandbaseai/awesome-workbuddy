@@ -2540,6 +2540,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "EchoBird",
+    "url": "https://github.com/edison7009/EchoBird",
+    "description": "An MIT-licensed cross-platform Agent desktop manager with explicit WorkBuddy (Tencent CodeBuddy desktop) support for one-click installation and model switching, plus local LLM, app management, and install/repair features; review its client-config writes and network permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "EchoBird",
+    "descriptionZh": "MIT 许可的跨平台 Agent 桌面管理器，明确支持 WorkBuddy（腾讯 CodeBuddy 办公版），可统一安装和切换模型，并提供本地大模型、应用管理和安装修复功能；使用前请审阅其会写入的客户端配置与网络权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Maestro",
     "url": "https://github.com/joosure/Maestro",
     "description": "An AGPL-3.0 project-task orchestration platform connecting Linear/TAPD tasks to GitHub/CNB and Codex, Claude Code, OpenCode, or CodeBuddy. It runs tasks in isolated workspaces, records diffs/logs/tool calls, and writes results back",

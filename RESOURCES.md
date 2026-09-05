@@ -287,6 +287,7 @@
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工
+- [EchoBird](https://github.com/edison7009/EchoBird) - MIT 许可的跨平台 Agent 桌面管理器，明确支持 WorkBuddy（腾讯 CodeBuddy 办公版），可统一安装和切换模型，并提供本地大模型、应用管理和安装修复功能；使用前请审阅其会写入的客户端配置与网络权限
 - [Maestro](https://github.com/joosure/Maestro) - AGPL-3.0 的真实项目任务编排平台，支持将 Linear/TAPD 任务连接到 GitHub/CNB 和 Codex、Claude Code、OpenCode、CodeBuddy，按隔离工作区执行、记录 diff/日志/工具调用并回写任务结果
 - [WorkIsland](https://github.com/qianzhu18/workisland) - Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBuddy/CodeBuddy、Codex、Claude Code 等，可监控任务、处理审批/提问并跳回源会话
 - [Ping Island](https://github.com/erha19/ping-island) - Apache-2.0 许可的 macOS 菜单栏与刘海岛 Agent 状态面板，明确支持 WorkBuddy，可汇总任务状态、审批/提问和完成通知并跳回源会话；项目提供 Swift 源码、测试和安装文档，发行包是否签名/公证请以当前版本说明为准
