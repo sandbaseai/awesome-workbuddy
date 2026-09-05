@@ -1750,6 +1750,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "workbuddy-api (simplast)",
+    "url": "https://github.com/simplast/workbuddy-api",
+    "description": "An MIT-licensed lightweight Node.js 18+ local proxy that connects CodeBuddy/WorkBuddy to OpenAI-compatible clients and the Vercel AI SDK, exposing chat, model, and health endpoints; it handles API keys, prompts, and upstream request headers through unofficial protocol behavior, so protect environment files, keep loopback binding, review upstream URLs, and follow account terms",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "workbuddy-api（simplast）",
+    "descriptionZh": "MIT 许可的轻量 Node.js 18+ 本地代理，将 CodeBuddy/WorkBuddy 接入 OpenAI 兼容客户端和 Vercel AI SDK，提供聊天、模型和健康检查端点；会处理 API Key、提示词和上游请求头并依赖非公开协议，使用前请保护环境文件、保持回环绑定、审查上游地址和账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy2API (hawklithm)",
     "url": "https://github.com/hawklithm/workbuddy2api",
     "description": "An MIT-licensed, well-tested local protocol adapter that converts WorkBuddy/CodeBuddy-compatible traffic to OpenAI, Anthropic, and Responses formats, with streaming, tool calls, desensitization, and isolated multi-account state; it handles login state, prompts, tool requests, and local logs through unofficial upstream behavior, so review package provenance, credentials, ports, logs, and account terms first",
