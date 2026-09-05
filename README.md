@@ -32,6 +32,21 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 
 更多安装、自动化、MCP 和企业 Agent 文档收在 [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 中。
 
+<details>
+<summary>更多上手资料</summary>
+
+- [官方文档](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南。
+- [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Mac 环境要求、安装、登录与更新。
+- [Windows 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Windows 环境要求、安装、登录与更新。
+- [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 任务表达、迭代、备份和上下文管理建议。
+- [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装、登录、连接和任务恢复排障。
+- [版本记录](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 功能、修复与兼容性变化。
+- [Automation 指南](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - 创建一次性或周期任务。
+- [MCP 指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - 连接外部工具与数据源。
+- [WorkBuddy Enterprise 快速开始](https://cloud.tencent.com/document/product/1831/134527) - 创建、测试和发布企业 Agent。
+
+</details>
+
 ## 精选资源
 
 不知道从哪里开始，可以按下面顺序试用：
@@ -236,6 +251,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 
 ### Tools and integrations
 
+- [WorkBuddy × ChatCut MCP](https://github.com/chonpszhou/workbuddy-chatcut-mcp) - MIT 许可的 WorkBuddy 视频剪辑 MCP 接入，提供 OAuth 2.0 + PKCE 授权脚本、配置模板、令牌续期和 ChatCut 项目操作；令牌只在本地保存，连接的是 ChatCut 托管服务，使用前请确认账号授权、外部数据范围和平台条款.
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff；安装会改写 `~/.workbuddy` 下的 hooks、settings、MCP 与 Skills，且提示词采集默认开启并作为 Source 持久化，自动召回内容仅是不可信历史，使用前应决定是否关闭采集、核对本地/远程 Server 与模型数据流、配置鉴权并让 CLI/Server/插件保持同一 Git revision，当前 WorkBuddy 集成仍位于未发布的 `master`.
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入；部署需配置两组模型 API Key，Proxy 会保存用户 Key、接收会话/任务内容并监听多个本地端口，团队共享会扩大敏感资料与权限边界，使用前请核对模型服务、密钥、端口、用户级 Key、数据留存和团队访问控制.
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工；它能控制已登录网页，安装脚本会下载 CLI、扩展涉及浏览器权限，使用前请核对扩展来源、Profile、127.0.0.1 通信、登录态和每次写入/提交操作.

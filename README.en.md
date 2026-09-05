@@ -32,6 +32,21 @@ For machine-readable navigation, see [`site/llms.txt`](site/llms.txt).
 
 More installation, automation, MCP, and enterprise Agent guides are available in the [full catalog](https://sandbaseai.github.io/awesome-workbuddy/).
 
+<details>
+<summary>More getting-started guides</summary>
+
+- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - Product documentation and usage guides.
+- [Install on macOS](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Requirements, installation, sign-in, and updates.
+- [Install on Windows](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Requirements, installation, sign-in, and updates.
+- [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Clear tasks, iteration, backups, and context management.
+- [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Installation, sign-in, integrations, and task recovery.
+- [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Capabilities, fixes, and compatibility changes.
+- [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - Create one-time or recurring tasks.
+- [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - Connect external tools and data.
+- [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - Create, test, and publish an enterprise Agent.
+
+</details>
+
 ## Featured resources
 
 If you are not sure where to begin, try these in order:
@@ -236,6 +251,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Tools and integrations
 
+- [WorkBuddy × ChatCut MCP](https://github.com/chonpszhou/workbuddy-chatcut-mcp) - An MIT-licensed WorkBuddy video-editing MCP integration with OAuth 2.0 + PKCE authorization scripts, a configuration template, token refresh, and ChatCut project operations; tokens stay local, while calls use ChatCut's hosted service, so confirm account authorization, external data scope, and platform terms first.
 - [PowerContext](https://github.com/oceanbase/powercontext) - An Apache-2.0 cross-Agent memory and work-handoff system maintained by the OceanBase team, with a one-command WorkBuddy `UserPromptSubmit` hook, Streamable HTTP MCP, and `project-context` Skill for searching/writing Memory and creating/committing Handoffs. Installation updates hooks, settings, MCP, and Skills under `~/.workbuddy`; prompt capture is enabled by default and persists prompts as Sources, while recalled content remains untrusted history. Decide whether to disable capture, review local/remote Server and model data flows, configure authentication, and keep CLI/Server/plugin on the same Git revision; the WorkBuddy integration currently lives on unreleased `master`.
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - An MIT-licensed team Agent-memory hub maintained by Tencent with direct WorkBuddy Proxy integration, turning sessions, documents, and code into Chat Memory, Skills, an LLM Wiki, and CodeGraph through a local Docker stack; deployment configures two groups of model API keys, the Proxy stores user keys, receives session/task content, and listens on several local ports, while team sharing expands sensitive-data and permission boundaries, so review model providers, keys, ports, user-level keys, retention, and team access control.
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - Tencent-maintained MIT-licensed local browser bridge with explicit WorkBuddy support; its `bsk` CLI/daemon, browser extension, and separate Agent Window reuse logged-in browser state and hand captcha, login, and confirmation dialogs back to a human. It can control authenticated web pages, while installation downloads a CLI and requests browser-extension permissions, so review extension provenance, browser Profiles, 127.0.0.1 communication, login state, and every write/submit action.
