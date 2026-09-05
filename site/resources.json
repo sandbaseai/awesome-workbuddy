@@ -1070,6 +1070,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Open Film Skills",
+    "url": "https://github.com/62656456/ai-film-skills",
+    "description": "An Apache-2.0 multi-host collection of standalone Skills for story, directing, storyboards, visual assets, AI-video production, web design, and source-backed media research; its compatibility guide documents WorkBuddy ZIP import and its publication scope separates packaged and experimental modules, while real runs may read media, call external model/voice/video services, write large artifacts, incur costs, and require rights and human-quality review",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Open Film Skills",
+    "descriptionZh": "Apache-2.0 许可、兼容多种 Agent 的独立 Skill 集合，覆盖故事、导演、分镜、视觉资产、AI 视频制作、网页设计和有来源的媒体研究；兼容性文档明确说明可通过 WorkBuddy“添加技能→上传技能”导入，发布范围区分已打包与实验模块，实际运行可能读取媒体、调用外部模型/语音/视频服务、写入大量产物并产生费用，仍需审核版权和成片质量",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Infoseek",
     "url": "https://github.com/GYINT/infoseek",
     "description": "An MIT-licensed end-to-end research MCP/Skill compatible with WorkBuddy, combining multi-source discovery, four-level fetching, four-dimensional scoring, cross-source contradiction detection, structured reports, and long-term archiving with regression tests and key management; advanced fetching may use browsers, Whisper, search keys, and external models, so review credential injection, network scope, personal data, archive directories, and research conclusions",
