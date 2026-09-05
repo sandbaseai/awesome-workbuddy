@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [skill-manager](https://github.com/GrubbyLee/skill-manager) - MIT 许可的零依赖本地 Skills/MCP 管理 CLI，明确支持 WorkBuddy，可扫描、推荐、去重、审计和可视化本地资源；默认只读，执行 setup 或写入前请先查看变更计划
+
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skills 管理桌面应用，集中安装、整理、更新并同步到 47 个 Agent 工具，明确支持 WorkBuddy 的 `~/.workbuddy/skills` 用户目录；使用前请检查待扫描目录和 GitHub Token 等本地配置
 - [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复
@@ -320,6 +322,9 @@
 
 ### Tools and integrations
 
+- [browser-mcp](https://github.com/jixingyu999/browser-mcp) - MIT 许可的 Playwright 浏览器操作 MCP，提供 22 个面向办公自动化的工具，支持批量填表、数据提取、下载、PDF 存档和页面监控，并提供 WorkBuddy 配置示例；登录态文件可能包含敏感 Cookie，请限制路径和权限
+- [Eric Task Master](https://github.com/npcworkspace-cmyk/eric-task-master) - MIT 许可的本地 Chrome/Playwright 长任务管理器，明确支持 WorkBuddy，可持久化 Profile、后台运行任务并提供部分结果；任务脚本以当前操作系统用户权限运行，只应执行可信脚本
+
 - [Harness Engineering Kit](https://github.com/8425334/harness-engineering-kit) - MIT 许可的 AI Coding Agent 工程方法与项目控制工具，提供 `hek handoff --agent workbuddy` 将工程上下文交接给 WorkBuddy；WorkBuddy 走手动交接流程，使用前请阅读其项目策略和本地权限说明
 
 - [easy-agent](https://github.com/wangduoyu414-cell/easy-agent) - MIT 许可的 Windows/macOS 安全安装助手，支持 WorkBuddy、Hermes Agent、CC Switch、Claude Desktop 和 ChatGPT；固定官方来源、签名与包身份，证据不足时停止安装，使用前请核对平台覆盖范围和当前版本状态
@@ -444,6 +449,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
+
+- [MultiCC](https://github.com/lsjwzh/MultiCC) - MIT 许可的多 Agent 控制器，明确支持 WorkBuddy，可并行管理多个 Agent、使用隔离 Git worktree、接收桌面/移动端通知，并统一管理 Skills 与 MCP；并行修改同一仓库前请确认 worktree 和权限边界
 
 - [Golden Key OpenMontage for WorkBuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) - AGPL-3.0 的 OpenMontage 社区适配版，提供 WorkBuddy Skill-first 调用、持久任务、离线边界、脱敏、中断恢复和可回滚安装流程；项目明确仍未完成普通用户全新 Windows 环境的完整验收，也不代表 OpenMontage 或 WorkBuddy 官方发行版，使用前请准备 Python/Node/FFmpeg 等依赖并阅读许可证
 - [WorkBuddy Obsidian Plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) - MIT 许可的 Obsidian 社区插件，在侧边栏调用本机 WorkBuddy CLI，支持当前笔记或选中文本引用、多个任务页签、复制与插入回复；默认权限允许修改笔记，启用前请按需切换为只读并确认笔记内容发送范围

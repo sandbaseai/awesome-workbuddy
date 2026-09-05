@@ -411,6 +411,10 @@ lidicn/AutoFlow
 jarvislee90s-dot/MultiAgents-Manager
 wangqiao258/career-kit
 8425334/harness-engineering-kit
+GrubbyLee/skill-manager
+npcworkspace-cmyk/eric-task-master
+jixingyu999/browser-mcp
+lsjwzh/MultiCC
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
