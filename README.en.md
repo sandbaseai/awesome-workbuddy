@@ -64,6 +64,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 - [View results](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - Inspect artifacts, table and document previews, web output, files, and changes.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - Learn where to find, import, and create Skills.
 - [Skills marketplace](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - Browse, install, enable, and manage WorkBuddy Skills in one place.
+- [Skills Marketplace quick start](https://open.workbuddy.cn/en/docs/skill) - Official instructions for opening the Skills Marketplace in WorkBuddy and browsing or installing Skills.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - Turn a natural-language workflow into a reusable Skill.
 - [Explore](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore) - Browse official creations across seven scenario categories, preload their Prompt, Skill, and Expert setup to make your own version, and understand how Explore differs from Skills and Experts.
 - [Expert Center](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - Choose a specialist with its own methods and tools, or a multi-Agent team whose lead delegates parallel work.

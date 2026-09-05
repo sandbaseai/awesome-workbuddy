@@ -64,6 +64,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [结果查看](https://www.workbuddy.ai/docs/zh/workbuddy/Results) - 检查产物、表格和文档预览、网页输出、全部文件与变更.
 - [Task bar and Skills](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Task-Bar) - 了解内置 Skill、导入与创建入口.
 - [技能市场](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 统一浏览、安装、启用和管理 WorkBuddy Skills.
+- [Skills Marketplace 入门](https://open.workbuddy.cn/en/docs/skill) - 官方说明如何在 WorkBuddy 客户端打开 Skills Marketplace 并浏览、安装 Skill.
 - [Create a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) - 用自然语言沉淀可复用工作流.
 - [探索](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore) - 浏览七类官方精选成品，一键预填对应 Prompt、Skill 与专家来制作自己的版本，并理解探索、Skill 和专家的分工.
 - [专家中心](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Expert-Center) - 选择带独立方法和工具链的专家，或由团长拆解并行任务的多 Agent 专家团.
