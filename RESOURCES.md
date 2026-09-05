@@ -282,6 +282,7 @@
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工
 - [Maestro](https://github.com/joosure/Maestro) - AGPL-3.0 的真实项目任务编排平台，支持将 Linear/TAPD 任务连接到 GitHub/CNB 和 Codex、Claude Code、OpenCode、CodeBuddy，按隔离工作区执行、记录 diff/日志/工具调用并回写任务结果
 - [WorkIsland](https://github.com/qianzhu18/workisland) - Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBuddy/CodeBuddy、Codex、Claude Code 等，可监控任务、处理审批/提问并跳回源会话
+- [Ping Island](https://github.com/erha19/ping-island) - Apache-2.0 许可的 macOS 菜单栏与刘海岛 Agent 状态面板，明确支持 WorkBuddy，可汇总任务状态、审批/提问和完成通知并跳回源会话；项目提供 Swift 源码、测试和安装文档，发行包是否签名/公证请以当前版本说明为准
 - [WorkBuddy OpenAPI PHP SDK](https://github.com/JaguarJack/workbuddy-openapi) - MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助手消息/权限、云任务、产物、兑换和 ACP
 - [WorkBuddy2API (Tom6814)](https://github.com/Tom6814/WorkBuddy2API) - MIT 许可的第三方本地/容器化协议转换器，将 WorkBuddy 模型包装为 OpenAI 兼容 REST API，支持流式对话、工具调用、文生图/图生图、Token 刷新和 Docker 部署
 - [WorkBuddy Jupyter Bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) - MIT 许可、面向 WorkBuddy 5.x 的 JupyterLab MCP 接线 Skill，提供真实内核中的代码执行、Notebook/Cell 读写、变量留存和 DataFrame 自省，并用 9 项端到端校验固化配置与排障

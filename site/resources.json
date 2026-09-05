@@ -2490,6 +2490,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Ping Island",
+    "url": "https://github.com/erha19/ping-island",
+    "description": "An Apache-2.0 macOS menu-bar and notch-style Agent status surface with explicit WorkBuddy support; it aggregates task states, approvals/questions, and completion notices and jumps back to the source session. The project includes Swift source, tests, and installation docs; check the current release notes for signing and notarization status",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Ping Island",
+    "descriptionZh": "Apache-2.0 许可的 macOS 菜单栏与刘海岛 Agent 状态面板，明确支持 WorkBuddy，可汇总任务状态、审批/提问和完成通知并跳回源会话；项目提供 Swift 源码、测试和安装文档，发行包是否签名/公证请以当前版本说明为准",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy OpenAPI PHP SDK",
     "url": "https://github.com/JaguarJack/workbuddy-openapi",
     "description": "An MIT-licensed third-party PHP 8.1+ SDK for the official WorkBuddy OpenAPI, covering OAuth, profile and phone verification, local-assistant messages/permissions, cloud tasks, artifacts, redemption, and ACP. It does not persist tokens itself, but handles client secrets, user/task tokens, and prompts",
