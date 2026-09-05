@@ -21,6 +21,7 @@ Willson-Huang/bilibili-video-summary
 miaqu766520-a11y/kb-builder
 feng-liu-1994/workbuddy-finance-workbench
 chaoliuzhu65-tech/universal-travel-planner-skill
+ycyliu/travel-planner-skill
 yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
 chenwg001/qingfengskill
