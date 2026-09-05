@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演示；使用 HTMLSlide 时请先确认登录和数据上传范围
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - MIT 许可、面向 OpenClaw/WorkBuddy 的开发工作流 Skill 套件，提供 `/ship`、`/review`、`/qa` 等命令、跨步骤状态管理和一键安装/验证流程
 - [Spec Superflow](https://github.com/MageByte-Zero/spec-superflow) - MIT 许可、明确提供 `install-workbuddy` 安装器的 AI 编程工作流插件，融合 Spec-first 规划、契约驱动执行、阶段性验证和可恢复交接，并支持 `/ssf:resume`、`/ssf:switch`、`/ssf:save` WorkBuddy 命令适配
@@ -288,6 +289,7 @@
 
 ### Tools and integrations
 
+- [MindArchive](https://github.com/CatchNo2/MindArchive) - MIT 许可的 AI 对话洞察归档工具，支持增量处理、断点续跑、消费统计和费用上限，也可导出分块提示词交给 WorkBuddy 处理后回收整理
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - 许可未声明的 WorkBuddy CN 本地协议代理，提供 OpenAI 兼容接口、流式输出、工具调用、OAuth 登录和多账号轮换，并支持 Docker 部署；它会处理本地凭证且包含自动签到功能，使用前请核对许可证、账号授权和上游服务条款
 - [collab-cli](https://github.com/yinsang0910-star/collab-cli) - MIT 许可、支持 WorkBuddy 的跨 Agent 协作 CLI，通过局域网发现和同步共享任务、记忆、收件箱与审查结果；支持 Agent 间派发命令，使用前请配置共享密钥并限制网络与执行权限
 - [Agent Chamber](https://github.com/LtyFantasy/agent-chamber) - MIT 许可的自托管 Agent 协作中间件，README 明确将 WorkBuddy 列为支持的 harness，通过 MCP/REST 提供话题、任务看板和文档空间；Docker Compose 默认使用本地端口，接入需要为 Agent 创建 API Key，暴露到公网前请配置强密钥和访问控制

@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - An MIT-licensed development-workflow Skill suite for OpenClaw/WorkBuddy, offering `/ship`, `/review`, and `/qa` commands, cross-step state management, and one-command installation and verification
 - [Spec Superflow](https://github.com/MageByte-Zero/spec-superflow) - An MIT-licensed AI-development workflow plugin with an explicit `install-workbuddy` installer, combining spec-first planning, contract-driven execution, staged verification, and recoverable handoffs, with `/ssf:resume`, `/ssf:switch`, and `/ssf:save` WorkBuddy command adapters
@@ -289,6 +290,7 @@
 
 ### Tools and integrations
 
+- [MindArchive](https://github.com/CatchNo2/MindArchive) - An MIT-licensed AI-conversation insight archive with incremental processing, resumable runs, usage and cost limits, and an export mode that lets WorkBuddy answer chunked prompts before collecting the results
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - A license-not-declared local protocol proxy for WorkBuddy CN with OpenAI-compatible APIs, streaming, tool calls, OAuth login, multi-account rotation, and Docker deployment; it handles local credentials and includes automated check-in, so verify licensing, account authorization, and upstream terms before use
 - [collab-cli](https://github.com/yinsang0910-star/collab-cli) - An MIT-licensed WorkBuddy-compatible cross-agent collaboration CLI that discovers and syncs tasks, memory, inboxes, and reviews over a LAN; it can dispatch commands between Agents, so configure a shared secret and restrict network and execution permissions before use
 - [Agent Chamber](https://github.com/LtyFantasy/agent-chamber) - An MIT-licensed self-hosted Agent collaboration middleware whose README explicitly lists WorkBuddy among supported harnesses, exposing topics, task boards, and document spaces through MCP/REST; Docker Compose defaults to local ports and agent API keys are required, so configure strong secrets and access controls before exposing it remotely
