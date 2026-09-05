@@ -160,6 +160,16 @@
     "categoryZh": "Core concepts"
   },
   {
+    "title": "Skills Marketplace quick start",
+    "url": "https://open.workbuddy.cn/en/docs/skill",
+    "description": "Official instructions for opening the Skills Marketplace in WorkBuddy and browsing or installing Skills",
+    "section": "Official Resources",
+    "category": "Core concepts",
+    "titleZh": "Skills Marketplace 入门",
+    "descriptionZh": "官方说明如何在 WorkBuddy 客户端打开 Skills Marketplace 并浏览、安装 Skill",
+    "categoryZh": "Core concepts"
+  },
+  {
     "title": "Create a Skill",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills",
     "description": "Turn a natural-language workflow into a reusable Skill",
