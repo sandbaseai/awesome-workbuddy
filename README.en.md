@@ -16,7 +16,7 @@ WorkBuddy uses natural language to help with research, documents, data, design, 
 ## Start Here
 
 - [Download WorkBuddy](https://www.workbuddy.ai/) · [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)
-- [One-minute chooser and quick start](START_HERE.md) - Start here if you are not sure what to use.
+- [One-minute chooser and quick start](START_HERE.en.md) - Start here if you are not sure what to use. 中文版：[START_HERE.md](START_HERE.md)
 - [Search the resource directory](https://sandbaseai.github.io/awesome-workbuddy/) - Filter by keyword or category.
 
 If this list helps you find something useful, consider giving it a [Star](https://github.com/sandbaseai/awesome-workbuddy). Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
