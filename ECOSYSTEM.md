@@ -9,11 +9,11 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,087 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,073 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,716 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,718 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,949 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,542 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
-| [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,145 | JavaScript | 2026-09-05 |
+| [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,146 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,923 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,775 | Go | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,928 | JavaScript | 2026-09-05 |
@@ -22,7 +22,7 @@ Last refreshed: **2026-09-05 UTC**
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,543 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,167 | JavaScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,782 | TypeScript | 2026-09-04 |
-| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,590 | TypeScript | 2026-09-05 |
+| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,591 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,586 | Rust | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,047 | Rust | 2026-09-05 |
@@ -34,6 +34,7 @@ Last refreshed: **2026-09-05 UTC**
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 564 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 559 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
+| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 543 | Python | 2026-09-02 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-05 |
@@ -87,10 +88,10 @@ Last refreshed: **2026-09-05 UTC**
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 27 | Python | 2026-09-01 |
 | [AlanHuang168/AI-Project-Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) | 27 | JavaScript | 2026-07-22 |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 27 | JavaScript | 2026-09-05 |
 | [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) | 27 | JavaScript | 2026-09-05 |
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 25 | JavaScript | 2026-09-05 |
 | [zhouwei713/WorkBuddy-Dream-Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) | 24 | CSS | 2026-07-24 |
 | [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) | 24 | TypeScript | 2026-09-05 |
 | [Dangooy/trade-pipeline-skill](https://github.com/Dangooy/trade-pipeline-skill) | 24 | Python | 2026-09-04 |
@@ -134,12 +135,12 @@ Last refreshed: **2026-09-05 UTC**
 | [Tugoukezhang/workbuddy-skills](https://github.com/Tugoukezhang/workbuddy-skills) | 13 | Java | 2026-07-12 |
 | [YuanYiZheXue/workbuddy-wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) | 13 | Python | 2026-05-10 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 13 | - | 2026-06-14 |
-| [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 13 | Rust | 2026-09-04 |
 | [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | HTML | 2026-09-01 |
 | [darker2016/workbuddy-skill-groups](https://github.com/darker2016/workbuddy-skill-groups) | 13 | Python | 2026-08-16 |
 | [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | Python | 2026-06-12 |
 | [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | Python | 2026-07-13 |
 | [JipZeonGit/codebuddy-ide-cn-linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) | 12 | Shell | 2026-09-02 |
+| [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | Rust | 2026-09-04 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
 | [Mariposa-FLOA/image-skill](https://github.com/Mariposa-FLOA/image-skill) | 12 | Python | 2026-09-03 |
 | [xuboboo/xiaohongshu-viral-note-agent-skill](https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill) | 11 | Python | 2026-07-19 |
