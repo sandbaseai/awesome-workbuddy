@@ -356,6 +356,7 @@
 
 ### Tools and integrations
 
+- [mnemon](https://github.com/mnemon-dev/mnemon) - An Apache-2.0 local-first cross-session memory tool with a documented `mnemon setup --target workbuddy --yes` flow that deploys Skills, prompts, and hooks to WorkBuddy's `.workbuddy/` or `~/.workbuddy/`; it reads and writes local task memory, so confirm directories, backups, and sensitive-data boundaries before enabling it
 - [Microsoft 365 MCP Server](https://github.com/mdwsk88/ms-365-21v-mcp-server) - An Apache-2.0 Microsoft 365 OAuth 2.1 MCP gateway whose README records WorkBuddy remote-connection, OAuth, tool-discovery, and invocation verification; enterprise tenant, mail, file, and calendar data are accessed with authorization, so review tenant policy and scopes before deployment
 - [LazyMind](https://github.com/LazyAGI/LazyMind) - An Apache-2.0 AI Skill Runtime for knowledge-intensive work that can connect WorkBuddy local projects and task histories, and expose Skills, workflows, and knowledge bases through MCP; review local-history scan scope and any cloud data flow first
 - [LidKeeper](https://github.com/Luchioxy/LidKeeper) - An MIT-licensed local keep-awake tool that supports Claude Code, Codex, and WorkBuddy while running with the lid closed; its installer changes system power-related settings, so inspect the script and confirm how to restore them first

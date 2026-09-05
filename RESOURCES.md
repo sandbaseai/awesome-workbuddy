@@ -355,6 +355,7 @@
 
 ### Tools and integrations
 
+- [mnemon](https://github.com/mnemon-dev/mnemon) - Apache-2.0 许可的本地优先跨会话记忆工具，提供 `mnemon setup --target workbuddy --yes`，将 Skill、Prompt 和 Hook 部署到 WorkBuddy 的 `.workbuddy/` 或 `~/.workbuddy/`；它会读取并写入本地任务记忆，启用前请确认目录、备份和敏感信息范围
 - [Microsoft 365 MCP Server](https://github.com/mdwsk88/ms-365-21v-mcp-server) - Apache-2.0 许可的 Microsoft 365 OAuth 2.1 MCP 网关，README 记录了 WorkBuddy 的远程连接、OAuth、工具发现和调用验证；企业租户、邮件、文件与日历数据会经授权访问，部署前请核对租户策略和权限
 - [LazyMind](https://github.com/LazyAGI/LazyMind) - Apache-2.0 许可的知识密集型工作 AI Skill Runtime，可接入 WorkBuddy 的本地项目与任务历史，并通过 MCP 提供 Skills、工作流和知识库；使用前请审查本地历史扫描范围及云端数据流
 - [LidKeeper](https://github.com/Luchioxy/LidKeeper) - MIT 许可的本地防休眠工具，支持 Claude Code、Codex 和 WorkBuddy 运行时保持电脑唤醒；安装脚本会修改系统电源相关设置，使用前请审查脚本并确认恢复方式
