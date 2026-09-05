@@ -112,6 +112,7 @@ wicm84266964/Buddy2api
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator
+THU-MAIC/OpenMAIC
 jiangxu1024/hotspot-monitor-skill
 mingze21/bazi-ziwei-skill
 xiaolouJB/prompt-toolkit
@@ -133,10 +134,12 @@ shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy
 quantskills/skill-pandadata-api
 taxueseek/session-digger
+NevaMind-AI/memU
 maojiebc/majia-huiyuan
 Mariposa-FLOA/image-skill
 WaterCMY/A-share-watch-copilot
 joyparkray/agent-avatar
+kenn-io/agentsview
 iuuunlyk/AgentSessionQuery
 abc1317679842-ui/workbuddy-token-tracker
 dingminhua/dsh-connect-workbuddy

@@ -770,6 +770,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "memU",
+    "url": "https://github.com/NevaMind-AI/memU",
+    "description": "An Apache-2.0 cross-agent personal-memory system with direct WorkBuddy support that distills reusable Skills from sessions and tool calls, then uses a local sidecar for memory injection and retrieval; its WorkBuddy adapter reads `~/.workbuddy/projects` sessions, changes host instruction files, and creates scheduled bridge tasks, while self-hosting requires an embedding key, so review session/personal-data scope, model and storage providers, backups, and uninstall retention",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "memU",
+    "descriptionZh": "Apache-2.0 许可的跨 Agent 个人记忆系统，直接支持 WorkBuddy，可从会话与工具调用中提炼可复用 Skill，并通过本地 sidecar 做记忆注入与检索；WorkBuddy 适配会读取 `~/.workbuddy/projects` 会话、修改宿主说明文件并创建定时桥接任务，自托管需要 embedding Key，使用前请确认会话/个人资料范围、模型与存储提供方、备份及卸载保留策略",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Majia Huiyuan",
     "url": "https://github.com/maojiebc/majia-huiyuan",
     "description": "An MIT-licensed membership-operations and data-system Skill with a WorkBuddy single-expert package, 55 simulated logical datasets, 25 ETL flows, 12 role-oriented dashboards, and RFM, retention, coupon-effectiveness, and data-quality references; no values are real business benchmarks, SQL targets Spark 3.4, historical platform JSON is not a current import package, production use requires schema mapping, metric agreement, and regression acceptance, and its build tool recreates the selected output directory and ZIP",
@@ -827,6 +837,16 @@
     "category": "Ready-to-use Skills",
     "titleZh": "Book Video Generator",
     "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的读书视频 Skill，从书籍检索、文案与分镜到 AI 插图、TTS、字幕和 ffmpeg 合成输出 MP4；会访问外部模型/语音服务并可读取 API Key，使用前请核验书籍事实、版权与引用、密钥存储和生成内容质量",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "OpenMAIC Skill",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "description": "An MIT-licensed standard `SKILL.md` classroom workbench with direct WorkBuddy support, generating multi-agent lessons, slides, quizzes, interactive HTML, PBL activities, and TTS from topics or documents in hosted or self-hosted mode; hosted use requires an access code, while self-hosting installs Node/pnpm dependencies, configures model keys, and processes uploaded material, so review uploads, costs, rights, key handling, external model/voice services, and final teaching facts",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "OpenMAIC Skill",
+    "descriptionZh": "MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验、互动 HTML、PBL 和 TTS，并支持托管或自托管模式；托管模式需要访问码，自托管会安装 Node/pnpm 依赖、配置模型 Key 并处理上传资料，生成内容还可能经外部模型/语音服务，使用前请核对数据上传、费用、版权、密钥和最终教学事实",
     "categoryZh": "Ready-to-use Skills"
   },
   {
@@ -1407,6 +1427,16 @@
     "category": "Tools and integrations",
     "titleZh": "Agent Avatar",
     "descriptionZh": "MIT 许可的 macOS/Windows Live2D 桌面伙伴，通过只读观察器连接 WorkBuddy、Codex、Claude Code、Hermes 和 DeepSeek Harness，并把 Agent 状态映射为动画；项目不附带模型，Live2D Cubism Core 受单独许可约束，应用未沙箱化且 Windows 构建未签名，安装器还会调用宿主 CLI、写入插件配置并携带 Python 运行时，启用前请核对二进制、模型许可、hook 权限和本地状态文件范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "AgentsView",
+    "url": "https://github.com/kenn-io/agentsview",
+    "description": "An MIT-licensed local-first cross-agent session search, analytics, and token-use tool supporting WorkBuddy's `~/.workbuddy/projects`; read-only queries can use local SQLite directly, while `sync`, usage statistics, and database/remote-push commands start a writable daemon or access configured remote targets, so review session contents, credentials, sync destinations, network exposure, and write commands",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AgentsView",
+    "descriptionZh": "MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy/projects`；只读查询可直接读取本地 SQLite，但 `sync`、用量统计及数据库/远程推送命令会启动可写 daemon 或访问配置的远端目标，使用前请审查会话内容、凭据、同步目的地、网络暴露和写入命令",
     "categoryZh": "Tools and integrations"
   },
   {
