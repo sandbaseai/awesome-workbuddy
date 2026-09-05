@@ -1490,6 +1490,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Reading Analysis",
+    "url": "https://github.com/shenquan520/reading-analysis",
+    "description": "A license-not-declared WorkBuddy English-reading analysis Skill with 125 method cards for Gaokao, CET, and postgraduate exams",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Reading Analysis",
+    "descriptionZh": "许可证未声明的 WorkBuddy 英语阅读分析 Skill，提供 125 张方法卡，覆盖高考、四六级和考研阅读",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Translate Book Windows",
     "url": "https://github.com/NikoKennedy/translate-book-windows",
     "description": "An MIT-licensed WorkBuddy book-translation Skill with upstream attribution that processes PDF/DOCX/EPUB in chunks, maintains a glossary, validates manifest/hash integrity, supports resumable runs, and exports HTML/DOCX/EPUB/PDF",
@@ -2687,6 +2697,16 @@
     "category": "Tools and integrations",
     "titleZh": "GitHub MCP Server Lite",
     "descriptionZh": "MIT 许可、仅依赖 Python 标准库的 GitHub MCP Server，提供仓库、文件、分支、Issue、PR、搜索和通知等 24 个工具，适合 WorkBuddy 在 OAuth/npm 不稳定的环境中通过 PAT 连接",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "GitHub Accelerator",
+    "url": "https://github.com/majiabin2020/github-accelerator",
+    "description": "An MIT-licensed WorkBuddy/Agent GitHub-access diagnosis Skill that tests channels before offering bounded fixes, backups, and rollback scripts",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "GitHub Accelerator",
+    "descriptionZh": "MIT 许可的 WorkBuddy/Agent GitHub 访问诊断 Skill，先实测网络通道，再提供受限修改、备份和回滚脚本",
     "categoryZh": "Tools and integrations"
   },
   {

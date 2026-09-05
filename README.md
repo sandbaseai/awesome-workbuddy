@@ -211,6 +211,7 @@
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计
 - [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) - MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF
+- [Reading Analysis](https://github.com/shenquan520/reading-analysis) - 许可证未声明的 WorkBuddy 英语阅读分析 Skill，提供 125 张方法卡，覆盖高考、四六级和考研阅读
 - [Translate Book Windows](https://github.com/NikoKennedy/translate-book-windows) - MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处理，维护术语表、manifest/哈希完整性校验并支持断点续传和 HTML/DOCX/EPUB/PDF 输出
 - [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁
 - [Career Copilot](https://github.com/ronineymessjr-sudo/career-copilot) - MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递跟踪和面试复盘，并对投递/邮件等关键动作设置人工确认
@@ -336,6 +337,7 @@
 - [DCC-MCP Agent Plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) - MIT 许可、官方分发式的 DCC-MCP Agent Skills/插件集合，兼容 WorkBuddy、Codex、Claude Code 等宿主，可发现数字内容创作工具并在审批边界内调用
 - [SkillHive](https://github.com/tonycc/skillhive) - MIT 许可的企业内部 Skill 中枢，通过 WorkBuddy MCP 连接器集中分发、版本管理、评审、反馈和操作审计，并提供可审计的连接器构建/校验流程
 - [GitHub MCP Server Lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) - MIT 许可、仅依赖 Python 标准库的 GitHub MCP Server，提供仓库、文件、分支、Issue、PR、搜索和通知等 24 个工具，适合 WorkBuddy 在 OAuth/npm 不稳定的环境中通过 PAT 连接
+- [GitHub Accelerator](https://github.com/majiabin2020/github-accelerator) - MIT 许可的 WorkBuddy/Agent GitHub 访问诊断 Skill，先实测网络通道，再提供受限修改、备份和回滚脚本
 - [BailingHub WorkBuddy Connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) - MIT 许可的独立 WorkBuddy 企业连接器，通过浏览器 PKCE 授权、能力校验、幂等 invocation、审批、限流和审计让 Agent 查询或操作已接入的业务系统
 - [AssetPlex](https://github.com/wynter-cai/assetplex) - MIT 许可、完全本地的跨 Agent 资产中枢，将 identity、Skills、rules 和 MCP 配置集中管理并同步到 WorkBuddy、Codex、Claude Code、TRAE 和 Qoder，支持反向导入、格式转换、符号链接和本地 Web UI
 - [VOKO](https://github.com/laoyudashu/voko) - AGPL-3.0 许可、面向 WorkBuddy 等本地 Agent 的通信运行时，支持 MCP、A2A 1.0、REST/Webhook、精确会话路由、权限策略、人工介入和本地审计

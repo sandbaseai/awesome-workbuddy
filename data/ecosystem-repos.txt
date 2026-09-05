@@ -260,6 +260,8 @@ LeemanCheung/dsh-agent-preset-recommender
 tchivs/agentsw
 yimiaoxiehou/oneplus-resukisu-kernel-skill
 iithink88/wechat-cli
+majiabin2020/github-accelerator
+shenquan520/reading-analysis
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc
