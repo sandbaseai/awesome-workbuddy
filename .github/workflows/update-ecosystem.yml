@@ -50,7 +50,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ECOSYSTEM.md DISCOVERIES.md README.md README.en.md
           git commit -m "chore: refresh ecosystem metrics"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push raced with another main update; rebasing attempt ${attempt}"
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "Unable to publish ecosystem refresh after three attempts"
+          exit 1
       - name: Publish discovery queue as an issue
         run: |
           issue_number="$(gh issue list --label discovery --state open --json number --jq '.[0].number')"
