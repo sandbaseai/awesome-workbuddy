@@ -442,6 +442,7 @@
 - [CareerSail](https://github.com/genius916/CareerSail) - MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、进度追踪、简历定制、面试准备和飞书工作区同步
 - [Ad Trader](https://github.com/bettermen/ad-trader) - MIT 许可、明确支持 WorkBuddy 的广告数据分析 Skill，读取 CSV/Excel/JSON 后完成多平台 KPI 诊断、素材分析、报表和预算建议；它提供分析建议，不代表自动修改广告账户
 - [Investor Skill](https://github.com/D-kart/investor-skill) - MIT 许可、原生支持 WorkBuddy 的一级市场投资研究 Skill，按 Equity Research 风格整理项目、商业模式、市场、竞争、尽调和投资备忘录，并附术语表与参考资料；仅供研究和草稿使用，不构成投资建议
+- [Psyche Writer](https://github.com/otakuminami/psyche-writer) - MIT 许可的心理学公众号写作 Skill，支持 WorkBuddy 直接安装，提供概念科普、实用指南、现象解读、品牌合作和健康科普等文章结构，并要求研究引用、避免贩卖焦虑和伤害脆弱群体
 - [自媒体运营](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Social-Media) - 小红书图文和视频内容生产的官方工作流.
 - [AI content production pipeline](https://mp.weixin.qq.com/s/dSKr_a5lUYunDfS79oRzcA) - 从选题到发布的内容工作流.
 - [Exam prep and job search](https://mp.weixin.qq.com/s/ldhLYboHnLiqrz12I5vW9Q) - 学习与求职任务编排.
