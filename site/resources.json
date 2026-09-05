@@ -44,7 +44,7 @@
     "url": "https://github.com/AlephAITech/WorkBuddyGuide",
     "description": "a practical Chinese guide",
     "section": "Start here",
-    "category": "Recommended first reads",
+    "category": "Recommended resources",
     "titleZh": "WorkBuddyGuide",
     "descriptionZh": "MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例",
     "categoryZh": "Learning and reference"
@@ -54,7 +54,7 @@
     "url": "https://github.com/howoneai/skill-onboarding",
     "description": "a quick introduction to building Skills",
     "section": "Start here",
-    "category": "Recommended first reads",
+    "category": "Recommended resources",
     "titleZh": "Skill Onboarding",
     "descriptionZh": "Apache-2.0 许可的 15 分钟 Skill 构建入门教程，按创建、评估、迭代和基准测试的阶段带用户动手制作第一个 Skill，并明确提供 CodeBuddy 的 `~/.codebuddy/skills/` 安装路径",
     "categoryZh": "Learning and reference"
@@ -64,7 +64,7 @@
     "url": "https://github.com/THU-MAIC/OpenMAIC",
     "description": "create lessons, slides, and interactive pages with multi-agent workflows",
     "section": "Start here",
-    "category": "Recommended first reads",
+    "category": "Recommended resources",
     "titleZh": "OpenMAIC Skill",
     "descriptionZh": "MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验、互动 HTML、PBL 和 TTS，并支持托管或自托管模式",
     "categoryZh": "Ready-to-use Skills"
@@ -74,7 +74,7 @@
     "url": "https://github.com/EverMind-AI/SkillCorpus",
     "description": "search and load Skills for a task",
     "section": "Start here",
-    "category": "Recommended first reads",
+    "category": "Recommended resources",
     "titleZh": "SkillCorpus",
     "descriptionZh": "Apache-2.0 的 Skill 聚合与检索基础设施，提供 WorkBuddy 插件，可从多个来源查找并加载任务相关 Skill",
     "categoryZh": "Skill collections"

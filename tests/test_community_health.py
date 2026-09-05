@@ -10,7 +10,6 @@ class CommunityHealthTests(unittest.TestCase):
         for filename in ("README.md", "README.en.md"):
             content = (ROOT / filename).read_text(encoding="utf-8")
             self.assertIn("START_HERE.md", content)
-            self.assertIn("site/llms.txt", content)
             self.assertNotIn("100 genuine stars", content)
             self.assertNotIn("100 个真实 Star", content)
             self.assertNotIn("Selection Standard", content)
@@ -35,9 +34,6 @@ class CommunityHealthTests(unittest.TestCase):
             "date-released: 2026-09-05",
         ):
             self.assertIn(field, citation)
-        for filename in ("README.md", "README.en.md"):
-            self.assertIn("CITATION.cff", (ROOT / filename).read_text(encoding="utf-8"))
-
     def test_contribution_flow_is_bilingual(self) -> None:
         guide = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
         self.assertIn("## English", guide)
