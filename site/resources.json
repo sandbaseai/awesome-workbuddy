@@ -1520,6 +1520,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "StatSoft CLI",
+    "url": "https://github.com/medstatstar/statsoft-cli",
+    "description": "An MIT-licensed cross-platform statistical-software integration Skill with explicit WorkBuddy support for R, Stata, SAS, SPSS, JMP, Matlab, and more, covering conversion, analysis, and reporting; read-only detection is the default, while config writes, network access, binary execution, and native-code compilation require explicit confirmation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "StatSoft CLI",
+    "descriptionZh": "MIT 许可的跨平台统计软件接入 Skill，明确支持 WorkBuddy，可连接 R、Stata、SAS、SPSS、JMP、Matlab 等并处理转换、分析和报告；默认只读检测，配置写入、网络访问、二进制执行和原生代码编译均需明确确认",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Graphic Design Guide",
     "url": "https://github.com/genapohub/graphic-design-guide",
     "description": "An MIT-licensed WorkBuddy/CodeBuddy graphic-design Skill that routes brand, marketing, single-asset, rebrand, and style-exploration work into color, typography, logo, asset, and rights-review deliverables",
