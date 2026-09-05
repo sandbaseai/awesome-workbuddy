@@ -147,6 +147,7 @@ MWang-TS/kindle2workbuddy
 gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge
 MAXXXXXLI/workbuddy-cn-legal-skills
 Maquer/workbuddy-checkin
+aosi526/dsh-workbuddy-xdpool
 staruhub/awesome-workbuddy
 shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy

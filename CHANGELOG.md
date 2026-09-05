@@ -10,6 +10,7 @@
 - Curated the MIT-licensed `gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge` MCP bridge with explicit `fullAccess`, ACP, transcript, prompt, and local-log boundaries.
 - Curated the Apache-2.0 `MAXXXXXLI/workbuddy-cn-legal-skills` collection with upstream attribution and high-stakes legal-review warnings.
 - Curated the MIT-licensed `Maquer/workbuddy-checkin` with credential-storage, token-refresh, multi-account, scheduling, and account-term boundaries.
+- Curated the MIT-licensed `aosi526/dsh-workbuddy-xdpool` with multi-account snapshot, token-rotation, failover, billing, and loopback-bridge warnings.
 - Changed ecosystem refresh to weekly/manual triggers so dynamic-metadata commits do not race curation pushes; the scheduled job continues to refresh stars, discovery, and snapshots.
 - Added a standard `CITATION.cff` and bilingual citation links for the directory and v0.10.14 snapshot.
 

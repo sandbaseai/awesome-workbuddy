@@ -1250,6 +1250,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "DSH WorkBuddy XD Pool",
+    "url": "https://github.com/aosi526/dsh-workbuddy-xdpool",
+    "description": "An MIT-licensed DeepSeek Harness plugin that discovers historical WorkBuddy desktop logins and combines them into a failover model pool with model catalog, credits, cooldowns, and a loopback streaming bridge; it scans and stores multi-account snapshots, rotates tokens automatically, and can switch requests across accounts, so confirm authorization for every account, credential paths, model billing, ports, and platform terms, and never use it for shared resale",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "DSH WorkBuddy XD Pool",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供模型目录、额度、冷却和回环流式桥；它会扫描并保存多账号登录快照、自动轮换 Token，并让请求跨账号切换，安装前请确认每个账号的授权、凭据目录、模型计费、端口和平台条款，勿用于共享或转售",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",
