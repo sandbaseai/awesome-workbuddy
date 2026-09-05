@@ -990,6 +990,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Spec Superflow",
+    "url": "https://github.com/MageByte-Zero/spec-superflow",
+    "description": "An MIT-licensed AI-development workflow plugin with an explicit `install-workbuddy` installer, combining spec-first planning, contract-driven execution, staged verification, and recoverable handoffs, with `/ssf:resume`, `/ssf:switch`, and `/ssf:save` WorkBuddy command adapters",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Spec Superflow",
+    "descriptionZh": "MIT 许可、明确提供 `install-workbuddy` 安装器的 AI 编程工作流插件，融合 Spec-first 规划、契约驱动执行、阶段性验证和可恢复交接，并支持 `/ssf:resume`、`/ssf:switch`、`/ssf:save` WorkBuddy 命令适配",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "OpenClaw Expert Suite",
+    "url": "https://github.com/rebootmindful/openclaw-expert-suite",
+    "description": "An MIT-licensed multi-agent expert-debate system with explicit WorkBuddy support, providing researcher, thinker, critic, and other roles plus an orchestration Skill; copy its configuration into WorkBuddy project-level `.codebuddy/agents/` and `.codebuddy/skills/`",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "OpenClaw Expert Suite",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的多 Agent 专家辩论系统，提供研究、思考、批评等角色和调度 Skill，可将配置复制到 WorkBuddy 项目级 `.codebuddy/agents/` 与 `.codebuddy/skills/`",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "XHS Virtual Product",
     "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
     "description": "An MIT-licensed end-to-end Xiaohongshu digital-product workflow Skill with explicit WorkBuddy support, covering product selection, competitor analysis, production, listing, content, and review while putting originality and copyright checks into the workflow",
