@@ -74,6 +74,7 @@ infometa/workbuddyskills
 babygoton/WorkDaddy
 zjp1997720/zhijian-ai-bluebook-workbuddy-harness
 zjp1997720/zhijian-skills
+jiabaobei/skills-constitution
 SuperChason/ontology-driven-ai-data-management-skills
 yinqd3/workbuddy-skills
 Sqhao-O/undergraduate-thesis-ai-workflow
