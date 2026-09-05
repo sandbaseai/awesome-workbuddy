@@ -259,6 +259,7 @@ fy-agent/fyagent
 LeemanCheung/dsh-agent-preset-recommender
 tchivs/agentsw
 yimiaoxiehou/oneplus-resukisu-kernel-skill
+iithink88/wechat-cli
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc

@@ -1170,6 +1170,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WeChat CLI",
+    "url": "https://github.com/iithink88/wechat-cli",
+    "description": "A license-not-declared local WorkBuddy Skill for querying, searching, exporting, and analyzing the user's own WeChat records without network access by default",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WeChat CLI",
+    "descriptionZh": "许可证未声明的 WorkBuddy 本地微信分析 Skill，可查询、搜索、导出和统计自己的聊天记录；数据默认不联网",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "CareerStar",
     "url": "https://github.com/HanGu007/workbuddy-career-skills",
     "description": "An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking",
