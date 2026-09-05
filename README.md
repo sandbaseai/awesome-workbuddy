@@ -130,6 +130,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 
 ### Skill collections
 
+- [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流；会处理业务资料并生成模型/交付物，使用前请确认资料范围、输出目录和平台安装权限.
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接；不同 Skill 可能读取本地会话/文件或访问模型与网络服务，使用前请逐项确认权限和凭据范围.
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单；主要按 Claude Code Skill 格式编写，也可作为 CodeBuddy 的参考资料，执行时必须以微信官方文档为准，服务端保管密钥并人工复核支付规则、金额和发货逻辑.
@@ -257,6 +258,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 - [WorkBuddy × ChatCut MCP](https://github.com/chonpszhou/workbuddy-chatcut-mcp) - MIT 许可的 WorkBuddy 视频剪辑 MCP 接入，提供 OAuth 2.0 + PKCE 授权脚本、配置模板、令牌续期和 ChatCut 项目操作；令牌只在本地保存，连接的是 ChatCut 托管服务，使用前请确认账号授权、外部数据范围和平台条款.
 - [IMA Knowledge Base MCP](https://github.com/xuewolai/ima-mcp-server) - MIT 许可、明确支持 WorkBuddy 的 Node.js MCP 服务，将 IMA 知识库接入搜索、浏览、读取和网页导入；需要 IMA Client ID/API Key，且 `import_urls` 会写入知识库，使用前请确认凭据、目标知识库和导入内容.
 - [CaSee Intelligence MCP](https://github.com/xcasee/casee-mcp-server) - MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streamable HTTP 两种模式；需要外部 API Key，HTTP 服务暴露范围和研究结论都应由使用者复核.
+- [GitHub Trending MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) - Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语言筛选热门仓库，并提供 MCP 与本地网页模式；它会抓取网络数据，安装时请核对 WorkBuddy Skill 目标目录和来源.
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff；安装会改写 `~/.workbuddy` 下的 hooks、settings、MCP 与 Skills，且提示词采集默认开启并作为 Source 持久化，自动召回内容仅是不可信历史，使用前应决定是否关闭采集、核对本地/远程 Server 与模型数据流、配置鉴权并让 CLI/Server/插件保持同一 Git revision，当前 WorkBuddy 集成仍位于未发布的 `master`.
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入；部署需配置两组模型 API Key，Proxy 会保存用户 Key、接收会话/任务内容并监听多个本地端口，团队共享会扩大敏感资料与权限边界，使用前请核对模型服务、密钥、端口、用户级 Key、数据留存和团队访问控制.
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill) - 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent Window 复用登录态，并在验证码、登录和确认弹窗处交还人工；它能控制已登录网页，安装脚本会下载 CLI、扩展涉及浏览器权限，使用前请核对扩展来源、Profile、127.0.0.1 通信、登录态和每次写入/提交操作.

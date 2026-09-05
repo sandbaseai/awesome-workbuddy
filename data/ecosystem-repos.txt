@@ -11,6 +11,7 @@ bailinghub/bailinghub-workbuddy-connector
 chonpszhou/workbuddy-chatcut-mcp
 xuewolai/ima-mcp-server
 xcasee/casee-mcp-server
+ImLeonLi/GitHub-Trending-MCP
 chenin0931/OpenWorkbuddy
 wynter-cai/assetplex
 laoyudashu/voko
@@ -50,6 +51,7 @@ infometa/workbuddyskills
 babygoton/WorkDaddy
 zjp1997720/zhijian-ai-bluebook-workbuddy-harness
 zjp1997720/zhijian-skills
+SuperChason/ontology-driven-ai-data-management-skills
 Sqhao-O/undergraduate-thesis-ai-workflow
 vergess3/workbuddy-remote
 TencentEdgeOne/awesome-website-prompts-and-skills

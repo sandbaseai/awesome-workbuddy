@@ -570,6 +570,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Ontology-Driven AI Data Management Skills",
+    "url": "https://github.com/SuperChason/ontology-driven-ai-data-management-skills",
+    "description": "An MIT-licensed set of 25 enterprise ontology and AI data-management Skills with explicit WorkBuddy support, WorkBuddy ZIPs, install scripts, version metadata, a NOTICE, and validation workflow; it handles business material and generates models/artifacts, so confirm source scope, output paths, and platform installation permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Ontology-Driven AI Data Management Skills",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流；会处理业务资料并生成模型/交付物，使用前请确认资料范围、输出目录和平台安装权限",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Zhijian Skills",
     "url": "https://github.com/zjp1997720/zhijian-skills",
     "description": "An MIT-licensed portfolio of 19 Agent Skills with standard npx installation, per-Skill documentation, versions, and validation metadata, including a WorkBuddy-specific CLI model bridge; individual Skills may read local sessions/files or call model and web services, so confirm permissions and credential scope per Skill",
@@ -1737,6 +1747,16 @@
     "category": "Tools and integrations",
     "titleZh": "CaSee Intelligence MCP",
     "descriptionZh": "MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streamable HTTP 两种模式；需要外部 API Key，HTTP 服务暴露范围和研究结论都应由使用者复核",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "GitHub Trending MCP",
+    "url": "https://github.com/ImLeonLi/GitHub-Trending-MCP",
+    "description": "An Apache-2.0 GitHub Trending retrieval tool with WorkBuddy Skill support, filtering by time range, programming language, and spoken language, with MCP and local web modes; it scrapes network data, so verify the WorkBuddy Skill target directory and source before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "GitHub Trending MCP",
+    "descriptionZh": "Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语言筛选热门仓库，并提供 MCP 与本地网页模式；它会抓取网络数据，安装时请核对 WorkBuddy Skill 目标目录和来源",
     "categoryZh": "Tools and integrations"
   },
   {
