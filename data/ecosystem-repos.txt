@@ -6,6 +6,7 @@ bigbay957-sudo/workbuddy-for-obsidian
 AriaXXX-free/job-navigation-skill
 musistudio/claude-code-router
 alchaincyf/hermes-agent-orange-book
+alchaincyf/zhangxuefeng-skill
 dontbesilent2025/dbskill
 platonai/Browser4
 alchaincyf/nuwa-skill

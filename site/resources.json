@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Zhang Xuefeng Skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "An MIT-licensed WorkBuddy-compatible Skill for education and career planning, covering university-major choices, graduate-school decisions, and employment direction via `npx skills add`; it distills public material and is not an endorsement or official advice, so verify current policies, school information, and employment data before making real decisions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "张雪峰.skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的升学与职业规划思维框架 Skill，覆盖高考志愿、考研和就业方向，可通过 `npx skills add` 安装；内容来自公开资料蒸馏，不代表本人或官方建议，涉及现实决策时请核对最新政策、院校和就业数据",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "dbskill",
     "url": "https://github.com/dontbesilent2025/dbskill",
     "description": "A CC BY-NC 4.0 Chinese business-diagnosis Skill toolbox with explicit WorkBuddy support, covering business, content, decision, and action problems through 31 installable Skills; follow the non-commercial license for commercial use and redistribution",
