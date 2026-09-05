@@ -6,7 +6,7 @@ English · [简体中文](README.md)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
-A directory of Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
+A simple directory for finding Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
 
 ## Start here
 
@@ -21,7 +21,7 @@ A directory of Tencent WorkBuddy documentation, Skills, MCP integrations, and wo
 - [Configure MCP](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide): connect databases, messaging platforms, and external tools.
 - [Create an Automation](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide): schedule one-time or recurring tasks.
 
-### Recommended first reads
+### Recommended resources
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide): a practical Chinese guide.
 - [Skill Onboarding](https://github.com/howoneai/skill-onboarding): a quick introduction to building Skills.
@@ -30,7 +30,7 @@ A directory of Tencent WorkBuddy documentation, Skills, MCP integrations, and wo
 
 ## Browse by need
 
-The [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) contains:
+Open the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to find:
 
 - Official documentation and tutorials
 - Skill collections and ready-to-use Skills
@@ -39,10 +39,6 @@ The [searchable resource directory](https://sandbaseai.github.io/awesome-workbud
 
 ## Before you use a resource
 
-This is an independent community index, not an official Tencent publication. Before installing a third-party resource, check its source, license, permissions, and data flow. Never upload secrets, personal data, or unredacted company material.
-
-Each resource keeps its own license and terms; this index is released under [CC0 1.0 Universal](LICENSE).
-
-The machine-readable catalog is [`site/llms.txt`](site/llms.txt); citation metadata is in [CITATION.cff](CITATION.cff).
+This is an independent community index, not an official Tencent publication. Check a third-party resource's documentation and permissions before using it. Never upload secrets, personal data, or unredacted company material.
 
 Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
