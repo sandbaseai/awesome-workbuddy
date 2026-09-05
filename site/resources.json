@@ -1850,6 +1850,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "TourMind Booking Skills",
+    "url": "https://github.com/tourmind-com/Tourmind-Booking-Skills",
+    "description": "An MIT-licensed hotel-booking Skill with explicit WorkBuddy support that searches global inventory, compares rates, rechecks price/availability, and can create, cancel, or start payment for orders; it requires a TourMind account and local Skill Token, while booking, cancellation, and payment always require explicit user confirmation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "TourMind Booking Skills",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的酒店预订 Skill，可搜索全球酒店、比价并再次核验房价/库存后创建订单、取消或发起支付；需要 TourMind 账号和本地 Skill Token，预订、取消和支付均要求用户明确确认",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Travel Planner Skill",
     "url": "https://github.com/ycyliu/travel-planner-skill",
     "description": "An MIT-licensed Skill directly compatible with WorkBuddy and CodeBuddy that confirms requirements, researches external sources with optional Xiaohongshu MCP, and generates responsive HTML itineraries and three budget tiers",
