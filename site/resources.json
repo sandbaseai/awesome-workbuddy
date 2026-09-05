@@ -1580,6 +1580,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "CodeBuddy Proxy",
+    "url": "https://github.com/wnddd839/codebuddyapi-proxy",
+    "description": "A BSD-3-Clause Go self-hosted gateway that translates CodeBuddy OAuth/API access into an OpenAI-compatible interface with streaming, model discovery, domestic/global endpoints, account pools, a loopback admin UI, source builds, and multi-platform releases. It defaults to loopback and documents mode-0600 credential files, API-key protection, and restore flows, but OAuth, account rotation, the admin UI, and prebuilt artifacts still require review of account authorization, network boundaries, logs/backups, and service terms",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy Proxy",
+    "descriptionZh": "BSD-3-Clause 的 Go 自托管协议网关，将 CodeBuddy OAuth/API 接入转换为 OpenAI 兼容接口，支持流式请求、模型发现、国内/国际端点、账号池、回环管理台、源码构建和多平台发布；默认回环并说明凭据文件 `0600`、API Key 和恢复流程，但 OAuth、账号轮换、管理台和预编译包仍需按授权账号、网络边界、日志/备份和服务条款逐项复核",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "OpenCode CodeBuddy Auth",
     "url": "https://github.com/kuops/opencode-codebuddy-auth",
     "description": "An MIT-licensed OpenCode plugin with source and installation documentation that authenticates CodeBuddy/IOA through browser OAuth, discovers models dynamically from `/v3/config`, and refreshes tokens automatically across Chinese and international endpoints. OpenCode manages the token in local `auth.json`; the plugin sends requests containing user/tenant context to CodeBuddy endpoints and depends on an undocumented API, so protect local auth files and review endpoints and account terms first",
