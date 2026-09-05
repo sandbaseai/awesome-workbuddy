@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) - An MIT-licensed cross-platform WorkBuddy Skill that uses pure Python and RSS to generate a searchable, filterable, dark-mode single-file HTML AI news site, with model rankings, market data, citations, and scheduled generation.
 - [Hong Kong Business Writing](https://github.com/simonsiu2008-bit/hk-business-writing) - An MIT-licensed WorkBuddy/Claude Skill for rewriting Mainland Chinese business copy in natural Hong Kong written Chinese, with 80+ terminology mappings, narrative frameworks, examples, and a self-check list.
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - An MIT-licensed WorkBuddy Skill for A-share short-term-stock and ETF research using live market, sentiment, and technical signals; for research only and not investment advice
 - [WorkBuddy Market Briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) - An MIT-licensed WorkBuddy workflow for commodity-morning and U.S.-market pre-open briefings, with `SKILL.md`, data scripts, HTML examples, and scheduled delivery; for research only
