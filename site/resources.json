@@ -1570,6 +1570,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "CodeBuddy Statusline",
+    "url": "https://github.com/runzhi/codebuddy-statusline",
+    "description": "An MIT-licensed cross-platform CodeBuddy Code statusline showing context progress, tokens, tool calls, cost, credits, duration, and line changes, with detailed cost reports and configurable layouts; its installer writes `~/.codebuddy/settings.json`, creates caches, links commands, and may run a daily background git update in clone mode, while runtime parsing reads session transcripts, so review config writes, transcript privacy, update provenance, and cache scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy Statusline",
+    "descriptionZh": "MIT 许可、跨平台的 CodeBuddy Code 状态栏，显示上下文进度、Token、工具调用、费用、Credits、耗时与代码增删，并提供详细成本报告和可配置布局；安装脚本会写入 `~/.codebuddy/settings.json`、创建缓存、链接命令，并在 git-clone 模式下每日尝试后台更新，运行时会读取会话 transcript，执行前请审查配置写入、会话隐私、更新来源和缓存范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "CodeBuddy2API",
     "url": "https://github.com/orangeboyChen/codebuddy2api",
     "description": "An MIT-licensed, source- and test-backed self-hosted CodeBuddy gateway with OpenAI/Anthropic-compatible APIs, encrypted SQLite or PostgreSQL storage, a web admin console, access keys, credential management, and sanitized debug traces. The example binds to `127.0.0.1`, but Docker and multi-instance deployments handle sign-in credentials, prompts, and request traces, so set a strong random encryption key, restrict the admin console and ports, and review logs, retention, and Tencent account terms first",

@@ -119,6 +119,7 @@ kuops/opencode-codebuddy-auth
 beeyang0/miniprogram-VirtualPayment
 JipZeonGit/codebuddy-ide-cn-linux
 wicm84266964/Buddy2api
+runzhi/codebuddy-statusline
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning
 chenjun198711/book-video-generator

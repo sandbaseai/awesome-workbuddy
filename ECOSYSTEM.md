@@ -7,26 +7,26 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,583 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,597 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,936 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,502 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,506 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
-| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,918 | - | 2026-08-12 |
+| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,919 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,770 | Go | 2026-09-05 |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,810 | TypeScript | 2026-09-04 |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,811 | TypeScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,773 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,035 | Rust | 2026-09-05 |
-| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,036 | Rust | 2026-09-05 |
+| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 700 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 617 | JavaScript | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 618 | JavaScript | 2026-09-05 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-03 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 290 | Python | 2026-09-03 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 258 | Python | 2026-08-13 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 248 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 249 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
@@ -132,6 +132,7 @@ Last refreshed: **2026-09-05 UTC**
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
+| [runzhi/codebuddy-statusline](https://github.com/runzhi/codebuddy-statusline) | 7 | Python | 2026-08-31 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
