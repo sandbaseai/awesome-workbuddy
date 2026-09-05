@@ -89,7 +89,7 @@
 - [Image Skill](https://github.com/Mariposa-FLOA/image-skill) - 面向 WorkBuddy、Codex 等 Agent 的 17 个视觉 Skill，覆盖海报设计、图像工作流、翻页展示与分层 PSD 导出，并提供双语使用文档和逐项素材来源
 - [workbuddyskills](https://github.com/infometa/workbuddyskills) - WorkBuddy Skills、连接器与专家的离线学习归档.
 - [Doubao / WorkBuddy / QwenWork Skills Archive](https://github.com/ahang1598/doubao-workbuddy-qwenwork-skills) - 许可未声明、由脚本自动同步的多平台 Skills/专家/连接器归档，其中 WorkBuddy 目录约含 500 个条目和 15,245 个文件，并提供按场景导航
-- [WorkBuddy Skill Groups](https://github.com/darker2016/workbuddy-skill-groups) - MIT 许可、透明标注来源的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR 等场景
+- [WorkBuddy Skill Groups](https://github.com/darker2016/workbuddy-skill-groups) - 含 MIT LICENSE 文件但 GitHub 未识别许可证的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR，并说明提示词来源与合规边界；高风险领域内容仅作辅助参考，使用前请自行核实
 - [WorkBuddy Experts](https://github.com/vbarter/workbuddy-experts) - 提示词工程学习参考资产集，整理 WorkBuddy 4.22.16 的 246 位专家提示词、7 个 Nunjucks 系统模板、2 个内置 Skill 和客户端逆向报告
 - [Unified Legal AI CN](https://github.com/laubeing-droid/unified-legal-ai-cn) - MIT 许可、以 WorkBuddy 为主平台的中国法律辅助工作台，提供 5 个核心 Agent、17 个法律工具、9 个领域应用、证据与法律护栏、文书输出和可选 MCP 推理内核，覆盖诉讼全生命周期
 - [law爷](https://github.com/Jarvis-starcloud/law-ye-skill) - 许可证未声明的 WorkBuddy/Hermes 法律 Skill，含中国法律原文、检索、文书和诉讼流程模块；仅供学习、检索和草稿参考，具体案件请咨询执业律师

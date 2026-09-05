@@ -702,11 +702,11 @@
   {
     "title": "WorkBuddy Skill Groups",
     "url": "https://github.com/darker2016/workbuddy-skill-groups",
-    "description": "An MIT-licensed, provenance-disclosed collection of 39 WorkBuddy expert-team Skill packages spanning investment research, content, engineering, legal, tax, data, sales, and HR",
+    "description": "A collection of 39 WorkBuddy expert-team Skill packages with an MIT LICENSE file that GitHub does not currently recognize, spanning investment research, content, engineering, legal, tax, data, sales, and HR with disclosed prompt provenance and compliance boundaries; treat high-risk domain material as supplementary and verify it independently",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
     "titleZh": "WorkBuddy Skill Groups",
-    "descriptionZh": "MIT 许可、透明标注来源的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR 等场景",
+    "descriptionZh": "含 MIT LICENSE 文件但 GitHub 未识别许可证的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR，并说明提示词来源与合规边界；高风险领域内容仅作辅助参考，使用前请自行核实",
     "categoryZh": "Skill collections"
   },
   {
