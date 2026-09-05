@@ -454,6 +454,7 @@ TokenHungryMash/personalized-travel-guide-skill
 Luchioxy/LidKeeper
 ruiwuniu/Aivatar-Demo
 JipZeonGit/workbuddy-linux
+maojiebc/majia-guanyuan
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

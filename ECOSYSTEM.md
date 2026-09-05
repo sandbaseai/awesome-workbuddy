@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,914 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,918 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -209,6 +209,7 @@ Last refreshed: **2026-09-05 UTC**
 | [xiaolouJB/prompt-toolkit](https://github.com/xiaolouJB/prompt-toolkit) | 15 | Python | 2026-08-21 |
 | [shuishenghualalala/Ace](https://github.com/shuishenghualalala/Ace) | 15 | Python | 2026-09-05 |
 | [cuic19053-hue/awesome-student-ai-skills](https://github.com/cuic19053-hue/awesome-student-ai-skills) | 15 | Python | 2026-09-05 |
+| [maojiebc/majia-guanyuan](https://github.com/maojiebc/majia-guanyuan) | 15 | JavaScript | 2026-08-25 |
 | [liangdabiao/i18n-helper-skills](https://github.com/liangdabiao/i18n-helper-skills) | 14 | Python | 2026-07-09 |
 | [mingze21/bazi-ziwei-skill](https://github.com/mingze21/bazi-ziwei-skill) | 14 | - | 2026-06-14 |
 | [vbarter/workbuddy-experts](https://github.com/vbarter/workbuddy-experts) | 14 | Go Template | 2026-05-21 |

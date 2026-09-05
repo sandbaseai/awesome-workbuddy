@@ -1050,6 +1050,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Majia Guanyuan BI Skill",
+    "url": "https://github.com/maojiebc/majia-guanyuan",
+    "description": "An MIT-licensed Guandata BI enhancement Skill whose README explicitly marks WorkBuddy compatibility, covering ETL governance, error diagnosis, custom charts, and data-analysis workflows; it can access enterprise BI tools and data, so confirm account permissions, data scope, and official API terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "观远 BI 马甲实战 Skill",
+    "descriptionZh": "MIT 许可的观远 BI 增强 Skill，README 明确标注 WorkBuddy 兼容，覆盖 ETL 治理、报错排查、自定义图表和数据分析流程；它会调用企业 BI 工具与数据，使用前请确认账号权限、数据范围和官方 API 条款",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Cyber Bookhouse",
     "url": "https://github.com/Raven7979/cyber-bookhouse",
     "description": "An MIT-licensed local Obsidian-ingestion Skill for Codex, Claude, and WorkBuddy that turns articles, videos, and podcasts into sourced Markdown notes; confirm content authorization and sensitive-data boundaries before processing local or online material",
