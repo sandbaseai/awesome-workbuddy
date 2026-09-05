@@ -419,6 +419,7 @@
 
 ### Community clients and enhancements
 
+- [Theoria](https://github.com/Waterkyuu/theoria) - 许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更，并将工作区记录保存在本地 SQLite；使用或再分发前请先向作者核对授权
 - [Bough](https://github.com/DGPisces/bough) - MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、完成、忙碌和空闲状态集中展示；首次启动需按系统提示确认并授予必要权限
 - [SkillDock](https://github.com/wanghuan9/skilldock) - MIT 许可的跨 Agent 桌面 Skill/MCP/插件管理器，支持 WorkBuddy，提供真实目录扫描、安装整理、Git 感知 Diff 预览、更新和冲突检查
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知

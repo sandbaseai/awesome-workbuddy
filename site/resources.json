@@ -3810,6 +3810,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Theoria",
+    "url": "https://github.com/Waterkyuu/theoria",
+    "description": "A license-not-declared local-first multi-agent workspace with explicit WorkBuddy support, parallel agent runs, isolated execution directories, side-by-side tool/file-change comparisons, and local SQLite records; verify authorization with the author before use or redistribution",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Theoria",
+    "descriptionZh": "许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更，并将工作区记录保存在本地 SQLite；使用或再分发前请先向作者核对授权",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "Bough",
     "url": "https://github.com/DGPisces/bough",
     "description": "An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions",

@@ -420,6 +420,7 @@
 
 ### Community clients and enhancements
 
+- [Theoria](https://github.com/Waterkyuu/theoria) - A license-not-declared local-first multi-agent workspace with explicit WorkBuddy support, parallel agent runs, isolated execution directories, side-by-side tool/file-change comparisons, and local SQLite records; verify authorization with the author before use or redistribution
 - [Bough](https://github.com/DGPisces/bough) - An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions
 - [SkillDock](https://github.com/wanghuan9/skilldock) - An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - An AGPL-3.0 cross-platform Agent desktop pet and status notifier with explicit WorkBuddy support through optional hooks
