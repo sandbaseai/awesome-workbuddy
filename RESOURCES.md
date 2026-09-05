@@ -318,6 +318,10 @@
 
 ### Tools and integrations
 
+- [easy-agent](https://github.com/wangduoyu414-cell/easy-agent) - MIT 许可的 Windows/macOS 安全安装助手，支持 WorkBuddy、Hermes Agent、CC Switch、Claude Desktop 和 ChatGPT；固定官方来源、签名与包身份，证据不足时停止安装，使用前请核对平台覆盖范围和当前版本状态
+- [番茄雷达](https://github.com/WindXRan/fanqie-radar) - MIT 许可的番茄小说榜单与选书分析 MCP，附带 WorkBuddy/Claude 等客户端可用的 Agent Skill；默认零配置并提供示例数据，启用在线采集时请遵守目标平台服务条款
+- [AutoFlow](https://github.com/lidicn/AutoFlow) - MIT 许可的 Home Assistant/Node-RED MCP 网关，WorkBuddy 可用自然语言生成、校验并部署自动化流程；需要自行部署 Docker 服务，执行写入操作前请检查生成的流程和访问权限
+- [MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) - MIT 许可的桌面多 Agent 管理器，明确支持 WorkBuddy，会话监控、通知、深度链接跳转，以及 Skills/MCP 资源统一管理；当前仍需按项目说明准备 Node.js、pnpm、Rust 和 Tauri 环境
 - [毛团](https://github.com/stevenchengxy/maotuan) - MIT 许可的 macOS/Windows 桌面 AI 陪伴应用，提供聊天、语音、阅读、绘图和桌面提醒，并内置 MCP 服务，可供 WorkBuddy、Claude Code、Codex 等客户端调用；部分能力需要用户配置模型或第三方服务
 - [Cubism External Edit MCP](https://github.com/nana7chi/CubismExternalEditMCP) - MIT 许可的 Live2D Cubism Editor MCP，明确支持 WorkBuddy，提供模型参数/部件/变形器读取与编辑、批量事务和失败回滚，并按 Allow/Edit 分级授权；当前依赖 Cubism Editor 5.4 Alpha（有效期至 2026-09-14），每次编辑器重启后需重新确认外部集成权限
 - [WorkBuddy OSS](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) - MIT 许可的团队 IM/Agent 工作流中台，将飞书、企业微信、钉钉、Webhook 和聊天记录转为可审批、可审计、可复盘的工单、线索、任务和知识对象；自部署时请使用自己的域名和租户凭证，并先配置访问控制

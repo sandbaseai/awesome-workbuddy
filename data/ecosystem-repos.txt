@@ -405,6 +405,10 @@ FanZhangnan/VisionBuddy
 Echo-Smith/tencent-experienced-recruit
 nana7chi/CubismExternalEditMCP
 stevenchengxy/maotuan
+wangduoyu414-cell/easy-agent
+WindXRan/fanqie-radar
+lidicn/AutoFlow
+jarvislee90s-dot/MultiAgents-Manager
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

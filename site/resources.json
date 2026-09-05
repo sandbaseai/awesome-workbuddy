@@ -2840,6 +2840,46 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "easy-agent",
+    "url": "https://github.com/wangduoyu414-cell/easy-agent",
+    "description": "An MIT-licensed Windows/macOS security-first installer assistant for WorkBuddy, Hermes Agent, CC Switch, Claude Desktop, and ChatGPT; it pins official sources, signatures, and package identities and stops when evidence is insufficient, so review platform coverage and current-version status before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "easy-agent",
+    "descriptionZh": "MIT 许可的 Windows/macOS 安全安装助手，支持 WorkBuddy、Hermes Agent、CC Switch、Claude Desktop 和 ChatGPT；固定官方来源、签名与包身份，证据不足时停止安装，使用前请核对平台覆盖范围和当前版本状态",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Fanqie Radar",
+    "url": "https://github.com/WindXRan/fanqie-radar",
+    "description": "An MIT-licensed MCP for Fanqie novel rankings, discovery, and analysis, with an Agent Skill usable by WorkBuddy and Claude; it defaults to zero configuration with sample data, but online collection must follow the target platform's terms",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "番茄雷达",
+    "descriptionZh": "MIT 许可的番茄小说榜单与选书分析 MCP，附带 WorkBuddy/Claude 等客户端可用的 Agent Skill；默认零配置并提供示例数据，启用在线采集时请遵守目标平台服务条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "AutoFlow",
+    "url": "https://github.com/lidicn/AutoFlow",
+    "description": "An MIT-licensed Home Assistant/Node-RED MCP gateway that lets WorkBuddy generate, validate, and deploy automation flows through natural language; it requires a self-hosted Docker service, so inspect generated flows and access permissions before applying writes",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AutoFlow",
+    "descriptionZh": "MIT 许可的 Home Assistant/Node-RED MCP 网关，WorkBuddy 可用自然语言生成、校验并部署自动化流程；需要自行部署 Docker 服务，执行写入操作前请检查生成的流程和访问权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "MultiAgents-Manager",
+    "url": "https://github.com/jarvislee90s-dot/MultiAgents-Manager",
+    "description": "An MIT-licensed desktop manager for multiple coding agents with explicit WorkBuddy support, session monitoring, notifications, deep-link navigation, and unified Skills/MCP resource management; follow the project instructions to prepare Node.js, pnpm, Rust, and Tauri",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "MultiAgents-Manager",
+    "descriptionZh": "MIT 许可的桌面多 Agent 管理器，明确支持 WorkBuddy，会话监控、通知、深度链接跳转，以及 Skills/MCP 资源统一管理；当前仍需按项目说明准备 Node.js、pnpm、Rust 和 Tauri 环境",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Maotuan",
     "url": "https://github.com/stevenchengxy/maotuan",
     "description": "An MIT-licensed macOS/Windows desktop AI companion for chat, voice, reading, drawing, and desktop notifications, with a built-in MCP service that WorkBuddy, Claude Code, and Codex can call; some features require user-configured models or third-party services",

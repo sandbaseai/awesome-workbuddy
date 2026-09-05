@@ -9,14 +9,14 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,900 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,901 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,972 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,570 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
-| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
+| [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,928 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,778 | Go | 2026-09-05 |
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,305 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
@@ -42,7 +42,7 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt) | 925 | Python | 2026-07-31 |
-| [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 785 | JavaScript | 2026-09-02 |
+| [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 786 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 727 | TypeScript | 2026-09-05 |
 | [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 707 | Python | 2026-09-02 |
@@ -318,6 +318,7 @@ Last refreshed: **2026-09-05 UTC**
 | [tony-apan/allincms-content-ops](https://github.com/tony-apan/allincms-content-ops) | 2 | Python | 2026-06-26 |
 | [gebiniwangdaye/macos-minimize-all](https://github.com/gebiniwangdaye/macos-minimize-all) | 2 | Objective-C | 2026-07-18 |
 | [FanZhangnan/VisionBuddy](https://github.com/FanZhangnan/VisionBuddy) | 2 | Shell | 2026-08-07 |
+| [WindXRan/fanqie-radar](https://github.com/WindXRan/fanqie-radar) | 2 | Python | 2026-09-05 |
 | [uahz/live-stream-ops](https://github.com/uahz/live-stream-ops) | 2 | Python | 2026-08-19 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
@@ -349,6 +350,8 @@ Last refreshed: **2026-09-05 UTC**
 | [JiangSiyu2006/workbuddy-theme-forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) | 1 | JavaScript | 2026-08-05 |
 | [a2681220474-glitch/workbuddy-oss-opensource](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) | 1 | Python | 2026-06-16 |
 | [jsun2020/workbuddy-obsidian-plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) | 1 | TypeScript | 2026-08-20 |
+| [wangduoyu414-cell/easy-agent](https://github.com/wangduoyu414-cell/easy-agent) | 1 | Rust | 2026-09-05 |
+| [lidicn/AutoFlow](https://github.com/lidicn/AutoFlow) | 1 | Python | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
@@ -416,5 +419,6 @@ Last refreshed: **2026-09-05 UTC**
 | [sunyet-01/WorkBuddy-Starter](https://github.com/sunyet-01/WorkBuddy-Starter) | 0 | Astro | 2026-07-30 |
 | [Echo-Smith/tencent-experienced-recruit](https://github.com/Echo-Smith/tencent-experienced-recruit) | 0 | Python | 2026-08-09 |
 | [stevenchengxy/maotuan](https://github.com/stevenchengxy/maotuan) | 0 | JavaScript | 2026-09-05 |
+| [jarvislee90s-dot/MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) | 0 | Rust | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
