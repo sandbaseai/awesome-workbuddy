@@ -7,11 +7,14 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,525 | TypeScript | 2026-09-04 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,474 | Python | 2026-09-04 |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,379 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,769 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,028 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,029 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -35,7 +38,7 @@ Last refreshed: **2026-09-05 UTC**
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 137 | Rust | 2026-09-04 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | Go | 2026-07-08 |
-| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 108 | Python | 2026-09-04 |
+| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 109 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 93 | TypeScript | 2026-09-01 |

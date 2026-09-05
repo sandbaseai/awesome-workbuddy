@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**158 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
+**161 curated repositories · 4 original Skills · 34 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -143,6 +143,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例；报告中的单价只是估算，使用前请确认本地读取范围并脱敏输出.
 - [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) - Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模型、渠道与操作切片；它通过浏览器登录态访问 `workbuddy.cn` 的官方网页接口并处理 Cookie，使用前请核对账号授权、网络请求、保存范围和服务条款.
 - [Session Digger](https://github.com/taxueseek/session-digger) - ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告；它会读取完整会话并写入索引、报告和可选记忆文件，内容可能包含提示词、路径与项目资料，环境诊断还可探测外部端点，使用 `apply`/`prune` 等写入或删除命令前应逐项确认目标与备份.
+- [memU](https://github.com/NevaMind-AI/memU) - Apache-2.0 许可的跨 Agent 个人记忆系统，直接支持 WorkBuddy，可从会话与工具调用中提炼可复用 Skill，并通过本地 sidecar 做记忆注入与检索；WorkBuddy 适配会读取 `~/.workbuddy/projects` 会话、修改宿主说明文件并创建定时桥接任务，自托管需要 embedding Key，使用前请确认会话/个人资料范围、模型与存储提供方、备份及卸载保留策略.
 
 ### Ready-to-use Skills
 
@@ -152,6 +153,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [XHS Blogger Analyzer](https://github.com/arraycto/xhs-blogger-analyzer) - MIT 许可的 WorkBuddy/Claude Skill，通过 MCP 抓取小红书博主公开内容并生成内容策略、选题与结构化分析文档；安装脚本会下载依赖和第三方 MCP 二进制，首次运行需要扫码登录，使用前请核对平台条款、账号权限、抓取范围、下载来源和个人/创作者数据隐私.
 - [AI 10x Learning](https://github.com/luozhilzh/ai-10x-learning) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的十步学习闭环 Skill，结合多视角研究、主动回忆、费曼复述和 HTML 学习卡；带安装脚本、引用/核实规则与本地校验器，使用前请确认外部事实、个人学习资料和安装脚本的文件范围.
 - [Book Video Generator](https://github.com/chenjun198711/book-video-generator) - MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的读书视频 Skill，从书籍检索、文案与分镜到 AI 插图、TTS、字幕和 ffmpeg 合成输出 MP4；会访问外部模型/语音服务并可读取 API Key，使用前请核验书籍事实、版权与引用、密钥存储和生成内容质量.
+- [OpenMAIC Skill](https://github.com/THU-MAIC/OpenMAIC) - MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验、互动 HTML、PBL 和 TTS，并支持托管或自托管模式；托管模式需要访问码，自托管会安装 Node/pnpm 依赖、配置模型 Key 并处理上传资料，生成内容还可能经外部模型/语音服务，使用前请核对数据上传、费用、版权、密钥和最终教学事实.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
 - [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) - CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude Code、Cursor、Trae、CodeBuddy 适配格式，覆盖提问、学习、核查、决策和人生设计；内容整理改编自数字生命卡兹克并要求署名、保留来源且不得商用，使用前请遵守原作者许可.
@@ -216,6 +218,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Token Tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) - MIT 许可、面向 Windows WorkBuddy 的 Skill 与 hook，通过本地 trace/transcript 汇总每轮 Token、耗时、分模型日账本和系统通知；它会扫描完整会话、长期写入账本及诊断日志、调用 Node/Python/PowerShell，且默认联网刷新多个公开价格源，余额查询虽默认关闭但开启后会读取 DeepSeek API Key，费用仅为可变价格数据与人工时段规则下的估算，不能视为账单，安装前请审查源码、日志保留、网络和凭据范围.
 - [AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) - MIT 许可、基于 PowerShell 7 的本地会话查询工具，以统一命令检索 Codex、Claude Code 与 WorkBuddy 的会话、工作区、模型和 Token 统计；它不联网并以 SQLite 只读模式打开 WorkBuddy 数据库，但会扫描完整 transcript、调用本机 Python、短暂写入并删除临时 JSON，输出还可能暴露会话标题、路径、分支和恢复命令，分享或重定向结果前请先脱敏.
 - [Agent Avatar](https://github.com/joyparkray/agent-avatar) - MIT 许可的 macOS/Windows Live2D 桌面伙伴，通过只读观察器连接 WorkBuddy、Codex、Claude Code、Hermes 和 DeepSeek Harness，并把 Agent 状态映射为动画；项目不附带模型，Live2D Cubism Core 受单独许可约束，应用未沙箱化且 Windows 构建未签名，安装器还会调用宿主 CLI、写入插件配置并携带 Python 运行时，启用前请核对二进制、模型许可、hook 权限和本地状态文件范围.
+- [AgentsView](https://github.com/kenn-io/agentsview) - MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy/projects`；只读查询可直接读取本地 SQLite，但 `sync`、用量统计及数据库/远程推送命令会启动可写 daemon 或访问配置的远端目标，使用前请审查会话内容、凭据、同步目的地、网络暴露和写入命令.
 - [CLI2API](https://github.com/caigee-cmd/cli2api) - MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，支持多账号路由、独立 worker、Docker 和回环控制台；默认仅监听 `127.0.0.1` 并要求 API Key，但会处理 OAuth/PAT/凭据导入，使用前请保护导出文件、端口和账号条款边界，勿用于共享转售.
 - [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) - MIT 许可的本地协议转换器，将已登录的 WorkBuddy/CodeBuddy 会话转为 OpenAI、Responses 和 Anthropic 兼容接口；它会读取本机登录态并向 `copilot.tencent.com` 转发，使用前请审查源码、凭据文件、端口暴露和腾讯账号条款.
 - [CodeBuddy2OpenAI](https://github.com/HanHan666666/codebuddy2openai) - MIT 许可的单文件本地协议转换器，将已登录的 CodeBuddy/WorkBuddy 会话包装为 OpenAI 兼容的 `/v1/chat/completions` 接口，默认仅监听 `127.0.0.1`；它会读取本机登录态、刷新令牌并可记录完整请求/响应日志，且不兼容新版 Codex CLI，使用前请审查源码、凭据文件、日志、端口暴露和腾讯账号条款.
