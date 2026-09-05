@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [WorkBuddy XHS Skills](https://github.com/lvecho/workbuddy-xhs-skills) - A Chinese Xiaohongshu-operations Skill collection with no declared license, containing six installable modules for monetization-led positioning, account profiles, topics and titles, humanized drafts, visual planning, and data review; the README lists upstream sources, so verify attribution before reuse or redistribution
 - [boardgame-io Skill](https://github.com/liangdabiao/boardgame-io-skill) - A WorkBuddy-compatible Skill with no declared license for building turn-based games with boardgame.io; includes API references, multiplayer/hidden-information/AI workflows, and tested tic-tac-toe and card-game templates
 - [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - An MIT-licensed movie short-clip editing Skill verified on WorkBuddy, planning 8–15 themed 50–75-second clips from subtitles with lossless cutting, merging, gap detection, and output validation
 - [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) - An MIT-licensed universal UI-design Skill with explicit WorkBuddy support, offering 14 palettes, a 4px spacing system, modular typography, interaction states, HTML/React/Vue templates, and examples

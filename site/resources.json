@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WorkBuddy XHS Skills",
+    "url": "https://github.com/lvecho/workbuddy-xhs-skills",
+    "description": "A Chinese Xiaohongshu-operations Skill collection with no declared license, containing six installable modules for monetization-led positioning, account profiles, topics and titles, humanized drafts, visual planning, and data review; the README lists upstream sources, so verify attribution before reuse or redistribution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy XHS Skills",
+    "descriptionZh": "许可未声明的中文小红书运营 Skill 合集，含 6 个可安装模块，覆盖变现倒推定位、账号档案、选题标题、初稿人化、视觉规划和数据复盘；README 列出融合来源，使用或再分发前请核对上游归属",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "boardgame-io Skill",
     "url": "https://github.com/liangdabiao/boardgame-io-skill",
     "description": "A WorkBuddy-compatible Skill with no declared license for building turn-based games with boardgame.io; includes API references, multiplayer/hidden-information/AI workflows, and tested tic-tac-toe and card-game templates",
