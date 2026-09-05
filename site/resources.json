@@ -890,6 +890,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Loom of Heaven",
+    "url": "https://github.com/Jowitt13/loom-of-heaven",
+    "description": "An MIT-licensed offline, reproducible four-system birth-chart engine with a published WorkBuddy Skill, SHA-256 verification, and an installation manifest; scripts compute the charts while the Agent gathers inputs and narrates results, for traditional-culture/entertainment reference only",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Loom of Heaven",
+    "descriptionZh": "MIT 许可、离线且结果可复现的四系统命盘引擎，提供 WorkBuddy 已发布 Skill、SHA-256 校验和安装清单；由脚本负责计算、Agent 负责收集输入和表达结果，仅作传统文化/娱乐参考",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy XHS Skills",
     "url": "https://github.com/lvecho/workbuddy-xhs-skills",
     "description": "A Chinese Xiaohongshu-operations Skill collection with no declared license, containing six installable modules for monetization-led positioning, account profiles, topics and titles, humanized drafts, visual planning, and data review; the README lists upstream sources, so verify attribution before reuse or redistribution",
