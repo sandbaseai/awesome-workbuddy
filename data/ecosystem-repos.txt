@@ -420,6 +420,8 @@ Lzffancy/cnki-browser-tool
 openagentinternet/open-agent-connect
 rsalmn/ExtremeRouter
 luqi67677/produce-videos
+WecomTeam/wecom-unified
+iswalle/getnote-cli
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

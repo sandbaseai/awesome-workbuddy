@@ -1030,6 +1030,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WeCom-Unified",
+    "url": "https://github.com/WecomTeam/wecom-unified",
+    "description": "An MIT-licensed enterprise WeChat toolkit Skill with explicit WorkBuddy support for messages, email, documents, todos, calendars, meetings, cloud drive, and contacts; it installs with one command and guides credential setup, so confirm authorization scope before any company-data access or external writes",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WeCom-Unified",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的企业微信套件 Skill，覆盖消息、邮件、文档、待办、日程、会议、微盘和通讯录，可通过一条命令安装并引导配置凭证；涉及企业数据和外部写入，使用前应先确认授权范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Get Note Skills",
+    "url": "https://github.com/iswalle/getnote-cli",
+    "description": "An MIT-licensed Get Note CLI with five domain Skills and explicit WorkBuddy support for searching, organizing, and reading or writing knowledge bases; it requires a Get Note membership and OpenAPI authorization, WorkBuddy must restart after installation, and destructive moves or deletes deserve human review",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Get 笔记 Skills",
+    "descriptionZh": "MIT 许可的得到笔记 CLI 与五个领域 Skills，明确支持 WorkBuddy，可搜索、整理和读写知识库；需要得到笔记会员及 OpenAPI 授权，安装后 WorkBuddy 需要重启，删除或移动内容前请人工核对目标",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Produce Videos",
     "url": "https://github.com/luqi67677/produce-videos",
     "description": "An MIT-licensed video-production Skill with a WorkBuddy-specific ZIP, covering scripts, assets, narration, storyboards, animation, subtitles, previews, quality checks, and export; its install flow verifies local files and dependencies first and separately confirms privacy, asset rights, model downloads, and paid services",
