@@ -27,6 +27,7 @@ wsdlp46/PMCockpit
 chenwg001/qingfengskill
 88lin/workbuddy-auto-signin
 Coco-katarina/workbuddy-checkin
+liubinne/workbuddy-free-credits
 AlephAITech/WorkBuddyGuide
 Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
