@@ -1750,6 +1750,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Time Rhythm Planner",
+    "url": "https://github.com/yanjingxihaiyu/time-rhythm-planner",
+    "description": "A license-not-declared WorkBuddy user-level Skill that turns personal templates into weekly/daily plans, creator-workbench tasks, and retrospectives",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Time Rhythm Planner",
+    "descriptionZh": "许可证未声明的 WorkBuddy 用户级 Skill，用模板生成周/日计划、创作者工作台任务和复盘记录",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Voice Refine Skill",
+    "url": "https://github.com/Yinc25665-rgb/voice-refine-skill",
+    "description": "A license-not-declared WorkBuddy/Claude Code Skill that turns verbose voice input into concise, actionable task instructions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Voice Refine Skill",
+    "descriptionZh": "许可证未声明的 WorkBuddy/Claude Code Skill，将冗长口述整理成简洁、可执行的任务指令",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Zhengneng Japanese",
     "url": "https://github.com/notbadhuang/notbadhuang-japanese-skill",
     "description": "A CC BY-NC 4.0 WorkBuddy/Codex Japanese-learning Skill with 0-to-N5 course installation, study orchestration, and local learning records",
