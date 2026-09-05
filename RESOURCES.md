@@ -236,7 +236,7 @@
 - [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.
-- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - 基于证据研究当前职位与 JD，对照简历和项目证据并规划求职行动
+- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - MIT 许可、明确支持 WorkBuddy 的证据导向求职 Skill，研究岗位和职位描述、对比简历/项目证据、识别能力缺口并安排求职行动；它不自动投递职位
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 从写作、配图、排版到微信公众号草稿发布的 Skill 包.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - 覆盖销售 L2C 流程的 CRM Agent Skills.
 - [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - 发布前审核视频、封面、字幕、带货信息与平台合规风险，并保留证据定位.

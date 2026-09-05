@@ -3,6 +3,7 @@ MobiusQuant/OpenMobius-skill
 rullerzhou-afk/clawd-on-desk
 vergess3/workbuddy-remote
 bigbay957-sudo/workbuddy-for-obsidian
+AriaXXX-free/job-navigation-skill
 musistudio/claude-code-router
 alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins
@@ -107,7 +108,6 @@ clancy-feng/workbuddy-usage-status
 Elisabeth15501/agent-analytics-report
 masclown/usage-monitor-plugin-workbuddy
 YuanYiZheXue/workbuddy-wiki
-AriaXXX-free/job-navigation-skill
 yinren112/bossmate
 ronineymessjr-sudo/career-copilot
 HanGu007/workbuddy-career-skills
