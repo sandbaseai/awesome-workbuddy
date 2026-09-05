@@ -123,6 +123,10 @@
 
 ### Ready-to-use Skills
 
+- [XHS Virtual Product](https://github.com/chenjin-cmd/xhs-virtual-product) - MIT 许可、明确支持 WorkBuddy 的小红书虚拟资料全流程 Skill，覆盖选品、竞品分析、制作、上架、内容和复盘，并将原创与版权合规检查放在工作流中
+- [申论复盘一体版](https://github.com/liuyuexi1987/shenlun-review-pro) - GPL-3.0 许可的 WorkBuddy 申论复盘 Skill/插件，提供材料解析、答案校准、作答批改、建议评分和 MCP 工具，并要求保留许可证、版权声明和对应源码
+- [Backend Interview Simulator](https://github.com/Hazehacker/backend-interview-simulator) - MIT 许可、明确支持 WorkBuddy 的 Java/Go/C++ 后端面试模拟 Skill，提供多身份、多风格和逐步追问，可直接让 WorkBuddy 安装后开始模拟
+- [Resume Tailor](https://github.com/smile-xyy/resume-tailor) - MIT 许可的本地优先简历定制 Skill，明确支持 WorkBuddy，可根据简历、经历库和岗位信息生成可追溯匹配分析、定制简历和本地 HTML/PDF 报告；使用时请确认个人资料目录权限
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - MIT 许可、明确支持 WorkBuddy 的升学与职业规划思维框架 Skill，覆盖高考志愿、考研和就业方向，可通过 `npx skills add` 安装；内容来自公开资料蒸馏，不代表本人或官方建议，涉及现实决策时请核对最新政策、院校和就业数据
 - [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) - MIT 许可、明确支持 WorkBuddy 的产品、设计与战略思维 Skill，提炼心智模型、决策启发式和表达方式，可通过 `npx skills add` 安装；内容来自公开资料整理，不代表本人或官方观点
 - [MCK PPT Design Skill](https://github.com/likaku/Mck-ppt-design-skill) - Apache-2.0 许可、原生支持 WorkBuddy 的咨询风格 PPT 设计 Skill，提供 70 种布局模式、`python-pptx` 生成和分阶段结构/渲染校验
