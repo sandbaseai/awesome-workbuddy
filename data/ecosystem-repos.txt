@@ -11,6 +11,7 @@ bailinghub/bailinghub-workbuddy-connector
 chonpszhou/workbuddy-chatcut-mcp
 xuewolai/ima-mcp-server
 xcasee/casee-mcp-server
+mayuhaos/workbuddy-agent-file-parser-downloader
 liuboacean/qclaw-workbuddy-bridge
 ImLeonLi/GitHub-Trending-MCP
 chenin0931/OpenWorkbuddy
