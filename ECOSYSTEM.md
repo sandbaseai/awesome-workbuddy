@@ -10,7 +10,7 @@ Last refreshed: **2026-09-05 UTC**
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,888 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,967 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,968 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -29,7 +29,7 @@ Last refreshed: **2026-09-05 UTC**
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,955 | JavaScript | 2026-09-05 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,787 | TypeScript | 2026-09-04 |
-| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,592 | TypeScript | 2026-09-05 |
+| [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
@@ -209,6 +209,7 @@ Last refreshed: **2026-09-05 UTC**
 | [yinsang0910-star/collab-cli](https://github.com/yinsang0910-star/collab-cli) | 11 | JavaScript | 2026-06-14 |
 | [rollingSirius/TradeGit](https://github.com/rollingSirius/TradeGit) | 11 | Python | 2026-07-28 |
 | [frank666199/frank-presales-skills](https://github.com/frank666199/frank-presales-skills) | 11 | - | 2026-07-03 |
+| [Waterkyuu/theoria](https://github.com/Waterkyuu/theoria) | 11 | Rust | 2026-09-05 |
 | [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [liangdabiao/boardgame-io-skill](https://github.com/liangdabiao/boardgame-io-skill) | 10 | JavaScript | 2026-08-17 |
 | [hawklithm/workbuddy2api](https://github.com/hawklithm/workbuddy2api) | 9 | Python | 2026-08-22 |
