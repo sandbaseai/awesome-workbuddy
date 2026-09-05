@@ -19,9 +19,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [一分钟选型与快速开始](START_HERE.md) - 不知道从哪里开始，就看这里。
 - [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) - 按关键词和类别查找。
 
-机器可读目录：[`site/llms.txt`](site/llms.txt)。
-
-如果这个清单帮你找到有用资源，欢迎点一个 [Star](https://github.com/sandbaseai/awesome-workbuddy)。发现遗漏或失效链接，可以[推荐资源](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)。
+如果这个清单帮你找到有用资源，欢迎点一个 [Star](https://github.com/sandbaseai/awesome-workbuddy)；发现遗漏或失效链接，可以[反馈](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)。
 
 <details>
 <summary>更多官方入口</summary>
@@ -446,20 +444,6 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 </details>
 
-## Related Lists
+## About
 
-- [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) - 持续更新的 Agent Skills 索引，已收录本清单与 WorkBuddy Skill Hub；使用其中的第三方 Skill 前仍需按本仓库安全清单逐项审核.
-- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - CC0 的中文 WorkBuddy 资源清单，覆盖官方资料、实战案例、提示词、Skills 与 MCP；与本清单互补，使用其中链接前仍需单独核验来源和权限.
-- [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - 中文优先的 Skills、提示词、教程、评测与集成索引.
-- [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 自动化、数据、浏览器、微信与内容生产 Skills 集合.
-- [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - 按职业和任务类型组织的大规模使用场景库.
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 通用生态清单；接入 WorkBuddy 前需单独安全审核.
-- [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - CC0 的 DSH 插件生态清单，包含与 WorkBuddy 式 Skill/Agent 工作流相邻的可安装扩展；它不是腾讯官方清单，安装任何插件前仍需逐项审查源码与权限.
-
-## Acknowledgements
-
-初始资料发现参考了 [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy)，感谢原维护者与所有内容作者。所有链接内容的版权归各自作者所有。
-
-本清单采用 [CC0 1.0 Universal](LICENSE)。被索引资源遵循其各自的许可证和使用条款。
-
-引用本清单？仓库根目录提供标准 [CITATION.cff](CITATION.cff)，也可引用[最新发布版本](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)。
+这是一个独立维护的 WorkBuddy 资源索引，采用 [CC0 1.0 Universal](LICENSE)。被收录资源遵循各自的许可证和使用条款；机器可读目录见 [`site/llms.txt`](site/llms.txt)，项目维护说明见 [CONTRIBUTING.md](CONTRIBUTING.md)，引用本清单可参考 [CITATION.cff](CITATION.cff)。
