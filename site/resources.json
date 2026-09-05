@@ -3940,6 +3940,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy Obsidian Plugin",
+    "url": "https://github.com/jsun2020/workbuddy-obsidian-plugin",
+    "description": "An MIT-licensed Obsidian community plugin that calls the local WorkBuddy CLI from a sidebar, supports current-note or selection references, multiple task tabs, and copying or inserting replies; editing notes is allowed by default, so switch to read-only when appropriate and confirm what note content will be sent",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Obsidian Plugin",
+    "descriptionZh": "MIT 许可的 Obsidian 社区插件，在侧边栏调用本机 WorkBuddy CLI，支持当前笔记或选中文本引用、多个任务页签、复制与插入回复；默认权限允许修改笔记，启用前请按需切换为只读并确认笔记内容发送范围",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "workbuddy-buddy",
     "url": "https://github.com/FlashFamily/workbuddy-buddy",
     "description": "An MIT-licensed macOS WorkBuddy status pet that projects structural lifecycle events into Agent status, approval bubbles, and completion/blocked indicators without reading prompts, replies, tool arguments, or file paths by default; community installers are ad-hoc signed and not notarized, while remote Control Plane pairing adds network and device-pairing considerations, so review sources and permissions first",

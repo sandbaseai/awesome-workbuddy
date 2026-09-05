@@ -44,7 +44,7 @@ Last refreshed: **2026-09-05 UTC**
 | [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt) | 925 | Python | 2026-07-31 |
 | [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 785 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
-| [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 726 | TypeScript | 2026-09-05 |
+| [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 727 | TypeScript | 2026-09-05 |
 | [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 707 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 680 | - | 2026-07-19 |
@@ -346,6 +346,7 @@ Last refreshed: **2026-09-05 UTC**
 | [ruiguoz/workbuddy-doctor](https://github.com/ruiguoz/workbuddy-doctor) | 1 | - | 2026-08-25 |
 | [JiangSiyu2006/workbuddy-theme-forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) | 1 | JavaScript | 2026-08-05 |
 | [a2681220474-glitch/workbuddy-oss-opensource](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) | 1 | Python | 2026-06-16 |
+| [jsun2020/workbuddy-obsidian-plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) | 1 | TypeScript | 2026-08-20 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
