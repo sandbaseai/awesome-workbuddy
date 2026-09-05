@@ -320,6 +320,26 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Claude Code Orange Book",
+    "url": "https://github.com/alchaincyf/claude-code-orange-book",
+    "description": "A CC BY-NC-SA 4.0 Chinese hands-on guide to Claude Code covering installation, prompting, Skills, Hooks, MCP, multi-agent work, and projects, with an online reading entry in the WorkBuddy knowledge base; attribution and non-commercial use are required",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Claude Code 橙皮书",
+    "descriptionZh": "CC BY-NC-SA 4.0 许可的 Claude Code 中文实战指南，覆盖安装、提示词、Skills、Hooks、MCP、多 Agent 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用",
+    "categoryZh": "Learning and reference"
+  },
+  {
+    "title": "Codex Orange Book",
+    "url": "https://github.com/alchaincyf/codex-orange-book",
+    "description": "A CC BY-NC-SA 4.0 Chinese Codex handbook covering CLI, desktop, cloud, IDE, browser extension, Skills, MCP, Automations, and project work, with an online reading entry in the WorkBuddy knowledge base; attribution and non-commercial use are required",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Codex 橙皮书",
+    "descriptionZh": "CC BY-NC-SA 4.0 许可的 Codex 中文实战手册，覆盖 CLI、桌面端、云端、IDE、浏览器扩展、Skills、MCP、Automation 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "AI CLI Kickstarter",
     "url": "https://github.com/xiaolai/ai-cli-kickstarter",
     "description": "An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine",
