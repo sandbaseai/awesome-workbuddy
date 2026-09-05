@@ -214,6 +214,7 @@ MWang-TS/kindle2workbuddy
 gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge
 Sliverkiss/workbuddy2api
 lvecho/workbuddy-xhs-skills
+dzcmemory-web/bazi-ziwei-skills
 MAXXXXXLI/workbuddy-cn-legal-skills
 Maquer/workbuddy-checkin
 aosi526/dsh-workbuddy-xdpool
