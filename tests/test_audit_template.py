@@ -13,6 +13,9 @@ class AuditTemplateTests(unittest.TestCase):
         self.assertIn("startsWith(github.event.issue.title, 'Discovery')", workflow)
         self.assertIn("issues: write", workflow)
         self.assertIn("--add-label audit", workflow)
+        self.assertIn("actions/github-script@v7", workflow)
+        self.assertIn("core.setFailed", workflow)
+        self.assertIn("!body.includes", workflow)
 
     def test_discovery_audit_template_preserves_issue_format(self) -> None:
         root = Path(__file__).resolve().parents[1]
