@@ -2530,6 +2530,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Memorix",
+    "url": "https://github.com/AVIDS2/memorix",
+    "description": "An Apache-2.0 local-first shared project-memory layer with explicit WorkBuddy support, using MCP, hooks, CLI, and Skills for session summaries, Git facts, reasoning records, and handoffs; model features are optional and local full-text retrieval works without model keys",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Memorix",
+    "descriptionZh": "Apache-2.0 的本地优先跨 Agent 项目记忆层，明确支持 WorkBuddy，通过 MCP、Hooks、CLI 和 Skills 保存会话摘要、Git 事实、推理记录和任务交接；可选启用模型能力，默认支持本地全文检索",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "TencentDB Agent Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "description": "An MIT-licensed team Agent-memory hub maintained by Tencent with direct WorkBuddy Proxy integration, turning sessions, documents, and code into Chat Memory, Skills, an LLM Wiki, and CodeGraph through a local Docker stack",
