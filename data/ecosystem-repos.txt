@@ -129,6 +129,7 @@ jiangxu1024/hotspot-monitor-skill
 mingze21/bazi-ziwei-skill
 xiaolouJB/prompt-toolkit
 lovingfish/workbuddy-cliproxy
+Jevil961/codebuddy-openai-proxy
 caigee-cmd/cli2api
 zhuyifang/tonghuasun-agent
 westsource/agentctxsync

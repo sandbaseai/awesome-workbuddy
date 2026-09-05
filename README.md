@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**194 curated repositories · 4 original Skills · 23 discovery candidates · weekly validation**
+**195 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -262,6 +262,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [CodeBuddy IDE CN for Linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) - MIT 许可的非官方 Linux 打包适配工具，将用户自行从腾讯官方 CDN 获取的 CodeBuddy CN x86_64 DEB 在本机转换为 Arch/AUR、RPM 或 AppImage；仓库明确不托管或分发腾讯二进制，并提供版本校验、构建忽略目录和 EULA/商标边界，但构建会安装系统依赖、解包并重组上游 Electron 应用，使用前请核对官方来源、版本、签名/供应链、发行版权限和腾讯许可，不要把生成物当作官方发行版.
 - [Buddy2api](https://github.com/wicm84266964/Buddy2api) - MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接入 OpenAI 兼容接口，支持 Codex Responses、Docker 和 API Key 通道路由；项目明确要求仅本机使用、不要公开部署或分享凭据，使用前请审查本地认证文件、数据库、端口和各平台账号条款.
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新；凭据保存在本地插件目录，且包含针对上游审核模板的适配逻辑，使用前请核对源码、账号条款与数据流.
+- [CodeBuddy OpenAI Proxy (Jevil961)](https://github.com/Jevil961/codebuddy-openai-proxy) - MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为 OpenAI 兼容 API；它会处理账号令牌、提示词/响应并开放本地 HTTP 服务，使用前应审查源码、`.env`、绑定地址、日志、令牌存储、上游端点和腾讯账号条款.
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库；目前为 public preview，会扫描并可能读写多个 Agent 配置目录，使用前请备份、审查自定义路径与同步目标，并确认团队仓库和凭据范围.
 - [AgentHub](https://github.com/nicechencs/AgentHub) - MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills、会话、用量和备份，并明确 MCP 当前仅做只读发现；它会读写本机 Agent 配置和日志，凭据沿用本地存储且当前不加密，使用前请审查配置变更、备份位置、日志脱敏和本地权限.

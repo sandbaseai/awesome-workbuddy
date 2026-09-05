@@ -1800,6 +1800,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "CodeBuddy OpenAI Proxy (Jevil961)",
+    "url": "https://github.com/Jevil961/codebuddy-openai-proxy",
+    "description": "An MIT-licensed lightweight Python service that converts CodeBuddy CN chat into an OpenAI-compatible API through OAuth2 or a manually supplied Bearer token; it handles account tokens, prompts/responses, and a local HTTP service, so review source, `.env`, bind addresses, logs, token storage, upstream endpoints, and Tencent account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy OpenAI Proxy (Jevil961)",
+    "descriptionZh": "MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为 OpenAI 兼容 API；它会处理账号令牌、提示词/响应并开放本地 HTTP 服务，使用前应审查源码、`.env`、绑定地址、日志、令牌存储、上游端点和腾讯账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkBuddy Remote",
     "url": "https://github.com/vergess3/workbuddy-remote",
     "description": "Access a WorkBuddy instance from another device",
