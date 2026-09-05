@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.6 — 2026-09-05
+
+- Added the MIT-licensed Travel Planner Skill with WorkBuddy/CodeBuddy installation, requirement confirmation, external research, and responsive HTML itinerary generation.
+- Documented optional Xiaohongshu session, personal itinerary, freshness, booking-channel, and manual-verification boundaries.
+- Refreshed the synchronized directory snapshot to 157 curated repositories.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.5 — 2026-09-05
 
 - Added the MIT-licensed LibTV Video Agent Skill with WorkBuddy/Codex/Claude entry points for storyboard, generation, TTS, subtitle, and local FFmpeg workflows.
