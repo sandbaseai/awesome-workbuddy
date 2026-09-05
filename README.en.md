@@ -164,6 +164,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 ### Ready-to-use Skills
 
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - An MIT-licensed WorkBuddy Skill for A-share short-term-stock and ETF research using live market, sentiment, and technical signals; for research only and not investment advice
+- [Ecommerce Detail-page Planner](https://github.com/Banye0517/ecommerce-detail-page-skill) - An MIT-licensed WorkBuddy Skill that turns a product and its selling points into competitor analysis, per-screen copy, and visual descriptions for ecommerce detail pages
 - [Skill Integrator](https://github.com/smiling66652/skill-integrator) - An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods
 - [One-person Company](https://github.com/wzx11223344/one-person-company) - An MIT-licensed WorkBuddy Skill for one-person company operations across content, operations, product, finance, and growth automation
 - [WorkBuddy Theme Manager](https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager) - An Apache-2.0 WorkBuddy theme Skill that converts `.codex-theme` packages to `.workbuddy-theme` and supports installation, switching, and restoration
