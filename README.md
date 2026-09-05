@@ -298,7 +298,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ### Benchmarks
 
-- [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准、任务与评测代码.
+- [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准，包含 Code、Web、Office、Security 四条赛道共 260 个任务、Docker 沙箱评测框架、Hugging Face 数据集和 `wbbench-run-setup` Skill；仓库使用 Tencent license，数据集另在 Hugging Face，运行前请确认模型 API 密钥、Docker 隔离、任务数据许可与结果中的敏感信息.
 
 查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)。
 

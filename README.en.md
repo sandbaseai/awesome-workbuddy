@@ -299,7 +299,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 
 ### Benchmarks
 
-- [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - Tencent's multi-domain coding-agent benchmark, tasks, and evaluation code.
+- [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - Tencent's multi-domain coding-agent benchmark with 260 Code, Web, Office, and Security tasks, a Docker-sandboxed evaluation framework, a Hugging Face dataset, and the `wbbench-run-setup` Skill; it uses the Tencent license and stores datasets separately on Hugging Face, so review model API keys, sandbox isolation, task-data terms, and sensitive result artifacts before running it.
 
 See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.md).
 
