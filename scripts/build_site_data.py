@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LINK = re.compile(r"^- \[([^]]+)]\((https?://[^)]+)\) - (.+)$")
+LINK = re.compile(r"^- \[([^]]+)]\((https?://[^)]+)\)(?: - |: )(.+)$")
 
 
 def parse_readme(path: Path) -> list[dict[str, str]]:
@@ -44,8 +44,19 @@ def parse_readme(path: Path) -> list[dict[str, str]]:
 
 
 def build(root: Path) -> list[dict[str, str]]:
+    english_path = root / "RESOURCES.en.md"
+    chinese_path = root / "RESOURCES.md"
+    if not english_path.exists():
+        english_path = root / "README.en.md"
+    if not chinese_path.exists():
+        chinese_path = root / "README.md"
     english = parse_readme(root / "README.en.md")
-    chinese = {item["url"]: item for item in parse_readme(root / "README.md")}
+    if english_path != root / "README.en.md":
+        english.extend(parse_readme(english_path))
+    chinese_items = parse_readme(root / "README.md")
+    if chinese_path != root / "README.md":
+        chinese_items.extend(parse_readme(chinese_path))
+    chinese = {item["url"]: item for item in chinese_items}
     result: list[dict[str, str]] = []
     seen: set[str] = set()
 
