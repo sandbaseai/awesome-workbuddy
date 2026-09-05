@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [Maya Umbrella Scanner](https://github.com/loonghao/maya_umbrella_scanner) - An MIT-licensed Windows Skill for scanning malicious code in Maya scenes with WorkBuddy support, including scope confirmation, batch scanning, findings disclosure, explicit pre-cleanup approval, backup checks, and post-clean scans; it is not a general system antivirus
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - An MIT-licensed full-lifecycle WeChat Mini Program Skill with a dedicated WorkBuddy entry, covering ideation, filing, development, monetization, review, promotion, and multi-account operations; copy it to `~/.workbuddy/skills/` to use it
 - [Note Skill](https://github.com/Unclecheng-li/note-skill) - An MIT-licensed single-file HTML note-generation Skill with explicit WorkBuddy support, turning technical content, security analysis, or knowledge summaries into notebook-style web notes
 - [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - An MIT-licensed self-hosted Skill evaluation tool with rubric scores, evidence, Deep Review, and improvement suggestions, plus a WorkBuddy-compatible Agent CLI; confirm the data scope before uploading Skills or invoking model review
@@ -294,6 +295,9 @@
 
 ### Tools and integrations
 
+- [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`
+- [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - An MIT-licensed local research-literature MCP service combining Zotero, MinerU, and Obsidian, with 31 tools, seven research Skills, and traceable import, retrieval, analysis, and write workflows; it supports WorkBuddy
+- [md2pdf](https://github.com/fudonglee/md2pdf) - An MIT-licensed Markdown/mrkdwn-to-PDF converter that can run as an MCP Tool for WorkBuddy, Codex, and Cherry Studio, useful for turning Agent outputs into well-formatted PDFs
 - [Skill Sync](https://github.com/lirt1231/skill-sync) - An MIT-licensed cross-device, cross-agent Skill synchronizer with explicit WorkBuddy support, using a local managed source and private Git repositories for selected user-authored Skills; every filesystem or network mutation is previewed and requires confirmation
 - [EverMe](https://github.com/EverMind-AI/EverMe) - An Apache-2.0 CLI, MCP server, and plugin suite for cross-device, cross-agent personal memory, with an explicit WorkBuddy plugin install path; hosted use involves accounts and network requests, so confirm the API endpoint and data boundary when self-hosting
 - [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use

@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Maya Umbrella Scanner",
+    "url": "https://github.com/loonghao/maya_umbrella_scanner",
+    "description": "An MIT-licensed Windows Skill for scanning malicious code in Maya scenes with WorkBuddy support, including scope confirmation, batch scanning, findings disclosure, explicit pre-cleanup approval, backup checks, and post-clean scans; it is not a general system antivirus",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Maya Umbrella Scanner",
+    "descriptionZh": "MIT 许可、支持 WorkBuddy 的 Windows Maya 场景恶意代码扫描 Skill，提供范围确认、批量扫描、结果披露、清理前明确批准、备份和复扫门禁；它不是通用系统杀毒软件",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WeChat Mini Program Builder",
     "url": "https://github.com/chenjin-cmd/wechat-miniprogram-builder",
     "description": "An MIT-licensed full-lifecycle WeChat Mini Program Skill with a dedicated WorkBuddy entry, covering ideation, filing, development, monetization, review, promotion, and multi-account operations; copy it to `~/.workbuddy/skills/` to use it",
@@ -2588,6 +2598,36 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "search2chart MCP",
+    "url": "https://github.com/iqingyoung/search2chart-mcp",
+    "description": "An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "search2chart MCP",
+    "descriptionZh": "MIT 许可的 Agent 原生图表 MCP，将搜索、研究或表格数据转换为对话内图表，通用 MCP 模式明确支持 WorkBuddy，并提供 `npx` 安装方式",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Obsidian Vault MCP",
+    "url": "https://github.com/luffysolution-svg/obsidian-vault-mcp",
+    "description": "An MIT-licensed local research-literature MCP service combining Zotero, MinerU, and Obsidian, with 31 tools, seven research Skills, and traceable import, retrieval, analysis, and write workflows; it supports WorkBuddy",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Obsidian Vault MCP",
+    "descriptionZh": "MIT 许可的本地科研文献 MCP 服务，结合 Zotero、MinerU 和 Obsidian，提供 31 个工具、7 个科研 Skill 及可追溯的导入、检索、分析和写入流程，并支持 WorkBuddy",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "md2pdf",
+    "url": "https://github.com/fudonglee/md2pdf",
+    "description": "An MIT-licensed Markdown/mrkdwn-to-PDF converter that can run as an MCP Tool for WorkBuddy, Codex, and Cherry Studio, useful for turning Agent outputs into well-formatted PDFs",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "md2pdf",
+    "descriptionZh": "MIT 许可的 Markdown/mrkdwn 转 PDF 工具，可作为 MCP Tool 接入 WorkBuddy、Codex 和 Cherry Studio，适合把 Agent 产物转换为排版完整的 PDF",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "Skill Sync",
