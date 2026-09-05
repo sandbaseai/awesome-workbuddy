@@ -296,6 +296,7 @@
 
 ### Tools and integrations
 
+- [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 WorkBuddy 等平台；安装前请确认桥接服务的监听范围
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - MIT 许可的 Agent 原生图表 MCP，将搜索、研究或表格数据转换为对话内图表，通用 MCP 模式明确支持 WorkBuddy，并提供 `npx` 安装方式
 - [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - MIT 许可的本地科研文献 MCP 服务，结合 Zotero、MinerU 和 Obsidian，提供 31 个工具、7 个科研 Skill 及可追溯的导入、检索、分析和写入流程，并支持 WorkBuddy
 - [md2pdf](https://github.com/fudonglee/md2pdf) - MIT 许可的 Markdown/mrkdwn 转 PDF 工具，可作为 MCP Tool 接入 WorkBuddy、Codex 和 Cherry Studio，适合把 Agent 产物转换为排版完整的 PDF

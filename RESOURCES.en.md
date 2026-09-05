@@ -297,6 +297,7 @@
 
 ### Tools and integrations
 
+- [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - An Apache-2.0 multi-agent roundtable engine with structured discussions, consensus tracking, and an MCP mode, plus an HTTP bridge for WorkBuddy and other platforms; confirm the bridge's listening scope before exposing it
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`
 - [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - An MIT-licensed local research-literature MCP service combining Zotero, MinerU, and Obsidian, with 31 tools, seven research Skills, and traceable import, retrieval, analysis, and write workflows; it supports WorkBuddy
 - [md2pdf](https://github.com/fudonglee/md2pdf) - An MIT-licensed Markdown/mrkdwn-to-PDF converter that can run as an MCP Tool for WorkBuddy, Codex, and Cherry Studio, useful for turning Agent outputs into well-formatted PDFs
