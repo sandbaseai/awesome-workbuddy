@@ -432,6 +432,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Automation and Agent workflows
 
+- [Comet](https://github.com/rpamis/comet) - An MIT-licensed resumable long-running task and Skill platform with explicit WorkBuddy support, Native/Classic requirements workflows, phase gates, Skill authoring/evaluation/release tooling, and adapters for 37 Agent platforms; installation writes project configuration, scripts, state, and workflow files, so review target directories, generated artifacts, and external evaluation/model connections first.
 - [Automated daily briefing](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing) - Connect QQ Mail, test a briefing, schedule daily delivery, and personalize the result.
 - [AI self-directed execution](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/AI-Self-Driven) - Define an outcome, let WorkBuddy plan the steps, and require a self-check before delivery.
 
