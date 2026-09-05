@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) - An MIT-licensed image-generation and editing Skill with explicit WorkBuddy support, local API-key configuration, asynchronous task recovery, reference-image handling, and project-local output management
 - [Data Lens](https://github.com/wangge-ai/data-lens) - An Apache-2.0 local, evidence-grounded data-analysis Skill with explicit WorkBuddy support. It handles tables, articles, books, and mixed materials, checks numbers, connects sources, looks for counterevidence, and produces traceable reports.
 - [Paper Mode](https://github.com/markbignews/paper-mode) - An MIT-licensed Chinese academic-writing Skill explicitly adapted for WorkBuddy, providing AI-writing-signal self-checks and human-led rewriting for text, Word, and PDF while stating that estimates are not official detector results and must not be used to evade detection or academic misconduct.
 - [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) - An MIT-licensed cross-platform WorkBuddy Skill that uses pure Python and RSS to generate a searchable, filterable, dark-mode single-file HTML AI news site, with model rankings, market data, citations, and scheduled generation.

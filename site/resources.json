@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Right Code Image",
+    "url": "https://github.com/yfpgle-glitch/rightcode-imagegen",
+    "description": "An MIT-licensed image-generation and editing Skill with explicit WorkBuddy support, local API-key configuration, asynchronous task recovery, reference-image handling, and project-local output management",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Right Code Image",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的图片生成与编辑 Skill，提供本地 API Key 配置、异步任务恢复、参考图处理和项目内输出管理",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Data Lens",
     "url": "https://github.com/wangge-ai/data-lens",
     "description": "An Apache-2.0 local, evidence-grounded data-analysis Skill with explicit WorkBuddy support. It handles tables, articles, books, and mixed materials, checks numbers, connects sources, looks for counterevidence, and produces traceable reports",
