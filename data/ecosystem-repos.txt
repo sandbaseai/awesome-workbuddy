@@ -212,6 +212,7 @@ shajoezhu/skills_codebuddy_rpackagedev
 taikaikaikai-pixel/dsh-codebuddy-plugin
 MWang-TS/kindle2workbuddy
 gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge
+lvecho/workbuddy-xhs-skills
 MAXXXXXLI/workbuddy-cn-legal-skills
 Maquer/workbuddy-checkin
 aosi526/dsh-workbuddy-xdpool

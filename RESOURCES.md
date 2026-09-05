@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [WorkBuddy XHS Skills](https://github.com/lvecho/workbuddy-xhs-skills) - 许可未声明的中文小红书运营 Skill 合集，含 6 个可安装模块，覆盖变现倒推定位、账号档案、选题标题、初稿人化、视觉规划和数据复盘；README 列出融合来源，使用或再分发前请核对上游归属
 - [boardgame-io Skill](https://github.com/liangdabiao/boardgame-io-skill) - 许可未声明、明确支持 WorkBuddy 的 boardgame.io 回合制游戏开发 Skill，提供 API 参考、多人/隐藏信息/AI 工作流，以及带测试的井字棋和卡牌项目模板
 - [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规划 8–15 个 50–75 秒片段，支持无损切割、合并、空白段检测和输出校验
 - [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) - MIT 许可、明确支持 WorkBuddy 的通用 UI 设计 Skill，提供 14 套调色板、4px 间距体系、字体比例、交互状态、HTML/React/Vue 模板和示例
