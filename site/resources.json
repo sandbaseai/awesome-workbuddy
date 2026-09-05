@@ -880,6 +880,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "AgentRecall",
+    "url": "https://github.com/zszz3/AgentRecall",
+    "description": "An MIT-licensed cross-agent session search and management tool with explicit WorkBuddy support; locally searches, views, and exports messages, tool traces, and usage data, with additional Skills, MCP, and workflow features",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "AgentRecall",
+    "descriptionZh": "MIT 许可的跨 Agent 会话检索与管理工具，明确支持 WorkBuddy，可在本地搜索、查看和导出消息、工具轨迹及用量信息，并提供 Skills、MCP 和工作流能力",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "memU",
     "url": "https://github.com/NevaMind-AI/memU",
     "description": "An Apache-2.0 cross-agent personal-memory system with direct WorkBuddy support that distills reusable Skills from sessions and tool calls, then uses a local sidecar for memory injection and retrieval",
