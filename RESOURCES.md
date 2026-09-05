@@ -51,6 +51,8 @@
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
 - [Hermes Agent 橙皮书](https://github.com/alchaincyf/hermes-agent-orange-book) - MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口
+- [Claude Code 橙皮书](https://github.com/alchaincyf/claude-code-orange-book) - CC BY-NC-SA 4.0 许可的 Claude Code 中文实战指南，覆盖安装、提示词、Skills、Hooks、MCP、多 Agent 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用
+- [Codex 橙皮书](https://github.com/alchaincyf/codex-orange-book) - CC BY-NC-SA 4.0 许可的 Codex 中文实战手册，覆盖 CLI、桌面端、云端、IDE、浏览器扩展、Skills、MCP、Automation 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - MIT 许可的中英双语新手启动器与 Prompt 库，支持 macOS、Linux、Windows 以及 Qwen Code、Kimi Code 和 CodeBuddy CLI
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例
