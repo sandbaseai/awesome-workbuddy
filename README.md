@@ -6,34 +6,23 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
-> 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
+> 腾讯 WorkBuddy 的学习资料、Skills、MCP 和工作流精选清单。
 
-第一次使用？先看 [一分钟选型与快速开始](START_HERE.md)，再从下面的精选资源开始。也可以打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词查找。
-
-WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究、文档、数据、设计和开发任务。本清单把官方资料、Skills、MCP、工作流和案例集中在一起。
-
-机器可读目录见 [`site/llms.txt`](site/llms.txt)。
+WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发任务。本清单帮你快速找到官方文档和社区资源。
 
 > [!IMPORTANT]
 > 这是社区维护的第三方索引，不代表腾讯。安装第三方 Skill、MCP 或连接器前，请检查源码、权限和数据流向；不要上传密钥、个人隐私或未脱敏的公司资料。
 
-## 先看这里
-
-- [先选一个目标](#start-here)
-- [精选资源](#精选资源)
-- [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/)
-- [反馈或推荐资源](https://github.com/sandbaseai/awesome-workbuddy/issues)
-
 ## Start Here
 
-- [产品主页](https://www.workbuddy.ai/) - 下载 WorkBuddy，查看产品能力。
-- [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - 从安装到完成第一个任务。
-- [一分钟选型](START_HERE.md) - 判断该用普通任务、Skill、MCP、Automation 还是企业 Agent。
+- [下载 WorkBuddy](https://www.workbuddy.ai/) · [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)
+- [一分钟选型与快速开始](START_HERE.md) - 不知道从哪里开始，就看这里。
+- [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) - 按关键词和类别查找。
 
-更多安装、自动化、MCP 和企业 Agent 文档收在 [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 中。
+机器可读目录：[`site/llms.txt`](site/llms.txt)。
 
 <details>
-<summary>更多上手资料</summary>
+<summary>更多官方入口</summary>
 
 - [官方文档](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南。
 - [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Mac 环境要求、安装、登录与更新。
@@ -58,7 +47,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - 为 WorkBuddy/Agent 提供团队记忆能力.
 - [AgentsView](https://github.com/kenn-io/agentsview) - 在本地查看和分析 Agent 会话.
 
-完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类；也可以直接使用上方的可搜索目录。
+完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类，已放在下方折叠区；日常查找建议使用[可搜索目录](https://sandbaseai.github.io/awesome-workbuddy/)。
 
 <details>
 <summary>展开完整目录</summary>
