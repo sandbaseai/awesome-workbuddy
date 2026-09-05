@@ -960,6 +960,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Market Briefings",
+    "url": "https://github.com/hongshuhai/hongshuhai-market-briefings",
+    "description": "An MIT-licensed WorkBuddy workflow for commodity-morning and U.S.-market pre-open briefings, with `SKILL.md`, data scripts, HTML examples, and scheduled delivery; for research only",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Market Briefings",
+    "descriptionZh": "MIT 许可的 WorkBuddy 大宗商品晨报与美股盘前日报工作流，包含 `SKILL.md`、数据脚本、HTML 示例和定时发送；仅作研究参考",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Ecommerce Detail-page Planner",
     "url": "https://github.com/Banye0517/ecommerce-detail-page-skill",
     "description": "An MIT-licensed WorkBuddy Skill that turns a product and its selling points into competitor analysis, per-screen copy, and visual descriptions for ecommerce detail pages",
@@ -1787,6 +1797,16 @@
     "category": "Ready-to-use Skills",
     "titleZh": "E-commerce Visual Copywriting",
     "descriptionZh": "将电商卖点分析、文案和商品图制作沉淀为可执行 SOP",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Training Incentive Designer",
+    "url": "https://github.com/haoranx968-stack/training-incentive-designer",
+    "description": "An MIT-licensed WorkBuddy Skill for employee training incentive schemes, with a dual-track method, reference plan, and fillable template",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Training Incentive Designer",
+    "descriptionZh": "MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板",
     "categoryZh": "Ready-to-use Skills"
   },
   {

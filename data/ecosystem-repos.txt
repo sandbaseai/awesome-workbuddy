@@ -275,3 +275,5 @@ iBlinkQ/project-cairn
 luan-78-zao/official-document-writer-skill
 yinxiaowai/xiaowai-photo-poetic-postcard
 notbadhuang/notbadhuang-japanese-skill
+hongshuhai/hongshuhai-market-briefings
+haoranx968-stack/training-incentive-designer

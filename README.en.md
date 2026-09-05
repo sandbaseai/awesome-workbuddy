@@ -160,6 +160,7 @@ The full catalog is grouped below. For everyday browsing, use the [searchable re
 ### Ready-to-use Skills
 
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - An MIT-licensed WorkBuddy Skill for A-share short-term-stock and ETF research using live market, sentiment, and technical signals; for research only and not investment advice
+- [WorkBuddy Market Briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) - An MIT-licensed WorkBuddy workflow for commodity-morning and U.S.-market pre-open briefings, with `SKILL.md`, data scripts, HTML examples, and scheduled delivery; for research only
 - [Ecommerce Detail-page Planner](https://github.com/Banye0517/ecommerce-detail-page-skill) - An MIT-licensed WorkBuddy Skill that turns a product and its selling points into competitor analysis, per-screen copy, and visual descriptions for ecommerce detail pages
 - [Student Application Skills](https://github.com/cuic19053-hue/awesome-student-ai-skills) - An MIT-licensed collection of 35 WorkBuddy-compatible Skills for university competitions, project applications, scholarships, graduate recommendation, and study-abroad applications
 - [Beautiful Mermaid](https://github.com/chouraycn/beautiful-mermaid) - A license-not-declared WorkBuddy/CodeBuddy chart Skill that renders Mermaid diagrams as themed SVG, PNG, or ASCII output with an interactive preview
@@ -247,6 +248,7 @@ The full catalog is grouped below. For everyday browsing, use the [searchable re
 - [WorkBuddy Check-in (Maquer)](https://github.com/Maquer/workbuddy-checkin) - An MIT-licensed, dependency-free Python check-in and credit-reporting tool supporting CN/Global accounts, token refresh, multi-account rotation, daily reports, and cron scheduling
 - [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) - An MIT-licensed DeepSeek Harness plugin that discovers historical WorkBuddy desktop logins and combines them into a failover model pool with model catalog, credits, cooldowns, and a loopback streaming bridge
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - A repeatable workflow for product analysis, copywriting, and commerce imagery.
+- [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) - An MIT-licensed WorkBuddy Skill for employee training incentive schemes, with a dual-track method, reference plan, and fillable template
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - An MIT-licensed video-production Skill compatible with WorkBuddy, Codex, and Claude, covering storyboards, image/video generation, TTS, subtitles, and local FFmpeg finishing
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - Diagnoses accounts and high-performing posts across major Chinese content platforms.
