@@ -264,6 +264,7 @@ majiabin2020/github-accelerator
 shenquan520/reading-analysis
 chenstacey/video-transcribe-summary
 kelegele/agentsmd-skill
+Young1108/skillhub
 joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc

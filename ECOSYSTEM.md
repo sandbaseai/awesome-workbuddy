@@ -7,11 +7,11 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,075 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,746 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,748 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,954 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,546 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,547 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,923 | - | 2026-08-12 |
@@ -242,6 +242,8 @@ Last refreshed: **2026-09-05 UTC**
 | [Guyzn/workbuddy-cua-mcp](https://github.com/Guyzn/workbuddy-cua-mcp) | 1 | Python | 2026-09-04 |
 | [flg1217/dsh-subagent-codebuddy](https://github.com/flg1217/dsh-subagent-codebuddy) | 1 | JavaScript | 2026-09-03 |
 | [yimiaoxiehou/oneplus-resukisu-kernel-skill](https://github.com/yimiaoxiehou/oneplus-resukisu-kernel-skill) | 1 | Shell | 2026-09-05 |
+| [iithink88/wechat-cli](https://github.com/iithink88/wechat-cli) | 1 | Python | 2026-09-05 |
+| [Young1108/skillhub](https://github.com/Young1108/skillhub) | 1 | Python | 2026-09-04 |
 | [Thome56/article-to-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) | 1 | - | 2026-09-05 |
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
@@ -280,7 +282,6 @@ Last refreshed: **2026-09-05 UTC**
 | [mowenQWQ/Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | 0 | Shell | 2026-09-04 |
 | [GiaSip/ai-hr](https://github.com/GiaSip/ai-hr) | 0 | Python | 2026-09-05 |
 | [tchivs/agentsw](https://github.com/tchivs/agentsw) | 0 | TypeScript | 2026-09-05 |
-| [iithink88/wechat-cli](https://github.com/iithink88/wechat-cli) | 0 | Python | 2026-09-05 |
 | [majiabin2020/github-accelerator](https://github.com/majiabin2020/github-accelerator) | 0 | PowerShell | 2026-09-04 |
 | [chenstacey/video-transcribe-summary](https://github.com/chenstacey/video-transcribe-summary) | 0 | HTML | 2026-09-05 |
 | [kelegele/agentsmd-skill](https://github.com/kelegele/agentsmd-skill) | 0 | - | 2026-09-04 |

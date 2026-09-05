@@ -115,6 +115,7 @@
 
 - [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程方法和工具调用修复
+- [SkillHub（Young1108）](https://github.com/Young1108/skillhub) - MIT 许可的 WorkBuddy Skill 合集，包含账号迁移、Wake 多 Agent 日报和 macOS 微信/企业微信本地数据工具；微信相关 Skill 仅适用于 macOS
 - [WorkBuddy Skills（ai3027）](https://github.com/ai3027/workbuddy-skills) - MIT 许可的 WorkBuddy Skill 集合，包含工作空间迁移/清理和技术公众号写作 Skill，并为每项能力提供 `SKILL.md` 与脚本
 - [WorkBuddy AI Agent Skills Collection](https://github.com/Tugoukezhang/workbuddy-skills) - 汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具
 - [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本
