@@ -520,6 +520,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Skills Hub",
+    "url": "https://github.com/qufei1993/skills-hub",
+    "description": "An MIT-licensed cross-platform Skills manager that installs, organizes, updates, and syncs to 47 Agent tools, with explicit WorkBuddy support through `~/.workbuddy/skills`; review scanned directories and local settings such as GitHub tokens before use",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Skills Hub",
+    "descriptionZh": "MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "oh-my-workbuddy",
     "url": "https://github.com/mrzhangguoguo/oh-my-workbuddy",
     "description": "An MIT-licensed WorkBuddy Skill pack with 46 catalog-driven Skills, user/project-scoped installation, bilingual docs, and zero runtime dependencies",
@@ -617,6 +627,16 @@
     "category": "Skill collections",
     "titleZh": "WeChat Mini Program Virtual Payment Skill",
     "descriptionZh": "MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "MOSS Skills",
+    "url": "https://github.com/adoresever/moss-skills",
+    "description": "An Apache-2.0 Skill for meeting transcription, speaker diarization, subtitles, minutes, and voice generation with documented WorkBuddy import guidance; it requires a MOSS API key or local models, so confirm data authorization and storage boundaries before uploading audio or video",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "MOSS Skills",
+    "descriptionZh": "Apache-2.0 许可的会议转录、说话人识别、字幕、纪要和语音生成 Skill，明确提供 WorkBuddy 导入方式；需要 MOSS API 密钥或本地模型，涉及音频/视频上传时请先确认数据授权和保存边界",
     "categoryZh": "Skill collections"
   },
   {
@@ -4017,16 +4037,6 @@
     "category": "Community clients and enhancements",
     "titleZh": "WorkBuddy Dream Skin（macOS）",
     "descriptionZh": "MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar",
-    "categoryZh": "Community clients and enhancements"
-  },
-  {
-    "title": "Skills Hub",
-    "url": "https://github.com/qufei1993/skills-hub",
-    "description": "An MIT-licensed cross-platform desktop Skill manager with an explicit WorkBuddy adapter, central installation, organization, updates, and sync across multiple Agents",
-    "section": "Open-source Ecosystem",
-    "category": "Community clients and enhancements",
-    "titleZh": "Skills Hub",
-    "descriptionZh": "MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills",
     "categoryZh": "Community clients and enhancements"
   },
   {

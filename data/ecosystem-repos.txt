@@ -382,6 +382,7 @@ Flipped929/workbuddy-autofigure-edit-skill
 shanputaoye/freecad-ai-skill
 tony-apan/allincms-content-ops
 chief-YE/workbuddy-skills
+adoresever/moss-skills
 gebiniwangdaye/macos-minimize-all
 bettermen/article-metaphor-illustrator
 xxiao-git/paper-submission-skill
