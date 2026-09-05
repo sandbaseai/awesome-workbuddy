@@ -6,6 +6,8 @@ English · [简体中文](README.md)
 
 An easy-to-browse directory of WorkBuddy Skills, MCP integrations, workflows, and guides.
 
+If this directory helps you, consider starring it or reporting a missing resource.
+
 ## Get started
 
 - [Download WorkBuddy](https://www.workbuddy.ai/)

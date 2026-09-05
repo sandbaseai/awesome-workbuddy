@@ -6,6 +6,8 @@
 
 WorkBuddy 资源导航：Skills、MCP、工作流和实用教程。
 
+如果这个目录对你有帮助，欢迎 Star 或反馈遗漏资源。
+
 ## 快速开始
 
 - [下载 WorkBuddy](https://www.workbuddy.ai/)
