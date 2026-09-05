@@ -386,3 +386,6 @@ gebiniwangdaye/macos-minimize-all
 bettermen/article-metaphor-illustrator
 xxiao-git/paper-submission-skill
 haiyangchenbj/invassistant-skill-cn
+weblwh/circuit-interactive-tutor
+cntyfmg-eng/fmg-ppt-courseware
+uahz/live-stream-ops

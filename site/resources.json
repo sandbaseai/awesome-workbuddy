@@ -970,6 +970,36 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Circuit Interactive Tutor",
+    "url": "https://github.com/weblwh/circuit-interactive-tutor",
+    "description": "An MIT-licensed circuit-analysis learning Skill with explicit WorkBuddy support, offering step-by-step derivations, formula explanations, troubleshooting, and visual learning assistance",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Circuit Interactive Tutor",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的电路分析互动学习 Skill，提供分步推导、公式解释、故障排查和可视化学习辅助",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "FMG PPT Courseware",
+    "url": "https://github.com/cntyfmg-eng/fmg-ppt-courseware",
+    "description": "An MIT-licensed courseware-PPT Skill with an explicit WorkBuddy installation path, generating PPTX decks with consistent structure, typography, and visuals from a topic and outline while reusing a specified template",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "FMG PPT Courseware",
+    "descriptionZh": "MIT 许可、明确提供 WorkBuddy 安装入口的精品课 PPT 课件 Skill，根据主题和大纲批量生成结构、字号和视觉统一的 PPTX，并复用指定模板",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Live Stream Ops",
+    "url": "https://github.com/uahz/live-stream-ops",
+    "description": "An MIT-licensed cross-client live-stream operations Skill with explicit WorkBuddy support, covering scripts, replay breakdowns, product schedules, conversion copy, clip discovery, and control-room SOPs",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Live Stream Ops",
+    "descriptionZh": "MIT 许可的跨客户端直播运营 Skill，明确支持 WorkBuddy，覆盖直播脚本、回放拆解、排品表、促单话术、切片挖掘和场控 SOP",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "InvAssistant",
     "url": "https://github.com/haiyangchenbj/invassistant-skill-cn",
     "description": "An MIT-licensed CodeBuddy/WorkBuddy Skill for configurable U.S.-stock portfolio signal checks, reading Yahoo Finance quotes for entry and exit rules and optionally pushing results to WeCom, DingTalk, or Lark; for research only, not investment advice, and webhook credentials must be protected",
