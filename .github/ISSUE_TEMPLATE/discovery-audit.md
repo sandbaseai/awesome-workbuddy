@@ -20,4 +20,6 @@ Candidate
 
 ## Decision
 
-<!-- Hold, curate, or exclude; state the concrete evidence needed for the next decision. --> This issue is an audit record, not an endorsement.
+<!-- Hold, curate, or exclude; state the concrete evidence needed for the next decision. -->
+
+This issue is an audit record, not an endorsement.
