@@ -87,6 +87,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 140 | Python | 2026-08-07 |
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
+| [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) | 130 | TypeScript | 2026-08-21 |
 | [naive-kun/naive-video-skill](https://github.com/naive-kun/naive-video-skill) | 123 | Python | 2026-08-11 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 122 | Go | 2026-07-08 |
 | [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 114 | Python | 2026-09-04 |
@@ -112,6 +113,7 @@ Last refreshed: **2026-09-05 UTC**
 | [joosure/Maestro](https://github.com/joosure/Maestro) | 46 | Elixir | 2026-07-09 |
 | [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) | 44 | JavaScript | 2026-09-05 |
 | [liuyuexi1987/shenlun-review-pro](https://github.com/liuyuexi1987/shenlun-review-pro) | 44 | Python | 2026-08-03 |
+| [AICreator-Wind/gstack-openclaw-skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) | 43 | Python | 2026-03-21 |
 | [PomeloR611/libtv-video-agent](https://github.com/PomeloR611/libtv-video-agent) | 43 | - | 2026-08-06 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | TypeScript | 2026-06-15 |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 39 | Python | 2026-07-02 |

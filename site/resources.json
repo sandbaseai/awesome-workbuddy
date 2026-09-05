@@ -980,6 +980,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "gstack OpenClaw/WorkBuddy Skills",
+    "url": "https://github.com/AICreator-Wind/gstack-openclaw-skills",
+    "description": "An MIT-licensed development-workflow Skill suite for OpenClaw/WorkBuddy, offering `/ship`, `/review`, and `/qa` commands, cross-step state management, and one-command installation and verification",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "gstack OpenClaw/WorkBuddy Skills",
+    "descriptionZh": "MIT 许可、面向 OpenClaw/WorkBuddy 的开发工作流 Skill 套件，提供 `/ship`、`/review`、`/qa` 等命令、跨步骤状态管理和一键安装/验证流程",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "XHS Virtual Product",
     "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
     "description": "An MIT-licensed end-to-end Xiaohongshu digital-product workflow Skill with explicit WorkBuddy support, covering product selection, competitor analysis, production, listing, content, and review while putting originality and copyright checks into the workflow",
@@ -3307,6 +3317,16 @@
     "category": "Tools and integrations",
     "titleZh": "Loci",
     "descriptionZh": "MIT 许可的本地优先 AI 记忆库，将身份、决策、项目和任务保存为本地 Markdown，并可在 Web 向导中连接 WorkBuddy；默认无云端订阅，但记忆内容可能包含个人和项目信息，启用前请检查本地目录权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Noema",
+    "url": "https://github.com/ZSeven-W/dsh-noema",
+    "description": "An MIT-licensed local-first Agent-memory plugin that can read WorkBuddy memory/rule files and import them into searchable durable memory; it is primarily installed into DeepSeek Harness, so confirm the local file scope before importing",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Noema",
+    "descriptionZh": "MIT 许可的本地优先 Agent 记忆插件，可读取 WorkBuddy 的记忆/规则文件并导入为可检索的持久记忆；它主要安装到 DeepSeek Harness，使用前请确认要读取的本地文件范围",
     "categoryZh": "Tools and integrations"
   },
   {
