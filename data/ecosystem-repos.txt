@@ -433,6 +433,9 @@ jnMetaCode/agency-agents-zh
 alchaincyf/x-mentor-skill
 Unclecheng-li/AI-Animation-Skill
 alchaincyf/fanbox
+qizhitang/xiaozhi-skills
+JingbiaoMei/Tokdash
+HeiGeAi/heige-codex-skin-studio
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

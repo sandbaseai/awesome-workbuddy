@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,911 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,912 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,571 | Python | 2026-09-05 |
@@ -62,6 +62,7 @@ Last refreshed: **2026-09-05 UTC**
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 547 | Python | 2026-09-02 |
 | [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) | 545 | HTML | 2026-04-16 |
 | [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
+| [HeiGeAi/heige-codex-skin-studio](https://github.com/HeiGeAi/heige-codex-skin-studio) | 444 | JavaScript | 2026-09-04 |
 | [zhangxiaoqiang1991/luopan](https://github.com/zhangxiaoqiang1991/luopan) | 379 | HTML | 2026-07-18 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
@@ -112,6 +113,7 @@ Last refreshed: **2026-09-05 UTC**
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
+| [qizhitang/xiaozhi-skills](https://github.com/qizhitang/xiaozhi-skills) | 93 | JavaScript | 2026-09-05 |
 | [gongyu0918-debug/chinese-official-writing-skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) | 92 | Python | 2026-09-05 |
 | [lasoons/AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) | 91 | TypeScript | 2026-01-17 |
 | [wink-run/tokenbank](https://github.com/wink-run/tokenbank) | 90 | JavaScript | 2026-09-05 |
@@ -122,6 +124,7 @@ Last refreshed: **2026-09-05 UTC**
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens) | 75 | TypeScript | 2026-05-17 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 72 | Python | 2026-09-03 |
+| [JingbiaoMei/Tokdash](https://github.com/JingbiaoMei/Tokdash) | 69 | Python | 2026-09-05 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 67 | Go | 2026-09-05 |
 | [smile-xyy/resume-tailor](https://github.com/smile-xyy/resume-tailor) | 63 | JavaScript | 2026-08-13 |
