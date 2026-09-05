@@ -900,6 +900,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "YueYuan Bazi",
+    "url": "https://github.com/qianye-wuyu/yueyuan-bazi",
+    "description": "An MIT-licensed research-oriented Bazi Skill with explicit WorkBuddy support, a deterministic chart engine, evidence/uncertainty labels, preregistered predictions and post-hoc validation, plus a frozen rule version and 100 fictional case tests; for traditional-culture reference only, not a basis for fate, medical, or investment decisions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "YueYuan Bazi",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的研究型八字 Skill，使用确定性排盘引擎、证据/不确定度标注、预注册预测与后验验证，附规则冻结版本和 100 个虚构案例测试；仅作传统文化参考，不作宿命、医疗或投资决策依据",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Loom of Heaven",
     "url": "https://github.com/Jowitt13/loom-of-heaven",
     "description": "An MIT-licensed offline, reproducible four-system birth-chart engine with a published WorkBuddy Skill, SHA-256 verification, and an installation manifest; scripts compute the charts while the Agent gathers inputs and narrates results, for traditional-culture/entertainment reference only",
