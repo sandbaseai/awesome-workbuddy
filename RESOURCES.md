@@ -139,6 +139,7 @@
 - [ChatCut Video Workflow](https://github.com/li845276863-tech/chatcut-video-workflow-skill) - MIT 许可、明确支持 WorkBuddy 的 ChatCut 口播视频工作流 Skill，先拆解方案再执行，覆盖精剪、爆款分析、画面包装、封面生成和导出检查
 - [TradeGit](https://github.com/rollingSirius/TradeGit) - MIT 许可、明确兼容 WorkBuddy 的本地交易日志 Skill，可记录交易理由、导入券商流水并按 FIFO 计算盈亏；数据保存在本地或用户自己的私有 GitHub 仓库
 - [Chanlun Engine](https://github.com/adsorgcn/chanlun-engine-skill) - MIT 许可、明确支持 WorkBuddy 的缠论分析 Skill，由确定性脚本计算分型、笔、线段、中枢和信号，结果可复核；仅作研究参考，不构成投资建议
+- [Zhengxi Views](https://github.com/lyra81604/zhengxi-views) - MIT 许可、明确支持 WorkBuddy 的基金经理观点与投研 Skill，基于公开原文、方法框架和基金数据提供可溯源问答、持仓对照与研究报告，并附 WorkBuddy `skill.yml`；语料和第三方数据仍归原始权利人所有，仅供研究学习，不构成投资建议
 - [Scholar Inbox Skill](https://github.com/zhjcreator/scholar-inbox-skill) - MIT 许可的 WorkBuddy 学术论文检索 Skill，通过 Scholar Inbox CLI 支持关键词/语义搜索、趋势论文、日报、书签、收藏和会议论文管理；使用前需配置第三方账号
 - [Apple Design Skill](https://github.com/dayviwong/apple-design-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的 Apple HIG 风格界面设计 Skill，提供 SF Pro、响应式布局、深浅色模式、毛玻璃效果和 20+ 调色板示例
 - [Dramake](https://github.com/xixihhhh/ai-short-drama-skill) - MIT 许可、明确支持 WorkBuddy 的 AI 短剧制作 Skill，从故事、剧本和分镜到模型路由、配音、剪辑、预算与质量检查，提供示例、评测和可安装包
