@@ -170,6 +170,8 @@
 - [CareerStar（职途星）](https://github.com/HanGu007/workbuddy-career-skills) - MIT 许可的 WorkBuddy 求职专家包，覆盖简历诊断/改写、面试辅导、企业信息查询、HTML 简历和投递追踪
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - MIT 许可、可直接下载 ZIP 的 WorkBuddy 换肤 Skill，支持上传参考图生成私有主题、10 套内置 Skin、截图验证和失败恢复
 - [open-kimi-ppt Skill](https://github.com/jinwyp/open-ppt-skill) - MIT 许可、明确支持 WorkBuddy 的 PPT Skill，可通过 npx 安装，生成可继续编辑的 PPTD 和 PPTX，并提供本地浏览器编辑器
+- [open-kimi-ppt-skill（acnlie）](https://github.com/acnlie/open-kimi-ppt-skill) - MIT 许可、支持 WorkBuddy 的非官方 Kimi Slides Skill，可生成和编辑 PPTD/PPTX，并提供本地浏览器编辑器；项目基于公开协议和前端行为实现，使用前请注意上游变更风险，仅供学习研究
+- [Naive Video Skill](https://github.com/naive-kun/naive-video-skill) - MIT 许可、明确支持 WorkBuddy 的口播视频制作 Skill，将粗剪、转写、字幕、动效、预览和导出组织为一个按需工作流；默认不覆盖原片，安装可选依赖前会先征得用户同意
 - [MiniWorkBuddy](https://github.com/joezxh/mini-workbuddy) - MIT 许可、受腾讯 WorkBuddy 启发的开源 AI 工作台，基于 AgentScope，提供多 Agent 团队、Skills、深度研究、调度、MCP、知识库/本体推理及文字/语音交互
 - [Design Workflow](https://github.com/yang20040317-svg/design-workflow) - MIT 许可、WorkBuddy/Claude Code 格式的设计工作流 Skill，以五层模型和可复用模块组织，并含图表、前端、图标、移动端、动效、参考资料、字体等子技能
 
