@@ -252,6 +252,8 @@
 - [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程
 - [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程
 - [WorkBuddy Runbook](https://github.com/maning636/workbuddy-runbook) - MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy 及兼容 Agent
+- [MVP Validator Skill](https://github.com/664991498-prog/mvp-validator-skill) - MIT 许可的 WorkBuddy 产品验证 Skill，覆盖需求分析、技术可行性、竞品研究、开源调研、分阶段投入计划和 ROI 预测；结论仍需结合真实数据与人工判断
+- [Hackathon Roadshow Magician](https://github.com/firecangshu/hackathon-roadshow-magician) - MIT 许可的本地化黑客松路演材料 Skill，将项目整理为 7 步流程、8 类路演形式和 19 种交付物，支持双语输出；发布前请人工核对事实、素材和授权
 - [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - MIT 许可的 Minecraft Java 模组检索 Skill，提供 `SKILL.md` 和搜索脚本，可直接安装到 WorkBuddy/CodeBuddy 的 Skill 目录
 - [高情商职场沟通](https://github.com/wanghoween-design/gaoqingshang-skill) - MIT 许可的 WorkBuddy 职场沟通 Skill，覆盖 23 类常见场景，帮助生成得体、清晰的回复与表达
 - [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - MIT 许可、面向 WorkBuddy 的 Windows 本地微信 4.x 聊天记录解密与检索 Skill，可导出带时间戳的摘要和结构化结果

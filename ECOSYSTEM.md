@@ -50,7 +50,7 @@ Last refreshed: **2026-09-05 UTC**
 | [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 786 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 727 | TypeScript | 2026-09-05 |
-| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 707 | Python | 2026-09-02 |
+| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 708 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 680 | - | 2026-07-19 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
@@ -76,7 +76,7 @@ Last refreshed: **2026-09-05 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 278 | HTML | 2026-08-17 |
 | [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 269 | Python | 2026-05-10 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 266 | Python | 2026-09-02 |
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 263 | Python | 2026-08-13 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 264 | Python | 2026-08-13 |
 | [VintLin/skill-flow](https://github.com/VintLin/skill-flow) | 260 | TypeScript | 2026-09-05 |
 | [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 256 | JavaScript | 2026-09-03 |
 | [towelong/panxiaozi](https://github.com/towelong/panxiaozi) | 254 | TypeScript | 2026-07-30 |
@@ -319,6 +319,7 @@ Last refreshed: **2026-09-05 UTC**
 | [bettermen/article-metaphor-illustrator](https://github.com/bettermen/article-metaphor-illustrator) | 4 | - | 2026-06-18 |
 | [JanCong/workbuddy-migrator](https://github.com/JanCong/workbuddy-migrator) | 4 | Python | 2026-07-06 |
 | [wzz6423/zisla](https://github.com/wzz6423/zisla) | 4 | Swift | 2026-09-05 |
+| [664991498-prog/mvp-validator-skill](https://github.com/664991498-prog/mvp-validator-skill) | 4 | - | 2026-07-07 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -397,6 +398,7 @@ Last refreshed: **2026-09-05 UTC**
 | [openlxcn/openlx-weixin-baimindan](https://github.com/openlxcn/openlx-weixin-baimindan) | 1 | Python | 2026-09-05 |
 | [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-05 |
 | [supernisy/specgate](https://github.com/supernisy/specgate) | 1 | JavaScript | 2026-09-05 |
+| [firecangshu/hackathon-roadshow-magician](https://github.com/firecangshu/hackathon-roadshow-magician) | 1 | HTML | 2026-08-16 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |

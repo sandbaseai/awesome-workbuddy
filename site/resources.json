@@ -2050,6 +2050,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "MVP Validator Skill",
+    "url": "https://github.com/664991498-prog/mvp-validator-skill",
+    "description": "An MIT-licensed WorkBuddy product-validation Skill covering requirements, technical feasibility, competitive research, open-source research, staged investment planning, and ROI forecasting; validate conclusions against real data and human judgment",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "MVP Validator Skill",
+    "descriptionZh": "MIT 许可的 WorkBuddy 产品验证 Skill，覆盖需求分析、技术可行性、竞品研究、开源调研、分阶段投入计划和 ROI 预测；结论仍需结合真实数据与人工判断",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Hackathon Roadshow Magician",
+    "url": "https://github.com/firecangshu/hackathon-roadshow-magician",
+    "description": "An MIT-licensed local-first Skill that turns projects into hackathon roadshow materials through seven steps, eight roadshow formats, and 19 deliverables, with bilingual output; review facts, assets, and permissions before publishing",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Hackathon Roadshow Magician",
+    "descriptionZh": "MIT 许可的本地化黑客松路演材料 Skill，将项目整理为 7 步流程、8 类路演形式和 19 种交付物，支持双语输出；发布前请人工核对事实、素材和授权",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Minecraft Mod Search",
     "url": "https://github.com/MasterHesse/minecraft-mod-search",
     "description": "An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy",
