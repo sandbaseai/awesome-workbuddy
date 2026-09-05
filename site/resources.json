@@ -540,6 +540,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Skills Constitution",
+    "url": "https://github.com/jiabaobei/skills-constitution",
+    "description": "An MIT-licensed cross-platform meta-rule for Skills with explicit WorkBuddy support, matching available capabilities, rebuilding a Skill index, and optionally registering hooks; the installer copies files and rebuilds indexes, so review its scripts and rollback guidance before enabling hooks",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Skills Constitution",
+    "descriptionZh": "MIT 许可的跨平台 Skill 元规则，明确支持 WorkBuddy，可先查找匹配能力、维护 Skill 索引并提供可选 hooks；安装会复制文件、重建索引，注册 hooks 前请先阅读脚本和回滚说明",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Wiki",
     "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
     "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics",

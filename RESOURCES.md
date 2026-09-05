@@ -76,6 +76,7 @@
 - [WorkBuddy AI Agent Skills Collection](https://github.com/Tugoukezhang/workbuddy-skills) - 汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具
 - [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接
+- [Skills Constitution](https://github.com/jiabaobei/skills-constitution) - MIT 许可的跨平台 Skill 元规则，明确支持 WorkBuddy，可先查找匹配能力、维护 Skill 索引并提供可选 hooks；安装会复制文件、重建索引，注册 hooks 前请先阅读脚本和回滚说明
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单
 
