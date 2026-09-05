@@ -980,6 +980,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Student Application Skills",
+    "url": "https://github.com/cuic19053-hue/awesome-student-ai-skills",
+    "description": "An MIT-licensed collection of 35 WorkBuddy-compatible Skills for university competitions, project applications, scholarships, graduate recommendation, and study-abroad applications",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Student Application Skills",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy 的 35 个大学生申报 Skills，覆盖竞赛、立项、奖学金、保研和留学申请",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Skill Integrator",
     "url": "https://github.com/smiling66652/skill-integrator",
     "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",
