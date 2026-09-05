@@ -229,6 +229,7 @@ joyparkray/agent-avatar
 kenn-io/agentsview
 iuuunlyk/AgentSessionQuery
 abc1317679842-ui/workbuddy-token-tracker
+mmqz/cpa-multi-plugins
 dingminhua/dsh-connect-workbuddy
 JaguarJack/workbuddy-openapi
 Guyzn/workbuddy-cua-mcp
@@ -261,6 +262,7 @@ joezxh/mini-workbuddy
 yang20040317-svg/design-workflow
 bonboruyau-dev/html-to-feishu-doc
 bonboruyau-dev/wechat-article-to-md
+Thome56/article-to-knowledge-cards
 62656456/ai-film-skills
 lasoons/AgentSkillsManager
 EverMind-AI/SkillCorpus
@@ -272,3 +274,4 @@ KKbaocai/topic-pipeline
 iBlinkQ/project-cairn
 luan-78-zao/official-document-writer-skill
 yinxiaowai/xiaowai-photo-poetic-postcard
+notbadhuang/notbadhuang-japanese-skill
