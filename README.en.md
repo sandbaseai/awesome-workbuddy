@@ -6,34 +6,23 @@ English · [简体中文](README.md)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
-> A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
+> A practical collection of Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
 
-New to WorkBuddy? Start with the [one-minute chooser and quick start](START_HERE.md), then try a featured resource below. You can also use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to find resources by keyword.
-
-WorkBuddy is Tencent's AI Agent workspace for research, document, data, design, and development tasks. This list brings official documentation, Skills, MCP integrations, workflows, and examples together in one place.
-
-For machine-readable navigation, see [`site/llms.txt`](site/llms.txt).
+WorkBuddy uses natural language to help with research, documents, data, design, and development. This list helps you find official guides and community resources quickly.
 
 > [!IMPORTANT]
 > This is an independent community index, not a Tencent publication. Before installing any third-party Skill, MCP server, connector, or enhancement, inspect its source, permissions, and data flow. Never upload secrets, personal data, or unredacted company material without an appropriate review.
 
-## Start with these
-
-- [Choose a starting point](#start-here)
-- [Featured resources](#featured-resources)
-- [Full searchable catalog](https://sandbaseai.github.io/awesome-workbuddy/)
-- [Feedback or resource suggestions](https://github.com/sandbaseai/awesome-workbuddy/issues)
-
 ## Start Here
 
-- [Product homepage](https://www.workbuddy.ai/) - Download WorkBuddy and see what it can do.
-- [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - Go from installation to a first completed task.
-- [One-minute chooser](START_HERE.md) - Choose between a task, Skill, MCP, Automation, or enterprise Agent.
+- [Download WorkBuddy](https://www.workbuddy.ai/) · [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)
+- [One-minute chooser and quick start](START_HERE.md) - Start here if you are not sure what to use.
+- [Search the resource directory](https://sandbaseai.github.io/awesome-workbuddy/) - Filter by keyword or category.
 
-More installation, automation, MCP, and enterprise Agent guides are available in the [full catalog](https://sandbaseai.github.io/awesome-workbuddy/).
+Machine-readable index: [`site/llms.txt`](site/llms.txt).
 
 <details>
-<summary>More getting-started guides</summary>
+<summary>More official entry points</summary>
 
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - Product documentation and usage guides.
 - [Install on macOS](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Requirements, installation, sign-in, and updates.
@@ -58,7 +47,7 @@ If you are not sure where to begin, try these in order:
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team memory capabilities for WorkBuddy and other Agents.
 - [AgentsView](https://github.com/kenn-io/agentsview) - Inspect and analyze Agent sessions locally.
 
-The full catalog below is grouped into official resources, Skills, MCP, workflows, use cases, and research. You can also use the searchable directory above.
+The full catalog below is grouped into official resources, Skills, MCP, workflows, use cases, and research. For everyday browsing, use the [searchable directory](https://sandbaseai.github.io/awesome-workbuddy/).
 
 <details>
 <summary>Expand the full catalog</summary>
