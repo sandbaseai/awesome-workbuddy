@@ -3740,6 +3740,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Luopan Research Router",
+    "url": "https://github.com/zhangxiaoqiang1991/luopan",
+    "description": "An MIT-licensed WorkBuddy-compatible industry and company research router that separates industry, investment, and job research and uses source grading, a multi-perspective matrix, adversarial review, and evidence boundaries to produce structured reports; for research assistance only, not a substitute for investment or career decisions",
+    "section": "Use Cases",
+    "category": "Content and career",
+    "titleZh": "Luopan Research Router",
+    "descriptionZh": "MIT 许可、支持 WorkBuddy 的行业与公司研究路由器，按行业研究、投资研究和求职研究分流，使用信源分级、多源视角矩阵、对抗验证和证据边界生成结构化报告；仅供研究辅助，不替代投资或职业决策",
+    "categoryZh": "Content and career"
+  },
+  {
     "title": "Psyche Writer",
     "url": "https://github.com/otakuminami/psyche-writer",
     "description": "An MIT-licensed psychology-publication writing Skill installable directly in WorkBuddy, with structures for concept explainers, practical guides, phenomenon analysis, brand collaborations, and health education, requiring research citations and boundaries against fear-selling or harming vulnerable groups",
