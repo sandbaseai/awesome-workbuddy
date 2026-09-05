@@ -40,6 +40,7 @@ Tencent/LoopForge
 AlanHuang168/AI-Project-Workflow
 adongwanai/learn-workbuddy
 howoneai/skill-onboarding
+elvinzhao10/LazyBuddy
 infometa/workbuddyskills
 babygoton/WorkDaddy
 zjp1997720/zhijian-ai-bluebook-workbuddy-harness
@@ -178,6 +179,8 @@ NI9N/gerenshiyongshuomingshu
 NikoKennedy/translate-book-windows
 zhangx1234994/aicp-product-creator-skill
 Kallium-cn/workbuddy-jupyter-bridge
+ben4202121/buddybridge
+flg1217/dsh-subagent-codebuddy
 darker2016/workbuddy-skill-groups
 laubeing-droid/unified-legal-ai-cn
 ahang1598/doubao-workbuddy-qwenwork-skills
