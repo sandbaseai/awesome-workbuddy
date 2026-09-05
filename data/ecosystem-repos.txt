@@ -297,3 +297,6 @@ yfpgle-glitch/rightcode-imagegen
 genius916/CareerSail
 liangdabiao/workbuddy-expert-doc-video-qa
 leigegehaha/jimeng-cli-free
+zhjcreator/scholar-inbox-skill
+dayviwong/apple-design-skill
+xixihhhh/ai-short-drama-skill

@@ -114,6 +114,9 @@
 
 ### Ready-to-use Skills
 
+- [Scholar Inbox Skill](https://github.com/zhjcreator/scholar-inbox-skill) - MIT 许可的 WorkBuddy 学术论文检索 Skill，通过 Scholar Inbox CLI 支持关键词/语义搜索、趋势论文、日报、书签、收藏和会议论文管理；使用前需配置第三方账号
+- [Apple Design Skill](https://github.com/dayviwong/apple-design-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的 Apple HIG 风格界面设计 Skill，提供 SF Pro、响应式布局、深浅色模式、毛玻璃效果和 20+ 调色板示例
+- [Dramake](https://github.com/xixihhhh/ai-short-drama-skill) - MIT 许可、明确支持 WorkBuddy 的 AI 短剧制作 Skill，从故事、剧本和分镜到模型路由、配音、剪辑、预算与质量检查，提供示例、评测和可安装包
 - [即梦网页端生图 Skill](https://github.com/leigegehaha/jimeng-cli-free) - Apache-2.0 许可、明确支持 WorkBuddy 的本地即梦网页端生图 Skill，支持模型与比例选择、参考图上传、图片编辑和原图下载；需要浏览器扩展及已登录的即梦账号
 - [Doc & Video QA Expert](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) - 许可证未声明的 WorkBuddy 专家包，含 4 个 PDF/视频视觉问答 Skill，支持页码/时间戳引用、命中页或帧核对，以及 GLM 与 DeepSeek 双引擎；使用前请审阅 API 数据流
 - [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) - MIT 许可、明确支持 WorkBuddy 的图片生成与编辑 Skill，提供本地 API Key 配置、异步任务恢复、参考图处理和项目内输出管理

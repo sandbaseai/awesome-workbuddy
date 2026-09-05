@@ -114,6 +114,9 @@
 
 ### Ready-to-use Skills
 
+- [Scholar Inbox Skill](https://github.com/zhjcreator/scholar-inbox-skill) - An MIT-licensed WorkBuddy Skill for academic-paper discovery through the Scholar Inbox CLI, covering keyword/semantic search, trending papers, digests, bookmarks, collections, and conference proceedings; a third-party account is required
+- [Apple Design Skill](https://github.com/dayviwong/apple-design-skill) - An MIT-licensed Apple HIG interface-design Skill with explicit WorkBuddy/CodeBuddy support, covering SF Pro, responsive layouts, light/dark modes, glass effects, and 20+ palette examples
+- [Dramake](https://github.com/xixihhhh/ai-short-drama-skill) - An MIT-licensed AI short-drama production Skill with explicit WorkBuddy support, covering story, script, storyboards, model routing, voice, editing, budget, and quality checks, with examples, evaluations, and an installable package
 - [Dreamina Web Image Skill](https://github.com/leigegehaha/jimeng-cli-free) - An Apache-2.0 local Dreamina web image-generation Skill with explicit WorkBuddy support, model and aspect-ratio controls, reference-image upload, editing, and original downloads; it requires a browser extension and a signed-in Dreamina account
 - [Doc & Video QA Expert](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) - A license-not-declared WorkBuddy expert package with four PDF/video visual-QA Skills, page/timestamp citations, hit-page or hit-frame verification, and GLM/DeepSeek dual engines; review API data flows before use
 - [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) - An MIT-licensed image-generation and editing Skill with explicit WorkBuddy support, local API-key configuration, asynchronous task recovery, reference-image handling, and project-local output management
