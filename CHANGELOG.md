@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.10.4 — 2026-09-05
+
+- Added the MIT-licensed WorkBuddy Check-in Skill with explicit local-token, official-endpoint, scheduled-execution, and account-terms warnings.
+- Refreshed the bilingual searchable directory, ecosystem metadata, and discovery queue to 155 curated repositories.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.3 — 2026-09-05
 
 - Added an MIT-licensed WorkBuddy MCP OAuth 2.1/PKCE troubleshooting guide with redirect-URI allowlists, authorization checks, redacted examples, and unit tests.
