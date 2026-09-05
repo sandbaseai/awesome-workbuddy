@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.12 — 2026-09-05
+
+- Curated the BSD-3-Clause `wnddd839/codebuddyapi-proxy` self-hosted CodeBuddy gateway with explicit credential, account-rotation, network-boundary, and release-verification warnings.
+- Added audit records for CodeBuddy2api, Cockpit Tools, and the system-prompt archive; high-star projects remain unendorsed until provenance, licensing, and data boundaries are verifiable.
+- Refreshed the synchronized directory snapshot to 176 curated repositories and 24 discovery candidates.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.11 — 2026-09-05
 
 - Added CodeBuddy2API, OpenCode CodeBuddy Auth, the WeChat Mini Program Virtual Payment Skill/reference, and the unofficial CodeBuddy IDE CN for Linux packaging adapter.

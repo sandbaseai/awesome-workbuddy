@@ -24,7 +24,7 @@ For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
 
 The four original Skills in this directory are also indexed on [agent-skills.md](https://agent-skills.md/authors/sandbaseai) for online browsing and install-path verification.
 
-This week's highlights: [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), [memU](https://github.com/NevaMind-AI/memU) (cross-agent memory and Skill extraction), [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics), and [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin) (reversible CDP skinning); see [v0.10.10](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.10) for the full curation update.
+This week's highlights: [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), [memU](https://github.com/NevaMind-AI/memU) (cross-agent memory and Skill extraction), [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics), and [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin) (reversible CDP skinning); see [v0.10.12](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.12) for the full curation update.
 
 WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
 
