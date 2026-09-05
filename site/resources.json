@@ -1600,6 +1600,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WeChat Article Publisher Skill",
+    "url": "https://github.com/iamzifei/wechat-article-publisher-skill",
+    "description": "An MIT-licensed WorkBuddy Skill that turns Markdown/HTML and images into WeChat Official Account drafts through an API, with support for image-text posts; it requires a third-party service API key and saves drafts only by default, never publishing automatically",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WeChat Article Publisher Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的公众号文章发布 Skill，可将 Markdown/HTML 和图片通过 API 转为草稿，并支持小绿书图文模式；需要第三方服务 API Key，且默认只保存草稿、不自动发布",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Eagle Untagged Organizer",
     "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
     "description": "An MIT-licensed WorkBuddy Skill that batch-organizes untagged design assets in Eagle through Eagle MCP, with multilingual names, structured annotations, tags, dry-run approval, snapshots, and restore",

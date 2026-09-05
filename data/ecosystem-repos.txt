@@ -16,6 +16,7 @@ QwenLM/Qwen-MM-Plugins
 huaweicloud/huaweicloud-devkit
 NarratorAI-Studio/narrator-ai-cli-skill
 geekjourneyx/md2wechat-skill
+iamzifei/wechat-article-publisher-skill
 TencentCloudBase/CloudBase-AI-Toolkit
 acnlie/open-kimi-ppt-skill
 naive-kun/naive-video-skill

@@ -187,6 +187,7 @@
 - [OpenMAIC Skill](https://github.com/THU-MAIC/OpenMAIC) - MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验、互动 HTML、PBL 和 TTS，并支持托管或自托管模式
 - [WeChat Article Skills](https://github.com/aiworkskills/wechat-article-skills) - Apache-2.0 许可、兼容 WorkBuddy 的公众号运营 Skills，覆盖选题、写作、审稿、排版、配图和草稿发布，并提供 WorkBuddy 组合教程
 - [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - Source Available 许可、明确支持 WorkBuddy 的 Markdown 转公众号 CLI/Skill，支持 40+ 排版样式、配图、预览检查、多账号和草稿箱；发布功能需要微信凭证，商业使用、SaaS 和再分发需单独授权
+- [WeChat Article Publisher Skill](https://github.com/iamzifei/wechat-article-publisher-skill) - MIT 许可、明确支持 WorkBuddy 的公众号文章发布 Skill，可将 Markdown/HTML 和图片通过 API 转为草稿，并支持小绿书图文模式；需要第三方服务 API Key，且默认只保存草稿、不自动发布
 - [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) - MIT 许可的 WorkBuddy Skill，通过 Eagle MCP 批量整理未标记的设计素材，支持多语言名称、结构化注释、标签、预览确认、快照和恢复
 - [Rainskills](https://github.com/goodrain/rainskills) - Apache-2.0 的跨 Agent Skills 集合，明确支持 WorkBuddy，覆盖项目识别、部署、排障、交付验证、版本管理和回滚
 - [AI Operating Protocol](https://github.com/nehemc2026/ai-operating-protocol) - MIT 许可、面向 WorkBuddy 的零依赖行为协议，用六条规则、风险分级和 Stop Rule 帮助 Agent 区分讨论、执行和停止
