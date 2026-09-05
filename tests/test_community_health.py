@@ -48,13 +48,17 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("not declared", resource_form)
         self.assertIn("YYYY-MM-DD", resource_form)
 
-    def test_ecosystem_refresh_runs_after_authoritative_changes(self) -> None:
+    def test_ecosystem_refresh_is_scheduled_and_manual(self) -> None:
         workflow = (
             ROOT / ".github" / "workflows" / "update-ecosystem.yml"
         ).read_text(encoding="utf-8")
-        self.assertIn("push:", workflow)
-        self.assertIn("data/ecosystem-repos.txt", workflow)
-        self.assertIn("skills/*/SKILL.md", workflow)
+        self.assertIn("schedule:", workflow)
+        self.assertIn('cron: "31 3 * * 1"', workflow)
+        self.assertIn("workflow_dispatch:", workflow)
+        self.assertNotIn("  push:", workflow)
+        self.assertIn("scripts/update_ecosystem.py", workflow)
+        self.assertIn("scripts/discover_repos.py", workflow)
+        self.assertIn("scripts/update_readme_stats.py", workflow)
         self.assertIn("group: update-ecosystem-main", workflow)
         self.assertIn("cancel-in-progress: true", workflow)
         self.assertIn("git pull --ff-only origin main", workflow)

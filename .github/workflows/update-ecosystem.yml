@@ -1,11 +1,6 @@
 name: Update ecosystem
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - data/ecosystem-repos.txt
-      - skills/*/SKILL.md
   schedule:
     - cron: "31 3 * * 1"
   workflow_dispatch:
