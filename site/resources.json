@@ -2500,6 +2500,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "WorkBuddy Dream Skin (macOS)",
+    "url": "https://github.com/smartcai87/workbuddy-dream-skin",
+    "description": "An MIT-licensed macOS skin utility that injects reversible themes through loopback CDP, supports light/dark modes, local images, hot switching, and restoration without modifying WorkBuddy.app, its signature, or `app.asar`; it restarts the app and runs local scripts, CDP is unauthenticated while enabled, and renderer compatibility can change, so review scripts, ports, and image permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Dream Skin（macOS）",
+    "descriptionZh": "MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar；会重启应用并运行本地脚本，CDP 启用期间无鉴权，且适配版本可能变化，使用前请审查脚本、端口和图片权限",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkBuddy Buddy",
     "url": "https://github.com/FlashFamily/workbuddy-buddy",
     "description": "An MIT-licensed macOS WorkBuddy status pet that shows thinking, tool use, approval waits, completion, and failure, and can feed allow/deny decisions back to WorkBuddy; source, tests, and a local event whitelist are public, but community builds are ad-hoc signed and not Apple-notarized, so review installer code, release provenance, control-plane use, and loopback permissions first",

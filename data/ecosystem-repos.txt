@@ -171,6 +171,7 @@ CodeDrobe/desktop
 CarlWangChina/zhigui-openclaw-ui-second-brain-skill
 changexbc/workbuddy-switch
 FlashFamily/workbuddy-buddy
+smartcai87/workbuddy-dream-skin
 cxqc168-wq/Trae-workbuddyAssistant
 shuishenghualalala/Ace
 tangshiyegit/agent-guide
