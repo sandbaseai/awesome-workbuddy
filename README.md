@@ -24,7 +24,7 @@
 
 本目录的 4 个原创 Skill 也已同步到 [agent-skills.md](https://agent-skills.md/authors/sandbaseai)，可在线浏览和核对安装路径。
 
-本周精选： [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）、[memU](https://github.com/NevaMind-AI/memU)（跨 Agent 记忆与 Skill 提炼）、[AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）和 [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin)（可逆 CDP 换肤）；完整变更见 [v0.10.12](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.12)。
+本周精选： [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy)（自托管 OpenAI 兼容网关）、[Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill)（带证据的多源蒸馏）、[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）；完整变更见 [v0.10.12](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.12)。
 
 WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
 
