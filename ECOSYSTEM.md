@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,086 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,820 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,821 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,964 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,560 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -25,6 +25,7 @@ Last refreshed: **2026-09-05 UTC**
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,591 | TypeScript | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
+| [erha19/ping-island](https://github.com/erha19/ping-island) | 1,089 | Swift | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,052 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
@@ -205,7 +206,7 @@ Last refreshed: **2026-09-05 UTC**
 | [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-03 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
-| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | - | 2026-09-04 |
+| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | - | 2026-09-05 |
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
