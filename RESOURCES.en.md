@@ -114,6 +114,8 @@
 
 ### Ready-to-use Skills
 
+- [TradeGit](https://github.com/rollingSirius/TradeGit) - An MIT-licensed local trading-journal Skill with explicit WorkBuddy support, recording trade rationale, importing broker statements, and calculating FIFO profit/loss; data stays local or in the user's own private GitHub repository
+- [Chanlun Engine](https://github.com/adsorgcn/chanlun-engine-skill) - An MIT-licensed Chan theory analysis Skill with explicit WorkBuddy support, using deterministic scripts for fractals, strokes, segments, centers, and signals; results are reproducible and for research only, not investment advice
 - [Scholar Inbox Skill](https://github.com/zhjcreator/scholar-inbox-skill) - An MIT-licensed WorkBuddy Skill for academic-paper discovery through the Scholar Inbox CLI, covering keyword/semantic search, trending papers, digests, bookmarks, collections, and conference proceedings; a third-party account is required
 - [Apple Design Skill](https://github.com/dayviwong/apple-design-skill) - An MIT-licensed Apple HIG interface-design Skill with explicit WorkBuddy/CodeBuddy support, covering SF Pro, responsive layouts, light/dark modes, glass effects, and 20+ palette examples
 - [Dramake](https://github.com/xixihhhh/ai-short-drama-skill) - An MIT-licensed AI short-drama production Skill with explicit WorkBuddy support, covering story, script, storyboards, model routing, voice, editing, budget, and quality checks, with examples, evaluations, and an installable package
