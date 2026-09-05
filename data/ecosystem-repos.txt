@@ -30,6 +30,7 @@ Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
 Tencent/workbuddy-bench
 Tencent/LoopForge
+AlanHuang168/AI-Project-Workflow
 adongwanai/learn-workbuddy
 infometa/workbuddyskills
 babygoton/WorkDaddy

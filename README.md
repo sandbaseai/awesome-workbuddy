@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**152 curated repositories · 4 original Skills · 39 discovery candidates · weekly validation**
+**153 curated repositories · 4 original Skills · 38 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -109,6 +109,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - 拆解提示词、记忆、插件、专家、Skill 与安全边界.
 - [WorkBuddy Harness](https://github.com/zhuang-HE/workbuddy-harness) - 许可未声明、面向 WorkBuddy 风格 Agent 的九维基础设施框架，包含 11 个插件、21 个 Hooks、Hook/评测运行引擎、守护进程和 30 条基准用例；它是第三方工程框架而非腾讯官方组件，Hooks、脚本和运行时可能读写项目或执行本地命令，使用前请审查代码、依赖、权限、测试数据和工作区范围.
 - [LoopForge](https://github.com/Tencent/LoopForge) - 腾讯开源的 MIT 多智能体软件交付工作流，覆盖需求澄清、边界确认、设计、实现、独立审查、测试与可恢复交接，并为 CodeBuddy、Codex、Cursor 和 Claude Code 提供 CLI/Skill 安装入口；安装会写入对应 Agent 的项目规则与工作流文件，执行前请审查变更范围、依赖和本地执行权限.
+- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配；它是社区项目而非腾讯官方组件，初始化会在目标项目写入规则、Skills、状态与文档，使用前请审查目标目录和执行权限.
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Formatter 与 WorkBuddy 排版的 6 篇教程；明确要求研究创新、实验数据和引用保持真实，配置 API Key 与使用 AI 辅助写作前请遵守学校规范并审查密钥和资料范围.
 
 ### Skill collections

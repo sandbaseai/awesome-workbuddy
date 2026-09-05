@@ -12,7 +12,7 @@ Last refreshed: **2026-09-05 UTC**
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,026 | Rust | 2026-09-04 |
-| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 941 | Python | 2026-09-04 |
+| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 607 | JavaScript | 2026-09-04 |
@@ -21,7 +21,7 @@ Last refreshed: **2026-09-05 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 276 | HTML | 2026-08-17 |
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 256 | Python | 2026-08-13 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
-| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 237 | Python | 2026-09-02 |
+| [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 238 | Python | 2026-09-02 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
@@ -59,6 +59,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 27 | Python | 2026-09-01 |
+| [AlanHuang168/AI-Project-Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) | 27 | JavaScript | 2026-07-22 |
 | [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) | 27 | JavaScript | 2026-09-03 |
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |
@@ -126,7 +127,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Frog755/dsh-hybrid-memory](https://github.com/Frog755/dsh-hybrid-memory) | 2 | JavaScript | 2026-08-26 |
 | [abc1317679842-ui/workbuddy-token-tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) | 2 | JavaScript | 2026-09-04 |
 | [jamesting-eng/workbuddy-skills](https://github.com/jamesting-eng/workbuddy-skills) | 2 | Python | 2026-09-04 |
-| [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-04 |
+| [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-04 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
 | [wynter-cai/assetplex](https://github.com/wynter-cai/assetplex) | 1 | TypeScript | 2026-08-30 |
