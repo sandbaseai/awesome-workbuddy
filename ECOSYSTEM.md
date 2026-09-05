@@ -8,8 +8,8 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,076 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,768 | TypeScript | 2026-09-04 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,078 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,769 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,958 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,554 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -301,5 +301,6 @@ Last refreshed: **2026-09-05 UTC**
 | [simonsiu2008-bit/hk-business-writing](https://github.com/simonsiu2008-bit/hk-business-writing) | 0 | - | 2026-09-05 |
 | [markbignews/paper-mode](https://github.com/markbignews/paper-mode) | 0 | Python | 2026-09-05 |
 | [wangge-ai/data-lens](https://github.com/wangge-ai/data-lens) | 0 | Python | 2026-09-05 |
+| [yfpgle-glitch/rightcode-imagegen](https://github.com/yfpgle-glitch/rightcode-imagegen) | 0 | Python | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
