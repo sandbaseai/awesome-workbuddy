@@ -130,6 +130,8 @@
 
 ### Ready-to-use Skills
 
+- [OpenLX 微信公众号发布 Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - MIT 许可、明确支持 WorkBuddy 的公众号内容发布 Skill，支持素材上传、草稿创建、明确发布和状态查询，并提供版本清单与 SHA-256 校验；首次使用仍需管理员扫码授权，建议先创建草稿核对再发布
+
 - [career-kit](https://github.com/wangqiao258/career-kit) - MIT 许可的本地优先职业档案与简历定制 Skills，覆盖档案建档、JD 分析、简历裁剪和版本管理；README 提供 WorkBuddy 等平台的手动导入方式，个人资料应仅在你信任的本地环境中处理
 
 - [中文公文写作 Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料，并提供文种路由、事实核验、格式检查和可选交付 Hook
@@ -321,6 +323,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 
 ### Tools and integrations
+
+- [CNKI Browser Tool](https://github.com/Lzffancy/cnki-browser-tool) - MIT 许可的 CNKI/论文研究浏览器工具，提供本机回环 HTTP/MCP 桥接、文献检索、结果读取和批量 PDF 下载，并给出 WorkBuddy 粘贴即用的接入说明；只驱动真实页面交互，不导出 Cookie 或绕过验证码，登录态和下载文件仍需自行保护
 
 - [browser-mcp](https://github.com/jixingyu999/browser-mcp) - MIT 许可的 Playwright 浏览器操作 MCP，提供 22 个面向办公自动化的工具，支持批量填表、数据提取、下载、PDF 存档和页面监控，并提供 WorkBuddy 配置示例；登录态文件可能包含敏感 Cookie，请限制路径和权限
 - [Eric Task Master](https://github.com/npcworkspace-cmyk/eric-task-master) - MIT 许可的本地 Chrome/Playwright 长任务管理器，明确支持 WorkBuddy，可持久化 Profile、后台运行任务并提供部分结果；任务脚本以当前操作系统用户权限运行，只应执行可信脚本

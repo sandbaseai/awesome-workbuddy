@@ -130,6 +130,8 @@
 
 ### Ready-to-use Skills
 
+- [OpenLX WeChat Official Account Publishing Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - An MIT-licensed publishing Skill with explicit WorkBuddy support for media uploads, draft creation, explicit publishing, and status queries, with a version manifest and SHA-256 verification; an administrator must still authorize it by QR code, and draft review should precede publishing
+
 - [career-kit](https://github.com/wangqiao258/career-kit) - An MIT-licensed local-first career profile and resume-building Skill set covering profile intake, job-description analysis, resume tailoring, and versioning; its README documents manual loading for WorkBuddy and other platforms, so keep personal data only in environments you trust
 
 - [Chinese Official Writing Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - An MIT-licensed formal-document writing Skill with explicit WorkBuddy/CodeBuddy support, covering notices, requests, reports, letters, plans, minutes, and technical materials with document routing, fact checks, format checks, and optional delivery hooks
@@ -322,6 +324,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [CNKI Browser Tool](https://github.com/Lzffancy/cnki-browser-tool) - An MIT-licensed CNKI/paper-research browser tool with a local loopback HTTP/MCP bridge, literature search, result reading, and batch PDF downloads, including a paste-ready WorkBuddy integration; it drives real page interactions without exporting cookies or bypassing CAPTCHAs, but protect login state and downloaded files
 
 - [browser-mcp](https://github.com/jixingyu999/browser-mcp) - An MIT-licensed Playwright browser-control MCP with 22 office-automation tools for form filling, data extraction, downloads, PDF archiving, and page monitoring, including a WorkBuddy configuration example; login-state files may contain sensitive cookies, so restrict their path and permissions
 - [Eric Task Master](https://github.com/npcworkspace-cmyk/eric-task-master) - An MIT-licensed local Chrome/Playwright long-running task manager with explicit WorkBuddy support, persistent Profiles, background tasks, and partial results; task scripts run with the current OS user's permissions and should come only from trusted sources

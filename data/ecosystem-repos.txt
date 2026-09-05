@@ -415,6 +415,8 @@ GrubbyLee/skill-manager
 npcworkspace-cmyk/eric-task-master
 jixingyu999/browser-mcp
 lsjwzh/MultiCC
+openlxcn/openlx-weixin-baimindan
+Lzffancy/cnki-browser-tool
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
