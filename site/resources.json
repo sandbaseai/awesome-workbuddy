@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Data Lens",
+    "url": "https://github.com/wangge-ai/data-lens",
+    "description": "An Apache-2.0 local, evidence-grounded data-analysis Skill with explicit WorkBuddy support. It handles tables, articles, books, and mixed materials, checks numbers, connects sources, looks for counterevidence, and produces traceable reports",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Data Lens",
+    "descriptionZh": "Apache-2.0 许可、明确支持 WorkBuddy 的本地证据导向数据分析 Skill，可处理表格、文章、书籍和混合资料，核对数字、串联来源、寻找反例并输出可追溯报告",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Paper Mode",
     "url": "https://github.com/markbignews/paper-mode",
     "description": "An MIT-licensed Chinese academic-writing Skill explicitly adapted for WorkBuddy, providing AI-writing-signal self-checks and human-led rewriting for text, Word, and PDF while stating that estimates are not official detector results and must not be used to evade detection or academic misconduct",
