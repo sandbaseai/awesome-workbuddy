@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [AI Co-Evolution Skills](https://github.com/PhilRobinluo/ai-coevolution-skills) - A collection of 47 installable Chinese Skills with an explicit WorkBuddy installation path, covering concept explanation, presentation briefing, document repair, image redaction, GitHub profiles, and workflows; Skills and docs use CC BY-NC-SA 4.0 while code uses PolyForm Noncommercial, so obtain commercial permission before commercial use
 - [Maya Umbrella Scanner](https://github.com/loonghao/maya_umbrella_scanner) - An MIT-licensed Windows Skill for scanning malicious code in Maya scenes with WorkBuddy support, including scope confirmation, batch scanning, findings disclosure, explicit pre-cleanup approval, backup checks, and post-clean scans; it is not a general system antivirus
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - An MIT-licensed full-lifecycle WeChat Mini Program Skill with a dedicated WorkBuddy entry, covering ideation, filing, development, monetization, review, promotion, and multi-account operations; copy it to `~/.workbuddy/skills/` to use it
 - [Note Skill](https://github.com/Unclecheng-li/note-skill) - An MIT-licensed single-file HTML note-generation Skill with explicit WorkBuddy support, turning technical content, security analysis, or knowledge summaries into notebook-style web notes
