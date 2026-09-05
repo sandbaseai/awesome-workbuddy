@@ -12,6 +12,9 @@ class AuditTemplateTests(unittest.TestCase):
         self.assertIn("\nCandidate\n\n- Repository:", template)
         self.assertIn("\n## Audit result\n\n", template)
         self.assertIn("\n## Decision\n\n", template)
+        self.assertIn(
+            "state the concrete evidence needed for the next decision. --> This issue is an audit record, not an endorsement.",
+            template,
+        )
         self.assertNotIn("## Candidate", template)
         self.assertNotIn("\\\\n", template)
-
