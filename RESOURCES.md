@@ -110,6 +110,7 @@
 - [Skill Doctor](https://github.com/evilstar2016/skill-doctor) - 面向 WorkBuddy 等 Agent 的本地 Skill 冲突、重复、安全风险与上下文成本审计 CLI
 - [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) - 将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板
 - [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例
+- [Token Monitor](https://github.com/Javis603/token-monitor) - MIT 许可的跨平台 Token 与 AI 工具额度桌面看板，明确支持 WorkBuddy，可读取 `~/.workbuddy/projects/` 和 `workbuddy.db` 展示用量、额度、成本与趋势；会话明细按需在本地读取、不参与同步，部分提供方额度查询可能需要凭证
 - [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) - Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模型、渠道与操作切片
 - [Session Digger](https://github.com/taxueseek/session-digger) - ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告
 - [AgentRecall](https://github.com/zszz3/AgentRecall) - MIT 许可的跨 Agent 会话检索与管理工具，明确支持 WorkBuddy，可在本地搜索、查看和导出消息、工具轨迹及用量信息，并提供 Skills、MCP 和工作流能力
