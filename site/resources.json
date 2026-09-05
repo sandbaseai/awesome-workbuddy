@@ -570,6 +570,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Agency Agents 中文版",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "description": "An MIT-licensed Chinese community collection of 276 role-oriented experts across 20 departments, with explicit conversion and installation support for WorkBuddy's `~/.workbuddy/skills/` directory; it is independent of Tencent, includes sponsor/third-party links, and generated prompts may drive external services or consequential workflows, so review attribution, generated files, credentials, and each expert's instructions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Agency Agents 中文版",
+    "descriptionZh": "MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持；它独立于腾讯，含赞助/第三方链接，生成的提示词可能驱动外部服务或重要业务流程，使用前请核对署名、生成文件、凭据和每个专家的具体指令",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Senmu BuildOS",
     "url": "https://github.com/SenMuShare/senmu-buildos",
     "description": "An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback; installation changes workspace rules and may perform deployment/version actions, so review instructions, host permissions, credentials, and release targets first",

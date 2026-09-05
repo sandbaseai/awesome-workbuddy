@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**190 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**191 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -129,6 +129,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单；主要按 Claude Code Skill 格式编写，也可作为 CodeBuddy 的参考资料，执行时必须以微信官方文档为准，服务端保管密钥并人工复核支付规则、金额和发货逻辑.
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态.
+- [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持；它独立于腾讯，含赞助/第三方链接，生成的提示词可能驱动外部服务或重要业务流程，使用前请核对署名、生成文件、凭据和每个专家的具体指令.
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git、发布、版本证据和回滚；安装后会影响项目工作区规则并可执行部署/版本操作，使用前请审查其指令、主机权限、凭据和发布目标.
 - [i18n Helper Skills](https://github.com/liangdabiao/i18n-helper-skills) - 许可未声明、面向 WorkBuddy/Codex 等 Agent 的国际化 Skill 集合，分别处理静态 HTML 多语言目录和 React/Vue/PHP/Python/Java 等源码翻译函数，附带提取、应用与完整性检查脚本；脚本会批量读取和改写项目文件，使用前请备份并核对目标范围与许可.
 - [PMCockpit](https://github.com/wsdlp46/PMCockpit) - Apache-2.0 的产品经理 AI 协作驾驶舱，支持 WorkBuddy、Codex 和 Claude，将需求、规格、原型、评审、复盘与经验沉淀为 8 个可执行 Skill；安装脚本会改写或软链工作区入口，测试和 VitePress 能力需显式启用，使用前请确认工作区、模板和外部项目权限.
