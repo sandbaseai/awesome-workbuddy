@@ -330,6 +330,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Community clients and enhancements
 
+- [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单；通常通过本机 CDP 注入，但会重启目标应用、下载 Electron 依赖，部分 Windows AgnesCode 兼容路径还会调整 ASAR 完整性校验，使用前请审查脚本、端口、版本和应用备份.
 - [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar；会重启应用并运行本地脚本，CDP 启用期间无鉴权，且适配版本可能变化，使用前请审查脚本、端口和图片权限.
 - [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy；源码、测试和本地事件白名单公开，但社区构建为 ad-hoc 签名且非 Apple 公证，安装脚本、Release 来源、控制面与回环权限请先审查.
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills；支持全局/项目范围、Git/本地来源、软链接或复制和定时更新，使用前请确认目标目录、来源可信度与同步范围.

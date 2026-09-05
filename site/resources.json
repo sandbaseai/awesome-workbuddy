@@ -2520,6 +2520,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Dream Work Theme",
+    "url": "https://github.com/xxxhh336/dream-work-theme",
+    "description": "An Apache-2.0 cross-platform Electron theme manager with explicit WorkBuddy support, app discovery, compatibility filtering, runtime switching/restoration, and a floating theme menu; it normally injects through local CDP but restarts target apps and downloads Electron dependencies, while a Windows AgnesCode compatibility path changes ASAR integrity checking, so review scripts, ports, versions, and app backups first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Dream Work Theme",
+    "descriptionZh": "Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单；通常通过本机 CDP 注入，但会重启目标应用、下载 Electron 依赖，部分 Windows AgnesCode 兼容路径还会调整 ASAR 完整性校验，使用前请审查脚本、端口、版本和应用备份",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkBuddy Dream Skin (macOS)",
     "url": "https://github.com/smartcai87/workbuddy-dream-skin",
     "description": "An MIT-licensed macOS skin utility that injects reversible themes through loopback CDP, supports light/dark modes, local images, hot switching, and restoration without modifying WorkBuddy.app, its signature, or `app.asar`; it restarts the app and runs local scripts, CDP is unauthenticated while enabled, and renderer compatibility can change, so review scripts, ports, and image permissions first",
