@@ -68,3 +68,9 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertIn("actions/configure-pages@v6", workflow)
         self.assertIn("actions/upload-pages-artifact@v5", workflow)
         self.assertIn("actions/deploy-pages@v5", workflow)
+
+    def test_pages_has_search_discovery_files(self) -> None:
+        robots = (ROOT / "site" / "robots.txt").read_text(encoding="utf-8")
+        sitemap = (ROOT / "site" / "sitemap.xml").read_text(encoding="utf-8")
+        self.assertIn("Sitemap: https://sandbaseai.github.io/awesome-workbuddy/sitemap.xml", robots)
+        self.assertIn("https://sandbaseai.github.io/awesome-workbuddy/", sitemap)
