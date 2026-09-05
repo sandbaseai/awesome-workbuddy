@@ -319,6 +319,7 @@
 
 ### Tools and integrations
 
+- [Maotuan](https://github.com/stevenchengxy/maotuan) - An MIT-licensed macOS/Windows desktop AI companion for chat, voice, reading, drawing, and desktop notifications, with a built-in MCP service that WorkBuddy, Claude Code, and Codex can call; some features require user-configured models or third-party services
 - [Cubism External Edit MCP](https://github.com/nana7chi/CubismExternalEditMCP) - An MIT-licensed Live2D Cubism Editor MCP with explicit WorkBuddy support, providing model parameter/part/deformer inspection and editing, batch transactions, and rollback on failure with Allow/Edit permission levels; it currently depends on Cubism Editor 5.4 Alpha (valid until 2026-09-14), and external-integration permissions must be re-confirmed after each editor restart
 - [WorkBuddy OSS](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) - An MIT-licensed team IM/Agent workflow platform that turns Feishu, WeCom, DingTalk, Webhooks, and chat records into approval-gated, auditable, reviewable tickets, leads, tasks, and knowledge objects; for self-hosting, use your own domain and tenant credentials and configure access controls first
 - [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - An unofficial GPL-3.0 multi-language CodeBuddy/WorkBuddy enterprise OpenAPI client covering Skills, models, members, and usage; confirm authorization scope, credential storage, and GPL redistribution obligations before using the enterprise APIs
