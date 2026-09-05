@@ -148,7 +148,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池.
 - [Ray Skills](https://github.com/imraywang/rayskills) - 面向内容生产与发布的可执行、可验证、可恢复工作流.
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - 涵盖创作、编程、办公和通用工具的 Skill 集合.
-- [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - 将 Zotero 文献库接入 WorkBuddy 的中文配置指南.
+- [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - 许可未声明的中文配置指南，将 Zotero 文献库接入 WorkBuddy，覆盖本地、云端和混合模式，并提供 MCP 配置模板与环境验证脚本；云端模式需要 API Key，配置会读写文献资料和 WorkBuddy MCP 文件，使用前请确认凭据、文献版权和数据范围.
 - [WorkBuddy MCP OAuth Guide](https://github.com/normalpeople553/workbuddy-mcp-oauth-guide) - MIT 许可的远程 MCP OAuth 2.1/PKCE 排障与上线指南，包含动态客户端注册、回调 URI 白名单、权限校验、脱敏示例和单元测试；仓库只提供通用协议设计，不含生产凭据或业务源码，接入时仍应核对服务端授权、Token 生命周期和数据范围.
 - [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) - 为 DeepSeek Harness Web GUI 增加可搜索、拼音检索和键盘导航的技能选择器，复刻 WorkBuddy 式 `/技能名` 调用交互；MIT 许可。插件会读取用户与项目 Skill 目录并提供本地 Web 路由，安装前请审查其文件系统访问范围.
 - [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - 面向 WorkBuddy、Codex、Claude Code 等 Agent 的 Apache-2.0 多源蒸馏 Skill，可从代码、网站、UI、图片、音视频和文档建立带证据的可迁移方法与生成规范；本地分析器需要按需安装依赖，使用前请确认资源与本地文件范围.

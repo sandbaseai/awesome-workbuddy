@@ -842,11 +842,11 @@
   {
     "title": "Zotero MCP WorkBuddy Guide",
     "url": "https://github.com/maciechen/zotero-mcp-workbuddy-guide",
-    "description": "A Chinese guide to connecting a local Zotero library to WorkBuddy",
+    "description": "A Chinese guide with no repository license declared, connecting Zotero libraries to WorkBuddy through local, cloud, and hybrid modes with MCP templates and environment checks; cloud mode needs an API key and setup reads/writes research material and WorkBuddy MCP files, so confirm credentials, publication rights, and data scope first",
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
     "titleZh": "Zotero MCP WorkBuddy Guide",
-    "descriptionZh": "将 Zotero 文献库接入 WorkBuddy 的中文配置指南",
+    "descriptionZh": "许可未声明的中文配置指南，将 Zotero 文献库接入 WorkBuddy，覆盖本地、云端和混合模式，并提供 MCP 配置模板与环境验证脚本；云端模式需要 API Key，配置会读写文献资料和 WorkBuddy MCP 文件，使用前请确认凭据、文献版权和数据范围",
     "categoryZh": "Skill collections"
   },
   {
