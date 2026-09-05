@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.5 — 2026-09-05
+
+- Added the MIT-licensed LibTV Video Agent Skill with WorkBuddy/Codex/Claude entry points for storyboard, generation, TTS, subtitle, and local FFmpeg workflows.
+- Documented official-login, local-credential, external-service, media-rights, cost, upload-scope, and human-review boundaries.
+- Refreshed the synchronized directory snapshot to 156 curated repositories.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.4 — 2026-09-05
 
 - Added the MIT-licensed WorkBuddy Check-in Skill with explicit local-token, official-endpoint, scheduled-execution, and account-terms warnings.
