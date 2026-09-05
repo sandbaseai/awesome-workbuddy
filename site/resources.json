@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "OJO Design Skills",
+    "url": "https://github.com/touchine-ojo/OJO-Design-Skills",
+    "description": "An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "OJO Design Skills",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "XHS Virtual Product",
     "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
     "description": "An MIT-licensed end-to-end Xiaohongshu digital-product workflow Skill with explicit WorkBuddy support, covering product selection, competitor analysis, production, listing, content, and review while putting originality and copyright checks into the workflow",

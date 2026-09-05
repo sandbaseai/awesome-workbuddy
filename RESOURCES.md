@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容
 - [XHS Virtual Product](https://github.com/chenjin-cmd/xhs-virtual-product) - MIT 许可、明确支持 WorkBuddy 的小红书虚拟资料全流程 Skill，覆盖选品、竞品分析、制作、上架、内容和复盘，并将原创与版权合规检查放在工作流中
 - [申论复盘一体版](https://github.com/liuyuexi1987/shenlun-review-pro) - GPL-3.0 许可的 WorkBuddy 申论复盘 Skill/插件，提供材料解析、答案校准、作答批改、建议评分和 MCP 工具，并要求保留许可证、版权声明和对应源码
 - [Backend Interview Simulator](https://github.com/Hazehacker/backend-interview-simulator) - MIT 许可、明确支持 WorkBuddy 的 Java/Go/C++ 后端面试模拟 Skill，提供多身份、多风格和逐步追问，可直接让 WorkBuddy 安装后开始模拟

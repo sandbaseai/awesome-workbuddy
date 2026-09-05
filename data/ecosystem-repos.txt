@@ -48,6 +48,7 @@ liuyuexi1987/shenlun-review-pro
 Hazehacker/backend-interview-simulator
 smile-xyy/resume-tailor
 chenin0931/OpenWorkbuddy
+touchine-ojo/OJO-Design-Skills
 louloulin/OpenBuddy
 wynter-cai/assetplex
 codesstar/loci
