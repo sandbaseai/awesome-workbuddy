@@ -2342,11 +2342,11 @@
   {
     "title": "WorkBuddy Remote",
     "url": "https://github.com/vergess3/workbuddy-remote",
-    "description": "Access a WorkBuddy instance from another device",
+    "description": "An MIT-licensed Windows remote browser bridge that reuses the desktop WorkBuddy WebUI and forwards page calls through local CDP; it listens on loopback by default and requires a password for LAN mode, so confirm sign-in state, ports, access control, and network scope first",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
     "titleZh": "WorkBuddy Remote",
-    "descriptionZh": "从其他设备远程使用 WorkBuddy",
+    "descriptionZh": "MIT 许可的 Windows 远程浏览器桥接，复用桌面版 WorkBuddy 的官方 WebUI，通过本机 CDP 提供远程页面和调用转发；默认仅监听回环地址，局域网模式需设置密码，启用前请确认登录态、端口、访问控制和网络范围",
     "categoryZh": "Tools and integrations"
   },
   {
@@ -2392,11 +2392,11 @@
   {
     "title": "WorkBuddy for Obsidian",
     "url": "https://github.com/bigbay957-sudo/workbuddy-for-obsidian",
-    "description": "Use local WorkBuddy inside Obsidian with references, edits, and provenance",
+    "description": "An MIT-licensed community Obsidian plugin that connects the local WorkBuddy CLI in a sidebar, supporting selection editing, multiple tasks, file references, source tracing, and local uploads; it uses a private stdio child process without a local HTTP port by default, so confirm Vault, upload-directory, and WorkBuddy permission scope first",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
     "titleZh": "WorkBuddy for Obsidian",
-    "descriptionZh": "在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源",
+    "descriptionZh": "MIT 许可的 Obsidian 社区插件，在侧边栏接入本机 WorkBuddy，支持选区编辑、多任务、资料引用、来源追溯和本地文件上传；默认通过私有 stdio 子进程通信且不开放本地 HTTP 端口，使用前请确认 Vault、上传目录和 WorkBuddy 权限范围",
     "categoryZh": "Tools and integrations"
   },
   {

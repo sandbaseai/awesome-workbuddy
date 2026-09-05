@@ -1,4 +1,6 @@
 # One GitHub owner/repository per line. Keep this list curated.
+vergess3/workbuddy-remote
+bigbay957-sudo/workbuddy-for-obsidian
 musistudio/claude-code-router
 alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins
@@ -71,7 +73,6 @@ zjp1997720/zhijian-skills
 SuperChason/ontology-driven-ai-data-management-skills
 yinqd3/workbuddy-skills
 Sqhao-O/undergraduate-thesis-ai-workflow
-vergess3/workbuddy-remote
 TencentEdgeOne/awesome-website-prompts-and-skills
 imraywang/rayskills
 arcboxlabs/linkcode
@@ -114,7 +115,6 @@ ChosenXu/eagle-untagged-organizer
 goodrain/rainskills
 yamingmou/session-fork-core
 langlibai66/paper-cn-reader
-bigbay957-sudo/workbuddy-for-obsidian
 jiang198012/workbuddian
 tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage
 TencentCloud/tencentmeeting-cli
