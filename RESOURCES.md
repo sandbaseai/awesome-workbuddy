@@ -300,6 +300,7 @@
 - [CaSee Intelligence MCP](https://github.com/xcasee/casee-mcp-server) - MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streamable HTTP 两种模式
 - [QClaw × WorkBuddy Bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) - MIT 许可的 macOS 工作流桥，通过共享 JSON 队列和 launchd 事件把微信/QClaw 任务交给 WorkBuddy 执行，并提供任务提交、结果查询和队列管理三个 Skill
 - [GitHub Trending MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) - Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语言筛选热门仓库，并提供 MCP 与本地网页模式
+- [PanXiaozi](https://github.com/towelong/panxiaozi) - MIT 许可的网盘资源搜索引擎与 Skill，聚合夸克、百度和阿里云盘，可供 WorkBuddy 用自然语言搜索；上游的一键安装命令面向 OpenClaw/ClawHub，WorkBuddy 用户可能需要手动导入 Skill，使用搜索结果前请自行确认版权和来源
 - [PowerContext](https://github.com/oceanbase/powercontext) - Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `UserPromptSubmit` Hook、Streamable HTTP MCP 和 `project-context` Skill，可检索/写入 Memory 并创建、提交 Handoff
 - [Memorix](https://github.com/AVIDS2/memorix) - Apache-2.0 的本地优先跨 Agent 项目记忆层，明确支持 WorkBuddy，通过 MCP、Hooks、CLI 和 Skills 保存会话摘要、Git 事实、推理记录和任务交接；可选启用模型能力，默认支持本地全文检索
 - [MemoraX Code](https://github.com/memorax-ai/memorax-code) - MIT 许可的跨 Agent 工程记忆层，明确支持 WorkBuddy，可通过 npm 安装并共享项目上下文、工程经验和可复用教训；支持无账号访客模式，但完整功能需要 MemoraX 账户/API Key，请按上游说明保管凭证并核对数据流
