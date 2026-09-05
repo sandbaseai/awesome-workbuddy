@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,557 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,558 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,929 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,489 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -17,7 +17,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,772 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,032 | Rust | 2026-09-05 |
-| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-05 |
+| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 699 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 610 | JavaScript | 2026-09-05 |
@@ -56,6 +56,7 @@ Last refreshed: **2026-09-05 UTC**
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 54 | PowerShell | 2026-08-30 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |
 | [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 51 | TypeScript | 2026-08-27 |
+| [joosure/Maestro](https://github.com/joosure/Maestro) | 46 | Elixir | 2026-07-09 |
 | [PomeloR611/libtv-video-agent](https://github.com/PomeloR611/libtv-video-agent) | 43 | - | 2026-08-06 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | TypeScript | 2026-06-15 |
 | [squallopen/superpowers-zh-adapters](https://github.com/squallopen/superpowers-zh-adapters) | 37 | PowerShell | 2026-08-17 |

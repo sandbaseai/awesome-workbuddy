@@ -16,7 +16,6 @@ Last refreshed: **2026-09-05 UTC**
 | [CharlexH/CodeBuddy](https://github.com/CharlexH/CodeBuddy) | 66 | 2026-08-31 | Not declared | A StickS3 Codex companion adapted from Claude Desktop Buddy. |
 | [Sliverkiss/CodeBuddy2api](https://github.com/Sliverkiss/CodeBuddy2api) | 55 | 2026-04-29 | MIT | 将 CodeBuddy 官方 API 包装成一个功能强大、与 OpenAI API 格式兼容的服务。本项目可以直接调用 CodeBuddy 官方 API，并为所有标准客户端提供统一的接口。 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
-| [joosure/Maestro](https://github.com/joosure/Maestro) | 46 | 2026-07-09 | AGPL-3.0 | A platform evolution of OpenAI Symphony (openai/symphony) for running Codex, Claude Code, CodeBuddy Code, and OpenCode from real project tasks. |
 | [binbinao/document-superpowers](https://github.com/binbinao/document-superpowers) | 44 | 2026-08-23 | Not declared | 📝 Document writing skills for AI agents (Claude Code / Cursor / CodeBuddy) — 4-stage workflow: Brainstorm → Plan → Execute → Review. Inspired by obra/superpowers. GitHub 44★. |
 | [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 39 | 2026-07-02 | Non-standard / unrecognized | Codex 八字分析 Skill，支持排盘、实战派格局用神分析、大运流年判断，并兼容 Claude、Trae 和 Workbuddy。 |
 | [AiToByte/AgenticMetaEngineering](https://github.com/AiToByte/AgenticMetaEngineering) | 33 | 2026-04-13 | MIT | 把 CLAUDE.md、context/、.codebuddy/ 等 AI 配置文件统一放在一个 Git 仓库里，团队成员通过 clone 这个仓库获得完全一致的 AI "记忆"。 |
