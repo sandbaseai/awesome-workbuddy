@@ -128,6 +128,8 @@
 
 ### Ready-to-use Skills
 
+- [career-kit](https://github.com/wangqiao258/career-kit) - MIT 许可的本地优先职业档案与简历定制 Skills，覆盖档案建档、JD 分析、简历裁剪和版本管理；README 提供 WorkBuddy 等平台的手动导入方式，个人资料应仅在你信任的本地环境中处理
+
 - [中文公文写作 Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料，并提供文种路由、事实核验、格式检查和可选交付 Hook
 - [WorkBuddy Doctor](https://github.com/ruiguoz/workbuddy-doctor) - MIT 许可的社区故障排查 Skill 合集，每个 Doctor 独立安装，首个 `git-doctor` 覆盖推送认证、凭据助手、连接器权限、代理格式和弹窗/沙盒确认问题
 - [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) - MIT 许可的本地 WorkBuddy 账号数据迁移工具，支持 doctor、清单和迁移流程，默认不复制密钥、Token 或 credentials 等敏感连接器文件
@@ -317,6 +319,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 
 ### Tools and integrations
+
+- [Harness Engineering Kit](https://github.com/8425334/harness-engineering-kit) - MIT 许可的 AI Coding Agent 工程方法与项目控制工具，提供 `hek handoff --agent workbuddy` 将工程上下文交接给 WorkBuddy；WorkBuddy 走手动交接流程，使用前请阅读其项目策略和本地权限说明
 
 - [easy-agent](https://github.com/wangduoyu414-cell/easy-agent) - MIT 许可的 Windows/macOS 安全安装助手，支持 WorkBuddy、Hermes Agent、CC Switch、Claude Desktop 和 ChatGPT；固定官方来源、签名与包身份，证据不足时停止安装，使用前请核对平台覆盖范围和当前版本状态
 - [番茄雷达](https://github.com/WindXRan/fanqie-radar) - MIT 许可的番茄小说榜单与选书分析 MCP，附带 WorkBuddy/Claude 等客户端可用的 Agent Skill；默认零配置并提供示例数据，启用在线采集时请遵守目标平台服务条款
