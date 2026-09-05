@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Doc & Video QA Expert",
+    "url": "https://github.com/liangdabiao/workbuddy-expert-doc-video-qa",
+    "description": "A license-not-declared WorkBuddy expert package with four PDF/video visual-QA Skills, page/timestamp citations, hit-page or hit-frame verification, and GLM/DeepSeek dual engines; review API data flows before use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Doc & Video QA Expert",
+    "descriptionZh": "许可证未声明的 WorkBuddy 专家包，含 4 个 PDF/视频视觉问答 Skill，支持页码/时间戳引用、命中页或帧核对，以及 GLM 与 DeepSeek 双引擎；使用前请审阅 API 数据流",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Right Code Image",
     "url": "https://github.com/yfpgle-glitch/rightcode-imagegen",
     "description": "An MIT-licensed image-generation and editing Skill with explicit WorkBuddy support, local API-key configuration, asynchronous task recovery, reference-image handling, and project-local output management",

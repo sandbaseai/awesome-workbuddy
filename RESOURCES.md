@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Doc & Video QA Expert](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) - 许可证未声明的 WorkBuddy 专家包，含 4 个 PDF/视频视觉问答 Skill，支持页码/时间戳引用、命中页或帧核对，以及 GLM 与 DeepSeek 双引擎；使用前请审阅 API 数据流
 - [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) - MIT 许可、明确支持 WorkBuddy 的图片生成与编辑 Skill，提供本地 API Key 配置、异步任务恢复、参考图处理和项目内输出管理
 - [Data Lens](https://github.com/wangge-ai/data-lens) - Apache-2.0 许可、明确支持 WorkBuddy 的本地证据导向数据分析 Skill，可处理表格、文章、书籍和混合资料，核对数字、串联来源、寻找反例并输出可追溯报告
 - [Paper Mode](https://github.com/markbignews/paper-mode) - MIT 许可、明确适配 WorkBuddy 的中文学术论文 AI 痕迹自查与人工润色 Skill，可处理文本、Word 和 PDF，并强调估算结果不等于官方检测、不得用于规避检测或学术不端

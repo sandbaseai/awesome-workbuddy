@@ -295,3 +295,4 @@ wangge-ai/data-lens
 atswitch/at-switch
 yfpgle-glitch/rightcode-imagegen
 genius916/CareerSail
+liangdabiao/workbuddy-expert-doc-video-qa
