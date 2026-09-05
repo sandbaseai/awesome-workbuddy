@@ -121,6 +121,7 @@
 
 ### Ready-to-use Skills
 
+- [Zhang Xuefeng Skill](https://github.com/alchaincyf/zhangxuefeng-skill) - An MIT-licensed WorkBuddy-compatible Skill for education and career planning, covering university-major choices, graduate-school decisions, and employment direction via `npx skills add`; it distills public material and is not an endorsement or official advice, so verify current policies, school information, and employment data before making real decisions
 - [dbskill](https://github.com/dontbesilent2025/dbskill) - A CC BY-NC 4.0 Chinese business-diagnosis Skill toolbox with explicit WorkBuddy support, covering business, content, decision, and action problems through 31 installable Skills; follow the non-commercial license for commercial use and redistribution
 - [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) - An MIT-licensed WorkBuddy-compatible Bazi and Ziwei-doushu Skill using deterministic local chart calculations, with three analysis modes, test cases, and shareable HTML chart posters; for traditional-culture/entertainment reference only, not medical, investment, marriage, or legal decision-making
 - [YueYuan Bazi](https://github.com/qianye-wuyu/yueyuan-bazi) - An MIT-licensed research-oriented Bazi Skill with explicit WorkBuddy support, a deterministic chart engine, evidence/uncertainty labels, preregistered predictions and post-hoc validation, plus a frozen rule version and 100 fictional case tests; for traditional-culture reference only, not a basis for fate, medical, or investment decisions
