@@ -50,6 +50,7 @@
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases
+- [Hermes Agent Orange Book](https://github.com/alchaincyf/hermes-agent-orange-book) - An MIT-licensed Chinese hands-on guide to Hermes Agent covering memory, Skills, MCP, tools, collaboration, and security, with an online reading entry in the WorkBuddy knowledge base
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine.
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths
 - [Agent Learning Guide](https://github.com/tangshiyegit/agent-guide) - A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies
@@ -120,6 +121,7 @@
 
 ### Ready-to-use Skills
 
+- [dbskill](https://github.com/dontbesilent2025/dbskill) - A CC BY-NC 4.0 Chinese business-diagnosis Skill toolbox with explicit WorkBuddy support, covering business, content, decision, and action problems through 31 installable Skills; follow the non-commercial license for commercial use and redistribution
 - [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) - An MIT-licensed WorkBuddy-compatible Bazi and Ziwei-doushu Skill using deterministic local chart calculations, with three analysis modes, test cases, and shareable HTML chart posters; for traditional-culture/entertainment reference only, not medical, investment, marriage, or legal decision-making
 - [YueYuan Bazi](https://github.com/qianye-wuyu/yueyuan-bazi) - An MIT-licensed research-oriented Bazi Skill with explicit WorkBuddy support, a deterministic chart engine, evidence/uncertainty labels, preregistered predictions and post-hoc validation, plus a frozen rule version and 100 fictional case tests; for traditional-culture reference only, not a basis for fate, medical, or investment decisions
 - [Loom of Heaven](https://github.com/Jowitt13/loom-of-heaven) - An MIT-licensed offline, reproducible four-system birth-chart engine with a published WorkBuddy Skill, SHA-256 verification, and an installation manifest; scripts compute the charts while the Agent gathers inputs and narrates results, for traditional-culture/entertainment reference only

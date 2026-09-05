@@ -50,6 +50,7 @@
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
+- [Hermes Agent 橙皮书](https://github.com/alchaincyf/hermes-agent-orange-book) - MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口
 - [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - MIT 许可的中英双语新手启动器与 Prompt 库，支持 macOS、Linux、Windows 以及 Qwen Code、Kimi Code 和 CodeBuddy CLI
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例
@@ -120,6 +121,7 @@
 
 ### Ready-to-use Skills
 
+- [dbskill](https://github.com/dontbesilent2025/dbskill) - CC BY-NC 4.0 许可、明确支持 WorkBuddy 的中文商业诊断 Skills 工具箱，覆盖业务、内容、选择和行动问题，提供 31 个可安装 Skill；商业使用和再分发请遵守非商业许可
 - [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) - MIT 许可、兼容 WorkBuddy 的八字与紫微斗数 Skill，使用确定性本地算法排盘，提供三种分析模式、测试案例和可分享的 HTML 命盘海报；仅作传统文化/娱乐参考，不用于医疗、投资、婚姻或法律决策
 - [YueYuan Bazi](https://github.com/qianye-wuyu/yueyuan-bazi) - MIT 许可、明确支持 WorkBuddy 的研究型八字 Skill，使用确定性排盘引擎、证据/不确定度标注、预注册预测与后验验证，附规则冻结版本和 100 个虚构案例测试；仅作传统文化参考，不作宿命、医疗或投资决策依据
 - [Loom of Heaven](https://github.com/Jowitt13/loom-of-heaven) - MIT 许可、离线且结果可复现的四系统命盘引擎，提供 WorkBuddy 已发布 Skill、SHA-256 校验和安装清单；由脚本负责计算、Agent 负责收集输入和表达结果，仅作传统文化/娱乐参考
