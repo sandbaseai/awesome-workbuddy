@@ -136,6 +136,7 @@
 - [Live Stream Ops](https://github.com/uahz/live-stream-ops) - MIT 许可的跨客户端直播运营 Skill，明确支持 WorkBuddy，覆盖直播脚本、回放拆解、排品表、促单话术、切片挖掘和场控 SOP
 - [InvAssistant](https://github.com/haiyangchenbj/invassistant-skill-cn) - MIT 许可、明确支持 CodeBuddy/WorkBuddy 的美股持仓信号检查 Skill，基于可配置的入场/退出规则读取 Yahoo Finance 行情，并可推送到企业微信、钉钉或飞书；仅用于研究，不构成投资建议，Webhook 凭证请妥善保管
 - [Article Metaphor Illustrator](https://github.com/bettermen/article-metaphor-illustrator) - MIT 许可的 WorkBuddy 中文文章配图 Skill，自动理解文章、选择配图位置和图型，生成流程图、架构图、对比图、关系图、结构图或概念插图；它是上游项目的 WorkBuddy 适配版
+- [VisionBuddy](https://github.com/FanZhangnan/VisionBuddy) - MIT 许可的受控视觉 Skill，通过本机 WorkBuddy/CodeBuddy CLI 为 Codex 分析图片，默认使用带倍率检查的 Hy3，并要求付费视觉模型显式开启；它只开放 Read、使用隔离临时目录并清理常见 API Key，但图片会发送到所选模型服务，使用前请确认费用和数据授权
 - [Paper Submission Skill](https://github.com/xxiao-git/paper-submission-skill) - MIT 许可的论文投稿 Skill，支持 Editorial Manager、ScholarOne、Nature 系列和 Frontiers 等系统，覆盖材料整理、指南解读、表单填写和投稿流程，并在关键阶段设置 6 个人工确认点
 - [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) - MIT 许可、明确支持 WorkBuddy 的 macOS 窗口管理 Skill，将 Option+D 绑定为全局最小化/还原快捷键；仅支持 macOS，安装后需在系统设置中授予辅助功能权限
 - [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) - MIT 许可、明确支持 CodeBuddy/WorkBuddy 的行业情报日报 Skill，将指定行业的新闻、公司、技术和政策变化整理成结构化简报；使用时请核对数据来源与时效
