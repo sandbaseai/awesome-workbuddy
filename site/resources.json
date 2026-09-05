@@ -870,6 +870,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Token Monitor",
+    "url": "https://github.com/Javis603/token-monitor",
+    "description": "An MIT-licensed cross-platform desktop dashboard for token usage and AI-tool limits with explicit WorkBuddy support, reading `~/.workbuddy/projects/` and `workbuddy.db` for usage, limits, costs, and trends; session details are read on demand locally and not synced, while some provider-limit checks may require credentials",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Token Monitor",
+    "descriptionZh": "MIT 许可的跨平台 Token 与 AI 工具额度桌面看板，明确支持 WorkBuddy，可读取 `~/.workbuddy/projects/` 和 `workbuddy.db` 展示用量、额度、成本与趋势；会话明细按需在本地读取、不参与同步，部分提供方额度查询可能需要凭证",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "UsageMonitor WorkBuddy Provider",
     "url": "https://github.com/masclown/usage-monitor-plugin-workbuddy",
     "description": "An Apache-2.0 independently versioned UsageMonitor provider that reads WorkBuddy subscription quotas, gift packages, and request history with model, channel, and operation slicing",
