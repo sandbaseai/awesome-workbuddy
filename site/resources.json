@@ -1210,6 +1210,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Kindle2WorkBuddy",
+    "url": "https://github.com/MWang-TS/kindle2workbuddy",
+    "description": "An MIT-licensed Kindle e-ink WorkBuddy dashboard with a `SKILL.md`; it renders local task/session information and pushes images over SSH/SCP to a jailbroken Kindle, with weather, system metrics, calendar, and scheduled refresh support. It reads WorkBuddy data, uses an SSH private key, probes the LAN, calls wttr.in, and can stop the Kindle framework, keep the device awake, and register system tasks, so back up first and review database, network, device-permission, and log scope",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Kindle2WorkBuddy",
+    "descriptionZh": "MIT 许可、带 `SKILL.md` 的 Kindle 电子墨水 WorkBuddy Dashboard，将本地任务/会话信息渲染为图片并通过 SSH/SCP 推送到越狱 Kindle，支持天气、系统指标、日历和定时刷新；它会读取 WorkBuddy 数据、使用 SSH 私钥、探测局域网、调用 wttr.in，并可停止 Kindle framework、保持设备常亮和注册系统计划任务，执行前请备份并核对数据库、网络、设备权限和日志范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",

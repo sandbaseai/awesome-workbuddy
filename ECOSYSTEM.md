@@ -128,6 +128,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
 | [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | TypeScript | 2026-09-04 |
 | [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
+| [MWang-TS/kindle2workbuddy](https://github.com/MWang-TS/kindle2workbuddy) | 8 | Python | 2026-08-11 |
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-04 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
