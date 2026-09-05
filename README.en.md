@@ -12,6 +12,8 @@ English · [简体中文](README.md)
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
 
+If this list saves you time, please [star the repository](https://github.com/sandbaseai/awesome-workbuddy) so more WorkBuddy users can find the reviewed resources.
+
 Want to help us reach 100 genuine stars? Use the [community roadmap issue](https://github.com/sandbaseai/awesome-workbuddy/issues/172) to suggest verifiable resources, report broken links, or share usage feedback.
 
 New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE.md), or use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to filter by keyword and category.
