@@ -259,6 +259,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [Lexiang Knowledge Base Skill](https://github.com/tencent-lexiang/lexiang-mcp-skill) - 未声明许可证的乐享知识库 MCP Skill，提供搜索阅读、文档写入、Block 编辑、文件上传和外部导入，并说明 WorkBuddy 可直接使用内置乐享连接器
 - [Claude Code Router](https://github.com/musistudio/claude-code-router) - MIT 许可的本地模型路由与 Agent 控制面，明确支持 WorkBuddy，可统一配置模型、账号、故障转移、工具和 MCP
 - [Qwen MM Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) - Apache-2.0 许可的通用多模态 Agent Skills/MCP 集合，提供 WorkBuddy、QoderWork 和 QwenWork 的安装方式，覆盖教育视频、文档和视觉任务
 - [Huawei Cloud DevKit](https://github.com/huaweicloud/huaweicloud-devkit) - Apache-2.0 许可的华为云官方 Agent 工具包，明确支持 WorkBuddy，提供 Skills、MCP、部署工具和安全护栏

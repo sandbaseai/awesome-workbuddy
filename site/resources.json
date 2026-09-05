@@ -1860,6 +1860,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Lexiang Knowledge Base Skill",
+    "url": "https://github.com/tencent-lexiang/lexiang-mcp-skill",
+    "description": "A license-un-declared Lexiang knowledge-base MCP Skill for search, reading, document writing, Block editing, file transfer, and external imports; its guide notes that WorkBuddy users can use the built-in Lexiang connector directly",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Lexiang Knowledge Base Skill",
+    "descriptionZh": "未声明许可证的乐享知识库 MCP Skill，提供搜索阅读、文档写入、Block 编辑、文件上传和外部导入，并说明 WorkBuddy 可直接使用内置乐享连接器",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Claude Code Router",
     "url": "https://github.com/musistudio/claude-code-router",
     "description": "An MIT-licensed local model router and Agent control plane with explicit WorkBuddy support, unifying model, account, failover, tool, and MCP configuration",
