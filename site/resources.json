@@ -480,6 +480,26 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "LoopForge",
+    "url": "https://github.com/Tencent/LoopForge",
+    "description": "Tencent's MIT-licensed multi-agent software-delivery workflow for requirement clarification, boundary confirmation, design, implementation, independent review, testing, and resumable handoff, with CLI/Skill installation for CodeBuddy, Codex, Cursor, and Claude Code; installation writes host-specific project rules and workflow files, so review the change scope, dependencies, and local execution permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "LoopForge",
+    "descriptionZh": "腾讯开源的 MIT 多智能体软件交付工作流，覆盖需求澄清、边界确认、设计、实现、独立审查、测试与可恢复交接，并为 CodeBuddy、Codex、Cursor 和 Claude Code 提供 CLI/Skill 安装入口；安装会写入对应 Agent 的项目规则与工作流文件，执行前请审查变更范围、依赖和本地执行权限",
+    "categoryZh": "Learning and reference"
+  },
+  {
+    "title": "AI Project Workflow",
+    "url": "https://github.com/AlanHuang168/AI-Project-Workflow",
+    "description": "An MIT-licensed cross-agent software-delivery workflow with explicit CodeBuddy support, a single source of truth, stage Skill contracts, state files, artifact gates, real verification, and CLI adapters; it is a community project rather than a Tencent component, and initialization writes rules, Skills, state, and documents into the target project, so review the target directory and execution permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "AI Project Workflow",
+    "descriptionZh": "MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配；它是社区项目而非腾讯官方组件，初始化会在目标项目写入规则、Skills、状态与文档，使用前请审查目标目录和执行权限",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "Undergraduate Thesis AI Workflow",
     "url": "https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow",
     "description": "A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses; it explicitly requires authentic research, data, and citations, so follow institutional policies and review API keys and source-material scope before use",
@@ -667,6 +687,16 @@
     "category": "Skill collections",
     "titleZh": "Zotero MCP WorkBuddy Guide",
     "descriptionZh": "将 Zotero 文献库接入 WorkBuddy 的中文配置指南",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "WorkBuddy MCP OAuth Guide",
+    "url": "https://github.com/normalpeople553/workbuddy-mcp-oauth-guide",
+    "description": "An MIT-licensed guide to troubleshooting and launching remote MCP OAuth 2.1/PKCE with WorkBuddy, including dynamic client registration, redirect-URI allowlists, authorization checks, redacted examples, and unit tests; it contains protocol designs rather than production credentials or business source, but integrations still require review of server authorization, token lifetimes, and data scope",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WorkBuddy MCP OAuth Guide",
+    "descriptionZh": "MIT 许可的远程 MCP OAuth 2.1/PKCE 排障与上线指南，包含动态客户端注册、回调 URI 白名单、权限校验、脱敏示例和单元测试；仓库只提供通用协议设计，不含生产凭据或业务源码，接入时仍应核对服务端授权、Token 生命周期和数据范围",
     "categoryZh": "Skill collections"
   },
   {
@@ -1770,6 +1800,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "WorkBuddy Check-in",
+    "url": "https://github.com/Coco-katarina/workbuddy-checkin",
+    "description": "An MIT-licensed WorkBuddy daily check-in Skill that reads local login state and makes idempotent requests to Tencent's documented official endpoint; the token is equivalent to the account password and scheduled tasks perform account actions on the user's behalf, so review the source, credential/log protection, official terms, and authorization scope, and never use it on others' accounts or for batch point farming",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Check-in",
+    "descriptionZh": "MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求；令牌等同账号密码且定时任务会代表用户执行账号操作，使用前应核对源码、日志/凭据保护、官方条款和授权范围，不得用于他人账户或批量刷分",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkDaddy",
     "url": "https://github.com/babygoton/WorkDaddy",
     "description": "A desktop enhancement for backups, session migration, and long-running task support",
@@ -2268,6 +2308,16 @@
     "titleZh": "CloudBase model configuration",
     "descriptionZh": "OpenAI-compatible 模型接入示例",
     "categoryZh": "Research and Engineering"
+  },
+  {
+    "title": "linny006/awesome-agent-skills",
+    "url": "https://github.com/linny006/awesome-agent-skills",
+    "description": "A continuously refreshed Agent Skills index that already lists this directory and WorkBuddy Skill Hub; review third-party Skills against this repository's security checklist before use",
+    "section": "Related Lists",
+    "category": "Related Lists",
+    "titleZh": "linny006/awesome-agent-skills",
+    "descriptionZh": "持续更新的 Agent Skills 索引，已收录本清单与 WorkBuddy Skill Hub；使用其中的第三方 Skill 前仍需按本仓库安全清单逐项审核",
+    "categoryZh": "Related Lists"
   },
   {
     "title": "semlinker/awesome-workbuddy",

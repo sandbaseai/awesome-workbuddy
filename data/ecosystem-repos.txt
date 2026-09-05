@@ -25,6 +25,7 @@ yyc424666lvy/1688-product-reader
 wsdlp46/PMCockpit
 chenwg001/qingfengskill
 88lin/workbuddy-auto-signin
+Coco-katarina/workbuddy-checkin
 AlephAITech/WorkBuddyGuide
 Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
