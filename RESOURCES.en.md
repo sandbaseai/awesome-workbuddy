@@ -123,6 +123,8 @@
 
 ### Ready-to-use Skills
 
+- [Article Metaphor Illustrator](https://github.com/bettermen/article-metaphor-illustrator) - An MIT-licensed WorkBuddy Skill for illustrating Chinese articles, automatically understanding the text, selecting illustration positions and types, and generating flowcharts, architecture diagrams, comparisons, relationships, structures, or concept illustrations; it is a WorkBuddy adaptation of an upstream project
+- [Paper Submission Skill](https://github.com/xxiao-git/paper-submission-skill) - An MIT-licensed manuscript-submission Skill for Editorial Manager, ScholarOne, Nature journals, Frontiers, and other systems, covering material preparation, guideline interpretation, form filling, and submission, with six human checkpoints at critical stages
 - [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) - An MIT-licensed macOS window-management Skill with explicit WorkBuddy support that binds Option+D to a global minimize/restore shortcut; macOS only, and Accessibility permission is required after installation
 - [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) - An MIT-licensed industry-intelligence daily-brief Skill with explicit CodeBuddy/WorkBuddy support, turning news, companies, technology, and policy changes for selected industries into structured briefs; verify source provenance and freshness
 - [AutoFigure-Edit WorkBuddy Skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) - An Apache-2.0 paper-figure Skill that turns method text into editable SVG diagrams with an inline web editor; manually verify diagram accuracy and citations before exporting paper or submission assets

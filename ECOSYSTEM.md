@@ -8,13 +8,13 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,888 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,966 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
-| [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,927 | JavaScript | 2026-09-02 |
+| [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,777 | Go | 2026-09-05 |
@@ -27,7 +27,7 @@ Last refreshed: **2026-09-05 UTC**
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,549 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
-| [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,954 | JavaScript | 2026-09-05 |
+| [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,955 | JavaScript | 2026-09-05 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,787 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,592 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
@@ -272,6 +272,7 @@ Last refreshed: **2026-09-05 UTC**
 | [2022Hao/SJTU-AIA-PPT-SKILL](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) | 4 | HTML | 2026-05-27 |
 | [MoyuFamily/agent-roundtable](https://github.com/MoyuFamily/agent-roundtable) | 4 | Python | 2026-07-03 |
 | [Flipped929/workbuddy-autofigure-edit-skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) | 4 | HTML | 2026-03-29 |
+| [bettermen/article-metaphor-illustrator](https://github.com/bettermen/article-metaphor-illustrator) | 4 | - | 2026-06-18 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -286,6 +287,7 @@ Last refreshed: **2026-09-05 UTC**
 | [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
 | [shanputaoye/freecad-ai-skill](https://github.com/shanputaoye/freecad-ai-skill) | 3 | Python | 2026-03-29 |
+| [xxiao-git/paper-submission-skill](https://github.com/xxiao-git/paper-submission-skill) | 3 | - | 2026-07-26 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
 | [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
 | [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
