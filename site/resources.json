@@ -580,6 +580,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Skill Flow",
+    "url": "https://github.com/VintLin/skill-flow",
+    "description": "An Apache-2.0 cross-agent Skill workflow manager with explicit WorkBuddy support; imports Skills from GitHub, skills.sh, or local sources, deploys and updates them across tools, and provides an npm CLI plus a macOS desktop app",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Skill Flow",
+    "descriptionZh": "Apache-2.0 的跨 Agent Skill 工作流管理工具，明确支持 WorkBuddy，可从 GitHub、skills.sh 或本地导入 Skill，批量部署、更新并检查状态；提供 npm CLI 和 macOS 桌面端",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Agency Agents 中文版",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
     "description": "An MIT-licensed Chinese community collection of 276 role-oriented experts across 20 departments, with explicit conversion and installation support for WorkBuddy's `~/.workbuddy/skills/` directory",

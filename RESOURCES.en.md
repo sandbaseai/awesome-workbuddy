@@ -81,6 +81,7 @@
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
 - [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - Apache-2.0 skill aggregation and retrieval infrastructure with a WorkBuddy plugin for finding and loading task-specific Skills from multiple sources
+- [Skill Flow](https://github.com/VintLin/skill-flow) - An Apache-2.0 cross-agent Skill workflow manager with explicit WorkBuddy support; imports Skills from GitHub, skills.sh, or local sources, deploys and updates them across tools, and provides an npm CLI plus a macOS desktop app
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - An MIT-licensed Chinese community collection of 276 role-oriented experts across 20 departments, with explicit conversion and installation support for WorkBuddy's `~/.workbuddy/skills/` directory
 - [Frank Presales Skills](https://github.com/frank666199/frank-presales-skills) - An MIT-licensed presales-solution Skill collection with 90 Skills across eight dimensions, covering AI tools, requirements, solution documents, bidding, government and enterprise projects, AI projects, and presentations, with documented WorkBuddy usage
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback
