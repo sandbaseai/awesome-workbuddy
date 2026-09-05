@@ -411,6 +411,7 @@
 
 ### Community clients and enhancements
 
+- [Bough](https://github.com/DGPisces/bough) - An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions
 - [SkillDock](https://github.com/wanghuan9/skilldock) - An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - An AGPL-3.0 cross-platform Agent desktop pet and status notifier with explicit WorkBuddy support through optional hooks
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - An Apache-2.0 cross-platform Electron theme manager with explicit WorkBuddy support, app discovery, compatibility filtering, runtime switching/restoration, and a floating theme menu

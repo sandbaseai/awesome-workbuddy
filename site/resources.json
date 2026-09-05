@@ -3720,6 +3720,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Bough",
+    "url": "https://github.com/DGPisces/bough",
+    "description": "An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Bough",
+    "descriptionZh": "MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、完成、忙碌和空闲状态集中展示；首次启动需按系统提示确认并授予必要权限",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "SkillDock",
     "url": "https://github.com/wanghuan9/skilldock",
     "description": "An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks",
