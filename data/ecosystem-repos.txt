@@ -242,6 +242,7 @@ qianzhu18/workisland
 oceanbase/powercontext
 AVIDS2/memorix
 memorax-ai/memorax-code
+MemTensor/memmy-agent
 TencentCloud/TencentDB-Agent-Memory
 Tencent/BrowserSkill
 edison7009/EchoBird

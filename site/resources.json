@@ -2550,6 +2550,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Memmy Agent",
+    "url": "https://github.com/MemTensor/memmy-agent",
+    "description": "An MIT-licensed local-first cross-agent memory and assistant runtime with explicit WorkBuddy support, running a local Memory Service and exposing shared memory through a WorkBuddy Skill; it offers account trial tokens or BYOK, and requires the user to explicitly initialize Agent integration after service installation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Memmy Agent",
+    "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆与助手运行时，明确支持 WorkBuddy，可运行本地 Memory Service，并通过 WorkBuddy Skill 访问共享记忆；支持账户试用 Token 或自带 API Key，安装服务后需由用户主动初始化 Agent 接入",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "TencentDB Agent Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "description": "An MIT-licensed team Agent-memory hub maintained by Tencent with direct WorkBuddy Proxy integration, turning sessions, documents, and code into Chat Memory, Skills, an LLM Wiki, and CodeGraph through a local Docker stack",
