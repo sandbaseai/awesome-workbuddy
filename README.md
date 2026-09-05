@@ -243,6 +243,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
 - [SeaTable Production](https://github.com/Darling5/seatable-production) - MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析；默认使用本地 CSV，写入前展示完整变更并等待确认，也可选接入 SeaTable、PartDB 或 ERP，使用前请核对凭据、字段映射、外部 API 和写入范围.
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
+- [llm-wiki Skill](https://github.com/JustineJiao/llm-wiki-skill) - GPL-3.0 许可、明确支持 WorkBuddy 的个人知识库 Skill，可将网页、PDF、本地文件和其他素材整理成带双向链接、置信度标注和待审项的 Markdown 知识库；会读取外部/本地素材并写入用户目录，生成内容仍需核验并注意隐私范围.
 - [Org Context](https://github.com/wangjialiang678/org-context) - MIT 许可、支持 WorkBuddy/Claude Code/OpenCode 的企业上下文组织 Skill，以事实树、判断账和状态页降低 Agent 找错资料的概率，附带模板、可运行示例和机械校验；默认处理本地企业资料并会改写工作区文件，使用前请备份并确认资料范围.
 - [Delivery Razor](https://github.com/Ketian823/delivery-razor) - MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则；安装包含扫描/安装脚本，使用前应保留原稿、人工复核事实与语气，不要让自动清理替代最终验收.
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - 以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用；安装前请复核生成代码与本地接口权限.
@@ -337,6 +338,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 - [Trae WorkBuddy Assistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) - MIT 许可的 Windows Tauri 工具，为 Trae 与 WorkBuddy 提供多账号管理、OAuth/Token、积分查询、签到和本地 OpenAI 兼容网关；它会处理账号凭据并包含本地 MITM 代理与自动化任务，使用前应审查源码、存储/日志、代理绑定、定时任务和服务条款，只使用本人授权账号.
 - [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - 迁移账号切换后的对话、长期记忆与 MCP 连接器；MIT 许可，支持备份、回滚与迁移后验证，但会改写 SQLite 中的 `user_id` 并合并本地数据，执行前务必确认备份、源/目标账号和数据范围.
 - [Crew](https://github.com/shuishenghualalala/Ace) - Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识库、任务自动化和多 Agent 协作；源码预览版默认可操作本地文件并支持浏览器、外部渠道和自有模型，使用前请检查安全开关、API 密钥、账号配置与数据边界.
+- [OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) - MIT 许可、独立开源的 WorkBuddy 风格 macOS 本地 Agent 工作台，支持自带模型密钥、文件与 Shell、浏览器、MCP、Skills、记忆、自动化、审批和崩溃恢复；当前仍是未签名 Intel 预览版，使用前请确认模型网络范围、权限设置和构建来源.
 
 ### Benchmarks
 

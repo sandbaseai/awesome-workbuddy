@@ -1630,6 +1630,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "llm-wiki Skill",
+    "url": "https://github.com/JustineJiao/llm-wiki-skill",
+    "description": "A GPL-3.0 personal knowledge-base Skill explicitly supporting WorkBuddy, turning web pages, PDFs, local files, and other material into linked Markdown pages with confidence labels and review items; it reads local/external material and writes to a user-selected directory, so verify generated content and review privacy scope",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "llm-wiki Skill",
+    "descriptionZh": "GPL-3.0 许可、明确支持 WorkBuddy 的个人知识库 Skill，可将网页、PDF、本地文件和其他素材整理成带双向链接、置信度标注和待审项的 Markdown 知识库；会读取外部/本地素材并写入用户目录，生成内容仍需核验并注意隐私范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Org Context",
     "url": "https://github.com/wangjialiang678/org-context",
     "description": "An MIT-licensed context-organization Skill for WorkBuddy, Claude Code, and OpenCode that separates facts, decisions, and status to make enterprise materials easier to retrieve, with templates, a runnable example, and mechanical checks; it handles local company materials and rewrites workspace files by default, so back up and confirm scope first",
@@ -2507,6 +2517,16 @@
     "category": "Community clients and enhancements",
     "titleZh": "Crew",
     "descriptionZh": "Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识库、任务自动化和多 Agent 协作；源码预览版默认可操作本地文件并支持浏览器、外部渠道和自有模型，使用前请检查安全开关、API 密钥、账号配置与数据边界",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
+    "title": "OpenWorkbuddy",
+    "url": "https://github.com/chenin0931/OpenWorkbuddy",
+    "description": "An MIT-licensed independent open-source WorkBuddy-style macOS Agent workbench with BYOK models, files and Shell, browser control, MCP, Skills, memory, automation, approvals, and crash recovery; it is currently an unsigned Intel preview, so confirm model/network scope, permissions, and build provenance before use",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "OpenWorkbuddy",
+    "descriptionZh": "MIT 许可、独立开源的 WorkBuddy 风格 macOS 本地 Agent 工作台，支持自带模型密钥、文件与 Shell、浏览器、MCP、Skills、记忆、自动化、审批和崩溃恢复；当前仍是未签名 Intel 预览版，使用前请确认模型网络范围、权限设置和构建来源",
     "categoryZh": "Community clients and enhancements"
   },
   {

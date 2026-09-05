@@ -9,6 +9,7 @@ tonycc/skillhive
 1186247283zj-pixel/github-mcp-server-lite
 bailinghub/bailinghub-workbuddy-connector
 chonpszhou/workbuddy-chatcut-mcp
+chenin0931/OpenWorkbuddy
 wynter-cai/assetplex
 laoyudashu/voko
 dongsheng123132/task-passport
@@ -61,6 +62,7 @@ xiaojinlucky/workbuddy-expert-bridge
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide
 normalpeople553/workbuddy-mcp-oauth-guide
+JustineJiao/llm-wiki-skill
 CatCatUncle/openworkbuddy
 ysyx2008/SailFish
 opensymph/OpenBuddy
