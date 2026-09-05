@@ -12,7 +12,7 @@ Last refreshed: **2026-09-05 UTC**
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,912 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,571 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
@@ -22,14 +22,15 @@ Last refreshed: **2026-09-05 UTC**
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,306 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
+| [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3,206 | Python | 2026-09-05 |
 | [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,169 | Rust | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,930 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,818 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
-| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,549 | - | 2026-07-05 |
+| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,550 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,955 | JavaScript | 2026-09-05 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,788 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,789 | TypeScript | 2026-09-04 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,593 | Rust | 2026-09-05 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
@@ -377,6 +378,7 @@ Last refreshed: **2026-09-05 UTC**
 | [lidicn/AutoFlow](https://github.com/lidicn/AutoFlow) | 1 | Python | 2026-09-05 |
 | [jixingyu999/browser-mcp](https://github.com/jixingyu999/browser-mcp) | 1 | JavaScript | 2026-09-05 |
 | [openlxcn/openlx-weixin-baimindan](https://github.com/openlxcn/openlx-weixin-baimindan) | 1 | Python | 2026-09-05 |
+| [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
@@ -447,5 +449,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jarvislee90s-dot/MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) | 0 | Rust | 2026-09-05 |
 | [wangqiao258/career-kit](https://github.com/wangqiao258/career-kit) | 0 | HTML | 2026-09-05 |
 | [luqi67677/produce-videos](https://github.com/luqi67677/produce-videos) | 0 | HTML | 2026-09-05 |
+| [LIN-LAB-AI/smartoken](https://github.com/LIN-LAB-AI/smartoken) | 0 | Python | 2026-09-05 |
+| [oreogong2/TokenFleet](https://github.com/oreogong2/TokenFleet) | 0 | Swift | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
