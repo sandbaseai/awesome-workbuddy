@@ -18,7 +18,7 @@ Want to help us reach 100 genuine stars? Use the [community roadmap issue](https
 
 New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE.md), or use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to filter by keyword and category.
 
-For the latest curation and audit notes, see the [bilingual community update](https://github.com/sandbaseai/awesome-workbuddy/discussions/299); evidence-backed resource suggestions and factual corrections are welcome.
+For the latest curation and audit notes, see the [latest bilingual community update](https://github.com/sandbaseai/awesome-workbuddy/discussions/394); evidence-backed resource suggestions and factual corrections are welcome.
 
 For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
 

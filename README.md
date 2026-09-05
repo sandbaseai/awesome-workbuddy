@@ -18,7 +18,7 @@
 
 第一次使用？从 [一分钟选型与快速开始](START_HERE.md) 开始，或打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词与分类筛选。
 
-想了解最近收录和审计标准？查看[双语社区更新帖](https://github.com/sandbaseai/awesome-workbuddy/discussions/299)，欢迎提交有公开证据的资源推荐与事实纠错。
+想了解最近收录和审计标准？查看[最新双语社区更新帖](https://github.com/sandbaseai/awesome-workbuddy/discussions/394)，欢迎提交有公开证据的资源推荐与事实纠错。
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
 
