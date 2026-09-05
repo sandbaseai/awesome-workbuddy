@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [skill-manager](https://github.com/GrubbyLee/skill-manager) - An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes
+
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - An MIT-licensed cross-platform Skills manager that installs, organizes, updates, and syncs to 47 Agent tools, with explicit WorkBuddy support through `~/.workbuddy/skills`; review scanned directories and local settings such as GitHub tokens before use
 - [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) - An MIT-licensed WorkBuddy Skill pack with 46 catalog-driven Skills, user/project-scoped installation, bilingual docs, and zero runtime dependencies
 - [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) - An MIT-licensed collection of seven WorkBuddy Skills covering academic research, frontend slides, knowledge-base linting, macOS maintenance, PPTX generation, engineering methodology, and tool-call repair
@@ -321,6 +323,9 @@
 
 ### Tools and integrations
 
+- [browser-mcp](https://github.com/jixingyu999/browser-mcp) - An MIT-licensed Playwright browser-control MCP with 22 office-automation tools for form filling, data extraction, downloads, PDF archiving, and page monitoring, including a WorkBuddy configuration example; login-state files may contain sensitive cookies, so restrict their path and permissions
+- [Eric Task Master](https://github.com/npcworkspace-cmyk/eric-task-master) - An MIT-licensed local Chrome/Playwright long-running task manager with explicit WorkBuddy support, persistent Profiles, background tasks, and partial results; task scripts run with the current OS user's permissions and should come only from trusted sources
+
 - [Harness Engineering Kit](https://github.com/8425334/harness-engineering-kit) - An MIT-licensed engineering methodology and project-control toolkit for AI coding agents, with `hek handoff --agent workbuddy` for handing project context to WorkBuddy; WorkBuddy uses a manual handoff flow, so read its project-policy and local-permission guidance first
 
 - [easy-agent](https://github.com/wangduoyu414-cell/easy-agent) - An MIT-licensed Windows/macOS security-first installer assistant for WorkBuddy, Hermes Agent, CC Switch, Claude Desktop, and ChatGPT; it pins official sources, signatures, and package identities and stops when evidence is insufficient, so review platform coverage and current-version status before use
@@ -445,6 +450,8 @@
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - Self-hosted session synchronization and backup across devices and Agents.
 
 ### Community clients and enhancements
+
+- [MultiCC](https://github.com/lsjwzh/MultiCC) - An MIT-licensed multi-agent controller with explicit WorkBuddy support for parallel sessions, isolated Git worktrees, desktop/mobile notifications, and unified Skills/MCP management; confirm worktree and permission boundaries before parallel edits in one repository
 
 - [Golden Key OpenMontage for WorkBuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) - An AGPL-3.0 community OpenMontage adaptation for WorkBuddy with Skill-first calls, persistent tasks, offline boundaries, redaction, interruption recovery, and rollback-oriented installation; the project explicitly says fresh full-chain validation on an ordinary Windows machine is not complete and is not an official OpenMontage or WorkBuddy release, so prepare dependencies such as Python, Node, and FFmpeg and read the license first
 - [WorkBuddy Obsidian Plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) - An MIT-licensed Obsidian community plugin that calls the local WorkBuddy CLI from a sidebar, supports current-note or selection references, multiple task tabs, and copying or inserting replies; editing notes is allowed by default, so switch to read-only when appropriate and confirm what note content will be sent

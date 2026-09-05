@@ -530,6 +530,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "skill-manager",
+    "url": "https://github.com/GrubbyLee/skill-manager",
+    "description": "An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "skill-manager",
+    "descriptionZh": "MIT 许可的零依赖本地 Skills/MCP 管理 CLI，明确支持 WorkBuddy，可扫描、推荐、去重、审计和可视化本地资源；默认只读，执行 setup 或写入前请先查看变更计划",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Skills Hub",
     "url": "https://github.com/qufei1993/skills-hub",
     "description": "An MIT-licensed cross-platform Skills manager that installs, organizes, updates, and syncs to 47 Agent tools, with explicit WorkBuddy support through `~/.workbuddy/skills`; review scanned directories and local settings such as GitHub tokens before use",
@@ -2850,6 +2860,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "browser-mcp",
+    "url": "https://github.com/jixingyu999/browser-mcp",
+    "description": "An MIT-licensed Playwright browser-control MCP with 22 office-automation tools for form filling, data extraction, downloads, PDF archiving, and page monitoring, including a WorkBuddy configuration example; login-state files may contain sensitive cookies, so restrict their path and permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "browser-mcp",
+    "descriptionZh": "MIT 许可的 Playwright 浏览器操作 MCP，提供 22 个面向办公自动化的工具，支持批量填表、数据提取、下载、PDF 存档和页面监控，并提供 WorkBuddy 配置示例；登录态文件可能包含敏感 Cookie，请限制路径和权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Eric Task Master",
+    "url": "https://github.com/npcworkspace-cmyk/eric-task-master",
+    "description": "An MIT-licensed local Chrome/Playwright long-running task manager with explicit WorkBuddy support, persistent Profiles, background tasks, and partial results; task scripts run with the current OS user's permissions and should come only from trusted sources",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Eric Task Master",
+    "descriptionZh": "MIT 许可的本地 Chrome/Playwright 长任务管理器，明确支持 WorkBuddy，可持久化 Profile、后台运行任务并提供部分结果；任务脚本以当前操作系统用户权限运行，只应执行可信脚本",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Harness Engineering Kit",
     "url": "https://github.com/8425334/harness-engineering-kit",
     "description": "An MIT-licensed engineering methodology and project-control toolkit for AI coding agents, with `hek handoff --agent workbuddy` for handing project context to WorkBuddy; WorkBuddy uses a manual handoff flow, so read its project-policy and local-permission guidance first",
@@ -4048,6 +4078,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "MultiCC",
+    "url": "https://github.com/lsjwzh/MultiCC",
+    "description": "An MIT-licensed multi-agent controller with explicit WorkBuddy support for parallel sessions, isolated Git worktrees, desktop/mobile notifications, and unified Skills/MCP management; confirm worktree and permission boundaries before parallel edits in one repository",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "MultiCC",
+    "descriptionZh": "MIT 许可的多 Agent 控制器，明确支持 WorkBuddy，可并行管理多个 Agent、使用隔离 Git worktree、接收桌面/移动端通知，并统一管理 Skills 与 MCP；并行修改同一仓库前请确认 worktree 和权限边界",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "Golden Key OpenMontage for WorkBuddy",
