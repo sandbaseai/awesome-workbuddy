@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**173 curated repositories · 4 original Skills · 27 discovery candidates · weekly validation**
+**174 curated repositories · 4 original Skills · 26 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -123,6 +123,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 ### Skill collections
 
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use.
+- [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - An MIT-licensed documentation-only Skill covering virtual goods, coin top-ups, iOS routing, signing, idempotent callbacks, error diagnosis, and launch checklists. It is primarily written in the Claude Code Skill format but can serve as CodeBuddy reference material; follow current WeChat official documentation, keep signing keys server-side, and manually verify payment rules, amounts, and fulfillment logic before execution.
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields.
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - An Apache-2.0 cross-tool Agent engineering coach and Skill collection with explicit WorkBuddy support, covering requirements, design, implementation, testing, Git, releases, evidence, and rollback; installation changes workspace rules and may perform deployment/version actions, so review instructions, host permissions, credentials, and release targets first.
