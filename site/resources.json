@@ -1780,6 +1780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "SkillDeck",
+    "url": "https://github.com/crossoverJie/SkillDeck",
+    "description": "An MIT-licensed open-source macOS Skill manager with explicit WorkBuddy/CodeBuddy support; it imports from GitHub or local folders, creates symlinks, checks updates, edits `SKILL.md`, and assigns Skills to different Agents. It reads and writes local Skill directories and first-run setup involves unsigned-app and filesystem permissions, so confirm provenance and change scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "SkillDeck",
+    "descriptionZh": "MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、创建链接、检查更新、编辑 `SKILL.md` 并分配给不同 Agent；它会读写本地 Skill 目录，首次运行还涉及未签名应用和文件权限，使用前请确认来源与变更范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "DocuGenius",
     "url": "https://github.com/bruc3van/DocuGenius",
     "description": "An MIT-licensed open-source editor extension that converts Word, Excel, PowerPoint, and PDF files into structured Markdown for WorkBuddy/CodeBuddy and other AI tools; it supports marketplace and VSIX installation, reads local documents, and writes output files, so confirm sensitive-data scope and conversion quality first",
