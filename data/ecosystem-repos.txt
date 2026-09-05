@@ -136,6 +136,7 @@ semlinker/awesome-workbuddy
 quantskills/skill-pandadata-api
 taxueseek/session-digger
 NevaMind-AI/memU
+smileluck/SmileX-AI-Universal-Memory
 maojiebc/majia-huiyuan
 Mariposa-FLOA/image-skill
 WaterCMY/A-share-watch-copilot

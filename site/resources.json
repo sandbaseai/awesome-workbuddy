@@ -780,6 +780,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SmileX AI Universal Memory",
+    "url": "https://github.com/smileluck/SmileX-AI-Universal-Memory",
+    "description": "An MIT-licensed local-first cross-agent memory store with an MCP server and read-only Web panel, plus manual WorkBuddy connection guidance; its default loopback service uses local SQLite/FTS5 and can scan source, Markdown, and Git history into memory, while LLM extraction/evaluation may read `OPENAI_API_KEY` and call configured model endpoints, so review scan directories, MCP write tools, ports, logs, keys, and retention",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "SmileX AI Universal Memory",
+    "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引；默认回环服务使用本地 SQLite/FTS5，可按需扫描源码、Markdown 与 Git 历史写入记忆，LLM 抽取/评测可读取 `OPENAI_API_KEY` 并访问配置的模型端点，使用前请核对扫描目录、MCP 写入工具、端口、日志、密钥和数据保留",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Majia Huiyuan",
     "url": "https://github.com/maojiebc/majia-huiyuan",
     "description": "An MIT-licensed membership-operations and data-system Skill with a WorkBuddy single-expert package, 55 simulated logical datasets, 25 ETL flows, 12 role-oriented dashboards, and RFM, retention, coupon-effectiveness, and data-quality references; no values are real business benchmarks, SQL targets Spark 3.4, historical platform JSON is not a current import package, production use requires schema mapping, metric agreement, and regression acceptance, and its build tool recreates the selected output directory and ZIP",

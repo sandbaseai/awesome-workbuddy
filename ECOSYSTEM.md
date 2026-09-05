@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,530 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,531 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,927 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,477 | Python | 2026-09-04 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,379 | Python | 2026-09-04 |
@@ -145,6 +145,7 @@ Last refreshed: **2026-09-05 UTC**
 | [normalpeople553/workbuddy-mcp-oauth-guide](https://github.com/normalpeople553/workbuddy-mcp-oauth-guide) | 1 | Python | 2026-08-13 |
 | [ronineymessjr-sudo/career-copilot](https://github.com/ronineymessjr-sudo/career-copilot) | 1 | TypeScript | 2026-09-04 |
 | [ttww1111/pdf-structured-extractor](https://github.com/ttww1111/pdf-structured-extractor) | 1 | Python | 2026-09-04 |
+| [smileluck/SmileX-AI-Universal-Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) | 1 | Python | 2026-09-05 |
 | [joyparkray/agent-avatar](https://github.com/joyparkray/agent-avatar) | 1 | TypeScript | 2026-09-04 |
 | [Guyzn/workbuddy-cua-mcp](https://github.com/Guyzn/workbuddy-cua-mcp) | 1 | Python | 2026-09-04 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
