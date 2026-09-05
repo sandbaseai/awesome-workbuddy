@@ -7,9 +7,9 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,086 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,822 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,823 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,964 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,560 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -19,7 +19,7 @@ Last refreshed: **2026-09-05 UTC**
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,817 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
-| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,544 | - | 2026-07-05 |
+| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,545 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,786 | TypeScript | 2026-09-04 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
@@ -48,8 +48,8 @@ Last refreshed: **2026-09-05 UTC**
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
+| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 192 | TypeScript | 2026-09-02 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 192 | Go | 2026-09-02 |
-| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 191 | TypeScript | 2026-09-02 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 174 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
@@ -183,6 +183,7 @@ Last refreshed: **2026-09-05 UTC**
 | [adsorgcn/chanlun-engine-skill](https://github.com/adsorgcn/chanlun-engine-skill) | 8 | Python | 2026-08-25 |
 | [a-hue-1/Douyin-video-scraping-operation](https://github.com/a-hue-1/Douyin-video-scraping-operation) | 8 | Python | 2026-08-13 |
 | [Jowitt13/loom-of-heaven](https://github.com/Jowitt13/loom-of-heaven) | 8 | TypeScript | 2026-09-04 |
+| [D-kart/investor-skill](https://github.com/D-kart/investor-skill) | 8 | CSS | 2026-06-10 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
