@@ -6,23 +6,23 @@ English · [简体中文](README.md)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
-> A practical collection of Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
+> A simple directory of Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
 
-WorkBuddy uses natural language to help with research, documents, data, design, and development. This list helps you find official guides and community resources quickly.
+Not sure where to start? Read the [one-minute quick-start guide](START_HERE.en.md) (中文：[START_HERE.md](START_HERE.md)), then choose a resource for your task.
 
 > [!IMPORTANT]
 > This is an independent community index, not a Tencent publication. Before installing any third-party Skill, MCP server, connector, or enhancement, inspect its source, permissions, and data flow. Never upload secrets, personal data, or unredacted company material without an appropriate review.
 
 ## Start Here
 
-- [Download WorkBuddy](https://www.workbuddy.ai/) · [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)
-- [One-minute chooser and quick start](START_HERE.en.md) - Start here if you are not sure what to use. 中文版：[START_HERE.md](START_HERE.md)
-- [Search the resource directory](https://sandbaseai.github.io/awesome-workbuddy/) - Filter by keyword or category.
+1. [Download WorkBuddy](https://www.workbuddy.ai/) and follow the official quick start.
+2. Read the [one-minute guide](START_HERE.en.md) to choose a task, Skill, or MCP.
+3. Search the [resource directory](https://sandbaseai.github.io/awesome-workbuddy/) by keyword or category.
 
-If this list helps you find something useful, consider giving it a [Star](https://github.com/sandbaseai/awesome-workbuddy). Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
+Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
 
 <details>
-<summary>More official entry points</summary>
+<summary>Official documentation</summary>
 
 - [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - Product documentation and usage guides.
 - [Install on macOS](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Requirements, installation, sign-in, and updates.
@@ -38,16 +38,12 @@ If this list helps you find something useful, consider giving it a [Star](https:
 
 ## Featured resources
 
-If you are not sure where to begin, try these in order:
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A practical Chinese guide.
+- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - A 15-minute introduction to building Skills.
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Create lessons, slides, and interactive pages with multi-agent workflows.
+- [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - Search and load Skills for a task.
 
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A Chinese practical guide from the first task to team workflows.
-- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - A 15-minute introduction to building and evaluating Skills.
-- [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - Turn websites, code, images, and documents into reusable methods.
-- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Generate lessons, slides, quizzes, and interactive pages with multi-agent workflows.
-- [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team memory capabilities for WorkBuddy and other Agents.
-- [AgentsView](https://github.com/kenn-io/agentsview) - Inspect and analyze Agent sessions locally.
-
-The full catalog below is grouped into official resources, Skills, MCP, workflows, use cases, and research. For everyday browsing, use the [searchable directory](https://sandbaseai.github.io/awesome-workbuddy/).
+The full catalog is grouped below. For everyday browsing, use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/).
 
 <details>
 <summary>Expand the full catalog</summary>
