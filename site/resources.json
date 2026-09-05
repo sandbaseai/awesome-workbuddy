@@ -890,6 +890,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "open-kimi-ppt Skill",
+    "url": "https://github.com/jinwyp/open-ppt-skill",
+    "description": "An MIT-licensed PPT Skill explicitly supporting WorkBuddy, installable with npx and able to produce editable PPTD projects and PPTX files with a local browser editor; it is an unofficial compatibility implementation based on Kimi Slides behavior, so review external-media rights, network dependencies, and export quality",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "open-kimi-ppt Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 PPT Skill，可通过 npx 安装，生成可继续编辑的 PPTD 和 PPTX，并提供本地浏览器编辑器；项目是对 Kimi Slides 的非官方兼容实现，使用时请注意外部素材版权、网络依赖和导出质量",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "MiniWorkBuddy",
     "url": "https://github.com/joezxh/mini-workbuddy",
     "description": "An MIT-licensed open-source AI workbench inspired by Tencent WorkBuddy, built on AgentScope with multi-agent teams, Skills, deep research, scheduling, MCP, knowledge-base/ontology workflows, and text/voice interfaces; running it involves model/API keys, backend services, databases or vector stores, and potentially scheduled or external integrations, so treat it as an independent project and review tenant, data, and production boundaries first",
@@ -2378,6 +2388,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Skills Hub",
+    "url": "https://github.com/qufei1993/skills-hub",
+    "description": "An MIT-licensed cross-platform desktop Skill manager with an explicit WorkBuddy adapter, central installation, organization, updates, and sync across multiple Agents; it supports global/project scope, Git/local sources, symlinks or copies, and scheduled updates, so confirm target directories, source provenance, and sync scope before use",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Skills Hub",
+    "descriptionZh": "MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills；支持全局/项目范围、Git/本地来源、软链接或复制和定时更新，使用前请确认目标目录、来源可信度与同步范围",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "WorkBuddy Auto Sign-in",
