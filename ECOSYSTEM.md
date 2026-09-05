@@ -9,13 +9,13 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,086 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,830 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,832 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,963 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,560 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,561 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,775 | Go | 2026-09-05 |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,776 | Go | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,817 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
@@ -31,7 +31,7 @@ Last refreshed: **2026-09-05 UTC**
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 630 | JavaScript | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 631 | JavaScript | 2026-09-05 |
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 575 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
@@ -43,6 +43,7 @@ Last refreshed: **2026-09-05 UTC**
 | [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 263 | Python | 2026-08-13 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 262 | Python | 2026-09-02 |
 | [CodeDrobe/skills](https://github.com/CodeDrobe/skills) | 246 | CSS | 2026-08-09 |
+| [qianye-wuyu/yueyuan-bazi](https://github.com/qianye-wuyu/yueyuan-bazi) | 238 | Python | 2026-08-22 |
 | [TencentCloud/tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) | 234 | Go | 2026-09-02 |
 | [iBlinkQ/project-cairn](https://github.com/iBlinkQ/project-cairn) | 223 | Shell | 2026-09-04 |
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |

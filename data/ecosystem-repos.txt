@@ -316,6 +316,7 @@ liangdabiao/boardgame-io-skill
 MJorgin/dsh-agent-conductor
 erha19/ping-island
 Jowitt13/loom-of-heaven
+qianye-wuyu/yueyuan-bazi
 D-kart/investor-skill
 medstatstar/statsoft-cli
 otakuminami/psyche-writer
