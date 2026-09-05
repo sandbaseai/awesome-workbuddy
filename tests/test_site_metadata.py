@@ -22,6 +22,12 @@ class SiteMetadataTests(unittest.TestCase):
         self.assertIn("User-agent: *\nAllow: /", robots)
         self.assertIn(f"Sitemap: {SITE_URL}sitemap.xml", robots)
 
+    def test_site_exposes_update_feed(self) -> None:
+        feed = ET.parse(ROOT / "site" / "feed.xml").getroot()
+        self.assertEqual(feed.tag, "rss")
+        self.assertIn("feed.xml", (ROOT / "site" / "index.html").read_text(encoding="utf-8"))
+        self.assertIn("feed.xml", (ROOT / "site" / "llms.txt").read_text(encoding="utf-8"))
+
     def test_page_has_matching_canonical_and_collection_schema(self) -> None:
         html = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
         self.assertIn(f'<link rel="canonical" href="{SITE_URL}">', html)
