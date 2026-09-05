@@ -7,20 +7,20 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,559 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,562 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,929 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,490 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,492 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,770 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,810 | TypeScript | 2026-09-04 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,772 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,032 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,033 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 699 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 611 | JavaScript | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 612 | JavaScript | 2026-09-05 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-03 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 290 | Python | 2026-09-03 |
@@ -49,7 +49,7 @@ Last refreshed: **2026-09-05 UTC**
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
-| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 62 | Go | 2026-09-04 |
+| [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 62 | Go | 2026-09-05 |
 | [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) | 60 | Python | 2026-08-10 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 55 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
@@ -122,11 +122,12 @@ Last refreshed: **2026-09-05 UTC**
 | [Likenttt/garmin-connect-plugin-for-dsh](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) | 11 | TypeScript | 2026-08-29 |
 | [ycyliu/travel-planner-skill](https://github.com/ycyliu/travel-planner-skill) | 11 | HTML | 2026-03-19 |
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
+| [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | TypeScript | 2026-09-04 |
 | [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-04 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
-| [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-04 |
+| [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |

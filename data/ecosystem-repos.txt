@@ -113,6 +113,7 @@ jiang12345-code/dsh-agent-selector
 Axiaohungry/dsh-llm-workbuddy
 ShouZhuo0413/codebuddy2api
 HanHan666666/codebuddy2openai
+orangeboyChen/codebuddy2api
 wicm84266964/Buddy2api
 arraycto/xhs-blogger-analyzer
 luozhilzh/ai-10x-learning

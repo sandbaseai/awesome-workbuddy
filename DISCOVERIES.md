@@ -34,7 +34,6 @@ Last refreshed: **2026-09-05 UTC**
 | [Senguk520/CodeRelay-tools](https://github.com/Senguk520/CodeRelay-tools) | 13 | 2026-09-04 | Non-standard / unrecognized | CodeBuddy / WorkBuddy 账号池管理工具 · Account pool manager —— 集中管理 CodeBuddy 中国站多账号，内置本地 OpenAI 兼容反代，多账号调度 / 配额监控 / 每日签到 / API Key 管理 / 模型同步与本地缓存 / 请求统计 / 系统托盘通知。Multi-account routing, quota monitoring, daily check-in, local reverse proxy &amp; more. |
 | [cxqc168-wq/Trae-workbuddyAssistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) | 12 | 2026-09-04 | MIT | Windows desktop multi-account check-in &amp; management tool - Tauri 2 + React 18 + Rust (Trae + WorkBuddy) |
 | [JipZeonGit/codebuddy-ide-cn-linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) | 12 | 2026-09-02 | MIT | Codebuddy IDE CN（国内版）的非官方 Linux 自动化打包与安装构建脚本工具 |
-| [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | 2026-09-04 | MIT | Proxy CodeBuddy with OpenAI-compatible and Anthropic-compatible APIs for Codex, Claude Code, and standard SDK clients. |
 | [exd77/cbcn](https://github.com/exd77/cbcn) | 10 | 2026-07-14 | Not declared | Automated CodeBuddy.cn account registration, API key generation, and 9router database injection |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

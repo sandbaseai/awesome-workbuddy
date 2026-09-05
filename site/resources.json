@@ -410,6 +410,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "AI CLI Kickstarter",
+    "url": "https://github.com/xiaolai/ai-cli-kickstarter",
+    "description": "An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "AI CLI Kickstarter",
+    "descriptionZh": "MIT 许可的中英双语新手启动器与 Prompt 库，支持 macOS、Linux、Windows 以及 Qwen Code、Kimi Code 和 CodeBuddy CLI；状态机包含环境探测、安装前确认和结果验证，适合第一次配置 AI CLI 的 WorkBuddy/CodeBuddy 用户。启动器会在确认后从固定官方域名下载并直接执行供应商脚本，使用前请核对 URL、脚本内容和供应商条款，不要在未审查的机器或高权限环境中运行",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "How to Use Agent",
     "url": "https://github.com/Lukanytsu7551/how-to-use-agent-guide",
     "description": "An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API; check the applicable license, storage, and network scope before reuse or local builds",
@@ -437,6 +447,26 @@
     "category": "Learning and reference",
     "titleZh": "AI Coding Guide Zh",
     "descriptionZh": "包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径",
+    "categoryZh": "Learning and reference"
+  },
+  {
+    "title": "AgenticMetaEngineering",
+    "url": "https://github.com/AiToByte/AgenticMetaEngineering",
+    "description": "An MIT-licensed team AI-context engineering template that version-controls `AGENTS.md`, `context/`, requirements, and `.codebuddy/commands/`, while using branches and independent checkouts to isolate parallel tasks. It needs no vector database or external service and is useful for turning WorkBuddy/CodeBuddy team rules and lessons into reviewable shared assets. Shared repositories can contain business knowledge, paths, or internal rules, so redact sensitive material, restrict repository access, and agree on the branch policy first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "AgenticMetaEngineering",
+    "descriptionZh": "MIT 许可的团队 AI 上下文工程模板，将 `AGENTS.md`、`context/`、需求记录和 `.codebuddy/commands/` 纳入 Git 版本管理，并用独立分支/checkout 隔离并行任务；不依赖向量数据库或外部服务，适合把 WorkBuddy/CodeBuddy 的团队规则和经验变成可审阅的共享资产。共享仓库可能包含业务知识、路径或内部规则，使用前请脱敏、限制仓库权限并确认分支策略",
+    "categoryZh": "Learning and reference"
+  },
+  {
+    "title": "Superpowers Chinese Adapters",
+    "url": "https://github.com/squallopen/superpowers-zh-adapters",
+    "description": "An MIT-licensed Chinese adaptation layer for `obra/superpowers` with explicit CodeBuddy, Codex, Claude Code, Cline, Droid, OpenCode, and ZCode support, Chinese triggers and document output, install/update/rollback scripts, and upstream version refreshes. The CodeBuddy adapter updates a dedicated rules block; PowerShell installation targets Windows by default and writes user- or project-scoped Skills/instruction files, so review backups, target scope, upstream content, and script permissions before running it",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Superpowers 中文适配",
+    "descriptionZh": "MIT 许可的 `obra/superpowers` 中文适配层，明确支持 CodeBuddy、Codex、Claude Code、Cline、Droid、OpenCode 和 ZCode，提供中文触发词、中文文档输出、安装/更新/回滚脚本及上游版本同步；CodeBuddy 适配会更新专用规则段，PowerShell 安装默认面向 Windows 用户并会写入用户或项目 Skills/说明文件，执行前请确认备份、目标范围、上游内容和脚本权限",
     "categoryZh": "Learning and reference"
   },
   {
@@ -1390,6 +1420,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Maestro",
+    "url": "https://github.com/joosure/Maestro",
+    "description": "An AGPL-3.0 project-task orchestration platform connecting Linear/TAPD tasks to GitHub/CNB and Codex, Claude Code, OpenCode, or CodeBuddy. It runs tasks in isolated workspaces, records diffs/logs/tool calls, and writes results back; the repository provides Memory/Mock local flows, Chinese documentation, container security scans, and a CodeBuddy-specific image. Real workflows may clone repositories, run an Agent, push branches, create PRs/MRs, update tasks, and write comments, so start with mock mode, use least-privilege credentials and disposable workspaces, and review every template and network boundary",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Maestro",
+    "descriptionZh": "AGPL-3.0 的真实项目任务编排平台，支持将 Linear/TAPD 任务连接到 GitHub/CNB 和 Codex、Claude Code、OpenCode、CodeBuddy，按隔离工作区执行、记录 diff/日志/工具调用并回写任务结果；提供 Memory/Mock 本地流程、中文文档、容器安全扫描和 CodeBuddy 专用镜像。真实工作流可能克隆仓库、运行 Agent、推送分支、创建 PR/MR、更新任务和评论，首次使用应从 mock 开始，使用低权限凭据、一次性工作区并逐项审查模板和网络范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkIsland",
     "url": "https://github.com/qianzhu18/workisland",
     "description": "An Apache-2.0 local Agent status and attention router for Apple Silicon macOS with native WorkBuddy/CodeBuddy, Codex, Claude Code, and other integrations, providing task monitoring, approval/question handling, and source-session navigation. It installs local hooks, observes task/transcript signals, stores clipboard history and terminal state, and sends approval replies that change Agent execution; packaged builds also enable opt-out anonymous PostHog telemetry and perform update checks, so review hook changes, the telemetry allowlist, log/clipboard scope, and every approval before use. Public Windows releases are currently paused",
@@ -1480,6 +1520,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Codex Mate",
+    "url": "https://github.com/SakuraByteCore/codexmate",
+    "description": "An Apache-2.0 local CLI + Web UI for managing CodeBuddy, Codex, Claude Code, Gemini CLI, OpenCode, KiloCode, OpenClaw, and Pi configurations, sessions, Skills, MCP, and task queues. It explicitly supports WorkBuddy/CodeBuddy session browsing and a local Skills market, with unit and E2E tests. It reads and writes local configuration, sessions, and credentials, and can start protocol bridges, import Skills, or delete sessions, so back up first and review paths, keys, ports, and each write action",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Codex Mate",
+    "descriptionZh": "Apache-2.0 许可的本地 CLI + Web UI，统一管理 CodeBuddy、Codex、Claude Code、Gemini CLI、OpenCode、KiloCode、OpenClaw 与 Pi 的配置、会话、Skills、MCP 和任务队列；支持 WorkBuddy/CodeBuddy 会话浏览与本地 Skills 市场，并提供测试覆盖。它会读写本地配置、会话和凭据，也能启动本地协议桥接、导入 Skill 或删除会话，使用前请备份并逐项确认路径、密钥、端口和写入操作",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "CLI2API",
     "url": "https://github.com/caigee-cmd/cli2api",
     "description": "An MIT-licensed self-hosted local gateway that converts WorkBuddy (and Qoder/Trae) login state into OpenAI/Anthropic-compatible APIs with multi-account routing, isolated workers, Docker, and a loopback console; it defaults to `127.0.0.1` and requires an API key, but handles OAuth/PAT/credential imports, so protect exports, ports, and account-term boundaries and do not use it for shared resale",
@@ -1507,6 +1557,16 @@
     "category": "Tools and integrations",
     "titleZh": "CodeBuddy2OpenAI",
     "descriptionZh": "MIT 许可的单文件本地协议转换器，将已登录的 CodeBuddy/WorkBuddy 会话包装为 OpenAI 兼容的 `/v1/chat/completions` 接口，默认仅监听 `127.0.0.1`；它会读取本机登录态、刷新令牌并可记录完整请求/响应日志，且不兼容新版 Codex CLI，使用前请审查源码、凭据文件、日志、端口暴露和腾讯账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "CodeBuddy2API",
+    "url": "https://github.com/orangeboyChen/codebuddy2api",
+    "description": "An MIT-licensed, source- and test-backed self-hosted CodeBuddy gateway with OpenAI/Anthropic-compatible APIs, encrypted SQLite or PostgreSQL storage, a web admin console, access keys, credential management, and sanitized debug traces. The example binds to `127.0.0.1`, but Docker and multi-instance deployments handle sign-in credentials, prompts, and request traces, so set a strong random encryption key, restrict the admin console and ports, and review logs, retention, and Tencent account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CodeBuddy2API",
+    "descriptionZh": "MIT 许可、源码和测试齐全的自托管 CodeBuddy 网关，提供 OpenAI/Anthropic 兼容接口、SQLite 加密或 PostgreSQL 存储、Web 管理台、访问密钥、凭据管理和调试脱敏；默认示例绑定 `127.0.0.1`，但 Docker/多实例部署会处理登录凭据、提示词和请求追踪，使用前请设置强随机加密密钥、限制管理台与端口、审查日志/数据保留和腾讯账号条款",
     "categoryZh": "Tools and integrations"
   },
   {
