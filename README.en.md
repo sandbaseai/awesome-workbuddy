@@ -130,6 +130,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Skill collections
 
+- [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - An MIT-licensed portfolio of 19 Agent Skills with standard npx installation, per-Skill documentation, versions, and validation metadata, including a WorkBuddy-specific CLI model bridge; individual Skills may read local sessions/files or call model and web services, so confirm permissions and credential scope per Skill.
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use.
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - An MIT-licensed documentation-only Skill covering virtual goods, coin top-ups, iOS routing, signing, idempotent callbacks, error diagnosis, and launch checklists. It is primarily written in the Claude Code Skill format but can serve as CodeBuddy reference material; follow current WeChat official documentation, keep signing keys server-side, and manually verify payment rules, amounts, and fulfillment logic before execution.
 

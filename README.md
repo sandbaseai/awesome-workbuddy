@@ -130,6 +130,7 @@ WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究
 
 ### Skill collections
 
+- [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接；不同 Skill 可能读取本地会话/文件或访问模型与网络服务，使用前请逐项确认权限和凭据范围.
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单；主要按 Claude Code Skill 格式编写，也可作为 CodeBuddy 的参考资料，执行时必须以微信官方文档为准，服务端保管密钥并人工复核支付规则、金额和发货逻辑.
 

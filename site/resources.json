@@ -570,6 +570,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Zhijian Skills",
+    "url": "https://github.com/zjp1997720/zhijian-skills",
+    "description": "An MIT-licensed portfolio of 19 Agent Skills with standard npx installation, per-Skill documentation, versions, and validation metadata, including a WorkBuddy-specific CLI model bridge; individual Skills may read local sessions/files or call model and web services, so confirm permissions and credential scope per Skill",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Zhijian Skills",
+    "descriptionZh": "MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接；不同 Skill 可能读取本地会话/文件或访问模型与网络服务，使用前请逐项确认权限和凭据范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Wiki",
     "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
     "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use",
