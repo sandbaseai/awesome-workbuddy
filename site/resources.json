@@ -2222,11 +2222,11 @@
   {
     "title": "WorkBuddy App Builder Skill",
     "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
-    "description": "An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation",
+    "description": "An MIT-licensed WorkBuddy-focused ontology-driven app-building Skill that starts with requirements discovery and human checkpoints, then generates seven-model domain definitions, a runnable business app, SQLite/API services, forms, and an offline knowledge graph",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
     "titleZh": "WorkBuddy App Builder Skill",
-    "descriptionZh": "以本体驱动需求探索、人工确认和本地 SQLite/API 生成领域应用",
+    "descriptionZh": "MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱",
     "categoryZh": "Ready-to-use Skills"
   },
   {

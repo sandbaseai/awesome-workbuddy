@@ -250,7 +250,7 @@
 - [llm-wiki Skill](https://github.com/JustineJiao/llm-wiki-skill) - A GPL-3.0 personal knowledge-base Skill explicitly supporting WorkBuddy, turning web pages, PDFs, local files, and other material into linked Markdown pages with confidence labels and review items
 - [Org Context](https://github.com/wangjialiang678/org-context) - An MIT-licensed context-organization Skill for WorkBuddy, Claude Code, and OpenCode that separates facts, decisions, and status to make enterprise materials easier to retrieve, with templates, a runnable example, and mechanical checks
 - [Delivery Razor](https://github.com/Ketian823/delivery-razor) - An MIT-licensed WorkBuddy delivery-hygiene Skill that removes cross-session memory labels, in-session residue, and defensive disclaimers, with optional compression rules for executive one-pagers
-- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An ontology-driven Skill for requirements discovery, human checkpoints, and local SQLite/API domain-app generation
+- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An MIT-licensed WorkBuddy-focused ontology-driven app-building Skill that starts with requirements discovery and human checkpoints, then generates seven-model domain definitions, a runnable business app, SQLite/API services, forms, and an offline knowledge graph
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
