@@ -8,8 +8,8 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,086 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,834 | TypeScript | 2026-09-04 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,836 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,963 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,561 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -29,10 +29,11 @@ Last refreshed: **2026-09-05 UTC**
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,053 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
+| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 701 | Python | 2026-09-02 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 631 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 575 | Python | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 632 | JavaScript | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 576 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 545 | Python | 2026-09-02 |

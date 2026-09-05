@@ -322,3 +322,4 @@ medstatstar/statsoft-cli
 otakuminami/psyche-writer
 frank666199/frank-presales-skills
 zhangxiaoqiang1991/luopan
+tourmind-com/Tourmind-Booking-Skills

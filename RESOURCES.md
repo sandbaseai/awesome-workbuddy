@@ -213,6 +213,7 @@
 - [Knowledge Base Builder](https://github.com/miaqu766520-a11y/kb-builder) - MIT 许可、已在 WorkBuddy 验收的本地知识库搭建 Skill，通过逐题访谈生成目录、模板、个人档案和使用手册，并在用户确认计划后写入 Markdown 文件
 - [AI Finance Workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) - MIT 许可、支持 WorkBuddy MCP App 的可视化财务工作台，提供 20 个模块、25 个带字段口径/小样本试跑/校验/人工复核的工作流，以及异常责任闭环和本机备份
 - [Universal Travel Planner](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) - MIT 许可、13 Star 的 WorkBuddy 商旅规划 Skill，整合 12306、航班、地图/天气、酒店比价、预算分档、清单和响应式 HTML 报告，并提供真实跳转链接
+- [TourMind Booking Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) - MIT 许可、明确支持 WorkBuddy 的酒店预订 Skill，可搜索全球酒店、比价并再次核验房价/库存后创建订单、取消或发起支付；需要 TourMind 账号和本地 Skill Token，预订、取消和支付均要求用户明确确认
 - [Travel Planner Skill](https://github.com/ycyliu/travel-planner-skill) - MIT 许可、直接兼容 WorkBuddy/CodeBuddy 的旅行规划 Skill，通过需求确认、外部搜索和可选小红书 MCP 生成响应式 HTML 攻略与三档预算
 - [1688 Product Reader](https://github.com/yyc424666lvy/1688-product-reader) - MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数
 - [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) - 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台
