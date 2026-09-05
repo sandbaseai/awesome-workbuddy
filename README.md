@@ -136,6 +136,7 @@
 - [WorkBuddy Skill Groups](https://github.com/darker2016/workbuddy-skill-groups) - MIT 许可、透明标注来源的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工程、法律、财税、数据、销售和 HR 等场景
 - [WorkBuddy Experts](https://github.com/vbarter/workbuddy-experts) - 提示词工程学习参考资产集，整理 WorkBuddy 4.22.16 的 246 位专家提示词、7 个 Nunjucks 系统模板、2 个内置 Skill 和客户端逆向报告
 - [Unified Legal AI CN](https://github.com/laubeing-droid/unified-legal-ai-cn) - MIT 许可、以 WorkBuddy 为主平台的中国法律辅助工作台，提供 5 个核心 Agent、17 个法律工具、9 个领域应用、证据与法律护栏、文书输出和可选 MCP 推理内核，覆盖诉讼全生命周期
+- [law爷](https://github.com/Jarvis-starcloud/law-ye-skill) - 许可证未声明的 WorkBuddy/Hermes 法律 Skill，含中国法律原文、检索、文书和诉讼流程模块；仅供学习、检索和草稿参考，具体案件请咨询执业律师
 - [Five-layer Memory System](https://github.com/juventini10/Five-layer-memory-system) - MIT 许可、面向 WorkBuddy 的五层长期记忆 Skill，通过 33 道问答沉淀偏好、取舍和行为模式，并按层级维护可持续更新的工作记忆
 - [Personal User Manual Skill](https://github.com/NI9N/gerenshiyongshuomingshu) - MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮自我认知教练流程整理价值观、才能和热情，经过证伪关后生成可自行维护的 Markdown
 - [Web Security Test Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) - MIT 许可、面向 CodeBuddy/WorkBuddy 的中英双语网站安全测试 Skill，包含授权白名单、有效期/签名门禁、非破坏性检查、证据留痕和复查周期
