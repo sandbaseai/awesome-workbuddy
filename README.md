@@ -350,6 +350,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 ## Related Lists
 
+- [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) - 持续更新的 Agent Skills 索引，已收录本清单与 WorkBuddy Skill Hub；使用其中的第三方 Skill 前仍需按本仓库安全清单逐项审核.
 - [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - CC0 的中文 WorkBuddy 资源清单，覆盖官方资料、实战案例、提示词、Skills 与 MCP；与本清单互补，使用其中链接前仍需单独核验来源和权限.
 - [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - 中文优先的 Skills、提示词、教程、评测与集成索引.
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 自动化、数据、浏览器、微信与内容生产 Skills 集合.
