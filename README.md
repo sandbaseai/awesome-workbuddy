@@ -22,7 +22,7 @@
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
 
-本周精选： [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）、[memU](https://github.com/NevaMind-AI/memU)（跨 Agent 记忆与 Skill 提炼）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）；完整变更见 [v0.10.9](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.9)。
+本周精选： [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）、[memU](https://github.com/NevaMind-AI/memU)（跨 Agent 记忆与 Skill 提炼）、[AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）和 [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin)（可逆 CDP 换肤）；完整变更见 [v0.10.10](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.10)。
 
 WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
 
