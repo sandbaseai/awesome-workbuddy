@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,875 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,878 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,964 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,567 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -38,7 +38,7 @@ Last refreshed: **2026-09-05 UTC**
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,057 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,058 | Rust | 2026-09-05 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt) | 925 | Python | 2026-07-31 |
@@ -223,7 +223,7 @@ Last refreshed: **2026-09-05 UTC**
 | [zhjcreator/scholar-inbox-skill](https://github.com/zhjcreator/scholar-inbox-skill) | 8 | Shell | 2026-04-08 |
 | [adsorgcn/chanlun-engine-skill](https://github.com/adsorgcn/chanlun-engine-skill) | 8 | Python | 2026-08-25 |
 | [a-hue-1/Douyin-video-scraping-operation](https://github.com/a-hue-1/Douyin-video-scraping-operation) | 8 | Python | 2026-08-13 |
-| [Jowitt13/loom-of-heaven](https://github.com/Jowitt13/loom-of-heaven) | 8 | TypeScript | 2026-09-04 |
+| [Jowitt13/loom-of-heaven](https://github.com/Jowitt13/loom-of-heaven) | 8 | TypeScript | 2026-09-05 |
 | [D-kart/investor-skill](https://github.com/D-kart/investor-skill) | 8 | CSS | 2026-06-10 |
 | [otakuminami/psyche-writer](https://github.com/otakuminami/psyche-writer) | 8 | - | 2026-05-18 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
@@ -261,6 +261,7 @@ Last refreshed: **2026-09-05 UTC**
 | [genapohub/graphic-design-guide](https://github.com/genapohub/graphic-design-guide) | 4 | - | 2026-09-02 |
 | [taikaikaikai-pixel/dsh-codebuddy-plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) | 4 | JavaScript | 2026-08-29 |
 | [KKbaocai/topic-pipeline](https://github.com/KKbaocai/topic-pipeline) | 4 | - | 2026-07-30 |
+| [2022Hao/SJTU-AIA-PPT-SKILL](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) | 4 | HTML | 2026-05-27 |
 | [chonpszhou/workbuddy-chatcut-mcp](https://github.com/chonpszhou/workbuddy-chatcut-mcp) | 3 | Python | 2026-07-15 |
 | [chenin0931/OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) | 3 | TypeScript | 2026-07-14 |
 | [louloulin/OpenBuddy](https://github.com/louloulin/OpenBuddy) | 3 | TypeScript | 2026-09-05 |
@@ -368,5 +369,6 @@ Last refreshed: **2026-09-05 UTC**
 | [wangge-ai/data-lens](https://github.com/wangge-ai/data-lens) | 0 | Python | 2026-09-05 |
 | [yfpgle-glitch/rightcode-imagegen](https://github.com/yfpgle-glitch/rightcode-imagegen) | 0 | Python | 2026-09-05 |
 | [liangdabiao/workbuddy-expert-doc-video-qa](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) | 0 | Python | 2026-09-05 |
+| [CatchNo2/MindArchive](https://github.com/CatchNo2/MindArchive) | 0 | Python | 2026-07-15 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

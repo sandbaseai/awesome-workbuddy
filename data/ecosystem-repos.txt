@@ -360,3 +360,5 @@ Javis603/token-monitor
 tianma-if/edgeever
 LtyFantasy/agent-chamber
 junhoyeo/tokscale
+2022Hao/SJTU-AIA-PPT-SKILL
+CatchNo2/MindArchive

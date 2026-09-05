@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SJTU-AIA PPT Skill",
+    "url": "https://github.com/2022Hao/SJTU-AIA-PPT-SKILL",
+    "description": "An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "SJTU-AIA PPT Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演示；使用 HTMLSlide 时请先确认登录和数据上传范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "OJO Design Skills",
     "url": "https://github.com/touchine-ojo/OJO-Design-Skills",
     "description": "An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it",
@@ -2548,6 +2558,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "MindArchive",
+    "url": "https://github.com/CatchNo2/MindArchive",
+    "description": "An MIT-licensed AI-conversation insight archive with incremental processing, resumable runs, usage and cost limits, and an export mode that lets WorkBuddy answer chunked prompts before collecting the results",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "MindArchive",
+    "descriptionZh": "MIT 许可的 AI 对话洞察归档工具，支持增量处理、断点续跑、消费统计和费用上限，也可导出分块提示词交给 WorkBuddy 处理后回收整理",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "WorkBuddy2API (Sliverkiss)",
