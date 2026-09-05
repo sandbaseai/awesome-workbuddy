@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Academic Research Skills for WorkBuddy",
+    "url": "https://github.com/jinmao-lin/academic-research-skills-workbuddy",
+    "description": "A CC BY-NC 4.0 academic-research Skill suite covering deep research, paper writing, manuscript review, research pipelines, and experiment planning, with attribution information included",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Academic Research Skills for WorkBuddy",
+    "descriptionZh": "CC BY-NC 4.0 许可的学术研究 Skill 套件，覆盖深度研究、论文写作、稿件审阅、研究流程和实验规划，并提供来源署名",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "OpenMobius Skill",
     "url": "https://github.com/MobiusQuant/OpenMobius-skill",
     "description": "An Apache-2.0 trading-knowledge Skill with explicit WorkBuddy support, attributable ICT/SMC knowledge cards, market analysis, and chart generation, with unsupported routes stopping explicitly",

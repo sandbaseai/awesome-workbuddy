@@ -162,6 +162,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [Academic Research Skills for WorkBuddy](https://github.com/jinmao-lin/academic-research-skills-workbuddy) - CC BY-NC 4.0 许可的学术研究 Skill 套件，覆盖深度研究、论文写作、稿件审阅、研究流程和实验规划，并提供来源署名
 - [OpenMobius Skill](https://github.com/MobiusQuant/OpenMobius-skill) - Apache-2.0 许可、明确支持 WorkBuddy 的交易知识 Skill，提供可溯源的 ICT/SMC 知识卡、行情分析和图表生成，并在不支持的分析路由上主动停止
 - [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) - MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架
 - [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程
