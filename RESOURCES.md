@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [AI Co-Evolution Skills](https://github.com/PhilRobinluo/ai-coevolution-skills) - 含 47 个可安装中文 Skill 的能力包，明确提供 WorkBuddy 安装路径，覆盖知识解释、PPT 需求澄清、文档修复、图片脱敏、GitHub 首屏和工作流等；Skill/文档采用 CC BY-NC-SA 4.0，代码采用 PolyForm Noncommercial，商业使用前请取得授权
 - [Maya Umbrella Scanner](https://github.com/loonghao/maya_umbrella_scanner) - MIT 许可、支持 WorkBuddy 的 Windows Maya 场景恶意代码扫描 Skill，提供范围确认、批量扫描、结果披露、清理前明确批准、备份和复扫门禁；它不是通用系统杀毒软件
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - MIT 许可、提供 WorkBuddy 专用入口的微信小程序全生命周期 Skill，覆盖选题、备案、开发、变现、审核、推广和矩阵运营，可复制到 `~/.workbuddy/skills/` 使用
 - [学霸笔记 Skill](https://github.com/Unclecheng-li/note-skill) - MIT 许可、明确支持 WorkBuddy 的单文件 HTML 笔记 Skill，将技术内容、漏洞分析或知识总结转换为手写笔记本风格的网页笔记

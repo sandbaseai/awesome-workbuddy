@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "AI Co-Evolution Skills",
+    "url": "https://github.com/PhilRobinluo/ai-coevolution-skills",
+    "description": "A collection of 47 installable Chinese Skills with an explicit WorkBuddy installation path, covering concept explanation, presentation briefing, document repair, image redaction, GitHub profiles, and workflows; Skills and docs use CC BY-NC-SA 4.0 while code uses PolyForm Noncommercial, so obtain commercial permission before commercial use",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Co-Evolution Skills",
+    "descriptionZh": "含 47 个可安装中文 Skill 的能力包，明确提供 WorkBuddy 安装路径，覆盖知识解释、PPT 需求澄清、文档修复、图片脱敏、GitHub 首屏和工作流等；Skill/文档采用 CC BY-NC-SA 4.0，代码采用 PolyForm Noncommercial，商业使用前请取得授权",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Maya Umbrella Scanner",
     "url": "https://github.com/loonghao/maya_umbrella_scanner",
     "description": "An MIT-licensed Windows Skill for scanning malicious code in Maya scenes with WorkBuddy support, including scope confirmation, batch scanning, findings disclosure, explicit pre-cleanup approval, backup checks, and post-clean scans; it is not a general system antivirus",

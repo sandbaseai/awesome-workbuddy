@@ -372,3 +372,4 @@ loonghao/maya_umbrella_scanner
 iqingyoung/search2chart-mcp
 luffysolution-svg/obsidian-vault-mcp
 fudonglee/md2pdf
+PhilRobinluo/ai-coevolution-skills
