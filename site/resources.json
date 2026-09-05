@@ -3160,6 +3160,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Comet",
+    "url": "https://github.com/rpamis/comet",
+    "description": "An MIT-licensed resumable long-running task and Skill platform with explicit WorkBuddy support, Native/Classic requirements workflows, phase gates, Skill authoring/evaluation/release tooling, and adapters for 37 Agent platforms; installation writes project configuration, scripts, state, and workflow files, so review target directories, generated artifacts, and external evaluation/model connections first",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "Comet",
+    "descriptionZh": "MIT 许可的可恢复长任务与 Skill 平台，明确支持 WorkBuddy，提供 Native/Classic 需求工作流、阶段门禁、Skill 创建/评测/发布和 37 个 Agent 平台适配；安装会写入项目配置、脚本、状态与工作流文件，使用前请审查目标目录、生成物和外部评测/模型连接",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
     "title": "Automated daily briefing",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Daily-Briefing",
     "description": "Connect QQ Mail, test a briefing, schedule daily delivery, and personalize the result",
