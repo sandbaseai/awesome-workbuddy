@@ -125,6 +125,8 @@
 
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - MIT 许可、面向 OpenClaw/WorkBuddy 的开发工作流 Skill 套件，提供 `/ship`、`/review`、`/qa` 等命令、跨步骤状态管理和一键安装/验证流程
+- [Spec Superflow](https://github.com/MageByte-Zero/spec-superflow) - MIT 许可、明确提供 `install-workbuddy` 安装器的 AI 编程工作流插件，融合 Spec-first 规划、契约驱动执行、阶段性验证和可恢复交接，并支持 `/ssf:resume`、`/ssf:switch`、`/ssf:save` WorkBuddy 命令适配
+- [OpenClaw Expert Suite](https://github.com/rebootmindful/openclaw-expert-suite) - MIT 许可、明确支持 WorkBuddy 的多 Agent 专家辩论系统，提供研究、思考、批评等角色和调度 Skill，可将配置复制到 WorkBuddy 项目级 `.codebuddy/agents/` 与 `.codebuddy/skills/`
 - [XHS Virtual Product](https://github.com/chenjin-cmd/xhs-virtual-product) - MIT 许可、明确支持 WorkBuddy 的小红书虚拟资料全流程 Skill，覆盖选品、竞品分析、制作、上架、内容和复盘，并将原创与版权合规检查放在工作流中
 - [申论复盘一体版](https://github.com/liuyuexi1987/shenlun-review-pro) - GPL-3.0 许可的 WorkBuddy 申论复盘 Skill/插件，提供材料解析、答案校准、作答批改、建议评分和 MCP 工具，并要求保留许可证、版权声明和对应源码
 - [Backend Interview Simulator](https://github.com/Hazehacker/backend-interview-simulator) - MIT 许可、明确支持 WorkBuddy 的 Java/Go/C++ 后端面试模拟 Skill，提供多身份、多风格和逐步追问，可直接让 WorkBuddy 安装后开始模拟
