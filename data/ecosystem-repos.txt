@@ -5,6 +5,8 @@ vergess3/workbuddy-remote
 bigbay957-sudo/workbuddy-for-obsidian
 AriaXXX-free/job-navigation-skill
 musistudio/claude-code-router
+alchaincyf/hermes-agent-orange-book
+dontbesilent2025/dbskill
 platonai/Browser4
 alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins

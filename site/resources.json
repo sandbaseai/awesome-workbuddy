@@ -310,6 +310,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Hermes Agent Orange Book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "description": "An MIT-licensed Chinese hands-on guide to Hermes Agent covering memory, Skills, MCP, tools, collaboration, and security, with an online reading entry in the WorkBuddy knowledge base",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Hermes Agent 橙皮书",
+    "descriptionZh": "MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "AI CLI Kickstarter",
     "url": "https://github.com/xiaolai/ai-cli-kickstarter",
     "description": "An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine",
@@ -938,6 +948,16 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "dbskill",
+    "url": "https://github.com/dontbesilent2025/dbskill",
+    "description": "A CC BY-NC 4.0 Chinese business-diagnosis Skill toolbox with explicit WorkBuddy support, covering business, content, decision, and action problems through 31 installable Skills; follow the non-commercial license for commercial use and redistribution",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "dbskill",
+    "descriptionZh": "CC BY-NC 4.0 许可、明确支持 WorkBuddy 的中文商业诊断 Skills 工具箱，覆盖业务、内容、选择和行动问题，提供 31 个可安装 Skill；商业使用和再分发请遵守非商业许可",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "Bazi-Ziwei Skills",
