@@ -3220,6 +3220,26 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Loci",
+    "url": "https://github.com/codesstar/loci",
+    "description": "An MIT-licensed local-first AI memory store that keeps identity, decisions, projects, and tasks in local Markdown and can connect WorkBuddy through its Web wizard; there is no cloud subscription by default, but memories may contain personal or project data, so review local directory permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Loci",
+    "descriptionZh": "MIT 许可的本地优先 AI 记忆库，将身份、决策、项目和任务保存为本地 Markdown，并可在 Web 向导中连接 WorkBuddy；默认无云端订阅，但记忆内容可能包含个人和项目信息，启用前请检查本地目录权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Token Bank",
+    "url": "https://github.com/wink-run/tokenbank",
+    "description": "An Apache-2.0 local AI resource hub with one-click WorkBuddy onboarding, usage tracing, model routing, Skills/MCP projection, and multi-account management; it also includes cloud relay, remote agents, and community P2P sharing, so review the privacy policy, credential handling, and data flows first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Token Bank",
+    "descriptionZh": "Apache-2.0 许可的本地 AI 资源中枢，支持 WorkBuddy 一键接入、用量追踪、模型路由、Skills/MCP 投影和多账号管理；同时包含云端中继、远程 Agent 与社区 P2P 共享，使用前请审阅隐私策略、凭证处理和数据流",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "VOKO",
     "url": "https://github.com/laoyudashu/voko",
     "description": "An AGPL-3.0 local-agent communication runtime for WorkBuddy and other Agents, supporting MCP, A2A 1.0, REST/Webhook, precise conversation routing, permission policies, human intervention, and local audit",

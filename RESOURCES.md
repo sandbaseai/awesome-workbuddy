@@ -355,6 +355,8 @@
 - [GitHub Accelerator](https://github.com/majiabin2020/github-accelerator) - MIT 许可的 WorkBuddy/Agent GitHub 访问诊断 Skill，先实测网络通道，再提供受限修改、备份和回滚脚本
 - [BailingHub WorkBuddy Connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) - MIT 许可的独立 WorkBuddy 企业连接器，通过浏览器 PKCE 授权、能力校验、幂等 invocation、审批、限流和审计让 Agent 查询或操作已接入的业务系统
 - [AssetPlex](https://github.com/wynter-cai/assetplex) - MIT 许可、完全本地的跨 Agent 资产中枢，将 identity、Skills、rules 和 MCP 配置集中管理并同步到 WorkBuddy、Codex、Claude Code、TRAE 和 Qoder，支持反向导入、格式转换、符号链接和本地 Web UI
+- [Loci](https://github.com/codesstar/loci) - MIT 许可的本地优先 AI 记忆库，将身份、决策、项目和任务保存为本地 Markdown，并可在 Web 向导中连接 WorkBuddy；默认无云端订阅，但记忆内容可能包含个人和项目信息，启用前请检查本地目录权限
+- [Token Bank](https://github.com/wink-run/tokenbank) - Apache-2.0 许可的本地 AI 资源中枢，支持 WorkBuddy 一键接入、用量追踪、模型路由、Skills/MCP 投影和多账号管理；同时包含云端中继、远程 Agent 与社区 P2P 共享，使用前请审阅隐私策略、凭证处理和数据流
 - [VOKO](https://github.com/laoyudashu/voko) - AGPL-3.0 许可、面向 WorkBuddy 等本地 Agent 的通信运行时，支持 MCP、A2A 1.0、REST/Webhook、精确会话路由、权限策略、人工介入和本地审计
 - [Task Passport](https://github.com/dongsheng123132/task-passport) - MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Harness 的版本化任务交接协议，以已验证状态、事实、决策和下一步生成可携带的 TaskPack，支持过期写入冲突、ask/receipt 回执、结构合规检查和跨机导入
 - [Garmin Connect Plugin for DSH](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) - MIT 许可、11 Star 的 Garmin Connect MCP/Skill 插件，支持 WorkBuddy 等 Agent 通过浏览器 MFA 查询活动、睡眠、步数和心率，并将只读工具与本地 FIT 文件写入、训练计划创建明确分开
