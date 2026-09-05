@@ -138,6 +138,7 @@ Last refreshed: **2026-09-05 UTC**
 | [runzhi/codebuddy-statusline](https://github.com/runzhi/codebuddy-statusline) | 7 | Python | 2026-08-31 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
 | [shajoezhu/skills_codebuddy_rpackagedev](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) | 6 | - | 2026-09-01 |
+| [Maquer/workbuddy-checkin](https://github.com/Maquer/workbuddy-checkin) | 6 | Python | 2026-09-05 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [taikaikaikai-pixel/dsh-codebuddy-plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) | 4 | JavaScript | 2026-08-29 |

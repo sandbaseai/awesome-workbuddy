@@ -1240,6 +1240,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Check-in (Maquer)",
+    "url": "https://github.com/Maquer/workbuddy-checkin",
+    "description": "An MIT-licensed, dependency-free Python check-in and credit-reporting tool supporting CN/Global accounts, token refresh, multi-account rotation, daily reports, and cron scheduling; it stores access/refresh tokens locally by account and can perform check-ins or trial claims, so back up credentials, restrict file permissions, confirm account authorization and platform terms, and never use it for shared or unauthorized accounts",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Check-in (Maquer)",
+    "descriptionZh": "MIT 许可、零第三方依赖的 Python 签到与积分查询工具，支持 CN/Global 账号、Token 自动刷新、多账号轮换、日报和 cron 定时模式；它会把 access/refresh token 按账号保存到本地并执行签到或 trial 领取，使用前请备份凭据、限制文件权限、确认账号授权和平台条款，不要用于共享或未授权账号",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",
