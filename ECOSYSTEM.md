@@ -7,21 +7,21 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,622 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,939 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,630 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,940 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,518 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,920 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,772 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,811 | TypeScript | 2026-09-04 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,776 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,777 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,589 | TypeScript | 2026-09-05 |
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,039 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 700 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 622 | JavaScript | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 623 | JavaScript | 2026-09-05 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-03 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 292 | Python | 2026-09-03 |
@@ -34,7 +34,7 @@ Last refreshed: **2026-09-05 UTC**
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 183 | TypeScript | 2026-09-02 |
-| [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 178 | JavaScript | 2026-07-17 |
+| [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 174 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
@@ -136,7 +136,7 @@ Last refreshed: **2026-09-05 UTC**
 | [MAXXXXXLI/workbuddy-cn-legal-skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) | 9 | - | 2026-05-14 |
 | [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) | 9 | Python | 2026-09-05 |
 | [MWang-TS/kindle2workbuddy](https://github.com/MWang-TS/kindle2workbuddy) | 8 | Python | 2026-08-11 |
-| [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-04 |
+| [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-05 |
 | [ben4202121/buddybridge](https://github.com/ben4202121/buddybridge) | 8 | TypeScript | 2026-09-03 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
@@ -199,8 +199,11 @@ Last refreshed: **2026-09-05 UTC**
 | [JaguarJack/workbuddy-openapi](https://github.com/JaguarJack/workbuddy-openapi) | 0 | PHP | 2026-09-04 |
 | [NI9N/gerenshiyongshuomingshu](https://github.com/NI9N/gerenshiyongshuomingshu) | 0 | - | 2026-09-04 |
 | [NikoKennedy/translate-book-windows](https://github.com/NikoKennedy/translate-book-windows) | 0 | Python | 2026-09-04 |
-| [zhangx1234994/aicp-product-creator-skill](https://github.com/zhangx1234994/aicp-product-creator-skill) | 0 | JavaScript | 2026-09-04 |
+| [zhangx1234994/aicp-product-creator-skill](https://github.com/zhangx1234994/aicp-product-creator-skill) | 0 | JavaScript | 2026-09-05 |
 | [Kallium-cn/workbuddy-jupyter-bridge](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) | 0 | Python | 2026-09-03 |
+| [TimWongUp/agentnave](https://github.com/TimWongUp/agentnave) | 0 | Python | 2026-09-05 |
+| [mowenQWQ/Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | 0 | Shell | 2026-09-04 |
+| [GiaSip/ai-hr](https://github.com/GiaSip/ai-hr) | 0 | Python | 2026-09-04 |
 | [tchivs/agentsw](https://github.com/tchivs/agentsw) | 0 | TypeScript | 2026-09-05 |
 | [joezxh/mini-workbuddy](https://github.com/joezxh/mini-workbuddy) | 0 | Python | 2026-09-05 |
 | [yang20040317-svg/design-workflow](https://github.com/yang20040317-svg/design-workflow) | 0 | Python | 2026-09-05 |
