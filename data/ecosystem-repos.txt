@@ -29,6 +29,7 @@ chenwg001/qingfengskill
 Coco-katarina/workbuddy-checkin
 liubinne/workbuddy-free-credits
 AlephAITech/WorkBuddyGuide
+xiaolai/ai-cli-kickstarter
 Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
 Tencent/workbuddy-bench

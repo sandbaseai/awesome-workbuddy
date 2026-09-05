@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**167 curated repositories · 4 original Skills · 33 discovery candidates · weekly validation**
+**168 curated repositories · 4 original Skills · 32 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -106,6 +106,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 ### Learning and reference
 
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases; it includes an [online reader](https://workbuddy.homes/), community case library, scenario intake, and reading guide, with cases documenting inputs, permissions, safety boundaries, and acceptance criteria.
+- [AI CLI Kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) - An MIT-licensed bilingual beginner launcher and prompt library for macOS, Linux, and Windows, supporting Qwen Code, Kimi Code, and CodeBuddy CLI. Its state machine covers environment probing, pre-install confirmation, and verification, making it useful for first-time WorkBuddy/CodeBuddy CLI setup. After confirmation, the launcher downloads and directly executes provider scripts from fixed official domains, so verify each URL, inspect the script, and review provider terms before running it on a privileged or sensitive machine.
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API; check the applicable license, storage, and network scope before reuse or local builds.
 - [Agent Learning Guide](https://github.com/tangshiyegit/agent-guide) - A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies; verify changing third-party product details against official sources.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - A Chinese learning path for AI coding tools and office Agents, including WorkBuddy.

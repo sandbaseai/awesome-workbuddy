@@ -13,7 +13,6 @@ Last refreshed: **2026-09-05 UTC**
 | [ylw1997/touchFish](https://github.com/ylw1997/touchFish) | 156 | 2026-09-04 | Non-standard / unrecognized | 一个在VScode、Cursor、Trae、CodeBuddy、Qorder、Antigravity编辑器的摸鱼工具,包含微信读书,x,小宇宙,bilibili,网易云音乐,qq音乐,知乎,小红书,微博,虎扑,nga,chiphell,v2es,linux.do,ithome等频道 |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [HsnSaboor/CLIProxyAPIPlus](https://github.com/HsnSaboor/CLIProxyAPIPlus) | 83 | 2026-07-27 | MIT | CLIProxyAPI Plus fork with Cline login and CodeBuddy International support |
-| [xiaolai/ai-cli-kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) | 77 | 2026-07-18 | MIT | 给完全不懂计算机的人安装第一个 AI CLI，然后由这个 AI 接管后续指导。Qwen Code / Kimi Code / CodeBuddy CLI |
 | [CharlexH/CodeBuddy](https://github.com/CharlexH/CodeBuddy) | 66 | 2026-08-31 | Not declared | A StickS3 Codex companion adapted from Claude Desktop Buddy. |
 | [Sliverkiss/CodeBuddy2api](https://github.com/Sliverkiss/CodeBuddy2api) | 55 | 2026-04-29 | MIT | 将 CodeBuddy 官方 API 包装成一个功能强大、与 OpenAI API 格式兼容的服务。本项目可以直接调用 CodeBuddy 官方 API，并为所有标准客户端提供统一的接口。 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
