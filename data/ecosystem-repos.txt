@@ -131,6 +131,10 @@ aiworkskills/wechat-article-skills
 nehemc2026/ai-operating-protocol
 jackyjinggit/xuanlan-governance-kit
 kcylp/mazhu
+cabbage2000-lab/data-analysis-skills
+genapohub/graphic-design-guide
+genapohub/qa-testing-guide
+genapohub/devops-guide
 ifoohoo/release-skill
 jiangxu1024/hotspot-monitor-skill
 mingze21/bazi-ziwei-skill
