@@ -850,6 +850,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Release Skill",
+    "url": "https://github.com/ifoohoo/release-skill",
+    "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Release Skill",
+    "descriptionZh": "Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程；它可能执行 GitHub Git Data API、npm 与 Skill Family Hub 外部写入，且真实宿主安装/验收仍需单独完成，使用前请核对计划、权限、令牌、目标仓库、版本一致性和每个发布动作",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Hotspot Monitor Skill",
     "url": "https://github.com/jiangxu1024/hotspot-monitor-skill",
     "description": "An MIT-licensed WorkBuddy trend-monitoring Skill that collects several Chinese platforms, filters by keywords, and schedules Feishu Base writes and mobile notifications; configuration involves a Feishu App Secret, Base Token, Table ID, and webhook, while crawling and pushing remain subject to platform terms and personal-data boundaries, so use secure local configuration and review permissions first",

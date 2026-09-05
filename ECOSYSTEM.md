@@ -7,17 +7,17 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,528 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,926 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,476 | Python | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,530 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,927 | TypeScript | 2026-09-03 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,477 | Python | 2026-09-04 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,379 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,769 | Go | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,029 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,030 | Rust | 2026-09-05 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 942 | Python | 2026-09-05 |
-| [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
+| [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 698 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 608 | JavaScript | 2026-09-04 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 321 | Python | 2026-08-20 |
@@ -36,8 +36,8 @@ Last refreshed: **2026-09-05 UTC**
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
 | [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode) | 143 | TypeScript | 2026-09-03 |
+| [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 138 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
-| [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 137 | Rust | 2026-09-04 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | Go | 2026-07-08 |
 | [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 109 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
@@ -56,7 +56,7 @@ Last refreshed: **2026-09-05 UTC**
 | [PomeloR611/libtv-video-agent](https://github.com/PomeloR611/libtv-video-agent) | 43 | - | 2026-08-06 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | TypeScript | 2026-06-15 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | JavaScript | 2026-05-17 |
-| [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 33 | TypeScript | 2026-09-04 |
+| [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 34 | TypeScript | 2026-09-04 |
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | TypeScript | 2026-08-25 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 31 | Python | 2026-08-30 |
@@ -161,7 +161,8 @@ Last refreshed: **2026-09-05 UTC**
 | [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-01 |
 | [wangjialiang678/org-context](https://github.com/wangjialiang678/org-context) | 0 | Python | 2026-09-04 |
 | [Ketian823/delivery-razor](https://github.com/Ketian823/delivery-razor) | 0 | Python | 2026-09-04 |
-| [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-04 |
+| [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) | 0 | JavaScript | 2026-09-05 |
+| [ifoohoo/release-skill](https://github.com/ifoohoo/release-skill) | 0 | JavaScript | 2026-09-05 |
 | [Neo5093/workbuddy-guide](https://github.com/Neo5093/workbuddy-guide) | 0 | Python | 2026-06-05 |
 | [iuuunlyk/AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) | 0 | PowerShell | 2026-09-04 |
 | [JaguarJack/workbuddy-openapi](https://github.com/JaguarJack/workbuddy-openapi) | 0 | PHP | 2026-09-04 |
