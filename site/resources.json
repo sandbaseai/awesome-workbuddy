@@ -1870,6 +1870,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Codex ↔ WorkBuddy MCP Bridge",
+    "url": "https://github.com/ZhaoXiangyu99/workbuddy-mcp",
+    "description": "A license-un-declared Node.js MCP bridge that hands Codex subtasks to a WorkBuddy inbox and provides tools for opening WorkBuddy views",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Codex ↔ WorkBuddy MCP Bridge",
+    "descriptionZh": "未声明许可证的 Node.js MCP 桥，将 Codex 子任务交接到 WorkBuddy 收件箱，并提供打开 WorkBuddy 界面的工具",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Lexiang Knowledge Base Skill",
     "url": "https://github.com/tencent-lexiang/lexiang-mcp-skill",
     "description": "A license-un-declared Lexiang knowledge-base MCP Skill for search, reading, document writing, Block editing, file transfer, and external imports; its guide notes that WorkBuddy users can use the built-in Lexiang connector directly",

@@ -21,7 +21,7 @@ Last refreshed: **2026-09-05 UTC**
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,543 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,167 | JavaScript | 2026-09-04 |
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,782 | TypeScript | 2026-09-04 |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,781 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,590 | TypeScript | 2026-09-05 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,585 | Rust | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
@@ -241,6 +241,7 @@ Last refreshed: **2026-09-05 UTC**
 | [bangogo/define-product-and-roadmap](https://github.com/bangogo/define-product-and-roadmap) | 0 | Python | 2026-09-05 |
 | [Elisabeth15501/agent-analytics-report](https://github.com/Elisabeth15501/agent-analytics-report) | 0 | Python | 2026-09-04 |
 | [masclown/usage-monitor-plugin-workbuddy](https://github.com/masclown/usage-monitor-plugin-workbuddy) | 0 | - | 2026-09-05 |
+| [ZhaoXiangyu99/workbuddy-mcp](https://github.com/ZhaoXiangyu99/workbuddy-mcp) | 0 | JavaScript | 2026-07-20 |
 | [maning636/workbuddy-runbook](https://github.com/maning636/workbuddy-runbook) | 0 | - | 2026-07-17 |
 | [wangjialiang678/org-context](https://github.com/wangjialiang678/org-context) | 0 | Python | 2026-09-04 |
 | [Ketian823/delivery-razor](https://github.com/Ketian823/delivery-razor) | 0 | Python | 2026-09-04 |

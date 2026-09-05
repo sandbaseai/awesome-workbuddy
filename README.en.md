@@ -261,6 +261,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Tools and integrations
 
+- [Codex ↔ WorkBuddy MCP Bridge](https://github.com/ZhaoXiangyu99/workbuddy-mcp) - A license-un-declared Node.js MCP bridge that hands Codex subtasks to a WorkBuddy inbox and provides tools for opening WorkBuddy views
 - [Lexiang Knowledge Base Skill](https://github.com/tencent-lexiang/lexiang-mcp-skill) - A license-un-declared Lexiang knowledge-base MCP Skill for search, reading, document writing, Block editing, file transfer, and external imports; its guide notes that WorkBuddy users can use the built-in Lexiang connector directly
 - [Claude Code Router](https://github.com/musistudio/claude-code-router) - An MIT-licensed local model router and Agent control plane with explicit WorkBuddy support, unifying model, account, failover, tool, and MCP configuration
 - [Qwen MM Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) - An Apache-2.0 multimodal Agent Skills/MCP collection from Qwen with setup paths for WorkBuddy, QoderWork, and QwenWork, covering educational video, document, and vision tasks
