@@ -2990,6 +2990,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Skillmanager",
+    "url": "https://github.com/buben12310/skillmanager",
+    "description": "An MIT-licensed Flutter + Go desktop manager for Skills and MCPs across Claude Code, Codex, OpenCode, Hermes, Trae, ZCode, and WorkBuddy; review its local configuration scan scope and write permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Skillmanager",
+    "descriptionZh": "MIT 许可的 Flutter + Go 桌面管理器，统一管理 Claude Code、Codex、OpenCode、Hermes、Trae、ZCode 和 WorkBuddy 的 Skills 与 MCP；使用前请核对本地配置扫描范围和写入权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "SkillDeck",
     "url": "https://github.com/crossoverJie/SkillDeck",
     "description": "An MIT-licensed open-source macOS Skill manager with explicit WorkBuddy/CodeBuddy support",
@@ -3910,6 +3920,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "workbuddy-buddy",
+    "url": "https://github.com/FlashFamily/workbuddy-buddy",
+    "description": "An MIT-licensed macOS WorkBuddy status pet that projects structural lifecycle events into Agent status, approval bubbles, and completion/blocked indicators without reading prompts, replies, tool arguments, or file paths by default; community installers are ad-hoc signed and not notarized, while remote Control Plane pairing adds network and device-pairing considerations, so review sources and permissions first",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Buddy",
+    "descriptionZh": "MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "zisla",
     "url": "https://github.com/wzz6423/zisla",
     "description": "A macOS top-of-screen workspace with a license file and explicit WorkBuddy local-activity monitoring, combining Agent status, Skill management, file tools, and system utilities while avoiding conversation bodies by default; installation trusts a third-party Homebrew tap, and releases are ad-hoc signed and not notarized, so review permissions and update sources in its README",
@@ -3997,16 +4017,6 @@
     "category": "Community clients and enhancements",
     "titleZh": "WorkBuddy Dream Skin（macOS）",
     "descriptionZh": "MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar",
-    "categoryZh": "Community clients and enhancements"
-  },
-  {
-    "title": "WorkBuddy Buddy",
-    "url": "https://github.com/FlashFamily/workbuddy-buddy",
-    "description": "An MIT-licensed macOS WorkBuddy status pet that shows thinking, tool use, approval waits, completion, and failure, and can feed allow/deny decisions back to WorkBuddy",
-    "section": "Open-source Ecosystem",
-    "category": "Community clients and enhancements",
-    "titleZh": "WorkBuddy Buddy",
-    "descriptionZh": "MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy",
     "categoryZh": "Community clients and enhancements"
   },
   {

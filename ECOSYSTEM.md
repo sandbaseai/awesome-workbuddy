@@ -9,8 +9,8 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,891 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,969 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,893 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,970 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -55,7 +55,7 @@ Last refreshed: **2026-09-05 UTC**
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 578 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
-| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 546 | Python | 2026-09-02 |
+| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 547 | Python | 2026-09-02 |
 | [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
 | [zhangxiaoqiang1991/luopan](https://github.com/zhangxiaoqiang1991/luopan) | 379 | HTML | 2026-07-18 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
@@ -407,5 +407,6 @@ Last refreshed: **2026-09-05 UTC**
 | [BlueSkyXN/tencent-workbuddy-sdk](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) | 0 | Python | 2026-07-31 |
 | [junxi-fan/workbuddy-migration-guide](https://github.com/junxi-fan/workbuddy-migration-guide) | 0 | Python | 2026-08-15 |
 | [ozrwayne/WorkBuddy-Skins](https://github.com/ozrwayne/WorkBuddy-Skins) | 0 | Rust | 2026-07-20 |
+| [buben12310/skillmanager](https://github.com/buben12310/skillmanager) | 0 | Dart | 2026-07-11 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
