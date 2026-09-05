@@ -9,8 +9,8 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,089 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,076 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,751 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,954 | TypeScript | 2026-09-03 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,753 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,956 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,547 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
@@ -47,7 +47,7 @@ Last refreshed: **2026-09-05 UTC**
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
-| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 189 | TypeScript | 2026-09-02 |
+| [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 190 | TypeScript | 2026-09-02 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 174 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
@@ -77,9 +77,11 @@ Last refreshed: **2026-09-05 UTC**
 | [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) | 44 | JavaScript | 2026-09-05 |
 | [PomeloR611/libtv-video-agent](https://github.com/PomeloR611/libtv-video-agent) | 43 | - | 2026-08-06 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | TypeScript | 2026-06-15 |
+| [maochengsun16-code/bazi-analysis-skill](https://github.com/maochengsun16-code/bazi-analysis-skill) | 39 | Python | 2026-07-02 |
 | [squallopen/superpowers-zh-adapters](https://github.com/squallopen/superpowers-zh-adapters) | 37 | PowerShell | 2026-08-17 |
 | [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 35 | TypeScript | 2026-09-04 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | JavaScript | 2026-05-17 |
+| [shrek-abaper/sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | 34 | Python | 2026-08-17 |
 | [AiToByte/AgenticMetaEngineering](https://github.com/AiToByte/AgenticMetaEngineering) | 33 | - | 2026-04-13 |
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | TypeScript | 2026-08-25 |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 32 | Python | 2026-08-30 |
