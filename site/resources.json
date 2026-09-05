@@ -1780,6 +1780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "DocuGenius",
+    "url": "https://github.com/bruc3van/DocuGenius",
+    "description": "An MIT-licensed open-source editor extension that converts Word, Excel, PowerPoint, and PDF files into structured Markdown for WorkBuddy/CodeBuddy and other AI tools; it supports marketplace and VSIX installation, reads local documents, and writes output files, so confirm sensitive-data scope and conversion quality first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DocuGenius",
+    "descriptionZh": "MIT 许可的开源编辑器插件，可将 Word、Excel、PowerPoint 和 PDF 转成结构化 Markdown，便于 WorkBuddy/CodeBuddy 等 AI 工具读取；支持插件市场和 VSIX 安装，处理本地文档并写入输出目录，使用前请确认敏感资料范围和转换结果",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "workbuddy-api (simplast)",
     "url": "https://github.com/simplast/workbuddy-api",
     "description": "An MIT-licensed lightweight Node.js 18+ local proxy that connects CodeBuddy/WorkBuddy to OpenAI-compatible clients and the Vercel AI SDK, exposing chat, model, and health endpoints; it handles API keys, prompts, and upstream request headers through unofficial protocol behavior, so protect environment files, keep loopback binding, review upstream URLs, and follow account terms",

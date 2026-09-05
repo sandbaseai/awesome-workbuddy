@@ -22,7 +22,6 @@ Last refreshed: **2026-09-05 UTC**
 | [THU-linxiang/auto-dev-agent-system](https://github.com/THU-linxiang/auto-dev-agent-system) | 22 | 2026-08-21 | Not declared | A file-based, validator-gated CodeBuddy harness that turns PRDs into traceable native Android Automotive OS (AAOS) applications with recoverable multi-agent workflows. |
 | [srp33/CodeBuddy](https://github.com/srp33/CodeBuddy) | 20 | 2026-09-01 | AGPL-3.0 | CodeBuddy: A programming assignment management system for short-form exercises |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 18 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
-| [bruc3van/DocuGenius](https://github.com/bruc3van/DocuGenius) | 17 | 2026-04-28 | Not declared | DocuGenius 是一个 VSCode 插件，将 Word、Excel、PowerPoint、PDF 转换为结构化的 Markdown，让 Trae AI、CodeBuddy、Cursor 等 AI 编程工具能够原生理解你的产品文档、数据表格和技术资料。 |
 | [821869798/com.unifan.ides](https://github.com/821869798/com.unifan.ides) | 16 | 2026-05-08 | Non-standard / unrecognized | Support multi AI IDEs(e.g., Cursor, Windsurf, Kiro,Trae, Trae CN,Qoder, Antigravity, CodeBuddy, CodeBuddy CN) in Unity |
 | [mengxn/codebuddy-proxy-gateway](https://github.com/mengxn/codebuddy-proxy-gateway) | 14 | 2026-06-02 | Not declared | 将 Codex CLI 和 Claude Code 的 API 请求转发到本地 CodeBuddy CLI --serve 模式 |
 | [hailinzhao/antigravity-tools](https://github.com/hailinzhao/antigravity-tools) | 13 | 2026-06-25 | Not declared | workbuddy/codebuddy 批量签到，apikey代理 |
