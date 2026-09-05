@@ -135,6 +135,9 @@
 
 ### Ready-to-use Skills
 
+- [SpecGate](https://github.com/supernisy/specgate) - MIT 许可的确定性验收契约门禁 Skill，提供明确的 WorkBuddy 用户级或项目级安装路径，可将需求转换为可验证契约和任务包；首次运行会安装依赖并执行本地脚本，使用前请审查其安装范围
+- [Turning Ideas into Projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) - MIT 许可的项目工作流 Skill，提供腾讯 WorkBuddy 专用 ZIP，可将模糊想法拆成经过批准、可验证的阶段；不同平台的安装包不可混用，导入前请按官方说明操作
+
 - [跟党走 Gendangzou Skill](https://github.com/MobiusQuant/Gendangzou-skill) - Apache-2.0 许可的可溯源 A 股板块研究 Skill，明确支持 WorkBuddy，覆盖政策、权威媒体、资金、公司和 ETF 关系；行情与研究结果仅供参考，使用前请核对数据时效和投资风险
 - [Awesome Research Skills](https://github.com/Yila-AI/awesome-research-skills) - Apache-2.0 许可的研究 Skills 集合，面向 WorkBuddy-style research agents，覆盖文献、证据、数据、写作和演示工作流；引用和结论仍需人工复核
 
@@ -342,6 +345,7 @@
 
 ### Tools and integrations
 
+- [27c.site](https://github.com/idea-internet/idea_internet) - MIT 许可的 AI 网站发布平台，明确支持 WorkBuddy 通过 MCP 或 HTTP API 创建、生成素材并发布网站；发布操作会产生外部网络与公开内容，使用前请确认域名、凭据、素材和回滚边界
 - [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) - Apache-2.0 许可的跨平台 Agent 与 MCP 管理桌面应用，支持 WorkBuddy 会话、用量、记忆和 Skill 共享，并提供本地遥测端点；默认会读取本地会话或转录文件，使用前请检查扫描范围和发送策略
 - [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - Apache-2.0 许可的 AI Coding Agent 本地遥测采集器，明确支持 WorkBuddy 的 Hook 和本地 transcript 采集，可导出 Token、费用、Trace 与安全审计数据；启用前请确认内容采集策略和导出目标
 - [Meldwork](https://github.com/Ryder-MHumble/Meldwork) - Apache-2.0 许可的本地多 Agent 工作区，支持调用 WorkBuddy 等本地 Agent CLI，并提供隔离工作区、权限和人工决策流程；当前 macOS 预览包为 ad-hoc 签名且未公证，优先按源码构建或审查发布包

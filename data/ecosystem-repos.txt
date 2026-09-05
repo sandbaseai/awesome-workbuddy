@@ -445,6 +445,9 @@ Yila-AI/awesome-research-skills
 Zafer-Liu/Agent_Manager
 alibaba/loongsuite-pilot
 Ryder-MHumble/Meldwork
+supernisy/specgate
+jiadakong2013wy-eng/turning-ideas-into-projects
+idea-internet/idea_internet
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
