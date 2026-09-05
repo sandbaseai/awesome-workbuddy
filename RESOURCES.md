@@ -268,6 +268,7 @@
 
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - 许可未声明的 WorkBuddy CN 本地协议代理，提供 OpenAI 兼容接口、流式输出、工具调用、OAuth 登录和多账号轮换，并支持 Docker 部署；它会处理本地凭证且包含自动签到功能，使用前请核对许可证、账号授权和上游服务条款
 - [collab-cli](https://github.com/yinsang0910-star/collab-cli) - MIT 许可、支持 WorkBuddy 的跨 Agent 协作 CLI，通过局域网发现和同步共享任务、记忆、收件箱与审查结果；支持 Agent 间派发命令，使用前请配置共享密钥并限制网络与执行权限
+- [Agent Chamber](https://github.com/LtyFantasy/agent-chamber) - MIT 许可的自托管 Agent 协作中间件，README 明确将 WorkBuddy 列为支持的 harness，通过 MCP/REST 提供话题、任务看板和文档空间；Docker Compose 默认使用本地端口，接入需要为 Agent 创建 API Key，暴露到公网前请配置强密钥和访问控制
 - [Codex ↔ WorkBuddy MCP Bridge](https://github.com/ZhaoXiangyu99/workbuddy-mcp) - 未声明许可证的 Node.js MCP 桥，将 Codex 子任务交接到 WorkBuddy 收件箱，并提供打开 WorkBuddy 界面的工具
 - [Lexiang Knowledge Base Skill](https://github.com/tencent-lexiang/lexiang-mcp-skill) - 未声明许可证的乐享知识库 MCP Skill，提供搜索阅读、文档写入、Block 编辑、文件上传和外部导入，并说明 WorkBuddy 可直接使用内置乐享连接器
 - [Claude Code Router](https://github.com/musistudio/claude-code-router) - MIT 许可的本地模型路由与 Agent 控制面，明确支持 WorkBuddy，可统一配置模型、账号、故障转移、工具和 MCP

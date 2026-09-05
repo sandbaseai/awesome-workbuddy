@@ -70,7 +70,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 140 | Python | 2026-08-07 |
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
-| [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | Go | 2026-07-08 |
+| [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 122 | Go | 2026-07-08 |
 | [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 114 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
@@ -160,6 +160,7 @@ Last refreshed: **2026-09-05 UTC**
 | [WaterCMY/A-share-watch-copilot](https://github.com/WaterCMY/A-share-watch-copilot) | 13 | HTML | 2026-09-01 |
 | [darker2016/workbuddy-skill-groups](https://github.com/darker2016/workbuddy-skill-groups) | 13 | Python | 2026-08-16 |
 | [laubeing-droid/unified-legal-ai-cn](https://github.com/laubeing-droid/unified-legal-ai-cn) | 13 | Python | 2026-06-12 |
+| [LtyFantasy/agent-chamber](https://github.com/LtyFantasy/agent-chamber) | 13 | TypeScript | 2026-09-02 |
 | [liubinne/workbuddy-free-credits](https://github.com/liubinne/workbuddy-free-credits) | 12 | Python | 2026-07-13 |
 | [JipZeonGit/codebuddy-ide-cn-linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) | 12 | Shell | 2026-09-02 |
 | [maojiebc/majia-huiyuan](https://github.com/maojiebc/majia-huiyuan) | 12 | Python | 2026-09-03 |
@@ -222,7 +223,7 @@ Last refreshed: **2026-09-05 UTC**
 | [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-03 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
-| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | - | 2026-09-05 |
+| [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
