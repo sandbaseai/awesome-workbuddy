@@ -8,35 +8,29 @@ English · [简体中文](README.md)
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
 
-New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE.md), or use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to filter by keyword and category.
+New to WorkBuddy? Start with the [one-minute chooser and quick start](START_HERE.md), then try a featured resource below. You can also use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to find resources by keyword.
 
-For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
+WorkBuddy is Tencent's AI Agent workspace for research, document, data, design, and development tasks. This list brings official documentation, Skills, MCP integrations, workflows, and examples together in one place.
 
-WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
+For machine-readable navigation, see [`site/llms.txt`](site/llms.txt).
 
 > [!IMPORTANT]
 > This is an independent community index, not a Tencent publication. Before installing any third-party Skill, MCP server, connector, or enhancement, inspect its source, permissions, and data flow. Never upload secrets, personal data, or unredacted company material without an appropriate review.
 
 ## Start with these
 
-- [One-minute quick start](#start-here)
+- [Choose a starting point](#start-here)
 - [Featured resources](#featured-resources)
 - [Full searchable catalog](https://sandbaseai.github.io/awesome-workbuddy/)
-- [Feedback and issues](https://github.com/sandbaseai/awesome-workbuddy/issues)
+- [Feedback or resource suggestions](https://github.com/sandbaseai/awesome-workbuddy/issues)
 
 ## Start Here
 
-- [Product homepage](https://www.workbuddy.ai/) - Product overview, downloads, and plan information.
-- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - The authoritative documentation hub.
-- [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - From installation to a first completed task.
-- [Install on macOS](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Official requirements, download, installation, sign-in, and update steps for Mac.
-- [Install on Windows](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Official requirements, download, installation, sign-in, and update steps for Windows.
-- [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management.
-- [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery.
-- [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Product capabilities, fixes, and compatibility changes.
-- [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - Create one-time or recurring tasks and send results to connected platforms.
-- [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - Connect external tools and data through visual configuration.
-- [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - Create, test, publish, and connect an enterprise Agent to messaging channels.
+- [Product homepage](https://www.workbuddy.ai/) - Download WorkBuddy and see what it can do.
+- [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - Go from installation to a first completed task.
+- [One-minute chooser](START_HERE.md) - Choose between a task, Skill, MCP, Automation, or enterprise Agent.
+
+More installation, automation, MCP, and enterprise Agent guides are available in the [full catalog](https://sandbaseai.github.io/awesome-workbuddy/).
 
 ## Featured resources
 
