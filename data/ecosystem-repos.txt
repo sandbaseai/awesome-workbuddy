@@ -32,6 +32,7 @@ AlephAITech/WorkBuddyGuide
 xiaolai/ai-cli-kickstarter
 Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
+squallopen/superpowers-zh-adapters
 Tencent/workbuddy-bench
 Tencent/LoopForge
 AlanHuang168/AI-Project-Workflow
