@@ -7,10 +7,10 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,672 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,673 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,941 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,307 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,533 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,534 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,921 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,775 | Go | 2026-09-05 |
@@ -142,6 +142,7 @@ Last refreshed: **2026-09-05 UTC**
 | [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
 | [MAXXXXXLI/workbuddy-cn-legal-skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) | 9 | - | 2026-05-14 |
 | [62656456/ai-film-skills](https://github.com/62656456/ai-film-skills) | 9 | Python | 2026-09-05 |
+| [xscanzm/wechat-4x-decrypt](https://github.com/xscanzm/wechat-4x-decrypt) | 8 | Python | 2026-08-12 |
 | [SuperChason/ontology-driven-ai-data-management-skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) | 8 | Python | 2026-08-31 |
 | [MWang-TS/kindle2workbuddy](https://github.com/MWang-TS/kindle2workbuddy) | 8 | Python | 2026-08-11 |
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-05 |

@@ -158,6 +158,7 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 ### Ready-to-use Skills
 
+- [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - An MIT-licensed Windows-only WorkBuddy Skill for decrypting and searching local Weixin 4.x chat databases, with timestamped digests and structured exports; it extracts decryption material from the user's running account process and creates plaintext databases, so confirm authorization and participant privacy, protect keys/exports, review the upstream tool, and plan deletion and backups first.
 - [CareerStar](https://github.com/HanGu007/workbuddy-career-skills) - An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking; it handles resume and employment data and can use IMA and Qichacha connectors, so redact inputs and review authorization, data flow, and background-check conclusions first.
 
 - [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) - An MIT-licensed downloadable WorkBuddy Skill supporting local reference-image analysis, private theme generation, ten built-in skins, screenshot verification, and failure recovery; themes stay local by default, so confirm image rights, external-research scope, and local CDP permissions before use.
