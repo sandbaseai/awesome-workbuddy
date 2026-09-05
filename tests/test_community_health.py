@@ -31,7 +31,7 @@ class CommunityHealthTests(unittest.TestCase):
             "authors:",
             'repository-code: "https://github.com/sandbaseai/awesome-workbuddy"',
             'license: CC0-1.0',
-            "version: 0.10.23",
+            "version: 0.10.24",
             "date-released: 2026-09-05",
         ):
             self.assertIn(field, citation)
