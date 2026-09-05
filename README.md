@@ -8,35 +8,29 @@
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
 
-第一次使用？从 [一分钟选型与快速开始](START_HERE.md) 开始，或打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词与分类筛选。
+第一次使用？先看 [一分钟选型与快速开始](START_HERE.md)，再从下面的精选资源开始。也可以打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词查找。
 
-供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
+WorkBuddy 是腾讯推出的 AI Agent 工作台，可用自然语言完成研究、文档、数据、设计和开发任务。本清单把官方资料、Skills、MCP、工作流和案例集中在一起。
 
-WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
+机器可读目录见 [`site/llms.txt`](site/llms.txt)。
 
 > [!IMPORTANT]
 > 这是社区维护的第三方索引，不代表腾讯。安装第三方 Skill、MCP 或连接器前，请检查源码、权限和数据流向；不要上传密钥、个人隐私或未脱敏的公司资料。
 
 ## 先看这里
 
-- [一分钟上手](#start-here)
+- [先选一个目标](#start-here)
 - [精选资源](#精选资源)
 - [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/)
-- [反馈问题](https://github.com/sandbaseai/awesome-workbuddy/issues)
+- [反馈或推荐资源](https://github.com/sandbaseai/awesome-workbuddy/issues)
 
 ## Start Here
 
-- [Product homepage](https://www.workbuddy.ai/) - 产品能力、下载与套餐入口.
-- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南的权威入口.
-- [Quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - 从安装到完成第一个任务.
-- [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Mac 环境要求、下载、安装、登录与版本更新的官方步骤.
-- [Windows 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Windows 环境要求、下载、安装、登录与版本更新的官方步骤.
-- [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 涵盖任务表达、迭代、示例、备份、自动化和上下文管理的官方实践建议.
-- [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装登录、平台连接、文件、工作空间与会话恢复的官方排障入口.
-- [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 版本能力、修复与兼容性变化.
-- [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - 创建一次性或周期任务，并向连接的平台推送结果.
-- [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - 通过可视化配置连接外部工具与数据源.
-- [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - 创建、测试、发布企业 Agent 并接入消息渠道.
+- [产品主页](https://www.workbuddy.ai/) - 下载 WorkBuddy，查看产品能力。
+- [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) - 从安装到完成第一个任务。
+- [一分钟选型](START_HERE.md) - 判断该用普通任务、Skill、MCP、Automation 还是企业 Agent。
+
+更多安装、自动化、MCP 和企业 Agent 文档收在 [完整资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 中。
 
 ## 精选资源
 
@@ -49,7 +43,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - 为 WorkBuddy/Agent 提供团队记忆能力.
 - [AgentsView](https://github.com/kenn-io/agentsview) - 在本地查看和分析 Agent 会话.
 
-下面的完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类；也可以直接使用上方的可搜索目录。
+完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类；也可以直接使用上方的可搜索目录。
 
 <details>
 <summary>展开完整目录</summary>
