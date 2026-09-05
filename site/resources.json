@@ -1690,6 +1690,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Zhengneng Japanese",
+    "url": "https://github.com/notbadhuang/notbadhuang-japanese-skill",
+    "description": "A CC BY-NC 4.0 WorkBuddy/Codex Japanese-learning Skill with 0-to-N5 course installation, study orchestration, and local learning records",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "正能日语",
+    "descriptionZh": "CC BY-NC 4.0 的 WorkBuddy/Codex 日语学习 Skill，提供 0 到 N5 的课程安装、学习编排和本地学习记录",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Guide",
     "url": "https://github.com/Neo5093/workbuddy-guide",
     "description": "An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs",
@@ -1817,6 +1827,16 @@
     "category": "Ready-to-use Skills",
     "titleZh": "Bruce Draw.io",
     "descriptionZh": "生成、校验并导出 draw.io 图表的跨平台 Skill",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "make-knowledge-cards",
+    "url": "https://github.com/Thome56/article-to-knowledge-cards",
+    "description": "An MIT-licensed WorkBuddy Skill that turns an article into 5–8 faithful knowledge cards",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "make-knowledge-cards",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片",
     "categoryZh": "Ready-to-use Skills"
   },
   {
@@ -2487,6 +2507,16 @@
     "category": "Tools and integrations",
     "titleZh": "WorkBuddy CLIProxy provider",
     "descriptionZh": "MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "CPA Multi Plugins",
+    "url": "https://github.com/mmqz/cpa-multi-plugins",
+    "description": "An MIT-licensed CLIProxyAPI plugin suite for WorkBuddy, CodeBuddy, Trae, and Qoder, with multi-platform model access, check-ins, and quota tracking",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CPA Multi Plugins",
+    "descriptionZh": "MIT 许可的 CLIProxyAPI 插件集合，为 WorkBuddy、CodeBuddy、Trae 和 Qoder 提供多平台模型接入、签到与配额管理",
     "categoryZh": "Tools and integrations"
   },
   {

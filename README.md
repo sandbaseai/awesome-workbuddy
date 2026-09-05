@@ -231,6 +231,7 @@
 - [Math Concept Film](https://github.com/liangdabiao/math-concept-film) - 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱系树
 - [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) - MIT 许可、面向 Windows 的跨设备任务续接 Skill，以 WPS 云盘 Junction 为主通道、HANDOFF/记忆文件为交接通道，并用守护进程与看门狗维持同步
+- [正能日语](https://github.com/notbadhuang/notbadhuang-japanese-skill) - CC BY-NC 4.0 的 WorkBuddy/Codex 日语学习 Skill，提供 0 到 N5 的课程安装、学习编排和本地学习记录
 
 
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - 可直接安装的 WorkBuddy 使用与故障排查 Skill，覆盖连接器、专家、自动化、记忆、交互模式和常见问题
@@ -246,6 +247,7 @@
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - 生成、校验并导出 draw.io 图表的跨平台 Skill.
+- [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - 由七个 Skills 和飞书工作区组成的开源求职系统.
 - [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - 基于证据研究当前职位与 JD，对照简历和项目证据并规划求职行动
@@ -316,6 +318,7 @@
 - [CodeBuddy IDE CN for Linux](https://github.com/JipZeonGit/codebuddy-ide-cn-linux) - MIT 许可的非官方 Linux 打包适配工具，将用户自行从腾讯官方 CDN 获取的 CodeBuddy CN x86_64 DEB 在本机转换为 Arch/AUR、RPM 或 AppImage
 - [Buddy2api](https://github.com/wicm84266964/Buddy2api) - MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接入 OpenAI 兼容接口，支持 Codex Responses、Docker 和 API Key 通道路由
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新
+- [CPA Multi Plugins](https://github.com/mmqz/cpa-multi-plugins) - MIT 许可的 CLIProxyAPI 插件集合，为 WorkBuddy、CodeBuddy、Trae 和 Qoder 提供多平台模型接入、签到与配额管理
 - [CodeBuddy OpenAI Proxy (Jevil961)](https://github.com/Jevil961/codebuddy-openai-proxy) - MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为 OpenAI 兼容 API
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - MIT 许可的 Windows 远程浏览器桥接，复用桌面版 WorkBuddy 的官方 WebUI，通过本机 CDP 提供远程页面和调用转发
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库
