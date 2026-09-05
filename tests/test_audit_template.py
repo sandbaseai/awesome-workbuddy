@@ -24,8 +24,12 @@ class AuditTemplateTests(unittest.TestCase):
         self.assertIn("\n## Audit result\n\n", template)
         self.assertIn("\n## Decision\n\n", template)
         self.assertIn(
-            "state the concrete evidence needed for the next decision. --> This issue is an audit record, not an endorsement.",
+            "Hold, curate, or exclude; state the concrete evidence needed for the next decision. This issue is an audit record, not an endorsement.",
             template,
         )
+        self.assertIn("https://github.com/owner/repository", template)
+        self.assertIn("- Describe the published contents", template)
+        self.assertNotIn("<!--", template)
+        self.assertNotIn("-->", template)
         self.assertNotIn("## Candidate", template)
         self.assertNotIn("\\\\n", template)
