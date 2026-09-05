@@ -1,22 +1,12 @@
 [
   {
-    "title": "Product homepage",
-    "url": "https://www.workbuddy.ai/",
-    "description": "Download WorkBuddy and see what it can do",
+    "title": "Search the resource directory",
+    "url": "https://sandbaseai.github.io/awesome-workbuddy/",
+    "description": "Filter by keyword or category",
     "section": "Start Here",
     "category": "Start Here",
-    "titleZh": "产品主页",
-    "descriptionZh": "下载 WorkBuddy，查看产品能力。",
-    "categoryZh": "Start Here"
-  },
-  {
-    "title": "Official quick start",
-    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart",
-    "description": "Go from installation to a first completed task",
-    "section": "Start Here",
-    "category": "Start Here",
-    "titleZh": "官方快速开始",
-    "descriptionZh": "从安装到完成第一个任务。",
+    "titleZh": "可搜索资源目录",
+    "descriptionZh": "按关键词和类别查找。",
     "categoryZh": "Start Here"
   },
   {
@@ -918,6 +908,16 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引；默认回环服务使用本地 SQLite/FTS5，可按需扫描源码、Markdown 与 Git 历史写入记忆，LLM 抽取/评测可读取 `OPENAI_API_KEY` 并访问配置的模型端点，使用前请核对扫描目录、MCP 写入工具、端口、日志、密钥和数据保留",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "CareerStar",
+    "url": "https://github.com/HanGu007/workbuddy-career-skills",
+    "description": "An MIT-licensed WorkBuddy career expert package for resume diagnosis and rewriting, interview coaching, company research, HTML resumes, and application tracking; it handles resume and employment data and can use IMA and Qichacha connectors, so redact inputs and review authorization, data flow, and background-check conclusions first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "CareerStar（职途星）",
+    "descriptionZh": "MIT 许可的 WorkBuddy 求职专家包，覆盖简历诊断/改写、面试辅导、企业信息查询、HTML 简历和投递追踪；会处理简历与就业资料，并可连接 IMA、企查查等外部服务，使用前请脱敏并核对授权、数据流和背调结论",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "WorkBuddy Skin Skill",
