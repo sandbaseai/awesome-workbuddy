@@ -1350,6 +1350,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "TencentDB Agent Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "description": "An MIT-licensed team Agent-memory hub maintained by Tencent with direct WorkBuddy Proxy integration, turning sessions, documents, and code into Chat Memory, Skills, an LLM Wiki, and CodeGraph through a local Docker stack; deployment configures two groups of model API keys, the Proxy stores user keys, receives session/task content, and listens on several local ports, while team sharing expands sensitive-data and permission boundaries, so review model providers, keys, ports, user-level keys, retention, and team access control",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "TencentDB Agent Memory",
+    "descriptionZh": "MIT 许可、腾讯维护的团队级 Agent 记忆中枢，直接提供 WorkBuddy Proxy 接入，可将会话、文档和代码沉淀为 Chat Memory、Skill、LLM Wiki 与 CodeGraph，并通过本地 Docker 服务统一注入；部署需配置两组模型 API Key，Proxy 会保存用户 Key、接收会话/任务内容并监听多个本地端口，团队共享会扩大敏感资料与权限边界，使用前请核对模型服务、密钥、端口、用户级 Key、数据留存和团队访问控制",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "WorkIsland",
     "url": "https://github.com/qianzhu18/workisland",
     "description": "An Apache-2.0 local Agent status and attention router for Apple Silicon macOS with native WorkBuddy/CodeBuddy, Codex, Claude Code, and other integrations, providing task monitoring, approval/question handling, and source-session navigation. It installs local hooks, observes task/transcript signals, stores clipboard history and terminal state, and sends approval replies that change Agent execution; packaged builds also enable opt-out anonymous PostHog telemetry and perform update checks, so review hook changes, the telemetry allowlist, log/clipboard scope, and every approval before use. Public Windows releases are currently paused",
