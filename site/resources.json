@@ -1830,6 +1830,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "WorkBuddy Auto Check-in",
+    "url": "https://github.com/liubinne/workbuddy-free-credits",
+    "description": "An MIT-licensed macOS/Windows WorkBuddy daily check-in Skill with credential-path checks, a single-instance lock, sanitized logs, scheduled-task install/uninstall, legacy-job backup, and tests; it reads only the current user's local login state and calls a Tencent endpoint, but still handles account-equivalent credentials and performs account actions, so review source, credential/log permissions, official terms, and authorization scope, and never use it on others' accounts or for batch point farming",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Auto Check-in",
+    "descriptionZh": "MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任务安装/卸载、旧任务备份和测试；它只代表当前用户读取本机登录态并调用腾讯接口，仍会处理账号等价凭据并执行账号操作，使用前应核对源码、凭据/日志权限、官方条款和授权范围，不得用于他人账户或批量刷分",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkDaddy",
     "url": "https://github.com/babygoton/WorkDaddy",
     "description": "A desktop enhancement for backups, session migration, and long-running task support",
