@@ -135,6 +135,8 @@
 
 ### Ready-to-use Skills
 
+- [Majia Guanyuan BI Skill](https://github.com/maojiebc/majia-guanyuan) - An MIT-licensed Guandata BI enhancement Skill whose README explicitly marks WorkBuddy compatibility, covering ETL governance, error diagnosis, custom charts, and data-analysis workflows; it can access enterprise BI tools and data, so confirm account permissions, data scope, and official API terms first
+
 - [Cyber Bookhouse](https://github.com/Raven7979/cyber-bookhouse) - An MIT-licensed local Obsidian-ingestion Skill for Codex, Claude, and WorkBuddy that turns articles, videos, and podcasts into sourced Markdown notes; confirm content authorization and sensitive-data boundaries before processing local or online material
 - [Qianjin Content Repurposer](https://github.com/ZOORO-NEW/qianjin-content-repurposer) - An MIT-licensed content-repurposing Skill with a WorkBuddy-specific installation path, turning one article into native content for WeChat, Xiaohongshu, Zhihu, Bilibili, Video Account, and Douyin; manually review facts, rights, and platform rules before publishing
 - [Personalized Travel Guide Skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - An MIT-licensed travel-guide Skill with explicit WorkBuddy support that outputs mobile-friendly web handbooks for routes, sights, food, and preparation; travel information changes, so verify it through official sources before a trip

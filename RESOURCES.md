@@ -135,6 +135,8 @@
 
 ### Ready-to-use Skills
 
+- [观远 BI 马甲实战 Skill](https://github.com/maojiebc/majia-guanyuan) - MIT 许可的观远 BI 增强 Skill，README 明确标注 WorkBuddy 兼容，覆盖 ETL 治理、报错排查、自定义图表和数据分析流程；它会调用企业 BI 工具与数据，使用前请确认账号权限、数据范围和官方 API 条款
+
 - [赛博书屋](https://github.com/Raven7979/cyber-bookhouse) - MIT 许可的本地 Obsidian 内容沉淀 Skill，支持 Codex、Claude 和 WorkBuddy，将文章、视频与播客整理为带来源的 Markdown 笔记；处理本地文件和在线内容前请确认授权与敏感信息范围
 - [一鱼多吃内容转化 Skill](https://github.com/ZOORO-NEW/qianjin-content-repurposer) - MIT 许可的内容再创作 Skill，提供 WorkBuddy 专用安装路径，可将一篇长文转换为微信公众号、小红书、知乎、B 站、视频号和抖音内容；发布前请人工核对事实、版权和平台规则
 - [个性化旅行手册 Skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) - MIT 许可的旅行攻略生成 Skill，明确支持 WorkBuddy，可输出适合手机阅读的路线、景点、餐饮和准备事项网页；旅行信息会变化，出行前请回到官方渠道核验
