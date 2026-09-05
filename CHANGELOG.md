@@ -7,6 +7,7 @@
 - Curated the Apache-2.0 `shajoezhu/skills_codebuddy_rpackagedev` R-package Skill collection with attribution and user-directory installation guidance.
 - Curated the MIT-licensed `taikaikaikai-pixel/dsh-codebuddy-plugin` with credential, loopback bridge, external-network, and generated-file boundaries.
 - Curated the MIT-licensed `MWang-TS/kindle2workbuddy` dashboard Skill with WorkBuddy database, SSH, LAN, external-weather, device, and scheduler boundaries.
+- Curated the MIT-licensed `gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge` MCP bridge with explicit `fullAccess`, ACP, transcript, prompt, and local-log boundaries.
 
 ## v0.10.12 — 2026-09-05
 

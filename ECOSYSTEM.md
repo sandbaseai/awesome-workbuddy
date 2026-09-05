@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,597 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,598 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,936 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,506 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -127,6 +127,7 @@ Last refreshed: **2026-09-05 UTC**
 | [ycyliu/travel-planner-skill](https://github.com/ycyliu/travel-planner-skill) | 11 | HTML | 2026-03-19 |
 | [jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | 11 | HTML | 2026-07-22 |
 | [orangeboyChen/codebuddy2api](https://github.com/orangeboyChen/codebuddy2api) | 11 | TypeScript | 2026-09-04 |
+| [gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) | 11 | Python | 2026-07-26 |
 | [itcastWsy/workbuddy-skin](https://github.com/itcastWsy/workbuddy-skin) | 9 | JavaScript | 2026-09-03 |
 | [MWang-TS/kindle2workbuddy](https://github.com/MWang-TS/kindle2workbuddy) | 8 | Python | 2026-08-11 |
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-04 |
