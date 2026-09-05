@@ -1740,6 +1740,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy2API (hawklithm)",
+    "url": "https://github.com/hawklithm/workbuddy2api",
+    "description": "An MIT-licensed, well-tested local protocol adapter that converts WorkBuddy/CodeBuddy-compatible traffic to OpenAI, Anthropic, and Responses formats, with streaming, tool calls, desensitization, and isolated multi-account state; it handles login state, prompts, tool requests, and local logs through unofficial upstream behavior, so review package provenance, credentials, ports, logs, and account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "WorkBuddy2API (hawklithm)",
+    "descriptionZh": "MIT 许可、测试覆盖较完整的本地协议兼容代理，将 WorkBuddy/CodeBuddy 接口转换为 OpenAI、Anthropic 和 Responses 格式，支持流式输出、工具调用、脱敏和多账号隔离；会处理登录态、提示词、工具请求与本地日志，并依赖非公开接口，使用前请审查包来源、凭据、端口、日志和账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Xiaohongshu Viral Note Agent Skill",
     "url": "https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill",
     "description": "An MIT-licensed WorkBuddy-compatible Skill/MCP for public trend research, note generation, claim/originality/compliance checks, account analytics, and draft-preview-approval-publish workflows; it may use login state, a browser, and external model/search providers, so review platform terms, session storage, content rights, network scope, and final publishing results first",
