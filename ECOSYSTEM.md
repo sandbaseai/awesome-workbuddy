@@ -9,9 +9,9 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,078 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,769 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,772 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,958 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,554 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,555 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,924 | - | 2026-08-12 |
@@ -170,6 +170,7 @@ Last refreshed: **2026-09-05 UTC**
 | [qianzhu18/workisland](https://github.com/qianzhu18/workisland) | 8 | JavaScript | 2026-09-05 |
 | [ben4202121/buddybridge](https://github.com/ben4202121/buddybridge) | 8 | TypeScript | 2026-09-03 |
 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | 8 | HTML | 2026-08-07 |
+| [genius916/CareerSail](https://github.com/genius916/CareerSail) | 8 | JavaScript | 2026-09-05 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
