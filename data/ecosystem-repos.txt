@@ -440,6 +440,11 @@ whiteguo233/OpenBiliClaw
 LIN-LAB-AI/smartoken
 oreogong2/TokenFleet
 susunola/lighttab
+MobiusQuant/Gendangzou-skill
+Yila-AI/awesome-research-skills
+Zafer-Liu/Agent_Manager
+alibaba/loongsuite-pilot
+Ryder-MHumble/Meldwork
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

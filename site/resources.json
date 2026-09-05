@@ -1050,6 +1050,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Gendangzou Skill",
+    "url": "https://github.com/MobiusQuant/Gendangzou-skill",
+    "description": "An Apache-2.0 traceable A-share sector-research Skill with explicit WorkBuddy support, covering policy, authoritative media, capital flows, companies, and ETFs; treat market and research output as informational and verify freshness and investment risk independently",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "跟党走 Gendangzou Skill",
+    "descriptionZh": "Apache-2.0 许可的可溯源 A 股板块研究 Skill，明确支持 WorkBuddy，覆盖政策、权威媒体、资金、公司和 ETF 关系；行情与研究结果仅供参考，使用前请核对数据时效和投资风险",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Awesome Research Skills",
+    "url": "https://github.com/Yila-AI/awesome-research-skills",
+    "description": "An Apache-2.0 research-Skill collection designed for WorkBuddy-style research agents, covering literature, evidence, data, writing, and presentation workflows; review citations and conclusions manually",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Awesome Research Skills",
+    "descriptionZh": "Apache-2.0 许可的研究 Skills 集合，面向 WorkBuddy-style research agents，覆盖文献、证据、数据、写作和演示工作流；引用和结论仍需人工复核",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "X Mentor Skill",
     "url": "https://github.com/alchaincyf/x-mentor-skill",
     "description": "An MIT-licensed X/Twitter research and writing Skill compatible with WorkBuddy and more than 50 other Agent runtimes, covering topic selection, writing, and growth workflows; follow platform rules and verify cited material before publishing",
@@ -2948,6 +2968,36 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Agent Manager",
+    "url": "https://github.com/Zafer-Liu/Agent_Manager",
+    "description": "An Apache-2.0 cross-platform desktop app for managing Agents and MCP servers, supporting WorkBuddy sessions, usage, memory, and Skill sharing with local telemetry endpoints; it reads local sessions or transcripts by default, so review scan scope and export behavior first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Agent Manager",
+    "descriptionZh": "Apache-2.0 许可的跨平台 Agent 与 MCP 管理桌面应用，支持 WorkBuddy 会话、用量、记忆和 Skill 共享，并提供本地遥测端点；默认会读取本地会话或转录文件，使用前请检查扫描范围和发送策略",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "LoongSuite Pilot",
+    "url": "https://github.com/alibaba/loongsuite-pilot",
+    "description": "An Apache-2.0 local telemetry collector for AI coding Agents with explicit WorkBuddy Hook and transcript support, exporting token, cost, trace, and security-audit data; confirm content-capture policy and export destinations before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "LoongSuite Pilot",
+    "descriptionZh": "Apache-2.0 许可的 AI Coding Agent 本地遥测采集器，明确支持 WorkBuddy 的 Hook 和本地 transcript 采集，可导出 Token、费用、Trace 与安全审计数据；启用前请确认内容采集策略和导出目标",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Meldwork",
+    "url": "https://github.com/Ryder-MHumble/Meldwork",
+    "description": "An Apache-2.0 local multi-agent workspace that invokes local Agent CLIs including WorkBuddy and provides scoped workspaces, permissions, and human decisions; its current macOS preview is ad-hoc signed and not notarized, so prefer a source build or review the release package",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Meldwork",
+    "descriptionZh": "Apache-2.0 许可的本地多 Agent 工作区，支持调用 WorkBuddy 等本地 Agent CLI，并提供隔离工作区、权限和人工决策流程；当前 macOS 预览包为 ad-hoc 签名且未公证，优先按源码构建或审查发布包",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "OpenBiliClaw",

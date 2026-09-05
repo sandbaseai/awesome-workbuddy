@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,912 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,913 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -69,6 +69,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
 | [chenjin-cmd/wechat-miniprogram-builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) | 312 | - | 2026-08-01 |
 | [alchaincyf/claude-code-orange-book](https://github.com/alchaincyf/claude-code-orange-book) | 310 | - | 2026-08-23 |
+| [MobiusQuant/Gendangzou-skill](https://github.com/MobiusQuant/Gendangzou-skill) | 307 | Python | 2026-07-28 |
 | [Cmochance/codex-app-transfer](https://github.com/Cmochance/codex-app-transfer) | 301 | Rust | 2026-08-24 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 293 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 278 | HTML | 2026-08-17 |
@@ -95,6 +96,8 @@ Last refreshed: **2026-09-05 UTC**
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 175 | JavaScript | 2026-09-01 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [Hazehacker/backend-interview-simulator](https://github.com/Hazehacker/backend-interview-simulator) | 169 | - | 2026-07-31 |
+| [Zafer-Liu/Agent_Manager](https://github.com/Zafer-Liu/Agent_Manager) | 166 | Rust | 2026-08-21 |
+| [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) | 162 | TypeScript | 2026-09-04 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
 | [iamzifei/wechat-article-publisher-skill](https://github.com/iamzifei/wechat-article-publisher-skill) | 156 | Python | 2026-08-12 |
 | [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode) | 143 | TypeScript | 2026-09-03 |
@@ -104,10 +107,12 @@ Last refreshed: **2026-09-05 UTC**
 | [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | 135 | JavaScript | 2026-09-04 |
 | [IvanCodesDev/software-certificate-skill](https://github.com/IvanCodesDev/software-certificate-skill) | 134 | Python | 2026-08-17 |
 | [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) | 130 | TypeScript | 2026-08-21 |
+| [Ryder-MHumble/Meldwork](https://github.com/Ryder-MHumble/Meldwork) | 128 | JavaScript | 2026-09-04 |
 | [NarratorAI-Studio/narrator-ai-cli](https://github.com/NarratorAI-Studio/narrator-ai-cli) | 126 | Python | 2026-07-27 |
 | [naive-kun/naive-video-skill](https://github.com/naive-kun/naive-video-skill) | 123 | Python | 2026-08-11 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 122 | Go | 2026-07-08 |
 | [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 114 | Python | 2026-09-04 |
+| [Yila-AI/awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills) | 113 | Python | 2026-09-04 |
 | [acnlie/open-kimi-ppt-skill](https://github.com/acnlie/open-kimi-ppt-skill) | 112 | - | 2026-08-06 |
 | [keith-yan/vibe-service-guardian](https://github.com/keith-yan/vibe-service-guardian) | 111 | Python | 2026-09-04 |
 | [WecomTeam/wecom-unified](https://github.com/WecomTeam/wecom-unified) | 108 | Python | 2026-08-21 |
