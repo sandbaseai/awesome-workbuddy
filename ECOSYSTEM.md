@@ -10,7 +10,7 @@ Last refreshed: **2026-09-05 UTC**
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,087 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,878 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,964 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,965 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,567 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -78,8 +78,8 @@ Last refreshed: **2026-09-05 UTC**
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 194 | Go | 2026-09-02 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 192 | TypeScript | 2026-09-02 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
+| [codesstar/loci](https://github.com/codesstar/loci) | 175 | HTML | 2026-09-03 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 175 | JavaScript | 2026-09-01 |
-| [codesstar/loci](https://github.com/codesstar/loci) | 174 | HTML | 2026-09-03 |
 | [TencentEdgeOne/awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) | 170 | HTML | 2026-06-04 |
 | [Hazehacker/backend-interview-simulator](https://github.com/Hazehacker/backend-interview-simulator) | 169 | - | 2026-07-31 |
 | [imraywang/rayskills](https://github.com/imraywang/rayskills) | 157 | Python | 2026-08-13 |
