@@ -262,3 +262,4 @@ bonboruyau-dev/html-to-feishu-doc
 bonboruyau-dev/wechat-article-to-md
 62656456/ai-film-skills
 lasoons/AgentSkillsManager
+EverMind-AI/SkillCorpus

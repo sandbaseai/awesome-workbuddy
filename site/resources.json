@@ -422,11 +422,11 @@
   {
     "title": "How to Use Agent",
     "url": "https://github.com/Lukanytsu7551/how-to-use-agent-guide",
-    "description": "An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API",
+    "description": "An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "How to Use Agent",
-    "descriptionZh": "MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策",
+    "descriptionZh": "MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径",
     "categoryZh": "Learning and reference"
   },
   {
@@ -506,7 +506,7 @@
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "WorkBuddy Harness Bluebook",
-    "descriptionZh": "拆解提示词、记忆、插件、专家、Skill 与安全边界",
+    "descriptionZh": "介绍提示词、记忆、插件、专家和 Skill",
     "categoryZh": "Learning and reference"
   },
   {
@@ -522,21 +522,21 @@
   {
     "title": "LoopForge",
     "url": "https://github.com/Tencent/LoopForge",
-    "description": "Tencent's MIT-licensed multi-agent software-delivery workflow for requirement clarification, boundary confirmation, design, implementation, independent review, testing, and resumable handoff, with CLI/Skill installation for CodeBuddy, Codex, Cursor, and Claude Code",
+    "description": "Tencent's MIT-licensed multi-agent software-delivery workflow for CodeBuddy, Codex, Cursor, and Claude Code",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "LoopForge",
-    "descriptionZh": "腾讯开源的 MIT 多智能体软件交付工作流，覆盖需求澄清、边界确认、设计、实现、独立审查、测试与可恢复交接，并为 CodeBuddy、Codex、Cursor 和 Claude Code 提供 CLI/Skill 安装入口",
+    "descriptionZh": "腾讯开源的 MIT 多智能体软件交付工作流，支持 CodeBuddy、Codex、Cursor 和 Claude Code",
     "categoryZh": "Learning and reference"
   },
   {
     "title": "AI Project Workflow",
     "url": "https://github.com/AlanHuang168/AI-Project-Workflow",
-    "description": "An MIT-licensed cross-agent software-delivery workflow with explicit CodeBuddy support, a single source of truth, stage Skill contracts, state files, artifact gates, real verification, and CLI adapters",
+    "description": "An MIT-licensed cross-agent software-delivery workflow with CodeBuddy support",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "AI Project Workflow",
-    "descriptionZh": "MIT 许可的跨 Agent 软件交付工作流，明确支持 CodeBuddy，提供单一规范源、阶段 Skill 契约、状态文件、交付物门禁、真实验证和 CLI 适配",
+    "descriptionZh": "MIT 许可的跨 Agent 软件交付工作流，支持 CodeBuddy",
     "categoryZh": "Learning and reference"
   },
   {
@@ -552,21 +552,21 @@
   {
     "title": "LazyBuddy",
     "url": "https://github.com/elvinzhao10/LazyBuddy",
-    "description": "An MIT-licensed self-contained workflow harness for WorkBuddy/CodeBuddy CLI and IDE with staged planning, host-readiness verification, reversible offboarding, MCP/Skill routes, and layered tests",
+    "description": "An MIT-licensed workflow tool for WorkBuddy/CodeBuddy CLI and IDE with planning and MCP/Skill routing",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "LazyBuddy",
-    "descriptionZh": "MIT 许可、面向 WorkBuddy/CodeBuddy CLI 与 IDE 的自包含工作流 harness，提供分级计划、主机就绪验证、可恢复卸载、MCP/Skill 路由和分层测试",
+    "descriptionZh": "MIT 许可的 WorkBuddy/CodeBuddy CLI 与 IDE 工作流工具，提供计划、MCP/Skill 路由和任务管理",
     "categoryZh": "Learning and reference"
   },
   {
     "title": "Define Product and Roadmap",
     "url": "https://github.com/bangogo/define-product-and-roadmap",
-    "description": "An MIT-licensed product-contract Skill for WorkBuddy, CodeBuddy, and Codex that aligns PRDs and experience roadmaps around evidence, user value, truth boundaries, assumptions, and acceptance criteria, with versioned templates, deterministic validators, evaluation fixtures, and tests",
+    "description": "An MIT-licensed product-planning Skill for WorkBuddy, CodeBuddy, and Codex that helps organize PRDs and roadmaps",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "Define Product and Roadmap",
-    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品契约 Skill，将 PRD 与体验路线图按证据、用户价值、真值边界、假设和验收条件对齐，并提供版本化模板、确定性验证器、评测样例和测试",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品规划 Skill，帮助整理 PRD 与路线图",
     "categoryZh": "Learning and reference"
   },
   {
@@ -616,7 +616,7 @@
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
     "titleZh": "Ontology-Driven AI Data Management Skills",
-    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP、安装脚本、版本信息、NOTICE 和校验工作流",
+    "descriptionZh": "MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本",
     "categoryZh": "Skill collections"
   },
   {
@@ -656,7 +656,17 @@
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
     "titleZh": "WorkBuddy Skill Hub",
-    "descriptionZh": "可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态",
+    "descriptionZh": "可检索 10,000 条公开 Skill 路径的来源索引与适配仓库",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "SkillCorpus",
+    "url": "https://github.com/EverMind-AI/SkillCorpus",
+    "description": "Apache-2.0 skill aggregation and retrieval infrastructure with a WorkBuddy plugin for finding and loading task-specific Skills from multiple sources",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "SkillCorpus",
+    "descriptionZh": "Apache-2.0 的 Skill 聚合与检索基础设施，提供 WorkBuddy 插件，可从多个来源查找并加载任务相关 Skill",
     "categoryZh": "Skill collections"
   },
   {
@@ -1346,7 +1356,7 @@
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
     "titleZh": "Release Skill",
-    "descriptionZh": "Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程",
+    "descriptionZh": "Apache-2.0 许可、支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的发布 Skill，覆盖版本、审批和 GitHub/npm/插件分发",
     "categoryZh": "Ready-to-use Skills"
   },
   {

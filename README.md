@@ -130,6 +130,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库.
+- [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - Apache-2.0 的 Skill 聚合与检索基础设施，提供 WorkBuddy 插件，可从多个来源查找并加载任务相关 Skill
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git、发布、版本证据和回滚
 - [i18n Helper Skills](https://github.com/liangdabiao/i18n-helper-skills) - 许可未声明、面向 WorkBuddy/Codex 等 Agent 的国际化 Skill 集合，分别处理静态 HTML 多语言目录和 React/Vue/PHP/Python/Java 等源码翻译函数，附带提取、应用与完整性检查脚本
