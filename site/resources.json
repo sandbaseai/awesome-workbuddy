@@ -1840,6 +1840,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Qwen MM Plugins",
+    "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
+    "description": "An Apache-2.0 multimodal Agent Skills/MCP collection from Qwen with setup paths for WorkBuddy, QoderWork, and QwenWork, covering educational video, document, and vision tasks; some capabilities require Node, FFmpeg, or external model services, so confirm dependencies, media rights, credentials, and upload scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Qwen MM Plugins",
+    "descriptionZh": "Apache-2.0 许可的通用多模态 Agent Skills/MCP 集合，提供 WorkBuddy、QoderWork 和 QwenWork 的安装方式，覆盖教育视频、文档和视觉任务；部分能力需要 Node、FFmpeg 或外部模型服务，使用前请确认依赖、素材版权、凭据和上传范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Huawei Cloud DevKit",
+    "url": "https://github.com/huaweicloud/huaweicloud-devkit",
+    "description": "An Apache-2.0 official Huawei Cloud Agent toolkit with explicit WorkBuddy support, Skills, MCP tools, deployment utilities, and safety guardrails; installation changes local WorkBuddy configuration and may connect to cloud resources, so confirm account permissions, target environment, cost, and data scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Huawei Cloud DevKit",
+    "descriptionZh": "Apache-2.0 许可的华为云官方 Agent 工具包，明确支持 WorkBuddy，提供 Skills、MCP、部署工具和安全护栏；安装会修改 WorkBuddy 的本地配置并可能连接云资源，使用前请确认账号权限、目标环境、费用和数据范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "CloudBase AI Toolkit",
     "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
     "description": "Tencent CloudBase's official MIT-licensed toolkit, bringing database, authentication, cloud functions, storage, and deployment Skills and MCP to WorkBuddy; it requires a CloudBase environment and account authorization, so confirm the target environment, permissions, cost, and data scope before writes or deployment",

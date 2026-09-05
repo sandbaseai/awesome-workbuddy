@@ -1,4 +1,6 @@
 # One GitHub owner/repository per line. Keep this list curated.
+QwenLM/Qwen-MM-Plugins
+huaweicloud/huaweicloud-devkit
 NarratorAI-Studio/narrator-ai-cli-skill
 TencentCloudBase/CloudBase-AI-Toolkit
 sandbaseai/workbuddy-skill
