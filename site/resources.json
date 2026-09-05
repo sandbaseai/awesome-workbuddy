@@ -3550,6 +3550,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "AT-Switch",
+    "url": "https://github.com/atswitch/at-switch",
+    "description": "An MIT-licensed local AI Agent provider and model switcher for macOS and Windows, with explicit WorkBuddy support, model management, protocol conversion, configuration backups, and rollback",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "AT-Switch",
+    "descriptionZh": "MIT 许可的 macOS/Windows 本地 AI Agent Provider 与模型切换工具，明确支持 WorkBuddy，可管理模型目录、协议转换、配置备份与回滚，并将 WorkBuddy 配置保存在用户本地",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
     "title": "Workbuddy",
     "url": "https://github.com/Lincyaw/workbuddy",
     "description": "An Apache-2.0 GitHub Issue-driven Agent orchestration platform that maps Issue states to workflows and dispatches Claude, Codex, and other runtimes",
