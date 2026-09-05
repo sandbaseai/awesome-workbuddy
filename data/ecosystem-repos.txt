@@ -455,6 +455,10 @@ Luchioxy/LidKeeper
 ruiwuniu/Aivatar-Demo
 JipZeonGit/workbuddy-linux
 maojiebc/majia-guanyuan
+jiushiwon/wg-skills
+Aik358/dsh-auto-memory
+mdwsk88/ms-365-21v-mcp-server
+LazyAGI/LazyMind
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

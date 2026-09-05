@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [WG Skills](https://github.com/jiushiwon/wg-skills) - Apache-2.0 许可的 50+ 通用 Agent Skills 集合，明确支持 WorkBuddy，覆盖部署、运行时、数据库、写作和研发场景；安装前请逐项查看 Skill 的脚本、依赖和权限
+
 - [小智伴学 Skills](https://github.com/qizhitang/xiaozhi-skills) - MIT 许可的 K12 学习与教学 Skill 集合，包含 57 个学生端/教师端 Skill，并明确支持 WorkBuddy；涉及学习记录或共享证据时请先确认家长、学生和教师的授权边界
 
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区 AI 专家角色集合，覆盖工程、设计、营销、金融等 20 个部门，并提供转换与安装到 WorkBuddy `~/.workbuddy/skills/` 的脚本
@@ -134,6 +136,8 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引
 
 ### Ready-to-use Skills
+
+- [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - BSD-3-Clause 许可的 DeepSeek Harness 自动记忆插件，可扫描并按来源管理 WorkBuddy、CodeBuddy、Claude Code 和 Codex 的记忆；它会读取本地会话或记忆文件，导入前请确认路径和敏感内容范围
 
 - [观远 BI 马甲实战 Skill](https://github.com/maojiebc/majia-guanyuan) - MIT 许可的观远 BI 增强 Skill，README 明确标注 WorkBuddy 兼容，覆盖 ETL 治理、报错排查、自定义图表和数据分析流程；它会调用企业 BI 工具与数据，使用前请确认账号权限、数据范围和官方 API 条款
 
@@ -351,6 +355,8 @@
 
 ### Tools and integrations
 
+- [Microsoft 365 MCP Server](https://github.com/mdwsk88/ms-365-21v-mcp-server) - Apache-2.0 许可的 Microsoft 365 OAuth 2.1 MCP 网关，README 记录了 WorkBuddy 的远程连接、OAuth、工具发现和调用验证；企业租户、邮件、文件与日历数据会经授权访问，部署前请核对租户策略和权限
+- [LazyMind](https://github.com/LazyAGI/LazyMind) - Apache-2.0 许可的知识密集型工作 AI Skill Runtime，可接入 WorkBuddy 的本地项目与任务历史，并通过 MCP 提供 Skills、工作流和知识库；使用前请审查本地历史扫描范围及云端数据流
 - [LidKeeper](https://github.com/Luchioxy/LidKeeper) - MIT 许可的本地防休眠工具，支持 Claude Code、Codex 和 WorkBuddy 运行时保持电脑唤醒；安装脚本会修改系统电源相关设置，使用前请审查脚本并确认恢复方式
 - [Aivatar](https://github.com/ruiwuniu/Aivatar-Demo) - MIT 许可的本地优先 AI Agent 桌面伙伴，明确支持腾讯 WorkBuddy，可将 Agent 状态映射为像素房间互动；它会读取本地 Agent 状态并运行桌面应用，首次使用请检查数据路径和权限
 

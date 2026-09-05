@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [WG Skills](https://github.com/jiushiwon/wg-skills) - An Apache-2.0 collection of more than 50 general Agent Skills with explicit WorkBuddy support, covering deployment, runtimes, databases, writing, and engineering; inspect each Skill's scripts, dependencies, and permissions before installation
+
 - [Xiaozhi Learning Skills](https://github.com/qizhitang/xiaozhi-skills) - An MIT-licensed K-12 learning and teaching Skill collection with 57 student and teacher Skills and explicit WorkBuddy support; confirm the authorization boundaries for students, parents, teachers, and shared learning evidence before use
 
 - [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`
@@ -134,6 +136,8 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - An MIT-licensed local-first cross-agent memory store with an MCP server and read-only Web panel, plus manual WorkBuddy connection guidance
 
 ### Ready-to-use Skills
+
+- [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - A BSD-3-Clause DeepSeek Harness automatic-memory plugin that scans and manages memories from WorkBuddy, CodeBuddy, Claude Code, and Codex by source; it reads local sessions or memory files, so confirm paths and sensitive-content boundaries before importing
 
 - [Majia Guanyuan BI Skill](https://github.com/maojiebc/majia-guanyuan) - An MIT-licensed Guandata BI enhancement Skill whose README explicitly marks WorkBuddy compatibility, covering ETL governance, error diagnosis, custom charts, and data-analysis workflows; it can access enterprise BI tools and data, so confirm account permissions, data scope, and official API terms first
 
@@ -352,6 +356,8 @@
 
 ### Tools and integrations
 
+- [Microsoft 365 MCP Server](https://github.com/mdwsk88/ms-365-21v-mcp-server) - An Apache-2.0 Microsoft 365 OAuth 2.1 MCP gateway whose README records WorkBuddy remote-connection, OAuth, tool-discovery, and invocation verification; enterprise tenant, mail, file, and calendar data are accessed with authorization, so review tenant policy and scopes before deployment
+- [LazyMind](https://github.com/LazyAGI/LazyMind) - An Apache-2.0 AI Skill Runtime for knowledge-intensive work that can connect WorkBuddy local projects and task histories, and expose Skills, workflows, and knowledge bases through MCP; review local-history scan scope and any cloud data flow first
 - [LidKeeper](https://github.com/Luchioxy/LidKeeper) - An MIT-licensed local keep-awake tool that supports Claude Code, Codex, and WorkBuddy while running with the lid closed; its installer changes system power-related settings, so inspect the script and confirm how to restore them first
 - [Aivatar](https://github.com/ruiwuniu/Aivatar-Demo) - An MIT-licensed local-first desktop companion with explicit Tencent WorkBuddy support, mapping Agent status to a pixel-room experience; it reads local Agent state and runs as a desktop app, so review data paths and permissions on first use
 - [27c.site](https://github.com/idea-internet/idea_internet) - An MIT-licensed AI website-publishing platform with explicit WorkBuddy support through MCP or an HTTP API for creating, generating assets, and publishing sites; publishing creates external network traffic and public content, so confirm domains, credentials, assets, and rollback boundaries first
