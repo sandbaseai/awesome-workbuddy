@@ -2852,11 +2852,11 @@
   {
     "title": "WorkBuddy Switch",
     "url": "https://github.com/changexbc/workbuddy-switch",
-    "description": "A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first",
+    "description": "An MIT-licensed cross-platform WorkBuddy/CodeBuddy account manager with OAuth login, account switching, session backup/copy, points and Token usage views, and macOS, Windows, and Linux packages; switching rewrites local auth files, while check-in/keep-alive can act on the account, so confirm authorization, backups, credential storage, and account terms first",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
     "titleZh": "WorkBuddy Switch",
-    "descriptionZh": "跨平台切换 WorkBuddy/CodeBuddy 账号并查看用量；会保存 OAuth token、改写本地认证文件并调用非官方接口，使用前请复核源码与账号条款",
+    "descriptionZh": "MIT 许可的跨平台 WorkBuddy/CodeBuddy 账号管理工具，支持 OAuth 登录、账号切换、会话备份/复制、积分与 Token 用量查看，并提供 macOS、Windows、Linux 安装包；切换会改写本地认证文件，签到/保活会代表账号执行操作，使用前请确认本人授权、备份、凭据存储和账号条款",
     "categoryZh": "Community clients and enhancements"
   },
   {
