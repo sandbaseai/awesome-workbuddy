@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Macro Cycle Locator",
+    "url": "https://github.com/twin-arc/macro-cycle-locator",
+    "description": "An MIT-licensed macro-cycle positioning Skill with explicit WorkBuddy installation instructions, combining a six-dimension scorecard, ETF-flow calibration, sector transmission, and stock-level fundamental checks; for research and learning only, not investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Macro Cycle Locator",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的宏观周期定位 Skill，结合六维评分、ETF 资金流校准、行业传导链和个股基本面核验；仅用于研究和学习，不构成投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "AI Co-Evolution Skills",
     "url": "https://github.com/PhilRobinluo/ai-coevolution-skills",
     "description": "A collection of 47 installable Chinese Skills with an explicit WorkBuddy installation path, covering concept explanation, presentation briefing, document repair, image redaction, GitHub profiles, and workflows; Skills and docs use CC BY-NC-SA 4.0 while code uses PolyForm Noncommercial, so obtain commercial permission before commercial use",

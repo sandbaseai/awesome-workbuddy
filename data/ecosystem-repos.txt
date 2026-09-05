@@ -373,3 +373,4 @@ iqingyoung/search2chart-mcp
 luffysolution-svg/obsidian-vault-mcp
 fudonglee/md2pdf
 PhilRobinluo/ai-coevolution-skills
+twin-arc/macro-cycle-locator
