@@ -1,15 +1,5 @@
 [
   {
-    "title": "Search the resource directory",
-    "url": "https://sandbaseai.github.io/awesome-workbuddy/",
-    "description": "Filter by keyword or category",
-    "section": "Start Here",
-    "category": "Start Here",
-    "titleZh": "可搜索资源目录",
-    "descriptionZh": "按关键词和类别查找。",
-    "categoryZh": "Start Here"
-  },
-  {
     "title": "Official documentation",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/",
     "description": "Product documentation and usage guides",
@@ -45,9 +35,9 @@
     "description": "Clear tasks, iteration, backups, and context management",
     "section": "Start Here",
     "category": "Start Here",
-    "titleZh": "十个上手技巧",
-    "descriptionZh": "任务表达、迭代、备份和上下文管理建议。",
-    "categoryZh": "Start Here"
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
   },
   {
     "title": "Troubleshooting FAQ",
@@ -56,7 +46,7 @@
     "section": "Start Here",
     "category": "Start Here",
     "titleZh": "常见问题",
-    "descriptionZh": "安装、登录、连接和任务恢复排障。",
+    "descriptionZh": "安装、登录和使用排障。",
     "categoryZh": "Start Here"
   },
   {
@@ -65,9 +55,9 @@
     "description": "Capabilities, fixes, and compatibility changes",
     "section": "Start Here",
     "category": "Start Here",
-    "titleZh": "版本记录",
-    "descriptionZh": "功能、修复与兼容性变化。",
-    "categoryZh": "Start Here"
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
   },
   {
     "title": "Automation guide",
@@ -85,9 +75,9 @@
     "description": "Connect external tools and data",
     "section": "Start Here",
     "category": "Start Here",
-    "titleZh": "MCP 指南",
-    "descriptionZh": "连接外部工具与数据源。",
-    "categoryZh": "Start Here"
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
   },
   {
     "title": "WorkBuddy Enterprise quick start",
@@ -95,9 +85,9 @@
     "description": "Create, test, and publish an enterprise Agent",
     "section": "Start Here",
     "category": "Start Here",
-    "titleZh": "WorkBuddy Enterprise 快速开始",
-    "descriptionZh": "创建、测试和发布企业 Agent。",
-    "categoryZh": "Start Here"
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
   },
   {
     "title": "Create a task",

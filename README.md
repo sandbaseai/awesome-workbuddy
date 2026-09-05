@@ -6,48 +6,41 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
-> 腾讯 WorkBuddy 的学习资料、Skills、MCP 和工作流精选清单。
+> 腾讯 WorkBuddy 的文档、Skills、MCP 和工作流资源导航。
 
-WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发任务。本清单帮你快速找到官方文档和社区资源。
+不知道从哪里开始？先看 [一分钟上手指南](START_HERE.md)，再按需要选择资源。
 
 > [!IMPORTANT]
 > 这是社区维护的第三方索引，不代表腾讯。安装第三方 Skill、MCP 或连接器前，请检查源码、权限和数据流向；不要上传密钥、个人隐私或未脱敏的公司资料。
 
 ## Start Here
 
-- [下载 WorkBuddy](https://www.workbuddy.ai/) · [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)
-- [一分钟选型与快速开始](START_HERE.md) - 不知道从哪里开始，就看这里。
-- [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) - 按关键词和类别查找。
+1. [下载 WorkBuddy](https://www.workbuddy.ai/)，并完成官方快速开始。
+2. 打开 [一分钟上手指南](START_HERE.md)，根据任务选择普通任务、Skill 或 MCP。
+3. 在[可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/)中按关键词查找更多内容。
 
-如果这个清单帮你找到有用资源，欢迎点一个 [Star](https://github.com/sandbaseai/awesome-workbuddy)；发现遗漏或失效链接，可以[反馈](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)。
+发现遗漏或失效链接，欢迎[反馈](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)。
 
 <details>
-<summary>更多官方入口</summary>
+<summary>官方文档</summary>
 
 - [官方文档](https://www.workbuddy.ai/docs/zh/workbuddy/) - 功能说明与使用指南。
 - [macOS 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Mac-Guide) - Mac 环境要求、安装、登录与更新。
 - [Windows 安装指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Installation-Win-Guide) - Windows 环境要求、安装、登录与更新。
-- [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 任务表达、迭代、备份和上下文管理建议。
-- [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装、登录、连接和任务恢复排障。
-- [版本记录](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 功能、修复与兼容性变化。
+- [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装、登录和使用排障。
+- [Skill 指南](https://open.workbuddy.cn/en/docs/skill) · [MCP 指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide)
 - [Automation 指南](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - 创建一次性或周期任务。
-- [MCP 指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - 连接外部工具与数据源。
-- [WorkBuddy Enterprise 快速开始](https://cloud.tencent.com/document/product/1831/134527) - 创建、测试和发布企业 Agent。
 
 </details>
 
 ## 精选资源
 
-不知道从哪里开始，可以按下面顺序试用：
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 中文实战教程。
+- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - 15 分钟了解如何制作 Skill。
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - 用多 Agent 制作课程、课件和互动页面。
+- [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) - 搜索和加载任务所需的 Skill。
 
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - 中文实战教程，从第一个任务到团队工作流.
-- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - 15 分钟学习如何制作和评估 Skill.
-- [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - 把网页、代码、图片和文档整理成可复用方法.
-- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - 用多 Agent 生成课程、课件、测验和互动页面.
-- [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - 为 WorkBuddy/Agent 提供团队记忆能力.
-- [AgentsView](https://github.com/kenn-io/agentsview) - 在本地查看和分析 Agent 会话.
-
-完整目录按官方资料、Skills、MCP、工作流、使用案例和研究资料分类，已放在下方折叠区；日常查找建议使用[可搜索目录](https://sandbaseai.github.io/awesome-workbuddy/)。
+完整目录按类别收在下方；日常查找建议使用[可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/)。
 
 <details>
 <summary>展开完整目录</summary>
