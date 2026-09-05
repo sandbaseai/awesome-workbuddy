@@ -382,3 +382,5 @@ shanputaoye/freecad-ai-skill
 tony-apan/allincms-content-ops
 chief-YE/workbuddy-skills
 gebiniwangdaye/macos-minimize-all
+bettermen/article-metaphor-illustrator
+xxiao-git/paper-submission-skill

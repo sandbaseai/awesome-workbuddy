@@ -970,6 +970,26 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Article Metaphor Illustrator",
+    "url": "https://github.com/bettermen/article-metaphor-illustrator",
+    "description": "An MIT-licensed WorkBuddy Skill for illustrating Chinese articles, automatically understanding the text, selecting illustration positions and types, and generating flowcharts, architecture diagrams, comparisons, relationships, structures, or concept illustrations; it is a WorkBuddy adaptation of an upstream project",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Article Metaphor Illustrator",
+    "descriptionZh": "MIT 许可的 WorkBuddy 中文文章配图 Skill，自动理解文章、选择配图位置和图型，生成流程图、架构图、对比图、关系图、结构图或概念插图；它是上游项目的 WorkBuddy 适配版",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Paper Submission Skill",
+    "url": "https://github.com/xxiao-git/paper-submission-skill",
+    "description": "An MIT-licensed manuscript-submission Skill for Editorial Manager, ScholarOne, Nature journals, Frontiers, and other systems, covering material preparation, guideline interpretation, form filling, and submission, with six human checkpoints at critical stages",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Paper Submission Skill",
+    "descriptionZh": "MIT 许可的论文投稿 Skill，支持 Editorial Manager、ScholarOne、Nature 系列和 Frontiers 等系统，覆盖材料整理、指南解读、表单填写和投稿流程，并在关键阶段设置 6 个人工确认点",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "macOS Minimize All",
     "url": "https://github.com/gebiniwangdaye/macos-minimize-all",
     "description": "An MIT-licensed macOS window-management Skill with explicit WorkBuddy support that binds Option+D to a global minimize/restore shortcut; macOS only, and Accessibility permission is required after installation",
