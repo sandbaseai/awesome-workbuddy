@@ -169,6 +169,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Beautiful Mermaid](https://github.com/chouraycn/beautiful-mermaid) - 未声明许可证的 WorkBuddy/CodeBuddy 图表 Skill，将 Mermaid 渲染为主题化 SVG、PNG 或 ASCII 图表，并提供交互式预览
 - [Video Workshop](https://github.com/yangchen0991/video-workshop) - WorkBuddy 视频创作 Skill 与专家包，覆盖从创意、关键帧到 Seedance 视频脚本的短剧、短片和单镜流程；许可证状态待核实
 - [Topic Pipeline](https://github.com/KKbaocai/topic-pipeline) - MIT 许可的 WorkBuddy 选题 Skill，结合多平台热点和知识库分析，支持主题聚焦、全局扫描与竞品对标
+- [Project Cairn](https://github.com/iBlinkQ/project-cairn) - MIT 许可的项目知识沉淀 Skill，可在 WorkBuddy 中导入，用于记录进展、决策、问题和交接上下文
 - [Skill Integrator](https://github.com/smiling66652/skill-integrator) - MIT 许可的 WorkBuddy 元 Skill，用于扫描、对比、整合和优化多个 Skill，并提供按需加载与备用方案方法
 - [One-person Company](https://github.com/wzx11223344/one-person-company) - MIT 许可的 WorkBuddy 一人公司运营 Skill，覆盖内容、运营、产品、财务和增长自动化
 - [WorkBuddy Theme Manager](https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager) - Apache-2.0 许可的 WorkBuddy 主题 Skill，可将 `.codex-theme` 转为 `.workbuddy-theme` 并完成安装、切换和恢复
