@@ -3,6 +3,17 @@ from pathlib import Path
 
 
 class AuditTemplateTests(unittest.TestCase):
+    def test_discovery_issue_workflow_applies_audit_label(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        workflow = (root / ".github/workflows/label-discovery-audits.yml").read_text(
+            encoding="utf-8"
+        )
+
+        self.assertIn("types: [opened, edited, reopened]", workflow)
+        self.assertIn("startsWith(github.event.issue.title, 'Discovery ')", workflow)
+        self.assertIn("issues: write", workflow)
+        self.assertIn("--add-label audit", workflow)
+
     def test_discovery_audit_template_preserves_issue_format(self) -> None:
         root = Path(__file__).resolve().parents[1]
         template = (root / ".github/ISSUE_TEMPLATE/discovery-audit.md").read_text(
