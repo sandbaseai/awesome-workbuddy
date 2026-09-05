@@ -4,29 +4,15 @@
 
 English · [简体中文](README.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
-
-<!-- REPOSITORY-SNAPSHOT:START -->
-**199 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
-<!-- REPOSITORY-SNAPSHOT:END -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
 
-If this list saves you time, please [star the repository](https://github.com/sandbaseai/awesome-workbuddy) so more WorkBuddy users can find the reviewed resources.
-
-Want to help us reach 100 genuine stars? Use the [community roadmap issue](https://github.com/sandbaseai/awesome-workbuddy/issues/172) to suggest verifiable resources, report broken links, or share usage feedback.
-
 New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE.md), or use the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to filter by keyword and category.
-
-For the latest curation and audit notes, see the [latest bilingual community update](https://github.com/sandbaseai/awesome-workbuddy/discussions/394); evidence-backed resource suggestions and factual corrections are welcome.
 
 For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
 
-Browse the complete [discovery audit record](https://github.com/sandbaseai/awesome-workbuddy/issues?q=is%3Aissue%20label%3Aaudit) index to review licensing, provenance, permissions, and data-flow evidence.
-
-The four original Skills in this directory are also indexed on [agent-skills.md](https://agent-skills.md/authors/sandbaseai) for online browsing and install-path verification.
-
-This week's highlights: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics); see [v0.10.16](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.16) for the full curation update.
+Suggested starting points: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics).
 
 WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
 
@@ -43,8 +29,6 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Use Cases](#use-cases)
 - [Research and Engineering](#research-and-engineering)
 - [Related Lists](#related-lists)
-- [Selection Standard](#selection-standard)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## Start Here
@@ -57,7 +41,6 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Ten getting-started tips](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - Practical guidance on clear tasks, iterative work, examples, backups, automation, and context management.
 - [Troubleshooting FAQ](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - Official answers for installation, sign-in, integrations, files, workspaces, and conversation recovery.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - Product capabilities, fixes, and compatibility changes.
-- [Index changelog](CHANGELOG.md) - Versioned updates to curation, indexes, quality gates, and safety disclosures.
 - [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - Create one-time or recurring tasks and send results to connected platforms.
 - [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - Connect external tools and data through visual configuration.
 - [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - Create, test, publish, and connect an enterprise Agent to messaging channels.
@@ -105,7 +88,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 ## Open-source Ecosystem
 
 > [!NOTE]
-> “Works with WorkBuddy” does not mean “endorsed by Tencent.” Projects are selected for direct relevance, documentation quality, maintenance, and community adoption. Check licenses, account terms, permissions, and credentials before using unofficial automation or API tooling.
+> “Works with WorkBuddy” does not mean “endorsed by Tencent.” Check licenses, account terms, permissions, and credentials before using unofficial automation or API tooling.
 
 ### Learning and reference
 
@@ -202,7 +185,6 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - An MIT-licensed WorkBuddy Skill that copies a conversation into an independent branch by the prior output, request ID, or text match, with dry-run preview, automatic backup, and branch lineage; it relies on unofficial local-storage internals, reads transcripts, inserts rows into `~/.workbuddy/workbuddy.db`, writes a lineage index, and can rewrite branch files with `--fix`, while its backup covers only the source JSONL, so quit WorkBuddy and separately back up the database and sensitive sessions first.
 - [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) - An MIT-licensed Windows Skill for cross-device task continuity that uses a WPS cloud-drive Junction as the primary channel, HANDOFF/memory files as a transit channel, and a daemon/watchdog for ongoing sync; it requires a locally synced WPS drive and administrator privileges and can two-way sync `.workbuddy`, logs, and workspace files, so review cloud privacy, conflict/backup strategy, secret files, and sync scope first.
 
-This repository maintains four original installable Skills: [Document Quality Review](skills/document-quality-review/SKILL.md) performs read-only delivery checks, [Skill Security Audit](skills/skill-security-audit/SKILL.md) reviews third-party extensions before installation, [Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) turns web research into a verifiable brief with facts and inference kept distinct, and [Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) gives candidates evidence-backed include, hold, or exclude decisions across relevance, quality, licensing, provenance, and safety.
 
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - An installable WorkBuddy usage and troubleshooting Skill covering connectors, experts, automations, memory, interaction modes, and FAQs; MIT licensed. Its optional diagnostic script reads local `~/.workbuddy` configuration and recent logs and probes a localhost health endpoint, so inspect and redact output before sharing it.
 - [R Package Development Skills for CodeBuddy](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) - An Apache-2.0 collection of five Skills for Claude Code and CodeBuddy Code covering R-package scaffolding, quality, `R CMD check`, CI gates, collaboration, and releases; it includes attribution and test/checklists, while copy or symlink installation writes to a user-level Skills directory, so confirm the R project, toolchain, source materials, and local path scope first.
@@ -325,7 +307,6 @@ This repository maintains four original installable Skills: [Document Quality Re
 
 - [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - Tencent's multi-domain coding-agent benchmark with 260 Code, Web, Office, and Security tasks, a Docker-sandboxed evaluation framework, a Hugging Face dataset, and the `wbbench-run-setup` Skill; it uses the Tencent license and stores datasets separately on Hugging Face, so review model API keys, sandbox isolation, task-data terms, and sensitive result artifacts before running it.
 
-See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.md).
 
 ## Skills, Prompts, and MCP
 
@@ -412,33 +393,6 @@ See the automatically refreshed [ecosystem activity and star ranking](ECOSYSTEM.
 - [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - A large use-case library organized by profession and task.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A broad MCP server list; review each server separately before connecting it to WorkBuddy.
 - [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A CC0 directory of installable DSH plugins, adjacent to WorkBuddy-style Skill and Agent workflows; it is not an official Tencent list, so review each plugin's source and permissions before installation.
-
-## Selection Standard
-
-**Relevance:** A resource must directly support, explain, or evaluate Tencent WorkBuddy rather than merely mention the term.
-
-**Verifiability:** Official sources, open code, executable steps, tests, demonstrations, and clear inputs and outputs are preferred.
-
-**Maintenance:** Recent commits, issue activity, archival status, and link health are checked. Stars are supporting evidence, not the selection rule.
-
-**Safety and transparency:** Licenses, scripts, dependencies, permissions, credential handling, data flow, and commercial relationships matter.
-
-**Distinct value:** Reposts, pure promotion, duplication, and resources without substantial detail are not accepted because of popularity alone.
-
-Use the [Skill, MCP, and extension security checklist](SECURITY.md) before installing third-party code. Unreviewed discoveries remain in the [automated discovery queue](DISCOVERIES.md) instead of entering the main list automatically.
-
-Want to build a Skill? See this repository's [original Skills and structural validator](skills/README.md).
-
-## Contributing
-
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. A strong entry:
-
-1. is directly relevant to Tencent WorkBuddy and has a stable public link;
-2. offers verifiable information, reproducible steps, or distinct practical value;
-3. uses `Title - One-sentence value.` format in the most precise category; and
-4. discloses payment, promotion, data collection, and high-risk permissions.
-
-If this index saved you time, consider giving it a star. You can also [open an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) to nominate a resource you have verified. Start with the [bilingual welcome](https://github.com/sandbaseai/awesome-workbuddy/discussions/78), ask questions in [Q&A](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/q-a), and share workflows in [Show and tell](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/show-and-tell). Read the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
 ## Acknowledgements
 

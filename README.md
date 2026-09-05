@@ -4,29 +4,15 @@
 
 [English](README.en.md) · 简体中文
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
-
-<!-- REPOSITORY-SNAPSHOT:START -->
-**199 curated repositories · 4 original Skills · 22 discovery candidates · weekly validation**
-<!-- REPOSITORY-SNAPSHOT:END -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
 
-如果这个清单对你有用，请点一个 **Star**，让更多 WorkBuddy 用户更容易找到经过筛选的资源。
-
-想帮助我们达到 100 个真实 Star？请在 [社区路线图 Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/172) 提交可核验的资源、失效链接或使用反馈。
-
 第一次使用？从 [一分钟选型与快速开始](START_HERE.md) 开始，或打开 [可搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) 按关键词与分类筛选。
-
-想了解最近收录和审计标准？查看[最新双语社区更新帖](https://github.com/sandbaseai/awesome-workbuddy/discussions/394)，欢迎提交有公开证据的资源推荐与事实纠错。
 
 供搜索引擎和 Agent 使用的机器可读入口见 [`site/llms.txt`](site/llms.txt)。
 
-完整的[发现审计记录](https://github.com/sandbaseai/awesome-workbuddy/issues?q=is%3Aissue%20label%3Aaudit)可按许可证、来源、权限和数据流证据复核。
-
-本目录的 4 个原创 Skill 也已同步到 [agent-skills.md](https://agent-skills.md/authors/sandbaseai)，可在线浏览和核对安装路径。
-
-本周精选： [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy)（自托管 OpenAI 兼容网关）、[Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill)（带证据的多源蒸馏）、[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）；完整变更见 [v0.10.16](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.16)。
+推荐起点： [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy)（自托管 OpenAI 兼容网关）、[Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill)（带证据的多源蒸馏）、[TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)（团队记忆与 WorkBuddy Proxy）、[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)（多 Agent 教学 Skill）和 [AgentsView](https://github.com/kenn-io/agentsview)（本地会话分析）。
 
 WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规划并执行研究、文档、数据、设计和开发任务。本清单帮助你从官方资料开始，找到值得复用的实践，而不是在零散信息中反复试错。
 
@@ -42,8 +28,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Guides](#guides)
 - [Use Cases](#use-cases)
 - [Research and Engineering](#research-and-engineering)
-- [Selection Standard](#selection-standard)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## Start Here
@@ -56,7 +40,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [十个上手技巧](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips) - 涵盖任务表达、迭代、示例、备份、自动化和上下文管理的官方实践建议.
 - [常见问题](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/FAQ) - 安装登录、平台连接、文件、工作空间与会话恢复的官方排障入口.
 - [Changelog](https://www.workbuddy.ai/docs/zh/workbuddy/Changelog) - 版本能力、修复与兼容性变化.
-- [本清单更新记录](CHANGELOG.md) - 记录生态收录、索引、质量门禁与安全披露的版本变化.
 - [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - 创建一次性或周期任务，并向连接的平台推送结果.
 - [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - 通过可视化配置连接外部工具与数据源.
 - [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - 创建、测试、发布企业 Agent 并接入消息渠道.
@@ -104,7 +87,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 ## Open-source Ecosystem
 
 > [!NOTE]
-> “Works with WorkBuddy” 不等于腾讯官方背书。以下项目按与 WorkBuddy 的直接相关性、文档质量、维护活跃度和社区采用度筛选；使用非官方增强、自动化或 API 工具前请检查许可证、账号条款和权限范围。
+> “Works with WorkBuddy” 不等于腾讯官方背书。使用非官方增强、自动化或 API 工具前请检查许可证、账号条款和权限范围。
 
 ### Learning and reference
 
@@ -201,7 +184,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Session Fork](https://github.com/yamingmou/session-fork-core) - MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱系树；它依赖非官方的本地存储结构，会读取会话、向 `~/.workbuddy/workbuddy.db` 插入记录、写入谱系索引，且 `--fix` 会改写分支文件，而备份仅包含源 JSONL，执行前请退出 WorkBuddy 并另行备份数据库和敏感会话.
 - [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) - MIT 许可、面向 Windows 的跨设备任务续接 Skill，以 WPS 云盘 Junction 为主通道、HANDOFF/记忆文件为交接通道，并用守护进程与看门狗维持同步；它需要 WPS 本地云盘、管理员权限并会双向同步 `.workbuddy`、日志和工作区文件，使用前请确认云盘隐私、冲突/备份策略、密钥文件和同步范围.
 
-本仓库维护四个可直接安装的原创 Skill：[Document Quality Review](skills/document-quality-review/SKILL.md) 以只读方式检查交付物质量；[Skill Security Audit](skills/skill-security-audit/SKILL.md) 在安装前审查第三方扩展；[Source-backed Research Brief](skills/source-backed-research-brief/SKILL.md) 将网页和资料整理为可核验、明确区分事实与推断的研究简报；[Curate WorkBuddy Resource](skills/curate-workbuddy-resource/SKILL.md) 对候选资源给出基于相关性、质量、许可证、来源和安全证据的收录、暂缓或排除结论。
 
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - 可直接安装的 WorkBuddy 使用与故障排查 Skill，覆盖连接器、专家、自动化、记忆、交互模式和常见问题；MIT 许可。其可选诊断脚本会读取本机 `~/.workbuddy` 配置与近期日志并探测本地健康端点，分享输出前请先检查并脱敏。
 - [R Package Development Skills for CodeBuddy](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) - Apache-2.0 许可、面向 Claude Code 与 CodeBuddy Code 的 5 个 R 包开发 Skill，覆盖脚手架、质量、`R CMD check`、CI 门禁、协作与发布；仓库包含来源署名和测试/检查清单，复制或链接安装会写入用户级 Skill 目录，使用前请确认 R 项目、工具链、来源材料与本地目录范围.
@@ -324,7 +306,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 
 - [workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯发布的多领域 coding-agent 基准，包含 Code、Web、Office、Security 四条赛道共 260 个任务、Docker 沙箱评测框架、Hugging Face 数据集和 `wbbench-run-setup` Skill；仓库使用 Tencent license，数据集另在 Hugging Face，运行前请确认模型 API 密钥、Docker 隔离、任务数据许可与结果中的敏感信息.
 
-查看自动更新的 [生态仓库活跃度与 stars 排行](ECOSYSTEM.md)。
 
 ## Skills, Prompts and MCP
 
@@ -411,35 +392,6 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - 按职业和任务类型组织的大规模使用场景库.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 通用生态清单；接入 WorkBuddy 前需单独安全审核.
 - [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - CC0 的 DSH 插件生态清单，包含与 WorkBuddy 式 Skill/Agent 工作流相邻的可安装扩展；它不是腾讯官方清单，安装任何插件前仍需逐项审查源码与权限.
-
-## Selection Standard
-
-本清单不以数量为目标。资源进入主列表前会从以下方面审核：
-
-**相关性：** 必须直接支持、讲解或评测腾讯 WorkBuddy，而不是只在关键词中顺带提及.
-
-**可验证性：** 优先官方资料、开放源码、可执行步骤、测试、演示和清楚的输入输出.
-
-**维护状态：** 检查最近提交、Issue、归档状态和链接可用性；stars 只作为辅助信号.
-
-**安全与透明度：** 检查许可证、脚本、依赖、权限、凭据处理、数据流向和商业关系.
-
-**独特价值：** 重复、转载、纯营销或缺少实质说明的内容不会因为热度而收录.
-
-安装任何第三方扩展前，请使用 [Skill、MCP 与扩展安全检查清单](SECURITY.md)。尚未完成审核的新项目仅出现在 [自动发现队列](DISCOVERIES.md)，不会自动进入主列表.
-
-想自己制作 Skill？参考本仓库的 [原始 Skills 与结构校验工具](skills/README.md)。
-
-## Contributing
-
-欢迎提交高质量资源！请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。一个好条目应当：
-
-1. 与腾讯 WorkBuddy 直接相关，并有稳定、公开的链接；
-2. 提供可验证的信息、可复现步骤或有独特价值的真实案例；
-3. 使用 `标题 - 一句话说明价值。` 格式，并放入最精确的分类；
-4. 清楚披露付费、推广、数据收集或高风险权限。
-
-如果这个清单帮你节省了时间，欢迎点一个 ⭐；也欢迎通过 [Issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose) 推荐你验证过的资源。第一次参与可从[双语欢迎帖](https://github.com/sandbaseai/awesome-workbuddy/discussions/78)开始，问题请发到 [Q&A](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/q-a)，工作流案例请发到 [Show and tell](https://github.com/sandbaseai/awesome-workbuddy/discussions/categories/show-and-tell)；参与前请阅读 [社区行为准则](CODE_OF_CONDUCT.md)。
 
 ## Acknowledgements
 

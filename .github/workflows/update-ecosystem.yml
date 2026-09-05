@@ -32,7 +32,6 @@ jobs:
         run: |
           python scripts/update_ecosystem.py
           python scripts/discover_repos.py
-          python scripts/update_readme_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
