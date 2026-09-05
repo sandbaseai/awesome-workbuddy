@@ -10,7 +10,7 @@ Last refreshed: **2026-09-05 UTC**
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,905 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,972 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,973 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,571 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -108,7 +108,7 @@ Last refreshed: **2026-09-05 UTC**
 | [xiaolai/ai-cli-kickstarter](https://github.com/xiaolai/ai-cli-kickstarter) | 77 | Shell | 2026-07-18 |
 | [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) | 76 | Astro | 2026-08-16 |
 | [AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens) | 75 | TypeScript | 2026-05-17 |
-| [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 71 | Python | 2026-09-03 |
+| [JuneYaooo/self-media-compliance-review](https://github.com/JuneYaooo/self-media-compliance-review) | 72 | Python | 2026-09-03 |
 | [cnproduct/workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) | 67 | TypeScript | 2026-03-29 |
 | [caigee-cmd/cli2api](https://github.com/caigee-cmd/cli2api) | 67 | Go | 2026-09-05 |
 | [smile-xyy/resume-tailor](https://github.com/smile-xyy/resume-tailor) | 63 | JavaScript | 2026-08-13 |
@@ -134,8 +134,9 @@ Last refreshed: **2026-09-05 UTC**
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 33 | TypeScript | 2026-08-25 |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 32 | Python | 2026-08-30 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 30 | JavaScript | 2026-09-05 |
 | [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 29 | JavaScript | 2026-09-05 |
+| [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-05 |
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 28 | Python | 2026-09-01 |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
@@ -247,6 +248,7 @@ Last refreshed: **2026-09-05 UTC**
 | [MLiang0920/mliang-ui-design-skill](https://github.com/MLiang0920/mliang-ui-design-skill) | 7 | - | 2026-05-08 |
 | [hanyangcg/video-story-clip](https://github.com/hanyangcg/video-story-clip) | 7 | Python | 2026-08-21 |
 | [MJorgin/dsh-agent-conductor](https://github.com/MJorgin/dsh-agent-conductor) | 7 | JavaScript | 2026-09-01 |
+| [openagentinternet/open-agent-connect](https://github.com/openagentinternet/open-agent-connect) | 7 | JavaScript | 2026-09-05 |
 | [simplast/workbuddy-api](https://github.com/simplast/workbuddy-api) | 6 | JavaScript | 2026-09-04 |
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |
@@ -428,5 +430,6 @@ Last refreshed: **2026-09-05 UTC**
 | [stevenchengxy/maotuan](https://github.com/stevenchengxy/maotuan) | 0 | JavaScript | 2026-09-05 |
 | [jarvislee90s-dot/MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) | 0 | Rust | 2026-09-05 |
 | [wangqiao258/career-kit](https://github.com/wangqiao258/career-kit) | 0 | HTML | 2026-09-05 |
+| [luqi67677/produce-videos](https://github.com/luqi67677/produce-videos) | 0 | HTML | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
