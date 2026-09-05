@@ -990,6 +990,36 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Eagle Untagged Organizer",
+    "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
+    "description": "An MIT-licensed WorkBuddy Skill that batch-organizes untagged design assets in Eagle through Eagle MCP, with multilingual names, structured annotations, tags, dry-run approval, snapshots, and restore; it reads and writes selected Eagle assets, so confirm connector trust, asset scope, and backups first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Eagle Untagged Organizer",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill，通过 Eagle MCP 批量整理未标记的设计素材，支持多语言名称、结构化注释、标签、预览确认、快照和恢复；它会读取并写回选定的 Eagle 素材，使用前请确认 MCP 信任、素材范围和备份位置",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Rainskills",
+    "url": "https://github.com/goodrain/rainskills",
+    "description": "An Apache-2.0 cross-agent Skill collection with explicit WorkBuddy support for project detection, deployment, troubleshooting, delivery verification, version management, and rollback; its installer and selected Skills may connect to Rainbond Cloud, servers, or local runtimes, so confirm target environments, credentials, and release permissions before deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Rainskills",
+    "descriptionZh": "Apache-2.0 的跨 Agent Skills 集合，明确支持 WorkBuddy，覆盖项目识别、部署、排障、交付验证、版本管理和回滚；安装器和部分 Skills 可能连接 Rainbond Cloud、服务器或本地运行时，执行部署前请确认目标环境、凭据和发布权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "AI Operating Protocol",
+    "url": "https://github.com/nehemc2026/ai-operating-protocol",
+    "description": "An MIT-licensed, zero-dependency WorkBuddy behavior protocol using six laws, leverage-based risk grading, and a Stop Rule to separate discussion, execution, and stopping; it is a copyable Markdown Skill rather than technical enforcement or business judgment, so adapt it to your own authorization boundaries",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AI Operating Protocol",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 的零依赖行为协议，用六条规则、风险分级和 Stop Rule 帮助 Agent 区分讨论、执行和停止；它是可复制的 Markdown Skill，不是技术强制或业务判断，使用前请结合自己的授权边界调整",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Release Skill",
     "url": "https://github.com/ifoohoo/release-skill",
     "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",
@@ -1237,26 +1267,6 @@
     "category": "Ready-to-use Skills",
     "titleZh": "Math Concept Film",
     "descriptionZh": "许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，提供六幕教学框架、静帧自检和 ffmpeg 合成流程；配音依赖微软在线 TTS，使用前请确认网络、素材版权、输出目录和许可边界",
-    "categoryZh": "Ready-to-use Skills"
-  },
-  {
-    "title": "Eagle Untagged Organizer",
-    "url": "https://github.com/ChosenXu/eagle-untagged-organizer",
-    "description": "An MIT-licensed WorkBuddy Skill that uses eagle-mcp to name, annotate, and tag untagged design assets; it provides multimodal preflight, a dry-run manifest, batch backups, human approval, and rollback, so confirm the Eagle library, MCP permissions, and write scope before execution",
-    "section": "Open-source Ecosystem",
-    "category": "Ready-to-use Skills",
-    "titleZh": "Eagle Untagged Organizer",
-    "descriptionZh": "MIT 许可的 WorkBuddy Skill，通过 eagle-mcp 为未标记的设计素材生成名称、结构化注释和受控标签；支持多模态预检、预览清单、批量备份、人工批准与回滚，执行前请确认 Eagle 库、MCP 权限和即将写回的素材范围",
-    "categoryZh": "Ready-to-use Skills"
-  },
-  {
-    "title": "Rainskills",
-    "url": "https://github.com/goodrain/rainskills",
-    "description": "An Apache-2.0 Skill collection compatible with WorkBuddy, Codex, Claude, and other Agents for project detection, build/deploy, log troubleshooting, page/API verification, versioning, snapshots, and rollback; it can connect to Rainbond Cloud, an existing Rainbond instance, or local/server environments, so review credentials, network, host permissions, and rollback targets first",
-    "section": "Open-source Ecosystem",
-    "category": "Ready-to-use Skills",
-    "titleZh": "Rainskills",
-    "descriptionZh": "Apache-2.0 许可、兼容 WorkBuddy/Codex/Claude 等 Agent 的部署 Skill 集合，可识别项目、构建部署、排查日志、验证页面/API，并管理版本、快照和回滚；可连接 Rainbond Cloud、已有 Rainbond 或本机/服务器环境，执行前请确认凭据、网络、主机权限和回滚目标",
     "categoryZh": "Ready-to-use Skills"
   },
   {
