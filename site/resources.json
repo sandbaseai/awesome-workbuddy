@@ -970,6 +970,56 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Data AI Daily Brief",
+    "url": "https://github.com/haiyangchenbj/data-ai-daily-brief-skill",
+    "description": "An MIT-licensed industry-intelligence daily-brief Skill with explicit CodeBuddy/WorkBuddy support, turning news, companies, technology, and policy changes for selected industries into structured briefs; verify source provenance and freshness",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Data AI Daily Brief",
+    "descriptionZh": "MIT 许可、明确支持 CodeBuddy/WorkBuddy 的行业情报日报 Skill，将指定行业的新闻、公司、技术和政策变化整理成结构化简报；使用时请核对数据来源与时效",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "AutoFigure-Edit WorkBuddy Skill",
+    "url": "https://github.com/Flipped929/workbuddy-autofigure-edit-skill",
+    "description": "An Apache-2.0 paper-figure Skill that turns method text into editable SVG diagrams with an inline web editor; manually verify diagram accuracy and citations before exporting paper or submission assets",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AutoFigure-Edit WorkBuddy Skill",
+    "descriptionZh": "Apache-2.0 许可的论文配图 Skill，将方法段文字转换为可编辑 SVG，并提供网页内联编辑器；导出论文或投稿素材前请人工核对图示准确性与引用",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "FreeCAD AI Skill",
+    "url": "https://github.com/shanputaoye/freecad-ai-skill",
+    "description": "An MIT-licensed FreeCAD expert Skill with explicit WorkBuddy support, covering 3D modeling, Python scripting, addon development, and PySide6 interface integration",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "FreeCAD AI Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 FreeCAD 专家 Skill，覆盖 3D 建模、Python 脚本、插件开发和 PySide6 界面集成",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "AllinCMS Content Ops",
+    "url": "https://github.com/tony-apan/allincms-content-ops",
+    "description": "An MIT-licensed Claude/Codex/WorkBuddy content-operations Skill that turns raw material into wiki pages, drafts, adversarial review, publishing, and reflection, with documented install and update contracts",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "AllinCMS Content Ops",
+    "descriptionZh": "MIT 许可的 Claude/Codex/WorkBuddy 内容运营 Skill，将原始素材整理为 Wiki、草稿、对抗评审、发布和复盘流程，并提供安装与更新协议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "chief-YE WorkBuddy Skills",
+    "url": "https://github.com/chief-YE/workbuddy-skills",
+    "description": "A CC BY-NC 4.0 WorkBuddy Skill collection organized into Tool, Study, and Research categories, including directly installable methodology-note Skills; non-commercial only with attribution required",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "chief-YE WorkBuddy Skills",
+    "descriptionZh": "CC BY-NC 4.0 许可的 WorkBuddy Skill 合集，按 Tool、Study、Research 分类，包含方法论笔记等可直接安装的 Skill；仅限非商业使用并需遵守署名要求",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Macro Cycle Locator",
     "url": "https://github.com/twin-arc/macro-cycle-locator",
     "description": "An MIT-licensed macro-cycle positioning Skill with explicit WorkBuddy installation instructions, combining a six-dimension scorecard, ETF-flow calibration, sector transmission, and stock-level fundamental checks; for research and learning only, not investment advice",

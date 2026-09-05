@@ -123,6 +123,11 @@
 
 ### Ready-to-use Skills
 
+- [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) - MIT 许可、明确支持 CodeBuddy/WorkBuddy 的行业情报日报 Skill，将指定行业的新闻、公司、技术和政策变化整理成结构化简报；使用时请核对数据来源与时效
+- [AutoFigure-Edit WorkBuddy Skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) - Apache-2.0 许可的论文配图 Skill，将方法段文字转换为可编辑 SVG，并提供网页内联编辑器；导出论文或投稿素材前请人工核对图示准确性与引用
+- [FreeCAD AI Skill](https://github.com/shanputaoye/freecad-ai-skill) - MIT 许可、明确支持 WorkBuddy 的 FreeCAD 专家 Skill，覆盖 3D 建模、Python 脚本、插件开发和 PySide6 界面集成
+- [AllinCMS Content Ops](https://github.com/tony-apan/allincms-content-ops) - MIT 许可的 Claude/Codex/WorkBuddy 内容运营 Skill，将原始素材整理为 Wiki、草稿、对抗评审、发布和复盘流程，并提供安装与更新协议
+- [chief-YE WorkBuddy Skills](https://github.com/chief-YE/workbuddy-skills) - CC BY-NC 4.0 许可的 WorkBuddy Skill 合集，按 Tool、Study、Research 分类，包含方法论笔记等可直接安装的 Skill；仅限非商业使用并需遵守署名要求
 - [Macro Cycle Locator](https://github.com/twin-arc/macro-cycle-locator) - MIT 许可、明确支持 WorkBuddy 的宏观周期定位 Skill，结合六维评分、ETF 资金流校准、行业传导链和个股基本面核验；仅用于研究和学习，不构成投资建议
 - [AI Co-Evolution Skills](https://github.com/PhilRobinluo/ai-coevolution-skills) - 含 47 个可安装中文 Skill 的能力包，明确提供 WorkBuddy 安装路径，覆盖知识解释、PPT 需求澄清、文档修复、图片脱敏、GitHub 首屏和工作流等；Skill/文档采用 CC BY-NC-SA 4.0，代码采用 PolyForm Noncommercial，商业使用前请取得授权
 - [Maya Umbrella Scanner](https://github.com/loonghao/maya_umbrella_scanner) - MIT 许可、支持 WorkBuddy 的 Windows Maya 场景恶意代码扫描 Skill，提供范围确认、批量扫描、结果披露、清理前明确批准、备份和复扫门禁；它不是通用系统杀毒软件
