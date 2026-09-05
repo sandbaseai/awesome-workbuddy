@@ -22,10 +22,10 @@ jobs:
         with:
           script: |
             const body = context.payload.issue.body || '';
-            const valid = body.startsWith('Candidate\\n\\n- Repository:')
-              && body.includes('\\n## Audit result\\n\\n')
-              && body.includes('\\n## Decision\\n\\n')
-              && !body.includes('\\\\n');
+            const valid = body.startsWith('Candidate\n\n- Repository:')
+              && body.includes('\n## Audit result\n\n')
+              && body.includes('\n## Decision\n\n')
+              && !body.includes('\\n');
             if (!valid) {
               core.setFailed('Audit issue must use real Markdown newlines and the Candidate / Audit result / Decision structure.');
             }
