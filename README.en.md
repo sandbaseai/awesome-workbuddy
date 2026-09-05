@@ -26,7 +26,7 @@ Browse the complete [discovery audit record](https://github.com/sandbaseai/aweso
 
 The four original Skills in this directory are also indexed on [agent-skills.md](https://agent-skills.md/authors/sandbaseai) for online browsing and install-path verification.
 
-This week's highlights: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics); see [v0.10.15](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.15) for the full curation update.
+This week's highlights: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics); see [v0.10.16](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.16) for the full curation update.
 
 WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
 
@@ -432,4 +432,4 @@ Initial discovery was informed by [semlinker/awesome-workbuddy](https://github.c
 
 This index is released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms.
 
-Citing this directory? Use the standard [CITATION.cff](CITATION.cff) in the repository root, or cite [v0.10.15](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.15).
+Citing this directory? Use the standard [CITATION.cff](CITATION.cff) in the repository root, or cite [v0.10.16](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.16).

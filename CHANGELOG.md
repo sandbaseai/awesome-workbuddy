@@ -16,6 +16,13 @@
 - Published v0.10.15 for the current 184-repository snapshot and updated all first-screen/citation links.
 - Documented generated-file refresh commands and the weekly/manual ecosystem workflow trigger in the bilingual contribution guide.
 
+## v0.10.16 — 2026-09-05
+
+- Curated the MIT-licensed DSH Agent Preset Recommender for bounded, local-only WorkBuddy/CodeBuddy activity recommendations.
+- Curated the MIT-licensed `agentsw` provider switcher with dry-run, backup, credential, and multi-file configuration guidance.
+- Added audit records for OAuth/account-pool/check-in automation and broad-permission CodeBuddy bridging, keeping high-risk candidates out of the curated list pending deeper review.
+- Refreshed the synchronized directory snapshot to 186 curated repositories and 24 discovery candidates.
+
 ## v0.10.12 — 2026-09-05
 
 - Curated the BSD-3-Clause `wnddd839/codebuddyapi-proxy` self-hosted CodeBuddy gateway with explicit credential, account-rotation, network-boundary, and release-verification warnings.
