@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - MIT 许可的本体驱动应用构建 Skill，从业务想法或需求文档出发，经多轮需求探索和人工确认，生成可安装、可运行的领域 Skill；自然语言查询默认通过本地 API 执行只读 SQL
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演示；使用 HTMLSlide 时请先确认登录和数据上传范围
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - MIT 许可、面向 OpenClaw/WorkBuddy 的开发工作流 Skill 套件，提供 `/ship`、`/review`、`/qa` 等命令、跨步骤状态管理和一键安装/验证流程
@@ -289,6 +290,7 @@
 
 ### Tools and integrations
 
+- [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - AGPL-3.0 许可、明确支持 WorkBuddy 的同花顺本地数据 Agent，可查询行情、K 线、持仓、Level-2 委托和逐笔成交；令牌和本地数据访问涉及敏感权限，使用前请阅读隐私政策并遵守许可证
 - [MindArchive](https://github.com/CatchNo2/MindArchive) - MIT 许可的 AI 对话洞察归档工具，支持增量处理、断点续跑、消费统计和费用上限，也可导出分块提示词交给 WorkBuddy 处理后回收整理
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - 许可未声明的 WorkBuddy CN 本地协议代理，提供 OpenAI 兼容接口、流式输出、工具调用、OAuth 登录和多账号轮换，并支持 Docker 部署；它会处理本地凭证且包含自动签到功能，使用前请核对许可证、账号授权和上游服务条款
 - [collab-cli](https://github.com/yinsang0910-star/collab-cli) - MIT 许可、支持 WorkBuddy 的跨 Agent 协作 CLI，通过局域网发现和同步共享任务、记忆、收件箱与审查结果；支持 Agent 间派发命令，使用前请配置共享密钥并限制网络与执行权限

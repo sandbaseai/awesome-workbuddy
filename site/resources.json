@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WorkBuddy App Builder Skill",
+    "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
+    "description": "An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy App Builder Skill",
+    "descriptionZh": "MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "SJTU-AIA PPT Skill",
     "url": "https://github.com/2022Hao/SJTU-AIA-PPT-SKILL",
     "description": "An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first",
@@ -2530,16 +2540,6 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
-    "title": "WorkBuddy App Builder Skill",
-    "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
-    "description": "An MIT-licensed WorkBuddy-focused ontology-driven app-building Skill that starts with requirements discovery and human checkpoints, then generates seven-model domain definitions, a runnable business app, SQLite/API services, forms, and an offline knowledge graph",
-    "section": "Open-source Ecosystem",
-    "category": "Ready-to-use Skills",
-    "titleZh": "WorkBuddy App Builder Skill",
-    "descriptionZh": "MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱",
-    "categoryZh": "Ready-to-use Skills"
-  },
-  {
     "title": "WorkBuddy Theme Skill",
     "url": "https://github.com/comeonzhj/WorkBuddy-theme-skill",
     "description": "Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy",
@@ -2558,6 +2558,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Tonghuashun Agent",
+    "url": "https://github.com/zhuyifang/tonghuasun-agent",
+    "description": "An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Tonghuasun Agent",
+    "descriptionZh": "面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "MindArchive",
@@ -3527,16 +3537,6 @@
     "category": "Tools and integrations",
     "titleZh": "DSH Agent Selector",
     "descriptionZh": "MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证",
-    "categoryZh": "Tools and integrations"
-  },
-  {
-    "title": "Tonghuasun Agent",
-    "url": "https://github.com/zhuyifang/tonghuasun-agent",
-    "description": "An AGPL-3.0 connector for the Tonghuashun Windows desktop client that exposes quotes, account, positions, and trade data to WorkBuddy and other Agents",
-    "section": "Open-source Ecosystem",
-    "category": "Tools and integrations",
-    "titleZh": "Tonghuasun Agent",
-    "descriptionZh": "面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交",
     "categoryZh": "Tools and integrations"
   },
   {

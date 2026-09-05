@@ -123,6 +123,7 @@
 
 ### Ready-to-use Skills
 
+- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - An MIT-licensed UI/UX design Skill bundle with explicit WorkBuddy support, covering brand direction, design tokens, component recipes, motion specs, and anti-pattern checks, with an installer target named `workbuddy`; inspect the remote install script before running it
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - An MIT-licensed development-workflow Skill suite for OpenClaw/WorkBuddy, offering `/ship`, `/review`, and `/qa` commands, cross-step state management, and one-command installation and verification
@@ -290,6 +291,7 @@
 
 ### Tools and integrations
 
+- [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use
 - [MindArchive](https://github.com/CatchNo2/MindArchive) - An MIT-licensed AI-conversation insight archive with incremental processing, resumable runs, usage and cost limits, and an export mode that lets WorkBuddy answer chunked prompts before collecting the results
 - [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) - A license-not-declared local protocol proxy for WorkBuddy CN with OpenAI-compatible APIs, streaming, tool calls, OAuth login, multi-account rotation, and Docker deployment; it handles local credentials and includes automated check-in, so verify licensing, account authorization, and upstream terms before use
 - [collab-cli](https://github.com/yinsang0910-star/collab-cli) - An MIT-licensed WorkBuddy-compatible cross-agent collaboration CLI that discovers and syncs tasks, memory, inboxes, and reviews over a LAN; it can dispatch commands between Agents, so configure a shared secret and restrict network and execution permissions before use
