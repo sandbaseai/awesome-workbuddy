@@ -9,9 +9,9 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,073 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,730 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,952 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,543 | Python | 2026-09-05 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,733 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,953 | TypeScript | 2026-09-03 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,544 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,147 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,923 | - | 2026-08-12 |
@@ -57,7 +57,7 @@ Last refreshed: **2026-09-05 UTC**
 | [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
 | [lovingfish/workbuddy-cliproxy](https://github.com/lovingfish/workbuddy-cliproxy) | 121 | Go | 2026-07-08 |
-| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 111 | Python | 2026-09-04 |
+| [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin) | 112 | Python | 2026-09-04 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
@@ -85,8 +85,8 @@ Last refreshed: **2026-09-05 UTC**
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 32 | Python | 2026-08-30 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
 | [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 29 | JavaScript | 2026-09-05 |
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 28 | JavaScript | 2026-09-05 |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 27 | Python | 2026-09-01 |
 | [AlanHuang168/AI-Project-Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) | 27 | JavaScript | 2026-07-22 |
@@ -278,5 +278,6 @@ Last refreshed: **2026-09-05 UTC**
 | [yang20040317-svg/design-workflow](https://github.com/yang20040317-svg/design-workflow) | 0 | Python | 2026-09-05 |
 | [bonboruyau-dev/html-to-feishu-doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) | 0 | Python | 2026-09-05 |
 | [bonboruyau-dev/wechat-article-to-md](https://github.com/bonboruyau-dev/wechat-article-to-md) | 0 | Python | 2026-09-05 |
+| [yinxiaowai/xiaowai-photo-poetic-postcard](https://github.com/yinxiaowai/xiaowai-photo-poetic-postcard) | 0 | Python | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

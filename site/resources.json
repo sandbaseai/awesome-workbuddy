@@ -1040,6 +1040,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Photo Poetic Postcard",
+    "url": "https://github.com/yinxiaowai/xiaowai-photo-poetic-postcard",
+    "description": "A CC BY-NC-SA 4.0 content-licensed WorkBuddy Skill that turns one photo into a poetic postcard with a transformed focal element, text, and color card",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Photo Poetic Postcard",
+    "descriptionZh": "CC BY-NC-SA 4.0 内容许可的 WorkBuddy 照片明信片 Skill，将一张照片制作成含转绘主体、文字和色卡的诗意明信片",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Skill Integrator",
     "url": "https://github.com/smiling66652/skill-integrator",
     "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",

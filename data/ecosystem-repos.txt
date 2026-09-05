@@ -270,3 +270,4 @@ yangchen0991/video-workshop
 KKbaocai/topic-pipeline
 iBlinkQ/project-cairn
 luan-78-zao/official-document-writer-skill
+yinxiaowai/xiaowai-photo-poetic-postcard
