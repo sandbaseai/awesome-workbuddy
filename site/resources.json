@@ -530,6 +530,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "WG Skills",
+    "url": "https://github.com/jiushiwon/wg-skills",
+    "description": "An Apache-2.0 collection of more than 50 general Agent Skills with explicit WorkBuddy support, covering deployment, runtimes, databases, writing, and engineering; inspect each Skill's scripts, dependencies, and permissions before installation",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WG Skills",
+    "descriptionZh": "Apache-2.0 许可的 50+ 通用 Agent Skills 集合，明确支持 WorkBuddy，覆盖部署、运行时、数据库、写作和研发场景；安装前请逐项查看 Skill 的脚本、依赖和权限",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Xiaozhi Learning Skills",
     "url": "https://github.com/qizhitang/xiaozhi-skills",
     "description": "An MIT-licensed K-12 learning and teaching Skill collection with 57 student and teacher Skills and explicit WorkBuddy support; confirm the authorization boundaries for students, parents, teachers, and shared learning evidence before use",
@@ -1048,6 +1058,16 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "DSH Auto Memory",
+    "url": "https://github.com/Aik358/dsh-auto-memory",
+    "description": "A BSD-3-Clause DeepSeek Harness automatic-memory plugin that scans and manages memories from WorkBuddy, CodeBuddy, Claude Code, and Codex by source; it reads local sessions or memory files, so confirm paths and sensitive-content boundaries before importing",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "DSH Auto Memory",
+    "descriptionZh": "BSD-3-Clause 许可的 DeepSeek Harness 自动记忆插件，可扫描并按来源管理 WorkBuddy、CodeBuddy、Claude Code 和 Codex 的记忆；它会读取本地会话或记忆文件，导入前请确认路径和敏感内容范围",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "Majia Guanyuan BI Skill",
@@ -3028,6 +3048,26 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Microsoft 365 MCP Server",
+    "url": "https://github.com/mdwsk88/ms-365-21v-mcp-server",
+    "description": "An Apache-2.0 Microsoft 365 OAuth 2.1 MCP gateway whose README records WorkBuddy remote-connection, OAuth, tool-discovery, and invocation verification; enterprise tenant, mail, file, and calendar data are accessed with authorization, so review tenant policy and scopes before deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Microsoft 365 MCP Server",
+    "descriptionZh": "Apache-2.0 许可的 Microsoft 365 OAuth 2.1 MCP 网关，README 记录了 WorkBuddy 的远程连接、OAuth、工具发现和调用验证；企业租户、邮件、文件与日历数据会经授权访问，部署前请核对租户策略和权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "LazyMind",
+    "url": "https://github.com/LazyAGI/LazyMind",
+    "description": "An Apache-2.0 AI Skill Runtime for knowledge-intensive work that can connect WorkBuddy local projects and task histories, and expose Skills, workflows, and knowledge bases through MCP; review local-history scan scope and any cloud data flow first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "LazyMind",
+    "descriptionZh": "Apache-2.0 许可的知识密集型工作 AI Skill Runtime，可接入 WorkBuddy 的本地项目与任务历史，并通过 MCP 提供 Skills、工作流和知识库；使用前请审查本地历史扫描范围及云端数据流",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "LidKeeper",
