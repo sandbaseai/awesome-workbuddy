@@ -384,3 +384,4 @@ chief-YE/workbuddy-skills
 gebiniwangdaye/macos-minimize-all
 bettermen/article-metaphor-illustrator
 xxiao-git/paper-submission-skill
+haiyangchenbj/invassistant-skill-cn

@@ -10,7 +10,7 @@ Last refreshed: **2026-09-05 UTC**
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,088 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,888 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,966 | TypeScript | 2026-09-03 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,967 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -334,6 +334,7 @@ Last refreshed: **2026-09-05 UTC**
 | [hongshuhai/hongshuhai-market-briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) | 1 | Python | 2026-09-05 |
 | [iqingyoung/search2chart-mcp](https://github.com/iqingyoung/search2chart-mcp) | 1 | JavaScript | 2026-08-29 |
 | [chief-YE/workbuddy-skills](https://github.com/chief-YE/workbuddy-skills) | 1 | Python | 2026-08-07 |
+| [haiyangchenbj/invassistant-skill-cn](https://github.com/haiyangchenbj/invassistant-skill-cn) | 1 | Python | 2026-04-14 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
