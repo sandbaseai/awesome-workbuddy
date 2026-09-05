@@ -3050,6 +3050,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "mnemon",
+    "url": "https://github.com/mnemon-dev/mnemon",
+    "description": "An Apache-2.0 local-first cross-session memory tool with a documented `mnemon setup --target workbuddy --yes` flow that deploys Skills, prompts, and hooks to WorkBuddy's `.workbuddy/` or `~/.workbuddy/`; it reads and writes local task memory, so confirm directories, backups, and sensitive-data boundaries before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "mnemon",
+    "descriptionZh": "Apache-2.0 许可的本地优先跨会话记忆工具，提供 `mnemon setup --target workbuddy --yes`，将 Skill、Prompt 和 Hook 部署到 WorkBuddy 的 `.workbuddy/` 或 `~/.workbuddy/`；它会读取并写入本地任务记忆，启用前请确认目录、备份和敏感信息范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Microsoft 365 MCP Server",
     "url": "https://github.com/mdwsk88/ms-365-21v-mcp-server",
     "description": "An Apache-2.0 Microsoft 365 OAuth 2.1 MCP gateway whose README records WorkBuddy remote-connection, OAuth, tool-discovery, and invocation verification; enterprise tenant, mail, file, and calendar data are accessed with authorization, so review tenant policy and scopes before deployment",

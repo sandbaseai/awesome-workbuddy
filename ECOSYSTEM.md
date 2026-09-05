@@ -57,9 +57,10 @@ Last refreshed: **2026-09-05 UTC**
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 634 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 580 | Python | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 581 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
+| [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 557 | Go | 2026-09-05 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 548 | Python | 2026-09-02 |
 | [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) | 545 | HTML | 2026-04-16 |
 | [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
