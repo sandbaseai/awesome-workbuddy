@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**173 curated repositories · 4 original Skills · 27 discovery candidates · weekly validation**
+**174 curated repositories · 4 original Skills · 26 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -122,6 +122,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 ### Skill collections
 
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断；使用前请确认本地知识库内容与同步范围.
+- [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单；主要按 Claude Code Skill 格式编写，也可作为 CodeBuddy 的参考资料，执行时必须以微信官方文档为准，服务端保管密钥并人工复核支付规则、金额和发货逻辑.
 
 - [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) - 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库，提供许可证、安全和 WorkBuddy 兼容性审查状态.
 - [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) - Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git、发布、版本证据和回滚；安装后会影响项目工作区规则并可执行部署/版本操作，使用前请审查其指令、主机权限、凭据和发布目标.

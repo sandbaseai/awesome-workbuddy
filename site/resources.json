@@ -550,6 +550,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WeChat Mini Program Virtual Payment Skill",
+    "url": "https://github.com/beeyang0/miniprogram-VirtualPayment",
+    "description": "An MIT-licensed documentation-only Skill covering virtual goods, coin top-ups, iOS routing, signing, idempotent callbacks, error diagnosis, and launch checklists. It is primarily written in the Claude Code Skill format but can serve as CodeBuddy reference material; follow current WeChat official documentation, keep signing keys server-side, and manually verify payment rules, amounts, and fulfillment logic before execution",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "WeChat Mini Program Virtual Payment Skill",
+    "descriptionZh": "MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单；主要按 Claude Code Skill 格式编写，也可作为 CodeBuddy 的参考资料，执行时必须以微信官方文档为准，服务端保管密钥并人工复核支付规则、金额和发货逻辑",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Skill Hub",
     "url": "https://github.com/sandbaseai/workbuddy-skill",
     "description": "A searchable catalog of 10,000 public Skill paths with provenance, license, security, and compatibility review fields",
