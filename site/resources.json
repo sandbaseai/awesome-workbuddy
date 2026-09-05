@@ -560,6 +560,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "Define Product and Roadmap",
+    "url": "https://github.com/bangogo/define-product-and-roadmap",
+    "description": "An MIT-licensed product-contract Skill for WorkBuddy, CodeBuddy, and Codex that aligns PRDs and experience roadmaps around evidence, user value, truth boundaries, assumptions, and acceptance criteria, with versioned templates, deterministic validators, evaluation fixtures, and tests; it can create or rewrite documents and run local scripts in the target project, so review target paths, business evidence, dependencies, generated files, and release/approval boundaries first",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "Define Product and Roadmap",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品契约 Skill，将 PRD 与体验路线图按证据、用户价值、真值边界、假设和验收条件对齐，并提供版本化模板、确定性验证器、评测样例和测试；它会在目标项目创建或改写文档并可运行本地脚本，使用前请审查目标目录、业务资料、依赖、生成物和发布/审批边界",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Wiki",
     "url": "https://github.com/YuanYiZheXue/workbuddy-wiki",
     "description": "An Apache-2.0 WorkBuddy + Obsidian local knowledge-base system with versioned schemas, cross-workspace synchronization, source/concept/entity organization, and health diagnostics; confirm the scope of local knowledge and synchronization before use",

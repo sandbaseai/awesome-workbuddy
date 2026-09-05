@@ -12,24 +12,17 @@ New to WorkBuddy? Begin with the [one-minute chooser and quick start](START_HERE
 
 For a compact machine-readable overview, see [`site/llms.txt`](site/llms.txt).
 
-Suggested starting points: [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) (self-hosted OpenAI-compatible gateway), [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) (evidence-grounded multi-source distillation), [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) (team memory and WorkBuddy Proxy), [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (multi-agent classroom Skill), and [AgentsView](https://github.com/kenn-io/agentsview) (local session analytics).
-
 WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research, document, data, design, and development tasks with natural language. This list starts with official documentation and then highlights community resources that offer reproducible steps, open source, or distinct practical value.
 
 > [!IMPORTANT]
 > This is an independent community index, not a Tencent publication. Before installing any third-party Skill, MCP server, connector, or enhancement, inspect its source, permissions, and data flow. Never upload secrets, personal data, or unredacted company material without an appropriate review.
 
-## Contents
+## Start with these
 
-- [Start Here](#start-here)
-- [Official Resources](#official-resources)
-- [Open-source Ecosystem](#open-source-ecosystem)
-- [Skills, Prompts, and MCP](#skills-prompts-and-mcp)
-- [Guides](#guides)
-- [Use Cases](#use-cases)
-- [Research and Engineering](#research-and-engineering)
-- [Related Lists](#related-lists)
-- [Acknowledgements](#acknowledgements)
+- [One-minute quick start](#start-here)
+- [Featured resources](#featured-resources)
+- [Full searchable catalog](https://sandbaseai.github.io/awesome-workbuddy/)
+- [Feedback and issues](https://github.com/sandbaseai/awesome-workbuddy/issues)
 
 ## Start Here
 
@@ -44,6 +37,22 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) - Create one-time or recurring tasks and send results to connected platforms.
 - [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) - Connect external tools and data through visual configuration.
 - [WorkBuddy Enterprise quick start](https://cloud.tencent.com/document/product/1831/134527) - Create, test, publish, and connect an enterprise Agent to messaging channels.
+
+## Featured resources
+
+If you are not sure where to begin, try these in order:
+
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A Chinese practical guide from the first task to team workflows.
+- [Skill Onboarding](https://github.com/howoneai/skill-onboarding) - A 15-minute introduction to building and evaluating Skills.
+- [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) - Turn websites, code, images, and documents into reusable methods.
+- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Generate lessons, slides, quizzes, and interactive pages with multi-agent workflows.
+- [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team memory capabilities for WorkBuddy and other Agents.
+- [AgentsView](https://github.com/kenn-io/agentsview) - Inspect and analyze Agent sessions locally.
+
+The full catalog below is grouped into official resources, Skills, MCP, workflows, use cases, and research. You can also use the searchable directory above.
+
+<details>
+<summary>Expand the full catalog</summary>
 
 ## Official Resources
 
@@ -108,6 +117,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) - An MIT-licensed cross-agent software-delivery workflow with explicit CodeBuddy support, a single source of truth, stage Skill contracts, state files, artifact gates, real verification, and CLI adapters; it is a community project rather than a Tencent component, and initialization writes rules, Skills, state, and documents into the target project, so review the target directory and execution permissions first.
 - [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) - A MIT-licensed six-part workflow guide covering Claude Code, Kimi, CC Switch, Pandoc, Lark-Formatter, and WorkBuddy formatting for undergraduate theses; it explicitly requires authentic research, data, and citations, so follow institutional policies and review API keys and source-material scope before use.
 - [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) - An MIT-licensed self-contained workflow harness for WorkBuddy/CodeBuddy CLI and IDE with staged planning, host-readiness verification, reversible offboarding, MCP/Skill routes, and layered tests; it explicitly keeps credentials, marketplace, plugin, and trust changes human-approved, while installation can write project/Agent configuration, so review the install root, scripts, dependencies, and permission boundaries first.
+- [Define Product and Roadmap](https://github.com/bangogo/define-product-and-roadmap) - An MIT-licensed product-contract Skill for WorkBuddy, CodeBuddy, and Codex that aligns PRDs and experience roadmaps around evidence, user value, truth boundaries, assumptions, and acceptance criteria, with versioned templates, deterministic validators, evaluation fixtures, and tests; it can create or rewrite documents and run local scripts in the target project, so review target paths, business evidence, dependencies, generated files, and release/approval boundaries first.
 
 ### Skill collections
 
@@ -386,6 +396,8 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [WorkBuddy Bench website](https://workbuddybench.com/) - Official benchmark overview, tracks, results, and evaluation entry point.
 - [WorkBuddy Bench dataset](https://huggingface.co/datasets/tencent/workbuddy-bench) - Official task archives for the Code, Web, Office, and Security subsets.
 - [CloudBase model configuration](https://docs.cloudbase.net/ai/ai-tools/workbuddy) - Connect an OpenAI-compatible model endpoint.
+
+</details>
 
 ## Related Lists
 

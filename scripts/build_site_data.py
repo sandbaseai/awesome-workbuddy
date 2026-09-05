@@ -28,6 +28,8 @@ def parse_readme(path: Path) -> list[dict[str, str]]:
         match = LINK.match(line)
         if not match:
             continue
+        if section in {"精选资源", "Featured resources"}:
+            continue
         title, url, description = match.groups()
         resources.append(
             {
