@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.10.8 — 2026-09-05
+
+- Added MIT-licensed OpenMAIC, a WorkBuddy-compatible classroom Skill for multi-agent lessons, slides, quizzes, interactive HTML, PBL activities, and TTS.
+- Added Apache-2.0 memU and MIT-licensed AgentsView for WorkBuddy session memory/Skill extraction and local session search/analytics.
+- Documented upload, external-service, credential, transcript, scheduled-task, daemon, remote-sync, and write-scope warnings for the new integrations.
+- Refreshed the synchronized directory snapshot to 161 curated repositories and 34 discovery candidates.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.7 — 2026-09-05
 
 - Added the MIT-licensed cross-platform WorkBuddy Auto Check-in Skill with macOS/Windows installers, one-instance locking, sanitized logs, legacy-job backup, and tests.
