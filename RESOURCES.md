@@ -130,6 +130,8 @@
 
 ### Ready-to-use Skills
 
+- [Produce Videos](https://github.com/luqi67677/produce-videos) - MIT 许可、提供 WorkBuddy 专用 ZIP 的视频制作 Skill，覆盖脚本、素材、配音、分镜、动画、字幕、预览、质检和导出；安装流程要求先验证本地文件与依赖，涉及隐私、素材授权、模型下载或付费服务时需单独确认
+
 - [OpenLX 微信公众号发布 Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - MIT 许可、明确支持 WorkBuddy 的公众号内容发布 Skill，支持素材上传、草稿创建、明确发布和状态查询，并提供版本清单与 SHA-256 校验；首次使用仍需管理员扫码授权，建议先创建草稿核对再发布
 
 - [career-kit](https://github.com/wangqiao258/career-kit) - MIT 许可的本地优先职业档案与简历定制 Skills，覆盖档案建档、JD 分析、简历裁剪和版本管理；README 提供 WorkBuddy 等平台的手动导入方式，个人资料应仅在你信任的本地环境中处理
@@ -323,6 +325,9 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 
 ### Tools and integrations
+
+- [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - MIT 许可的本地 Agent 网络连接器，明确支持 WorkBuddy，可为本地 Agent 创建持久身份、公开 Bot 页面和 Bot 间通信；启用后会产生网络通信与公开内容，请先检查共享范围和凭据
+- [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) - MIT 许可的自托管 AI 网关，支持 WorkBuddy OAuth 适配、模型路由、配额统计、MCP 挂载和多种上游服务；它会处理中转请求及 OAuth/Cookie 凭据，部署前请审查日志、隧道和密钥权限
 
 - [CNKI Browser Tool](https://github.com/Lzffancy/cnki-browser-tool) - MIT 许可的 CNKI/论文研究浏览器工具，提供本机回环 HTTP/MCP 桥接、文献检索、结果读取和批量 PDF 下载，并给出 WorkBuddy 粘贴即用的接入说明；只驱动真实页面交互，不导出 Cookie 或绕过验证码，登录态和下载文件仍需自行保护
 

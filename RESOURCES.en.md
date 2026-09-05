@@ -130,6 +130,8 @@
 
 ### Ready-to-use Skills
 
+- [Produce Videos](https://github.com/luqi67677/produce-videos) - An MIT-licensed video-production Skill with a WorkBuddy-specific ZIP, covering scripts, assets, narration, storyboards, animation, subtitles, previews, quality checks, and export; its install flow verifies local files and dependencies first and separately confirms privacy, asset rights, model downloads, and paid services
+
 - [OpenLX WeChat Official Account Publishing Skill](https://github.com/openlxcn/openlx-weixin-baimindan) - An MIT-licensed publishing Skill with explicit WorkBuddy support for media uploads, draft creation, explicit publishing, and status queries, with a version manifest and SHA-256 verification; an administrator must still authorize it by QR code, and draft review should precede publishing
 
 - [career-kit](https://github.com/wangqiao258/career-kit) - An MIT-licensed local-first career profile and resume-building Skill set covering profile intake, job-description analysis, resume tailoring, and versioning; its README documents manual loading for WorkBuddy and other platforms, so keep personal data only in environments you trust
@@ -324,6 +326,9 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
 
 ### Tools and integrations
+
+- [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - An MIT-licensed local-agent network connector with explicit WorkBuddy support, giving a local Agent a persistent identity, public Bot page, and Bot-to-Bot communication; enabling it introduces network traffic and public content, so review sharing scope and credentials first
+- [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) - An MIT-licensed self-hosted AI gateway with WorkBuddy OAuth support, model routing, quota tracking, MCP mounting, and many upstream providers; it handles proxied requests and OAuth/cookie credentials, so review logs, tunnels, and secret permissions before deployment
 
 - [CNKI Browser Tool](https://github.com/Lzffancy/cnki-browser-tool) - An MIT-licensed CNKI/paper-research browser tool with a local loopback HTTP/MCP bridge, literature search, result reading, and batch PDF downloads, including a paste-ready WorkBuddy integration; it drives real page interactions without exporting cookies or bypassing CAPTCHAs, but protect login state and downloaded files
 

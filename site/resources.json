@@ -1030,6 +1030,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Produce Videos",
+    "url": "https://github.com/luqi67677/produce-videos",
+    "description": "An MIT-licensed video-production Skill with a WorkBuddy-specific ZIP, covering scripts, assets, narration, storyboards, animation, subtitles, previews, quality checks, and export; its install flow verifies local files and dependencies first and separately confirms privacy, asset rights, model downloads, and paid services",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Produce Videos",
+    "descriptionZh": "MIT 许可、提供 WorkBuddy 专用 ZIP 的视频制作 Skill，覆盖脚本、素材、配音、分镜、动画、字幕、预览、质检和导出；安装流程要求先验证本地文件与依赖，涉及隐私、素材授权、模型下载或付费服务时需单独确认",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "OpenLX WeChat Official Account Publishing Skill",
     "url": "https://github.com/openlxcn/openlx-weixin-baimindan",
     "description": "An MIT-licensed publishing Skill with explicit WorkBuddy support for media uploads, draft creation, explicit publishing, and status queries, with a version manifest and SHA-256 verification; an administrator must still authorize it by QR code, and draft review should precede publishing",
@@ -2868,6 +2878,26 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Open Agent Connect",
+    "url": "https://github.com/openagentinternet/open-agent-connect",
+    "description": "An MIT-licensed local-agent network connector with explicit WorkBuddy support, giving a local Agent a persistent identity, public Bot page, and Bot-to-Bot communication; enabling it introduces network traffic and public content, so review sharing scope and credentials first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Open Agent Connect",
+    "descriptionZh": "MIT 许可的本地 Agent 网络连接器，明确支持 WorkBuddy，可为本地 Agent 创建持久身份、公开 Bot 页面和 Bot 间通信；启用后会产生网络通信与公开内容，请先检查共享范围和凭据",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "ExtremeRouter",
+    "url": "https://github.com/rsalmn/ExtremeRouter",
+    "description": "An MIT-licensed self-hosted AI gateway with WorkBuddy OAuth support, model routing, quota tracking, MCP mounting, and many upstream providers; it handles proxied requests and OAuth/cookie credentials, so review logs, tunnels, and secret permissions before deployment",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "ExtremeRouter",
+    "descriptionZh": "MIT 许可的自托管 AI 网关，支持 WorkBuddy OAuth 适配、模型路由、配额统计、MCP 挂载和多种上游服务；它会处理中转请求及 OAuth/Cookie 凭据，部署前请审查日志、隧道和密钥权限",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "CNKI Browser Tool",
