@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**192 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**193 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -248,6 +248,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [AgentsView](https://github.com/kenn-io/agentsview) - MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy/projects`；只读查询可直接读取本地 SQLite，但 `sync`、用量统计及数据库/远程推送命令会启动可写 daemon 或访问配置的远端目标，使用前请审查会话内容、凭据、同步目的地、网络暴露和写入命令.
 - [DSH Agent Preset Recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) - MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBuddy/CodeBuddy 活动并推荐 preset，不调用 LLM、不发网络请求、不执行命令、不安装或修改 preset；但仍会读取指定本地元数据并写入安装本地的聚合报告，使用前请核对扫描根目录和 DSH 兼容基线.
 - [agentsw](https://github.com/tchivs/agentsw) - MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数据和 WorkBuddy/DSH 配置到九种编码 Agent；支持 `--dry-run` 和备份，但会读写多个本地配置文件并可能处理 API Key，执行前请审查 diff、目标路径、凭据范围和 Provider 条款.
+- [AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) - MIT 许可的 VS Code 扩展，可在 CodeBuddy、Cursor、Trae、Antigravity、Qoder、Windsurf 和 VS Code 之间浏览、管理和安装 Skill 仓库；它将 CodeBuddy 映射到 `.codebuddy/skills`，并可搜索第三方云端目录，安装前请审查仓库来源、分支变更、工作区写入、下载指令以及凭据或可执行内容范围.
 - [HTML to Feishu Doc](https://github.com/bonboruyau-dev/html-to-feishu-doc) - MIT 许可的跨平台 Skill，可将 HTML 或 URL 转为 Markdown，并可选创建飞书文档，保留表格、图片、标题并提供完整性回查；URL 模式会抓取远程内容和素材，创建文档会上传到飞书并写入本地构建文件，使用前请核对凭据、目标空间、版权和保留范围.
 - [WeChat Article to Markdown](https://github.com/bonboruyau-dev/wechat-article-to-md) - MIT 许可的 Python Skill，可抓取微信公众号文章、提取结构化 Markdown、下载图片、转换 GFM 表格并输出 Obsidian 格式，兼容 WorkBuddy、Claude Code 和 Codex；它会把文章内容写入本地，索引或再分发前必须审查来源授权、版权、隐私和平台条款.
 - [Codex Mate](https://github.com/SakuraByteCore/codexmate) - Apache-2.0 许可的本地 CLI + Web UI，统一管理 CodeBuddy、Codex、Claude Code、Gemini CLI、OpenCode、KiloCode、OpenClaw 与 Pi 的配置、会话、Skills、MCP 和任务队列；支持 WorkBuddy/CodeBuddy 会话浏览与本地 Skills 市场，并提供测试覆盖。它会读写本地配置、会话和凭据，也能启动本地协议桥接、导入 Skill 或删除会话，使用前请备份并逐项确认路径、密钥、端口和写入操作.

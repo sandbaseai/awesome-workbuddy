@@ -1660,6 +1660,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "AgentSkillsManager",
+    "url": "https://github.com/lasoons/AgentSkillsManager",
+    "description": "An MIT-licensed VS Code extension for browsing and installing Skill repositories across CodeBuddy, Cursor, Trae, Antigravity, Qoder, Windsurf, and VS Code; it maps CodeBuddy to `.codebuddy/skills` and can search a third-party cloud catalog, so review repository provenance, branch changes, workspace writes, downloaded instructions, and credential or executable scope before installing",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "AgentSkillsManager",
+    "descriptionZh": "MIT 许可的 VS Code 扩展，可在 CodeBuddy、Cursor、Trae、Antigravity、Qoder、Windsurf 和 VS Code 之间浏览、管理和安装 Skill 仓库；它将 CodeBuddy 映射到 `.codebuddy/skills`，并可搜索第三方云端目录，安装前请审查仓库来源、分支变更、工作区写入、下载指令以及凭据或可执行内容范围",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "HTML to Feishu Doc",
     "url": "https://github.com/bonboruyau-dev/html-to-feishu-doc",
     "description": "An MIT-licensed cross-platform Skill that converts HTML or URLs to Markdown and optionally creates Feishu/Lark documents while preserving tables, images, headings, and integrity checks; URL mode fetches remote content and assets, while document creation uploads to Feishu and writes local build files, so verify credentials, destination scope, copyright, and retention first",
