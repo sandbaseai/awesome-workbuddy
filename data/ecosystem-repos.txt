@@ -8,6 +8,7 @@ dcc-mcp/dcc-mcp-agent-plugins
 tonycc/skillhive
 1186247283zj-pixel/github-mcp-server-lite
 bailinghub/bailinghub-workbuddy-connector
+chonpszhou/workbuddy-chatcut-mcp
 wynter-cai/assetplex
 laoyudashu/voko
 dongsheng123132/task-passport
