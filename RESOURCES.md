@@ -339,6 +339,11 @@
 
 ### Tools and integrations
 
+- [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - MIT 许可的本地优先内容发现 Agent，仓库内置可接入 WorkBuddy 的 Skill 与 Agent Bridge，可从多个公开平台检索内容；默认数据留在本机，但仍需确认模型服务、浏览器访问和个人画像的数据边界
+- [Smartoken](https://github.com/LIN-LAB-AI/smartoken) - MIT 许可的本地优先 LLM 路由与用量面板，提供明确的 WorkBuddy OpenAI 兼容服务配置，可按任务选择后端并记录审计信息；配置 API Key、云端模型或开放端口前请先检查 `.env`、日志和监听地址
+- [TokenFleet](https://github.com/oreogong2/TokenFleet) - MIT 许可的 macOS 本地 AI Token 用量追踪器，支持读取 WorkBuddy 等 Agent 的精确用量元数据；它还包含可选的社区排行榜，启用前请确认本地数据、上传范围和实验开关
+- [Lighttab](https://github.com/susunola/lighttab) - MIT 许可的本地优先 Chrome 新标签页，提供 WorkBuddy 深链接和运行状态探测，可从搜索框快速打开 WorkBuddy；默认零追踪，但安装扩展前仍应检查其权限和本地回环访问
+
 - [Tokdash](https://github.com/JingbiaoMei/Tokdash) - MIT 许可的本地 Agent 会话与额度分析面板，明确支持 WorkBuddy，可读取本地 transcript 统计 Token、费用、会话和配额；使用前请检查扫描目录、输出内容和本地数据权限
 
 - [Fanbox](https://github.com/alchaincyf/fanbox) - MIT 许可的本地多 Agent 工作台，可一键启动和管理包括 WorkBuddy 在内的多个 Agent，并提供窗口状态与等待提醒；使用前请确认它将启动的命令、工作目录和客户端配置

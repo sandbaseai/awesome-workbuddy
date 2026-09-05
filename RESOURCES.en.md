@@ -340,6 +340,11 @@
 
 ### Tools and integrations
 
+- [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - An MIT-licensed local-first content-discovery Agent with a bundled Skill and Agent Bridge for WorkBuddy, searching multiple public platforms; data stays local by default, but review model services, browser access, and personal-profile boundaries first
+- [Smartoken](https://github.com/LIN-LAB-AI/smartoken) - An MIT-licensed local-first LLM router and usage dashboard with explicit WorkBuddy OpenAI-compatible setup, task-aware backend selection, and audit records; review `.env`, logs, and bind addresses before configuring API keys, cloud models, or exposed ports
+- [TokenFleet](https://github.com/oreogong2/TokenFleet) - An MIT-licensed local macOS AI token tracker that reads precise usage metadata from WorkBuddy and other Agents; it also offers an optional community leaderboard, so confirm local-data, upload, and experiment-toggle boundaries before enabling it
+- [Lighttab](https://github.com/susunola/lighttab) - An MIT-licensed local-first Chrome new-tab extension with a WorkBuddy deep link and live running-state probe for quick access from the search box; it is tracking-free by default, but review extension permissions and loopback access before installation
+
 - [Tokdash](https://github.com/JingbiaoMei/Tokdash) - An MIT-licensed local Agent session and quota analytics dashboard with explicit WorkBuddy support, reading local transcripts to report tokens, cost, sessions, and quotas; review scanned directories, output content, and local-data permissions first
 
 - [Fanbox](https://github.com/alchaincyf/fanbox) - An MIT-licensed local multi-agent cockpit that launches and manages multiple Agents including WorkBuddy, with window status and waiting-state reminders; review the commands, working directories, and client configuration it will use first
