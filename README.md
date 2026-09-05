@@ -161,6 +161,8 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引；默认回环服务使用本地 SQLite/FTS5，可按需扫描源码、Markdown 与 Git 历史写入记忆，LLM 抽取/评测可读取 `OPENAI_API_KEY` 并访问配置的模型端点，使用前请核对扫描目录、MCP 写入工具、端口、日志、密钥和数据保留.
 
 ### Ready-to-use Skills
+
+- [OpenMobius Skill](https://github.com/MobiusQuant/OpenMobius-skill) - Apache-2.0 许可、明确支持 WorkBuddy 的交易知识 Skill，提供可溯源的 ICT/SMC 知识卡、行情分析和图表生成，并在不支持的分析路由上主动停止；它处理市场数据且不构成投资建议，使用前请核对数据来源、账号权限、隐私和风险边界.
 - [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) - MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架；使用时请确认输入材料的版权、隐私和人物授权，不要把生成内容当作事实或本人观点.
 - [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程；安装需要同时导入 `SKILL.md` 与 `references/`，并配置第三方 API Key，使用前请确认素材版权、费用、密钥和上传范围.
 - [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境.
