@@ -333,6 +333,7 @@
 - [Huawei Cloud DevKit](https://github.com/huaweicloud/huaweicloud-devkit) - Apache-2.0 许可的华为云官方 Agent 工具包，明确支持 WorkBuddy，提供 Skills、MCP、部署工具和安全护栏
 - [CloudBase AI Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - 腾讯云 CloudBase 官方 MIT 工具包，为 WorkBuddy 提供数据库、身份认证、云函数、存储和部署相关的 Skills 与 MCP
 - [workbuddy_to_api](https://github.com/yxxawa/workbuddy_to_api) - MIT 许可的本地 WorkBuddy 代理，将服务转换为 OpenAI/Anthropic 兼容 API，并提供健康检查、模型列表和可选 MCP 配置
+- [Skillmanager](https://github.com/buben12310/skillmanager) - MIT 许可的 Flutter + Go 桌面管理器，统一管理 Claude Code、Codex、OpenCode、Hermes、Trae、ZCode 和 WorkBuddy 的 Skills 与 MCP；使用前请核对本地配置扫描范围和写入权限
 - [SkillDeck](https://github.com/crossoverJie/SkillDeck) - MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、创建链接、检查更新、编辑 `SKILL.md` 并分配给不同 Agent
 - [DocuGenius](https://github.com/bruc3van/DocuGenius) - MIT 许可的开源编辑器插件，可将 Word、Excel、PowerPoint 和 PDF 转成结构化 Markdown，便于 WorkBuddy/CodeBuddy 等 AI 工具读取
 - [workbuddy-api（simplast）](https://github.com/simplast/workbuddy-api) - MIT 许可的轻量 Node.js 18+ 本地代理，将 CodeBuddy/WorkBuddy 接入 OpenAI 兼容客户端和 Vercel AI SDK，提供聊天、模型和健康检查端点
@@ -429,6 +430,7 @@
 
 ### Community clients and enhancements
 
+- [workbuddy-buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，通过结构化生命周期事件显示 Agent 状态、审批气泡和完成/阻塞提示，默认不读取提示词、回复、工具参数或文件路径；社区安装包采用 ad-hoc 签名且未公证，远程 Control Plane 挂载功能还会涉及网络与设备配对，请先核对来源和权限
 - [zisla](https://github.com/wzz6423/zisla) - 许可文件已提供、明确监控 WorkBuddy 本地活动的 macOS 顶部工作台，整合 Agent 状态、Skills 管理、文件与系统工具，并默认不读取对话正文；安装会信任第三方 Homebrew tap，发行包为 ad-hoc 签名且未公证，请按 README 核对权限和更新来源
 - [WorkBuddy Skins](https://github.com/ozrwayne/WorkBuddy-Skins) - MIT 许可的本地主题管理器，通过回环 CDP 加载可逆样式，不修改官方程序或签名，提供 `.wbtheme` 签名、检查、导入、应用、卸载、恢复和主题制作 Skill
 - [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默认仅监听回环地址，使用前请核对版本基线和确认式重启权限
