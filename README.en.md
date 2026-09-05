@@ -428,3 +428,5 @@ If this index saved you time, consider giving it a star. You can also [open an i
 Initial discovery was informed by [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy). Thanks to its maintainers and to every linked author. Copyright in linked resources remains with their respective owners.
 
 This index is released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms.
+
+Citing this directory? Use the standard [CITATION.cff](CITATION.cff) in the repository root, or cite [v0.10.14](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.14).

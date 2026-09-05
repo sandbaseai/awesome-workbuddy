@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If this directory helps your research or project, please cite it."
+type: software
+title: "Awesome WorkBuddy"
+abstract: "A community-curated directory of Tencent WorkBuddy resources, Skills, MCP integrations, workflows, guides, and benchmarks."
+authors:
+  - name: "SandBase AI"
+repository-code: "https://github.com/sandbaseai/awesome-workbuddy"
+url: "https://sandbaseai.github.io/awesome-workbuddy/"
+license: CC0-1.0
+version: 0.10.14
+date-released: 2026-09-05

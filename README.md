@@ -429,3 +429,5 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 初始资料发现参考了 [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy)，感谢原维护者与所有内容作者。所有链接内容的版权归各自作者所有。
 
 本清单采用 [CC0 1.0 Universal](LICENSE)。被索引资源遵循其各自的许可证和使用条款。
+
+引用本清单？仓库根目录提供标准 [CITATION.cff](CITATION.cff)，也可引用 [v0.10.14](https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.14)。
