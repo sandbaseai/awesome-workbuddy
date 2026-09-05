@@ -319,3 +319,4 @@ Jowitt13/loom-of-heaven
 D-kart/investor-skill
 medstatstar/statsoft-cli
 otakuminami/psyche-writer
+frank666199/frank-presales-skills
