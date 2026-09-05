@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Skill Integrator",
+    "url": "https://github.com/smiling66652/skill-integrator",
+    "description": "An MIT-licensed WorkBuddy meta-Skill for scanning, comparing, integrating, and optimizing multiple Skills, with on-demand loading and fallback methods",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Skill Integrator",
+    "descriptionZh": "MIT 许可的 WorkBuddy 元 Skill，用于扫描、对比、整合和优化多个 Skill，并提供按需加载与备用方案方法",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "One-person Company",
     "url": "https://github.com/wzx11223344/one-person-company",
     "description": "An MIT-licensed WorkBuddy Skill for one-person company operations across content, operations, product, finance, and growth automation",

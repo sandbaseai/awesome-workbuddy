@@ -134,6 +134,7 @@ ZhaoXiangyu99/workbuddy-mcp
 jinmao-lin/academic-research-skills-workbuddy
 codexthemes/skills
 wzx11223344/one-person-company
+smiling66652/skill-integrator
 maning636/workbuddy-runbook
 yxxawa/workbuddy_to_api
 MasterHesse/minecraft-mod-search
