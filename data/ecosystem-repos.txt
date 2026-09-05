@@ -183,3 +183,5 @@ zhuang-HE/workbuddy-harness
 mfkyddh/ZZZ-Simple-AI
 Tom6814/WorkBuddy2API
 fy-agent/fyagent
+LeemanCheung/dsh-agent-preset-recommender
+tchivs/agentsw
