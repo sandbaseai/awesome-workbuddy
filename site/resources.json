@@ -1090,6 +1090,36 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Frontend Development Guide",
+    "url": "https://github.com/genapohub/frontend-dev-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy frontend-engineering Skill that generates architecture, component, performance, testing, and technical-research plans by scenario; it provides planning documents rather than automatic deployment, so verify project constraints, dependencies, and results before implementation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Frontend Development Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的前端工程 Skill，按场景生成架构、组件、性能、测试和技术预研方案；它提供规划文档而非自动上线实现，执行前请核对项目约束、依赖和验证结果",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Growth Guide",
+    "url": "https://github.com/genapohub/growth-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy growth Skill covering growth models, acquisition matrices, experiments, retention, and channel ROI; its market and financial assumptions require real-data review and should not directly drive business decisions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Growth Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的增长 Skill，覆盖增长模型、获客矩阵、实验、留存和渠道 ROI 方案；生成的市场与财务假设需要用真实数据复核，不应直接作为经营决策",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Monetization Guide",
+    "url": "https://github.com/genapohub/monetization-guide",
+    "description": "An MIT-licensed WorkBuddy/CodeBuddy monetization Skill covering business models, pricing, sales funnels, customer success, and financial forecasts; outputs are planning templates, so business and finance owners must review prices, revenue assumptions, and compliance conclusions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Monetization Guide",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy 的商业化 Skill，覆盖商业模式、定价、销售漏斗、客户成功和财务预测；输出是规划模板，价格、收入和合规结论仍需业务与财务人员审核",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Release Skill",
     "url": "https://github.com/ifoohoo/release-skill",
     "description": "An Apache-2.0 auditable release Skill explicitly supporting WorkBuddy, Codex, CodeBuddy, and Kimi Code, with frozen plans, checks, approvals, publishing, consumer-install verification, and GitHub/npm/plugin distribution workflows; it may perform external GitHub Git Data API, npm, and Skill Family Hub writes, while real host installation/acceptance remains a separate step, so review plans, permissions, tokens, target repositories, version consistency, and every publish action",

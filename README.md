@@ -178,6 +178,9 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [Graphic Design Guide](https://github.com/genapohub/graphic-design-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的平面设计方案 Skill，按品牌、营销物料、单件设计、品牌焕新和风格探索生成色彩、字体、Logo、物料与版权检查方案；输出仍需人工确认素材来源和版权.
 - [QA Testing Guide](https://github.com/genapohub/qa-testing-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的 QA Skill，覆盖测试体系、功能测试、自动化、性能压测、缺陷管理和技术预研，并按场景提供模板；生成的测试方案不等于真实验证，执行前请确认测试环境、数据和权限.
 - [DevOps Guide](https://github.com/genapohub/devops-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的 DevOps Skill，覆盖 CI/CD、Kubernetes、监控告警、日志、灾备、迁移和故障修复方案；它可能生成会影响基础设施的操作建议，执行前请人工审查环境、凭据、变更和回滚方案.
+- [Frontend Development Guide](https://github.com/genapohub/frontend-dev-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的前端工程 Skill，按场景生成架构、组件、性能、测试和技术预研方案；它提供规划文档而非自动上线实现，执行前请核对项目约束、依赖和验证结果.
+- [Growth Guide](https://github.com/genapohub/growth-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的增长 Skill，覆盖增长模型、获客矩阵、实验、留存和渠道 ROI 方案；生成的市场与财务假设需要用真实数据复核，不应直接作为经营决策.
+- [Monetization Guide](https://github.com/genapohub/monetization-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的商业化 Skill，覆盖商业模式、定价、销售漏斗、客户成功和财务预测；输出是规划模板，价格、收入和合规结论仍需业务与财务人员审核.
 - [Release Skill](https://github.com/ifoohoo/release-skill) - Apache-2.0 许可、明确支持 WorkBuddy/Codex/CodeBuddy/Kimi Code 的可审计发布 Skill，围绕版本冻结、检查、审批、发布、消费者安装验证及 GitHub/npm/插件分发构建可恢复流程；它可能执行 GitHub Git Data API、npm 与 Skill Family Hub 外部写入，且真实宿主安装/验收仍需单独完成，使用前请核对计划、权限、令牌、目标仓库、版本一致性和每个发布动作.
 - [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) - MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端；配置会涉及飞书 App Secret、Base Token、Table ID 与 Webhook，且抓取/推送受平台条款和个人数据边界约束，使用前请改用安全的本地配置并审查权限.
 - [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) - MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可分享的 HTML 海报，并附测试指南与合成示例；出生时间等个人信息会进入本地产物，命理内容不具科学诊断效力，不应用于医疗、法律、财务或重大人生决策.
