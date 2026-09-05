@@ -5,6 +5,7 @@ vergess3/workbuddy-remote
 bigbay957-sudo/workbuddy-for-obsidian
 AriaXXX-free/job-navigation-skill
 musistudio/claude-code-router
+platonai/Browser4
 alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins
 huaweicloud/huaweicloud-devkit

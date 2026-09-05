@@ -2620,6 +2620,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Browser4",
+    "url": "https://github.com/platonai/Browser4",
+    "description": "An Apache-2.0 AI-native browser engine with a WorkBuddy-ready Skill, CLI, MCP, and local web extraction tools for navigation, clicking, form filling, batch jobs, and structured data; installation downloads a runtime, so review site and data permissions before network browsing or automation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Browser4",
+    "descriptionZh": "Apache-2.0 许可的 AI 浏览器引擎，提供 WorkBuddy 可直接执行的 Skill、CLI、MCP 和本地网页抽取能力，支持导航、点击、表单填写、批量处理与结构化数据提取；安装会下载运行时，联网浏览和自动化操作前请确认目标网站与数据权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "EchoBird",
     "url": "https://github.com/edison7009/EchoBird",
     "description": "An MIT-licensed cross-platform Agent desktop manager with explicit WorkBuddy (Tencent CodeBuddy desktop) support for one-click installation and model switching, plus local LLM, app management, and install/repair features; review its client-config writes and network permissions before use",
