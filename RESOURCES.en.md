@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [boardgame-io Skill](https://github.com/liangdabiao/boardgame-io-skill) - A WorkBuddy-compatible Skill with no declared license for building turn-based games with boardgame.io; includes API references, multiplayer/hidden-information/AI workflows, and tested tic-tac-toe and card-game templates
 - [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - An MIT-licensed movie short-clip editing Skill verified on WorkBuddy, planning 8–15 themed 50–75-second clips from subtitles with lossless cutting, merging, gap detection, and output validation
 - [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) - An MIT-licensed universal UI-design Skill with explicit WorkBuddy support, offering 14 palettes, a 4px spacing system, modular typography, interaction states, HTML/React/Vue templates, and examples
 - [Douyin Operations](https://github.com/a-hue-1/Douyin-video-scraping-operation) - An MIT-licensed Douyin account-operations and content-research Skill with explicit WorkBuddy support, covering hot lists, video-link parsing, account and comment analysis, viral-content breakdowns, and script generation; comment data optionally uses a third-party API

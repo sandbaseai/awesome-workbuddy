@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "boardgame-io Skill",
+    "url": "https://github.com/liangdabiao/boardgame-io-skill",
+    "description": "A WorkBuddy-compatible Skill with no declared license for building turn-based games with boardgame.io; includes API references, multiplayer/hidden-information/AI workflows, and tested tic-tac-toe and card-game templates",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "boardgame-io Skill",
+    "descriptionZh": "许可未声明、明确支持 WorkBuddy 的 boardgame.io 回合制游戏开发 Skill，提供 API 参考、多人/隐藏信息/AI 工作流，以及带测试的井字棋和卡牌项目模板",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Video Story Clip",
     "url": "https://github.com/hanyangcg/video-story-clip",
     "description": "An MIT-licensed movie short-clip editing Skill verified on WorkBuddy, planning 8–15 themed 50–75-second clips from subtitles with lossless cutting, merging, gap detection, and output validation",
