@@ -79,6 +79,7 @@ TencentCloud/tencentmeeting-cli
 Aisland-SJL/dsh-reminder
 feichanggege/ecommerce-visual-copywriting-skill
 aaronyi97/image-story-video-wizard
+PomeloR611/libtv-video-agent
 JuneYaooo/social-account-doctor
 CodeDrobe/skills
 bruc3van/bruce-drawio

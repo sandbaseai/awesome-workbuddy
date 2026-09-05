@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**155 curated repositories · 4 original Skills · 37 discovery candidates · weekly validation**
+**156 curated repositories · 4 original Skills · 36 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -182,6 +182,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [WorkBuddy Guide](https://github.com/Neo5093/workbuddy-guide) - 可直接安装的 WorkBuddy 使用与故障排查 Skill，覆盖连接器、专家、自动化、记忆、交互模式和常见问题；MIT 许可。其可选诊断脚本会读取本机 `~/.workbuddy` 配置与近期日志并探测本地健康端点，分享输出前请先检查并脱敏。
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
+- [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪；需通过官方 LibTV 流程登录并可能访问外部模型/语音服务，使用前请保护本机凭据、核对媒体版权与费用、确认上传范围，并在生成前后保留人工审核.
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - 生成、校验并导出 draw.io 图表的跨平台 Skill.
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - 以 UbD 逆向设计驱动教材规划、逐章写作和审核.
