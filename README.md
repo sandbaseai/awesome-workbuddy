@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**170 curated repositories · 4 original Skills · 30 discovery candidates · weekly validation**
+**171 curated repositories · 4 original Skills · 29 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -109,6 +109,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - MIT 许可的中文教程站，提供 27 章 WorkBuddy 使用手册、100 个案例及 Codex/Agent 学习路径，并维护来源 NOTICE 与安全政策；部分 Agent 教程适用 CC BY-NC-SA 4.0，仓库含大量媒体文件，AI News 构建会请求外部公开 API，复用内容或本地构建前请核对对应许可、存储与网络范围.
 - [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) - 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例；仓库采用 MIT 许可证，文章中的第三方产品信息仍需按官方资料复核.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径.
+- [AgenticMetaEngineering](https://github.com/AiToByte/AgenticMetaEngineering) - MIT 许可的团队 AI 上下文工程模板，将 `AGENTS.md`、`context/`、需求记录和 `.codebuddy/commands/` 纳入 Git 版本管理，并用独立分支/checkout 隔离并行任务；不依赖向量数据库或外部服务，适合把 WorkBuddy/CodeBuddy 的团队规则和经验变成可审阅的共享资产。共享仓库可能包含业务知识、路径或内部规则，使用前请脱敏、限制仓库权限并确认分支策略.
 - [Superpowers 中文适配](https://github.com/squallopen/superpowers-zh-adapters) - MIT 许可的 `obra/superpowers` 中文适配层，明确支持 CodeBuddy、Codex、Claude Code、Cline、Droid、OpenCode 和 ZCode，提供中文触发词、中文文档输出、安装/更新/回滚脚本及上游版本同步；CodeBuddy 适配会更新专用规则段，PowerShell 安装默认面向 Windows 用户并会写入用户或项目 Skills/说明文件，执行前请确认备份、目标范围、上游内容和脚本权限.
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从零实现 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程.
 - [ZZZ 白话讲 AI](https://github.com/mfkyddh/ZZZ-Simple-AI) - 许可未声明、以 WorkBuddy 为主要创作平台的零基础 AI 认知指南，按 9 章主线和 30 个扩展章节讲解大模型、Agent、上下文、记忆、MCP、Skills、多 Agent 与 AI 编程工作流；这是阅读与学习资料，不是官方文档，复用文章、图片或构建站点前请核对来源、版权和外部链接.
