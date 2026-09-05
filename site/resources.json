@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Nuwa Skill",
+    "url": "https://github.com/alchaincyf/nuwa-skill",
+    "description": "An MIT-licensed cross-agent thought-distillation Skill with explicit WorkBuddy support, turning public material into reusable analysis and expression frameworks; confirm copyright, privacy, and subject authorization for source material, and do not treat generated content as fact or the subject's own view",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "女娲 Skill",
+    "descriptionZh": "MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架；使用时请确认输入材料的版权、隐私和人物授权，不要把生成内容当作事实或本人观点",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Narrator AI CLI Skill",
     "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
     "description": "An MIT-licensed video-narration Skill compatible with WorkBuddy, covering material search, scripting, voice, BGM, and video composition; installation requires both `SKILL.md` and `references/`, plus a third-party API key, so confirm media rights, cost, credentials, and upload scope first",
@@ -1838,6 +1848,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy；采用 PolyForm Noncommercial 1.0.0，且会读写个人规划数据，安装前请确认许可与权限",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Claude Code Router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "description": "An MIT-licensed local model router and Agent control plane with explicit WorkBuddy support, unifying model, account, failover, tool, and MCP configuration; it handles prompts, responses, and credentials while connecting to selected model providers, so confirm routing rules, keys, logs, and data flows first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Claude Code Router",
+    "descriptionZh": "MIT 许可的本地模型路由与 Agent 控制面，明确支持 WorkBuddy，可统一配置模型、账号、故障转移、工具和 MCP；它会处理提示词、响应和凭据并连接所选模型服务，使用前请确认路由规则、密钥、日志和数据流向",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "Qwen MM Plugins",
