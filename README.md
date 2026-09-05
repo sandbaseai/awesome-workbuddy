@@ -163,6 +163,8 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境.
+- [WorkBuddy Runbook](https://github.com/maning636/workbuddy-runbook) - MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy 及兼容 Agent；生成的命令仍需根据实际路径和权限人工确认.
 - [Minecraft Mod Search](https://github.com/MasterHesse/minecraft-mod-search) - MIT 许可的 Minecraft Java 模组检索 Skill，提供 `SKILL.md` 和搜索脚本，可直接安装到 WorkBuddy/CodeBuddy 的 Skill 目录；使用外部搜索或下载结果时请核对来源、版本与文件安全性.
 - [高情商职场沟通](https://github.com/wanghoween-design/gaoqingshang-skill) - MIT 许可的 WorkBuddy 职场沟通 Skill，覆盖 23 类常见场景，帮助生成得体、清晰的回复与表达；输出只是沟通草稿，涉及真实承诺、冲突或敏感信息时仍需人工判断.
 - [WeChat 4.x Decrypt Skill](https://github.com/xscanzm/wechat-4x-decrypt) - MIT 许可、面向 WorkBuddy 的 Windows 本地微信 4.x 聊天记录解密与检索 Skill，可导出带时间戳的摘要和结构化结果；会从运行中的本人微信进程获取解密材料并生成明文数据库，使用前必须确认账号授权、聊天参与者隐私、密钥/导出文件保护、上游工具来源和删除备份策略.
@@ -255,6 +257,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [workbuddy_to_api](https://github.com/yxxawa/workbuddy_to_api) - MIT 许可的本地 WorkBuddy 代理，将服务转换为 OpenAI/Anthropic 兼容 API，并提供健康检查、模型列表和可选 MCP 配置；会处理本地登录状态、提示词、端口和日志，且依赖非公开接口，使用前请限制回环访问、保护凭据并核对平台条款.
 - [SkillDeck](https://github.com/crossoverJie/SkillDeck) - MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、创建链接、检查更新、编辑 `SKILL.md` 并分配给不同 Agent；它会读写本地 Skill 目录，首次运行还涉及未签名应用和文件权限，使用前请确认来源与变更范围.
 - [DocuGenius](https://github.com/bruc3van/DocuGenius) - MIT 许可的开源编辑器插件，可将 Word、Excel、PowerPoint 和 PDF 转成结构化 Markdown，便于 WorkBuddy/CodeBuddy 等 AI 工具读取；支持插件市场和 VSIX 安装，处理本地文档并写入输出目录，使用前请确认敏感资料范围和转换结果.
 - [workbuddy-api（simplast）](https://github.com/simplast/workbuddy-api) - MIT 许可的轻量 Node.js 18+ 本地代理，将 CodeBuddy/WorkBuddy 接入 OpenAI 兼容客户端和 Vercel AI SDK，提供聊天、模型和健康检查端点；会处理 API Key、提示词和上游请求头并依赖非公开协议，使用前请保护环境文件、保持回环绑定、审查上游地址和账号条款.

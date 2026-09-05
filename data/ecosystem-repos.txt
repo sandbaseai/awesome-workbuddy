@@ -117,6 +117,9 @@ PomeloR611/libtv-video-agent
 JuneYaooo/social-account-doctor
 CodeDrobe/skills
 bruc3van/bruce-drawio
+ToussaintKnight/superpowers-workbuddy
+maning636/workbuddy-runbook
+yxxawa/workbuddy_to_api
 MasterHesse/minecraft-mod-search
 wanghoween-design/gaoqingshang-skill
 cnproduct/workbuddy-wechat-publisher
