@@ -307,12 +307,12 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Buddy2api](https://github.com/wicm84266964/Buddy2api) - MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接入 OpenAI 兼容接口，支持 Codex Responses、Docker 和 API Key 通道路由；项目明确要求仅本机使用、不要公开部署或分享凭据，使用前请审查本地认证文件、数据库、端口和各平台账号条款.
 - [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) - MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令牌刷新；凭据保存在本地插件目录，且包含针对上游审核模板的适配逻辑，使用前请核对源码、账号条款与数据流.
 - [CodeBuddy OpenAI Proxy (Jevil961)](https://github.com/Jevil961/codebuddy-openai-proxy) - MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为 OpenAI 兼容 API；它会处理账号令牌、提示词/响应并开放本地 HTTP 服务，使用前应审查源码、`.env`、绑定地址、日志、令牌存储、上游端点和腾讯账号条款.
-- [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - 从其他设备远程使用 WorkBuddy.
+- [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - MIT 许可的 Windows 远程浏览器桥接，复用桌面版 WorkBuddy 的官方 WebUI，通过本机 CDP 提供远程页面和调用转发；默认仅监听回环地址，局域网模式需设置密码，启用前请确认登录态、端口、访问控制和网络范围.
 - [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库；目前为 public preview，会扫描并可能读写多个 Agent 配置目录，使用前请备份、审查自定义路径与同步目标，并确认团队仓库和凭据范围.
 - [AgentHub](https://github.com/nicechencs/AgentHub) - MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills、会话、用量和备份，并明确 MCP 当前仅做只读发现；它会读写本机 Agent 配置和日志，凭据沿用本地存储且当前不加密，使用前请审查配置变更、备份位置、日志脱敏和本地权限.
 - [FyAgent](https://github.com/fy-agent/fyagent) - 采用 PolyForm Noncommercial 1.0.0（部分继承 CC Switch 代码仍为 MIT）的本地跨平台 AI 工具配置工作台，支持扫描 WorkBuddy、模型/Provider、Skills、MCP、提示词和相关配置的预览、保存后校验及资源分配；它会读写 `~/.workbuddy` 等本地配置并处理 API Key，可选 WebDAV/S3 备份还会上传配置或 Skills，使用前请核对商业许可、版本可信度、目标路径、凭据和备份数据范围.
 - [WorkBuddy Expert Bridge](https://github.com/xiaojinlucky/workbuddy-expert-bridge) - MIT 许可的本地 Skill，让 Codex、Cursor、Claude Code、Grok 和 VS Code 等工具只读发现并推荐本机已有的 WorkBuddy 专家/专家团，先展示匹配依据和本地可用性，再由用户决定是否使用；它不需要账号或密钥，也不会自行安装、下载或启用陌生内容，但会读取本机 WorkBuddy 文件，使用前请确认文件权限、上下文数据范围和宿主工具的数据政策.
-- [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) - 在 Obsidian 中使用本机 WorkBuddy，支持引用、编辑和溯源.
+- [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) - MIT 许可的 Obsidian 社区插件，在侧边栏接入本机 WorkBuddy，支持选区编辑、多任务、资料引用、来源追溯和本地文件上传；默认通过私有 stdio 子进程通信且不开放本地 HTTP 端口，使用前请确认 Vault、上传目录和 WorkBuddy 权限范围.
 - [Workbuddian](https://github.com/jiang198012/workbuddian) - MIT 许可的 Obsidian 桌面插件，将本机 WorkBuddy/CodeBuddy CLI 接入笔记库，支持流式对话、`@` 引用、会话分叉、MCP 管理、逐项批准和编辑撤销；仅支持 Windows/macOS，能读取 Vault 并执行获批的本地命令/MCP，安装前请审查路径和权限.
 - [Codex × WorkBuddy Token Monitor](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) - MIT 许可、零第三方 Python 依赖的本地实时 Token 监控看板，读取 Codex 与 WorkBuddy 会话日志并通过 SSE 展示用量、缓存命中和活跃会话；本地会话可能含敏感内容，且统计值不是官方计费记录，使用前请确认扫描范围和端口暴露.
 - [Tencent Meeting CLI](https://github.com/TencentCloud/tencentmeeting-cli) - 腾讯会议官方 CLI，可作为 Agent 的会议管理工具.
@@ -344,7 +344,6 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 - [Agent Context Sync](https://github.com/westsource/agentctxsync) - 在自托管服务中跨设备、跨 Agent 同步与备份会话.
 
 ### Community clients and enhancements
-
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单；通常通过本机 CDP 注入，但会重启目标应用、下载 Electron 依赖，部分 Windows AgnesCode 兼容路径还会调整 ASAR 完整性校验，使用前请审查脚本、端口、版本和应用备份.
 - [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar；会重启应用并运行本地脚本，CDP 启用期间无鉴权，且适配版本可能变化，使用前请审查脚本、端口和图片权限.
 - [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy；源码、测试和本地事件白名单公开，但社区构建为 ad-hoc 签名且非 Apple 公证，安装脚本、Release 来源、控制面与回环权限请先审查.
