@@ -7,7 +7,7 @@ Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,658 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,660 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,940 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,304 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,528 | Python | 2026-09-05 |
@@ -168,6 +168,8 @@ Last refreshed: **2026-09-05 UTC**
 | [dingminhua/dsh-connect-workbuddy](https://github.com/dingminhua/dsh-connect-workbuddy) | 3 | TypeScript | 2026-09-04 |
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
+| [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
+| [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
 | [wsdlp46/PMCockpit](https://github.com/wsdlp46/PMCockpit) | 2 | HTML | 2026-08-29 |
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |
 | [Darling5/seatable-production](https://github.com/Darling5/seatable-production) | 2 | Python | 2026-09-03 |
