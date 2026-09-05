@@ -8,6 +8,7 @@
 - Curated the MIT-licensed `taikaikaikai-pixel/dsh-codebuddy-plugin` with credential, loopback bridge, external-network, and generated-file boundaries.
 - Curated the MIT-licensed `MWang-TS/kindle2workbuddy` dashboard Skill with WorkBuddy database, SSH, LAN, external-weather, device, and scheduler boundaries.
 - Curated the MIT-licensed `gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge` MCP bridge with explicit `fullAccess`, ACP, transcript, prompt, and local-log boundaries.
+- Curated the Apache-2.0 `MAXXXXXLI/workbuddy-cn-legal-skills` collection with upstream attribution and high-stakes legal-review warnings.
 
 ## v0.10.12 — 2026-09-05
 

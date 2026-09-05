@@ -1230,6 +1230,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy China Legal Skills",
+    "url": "https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills",
+    "description": "An Apache-2.0 collection of 151 importable China-law Skills with explicit attribution to Anthropic's `Claude for Legal`, covering contracts, data compliance, AI governance, labor, IP, disputes, and regulatory work. It is for research, drafts, and learning rather than legal advice; laws change, so licensed counsel or an accountable legal reviewer must verify anything sent, signed, or used externally, along with package provenance and version",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy China Legal Skills",
+    "descriptionZh": "Apache-2.0 许可、明确保留 Anthropic `Claude for Legal` 来源署名的 151 个中国法务 Skill 压缩包，覆盖合同、数据合规、AI 治理、劳动、知识产权、争议和监管场景；它面向法律研究/草稿/学习而非法律意见，且法规会变化，正式发送、签署或对外使用前必须由执业律师或法务复核并确认压缩包来源与版本",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",

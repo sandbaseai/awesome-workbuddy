@@ -145,6 +145,7 @@ shajoezhu/skills_codebuddy_rpackagedev
 taikaikaikai-pixel/dsh-codebuddy-plugin
 MWang-TS/kindle2workbuddy
 gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge
+MAXXXXXLI/workbuddy-cn-legal-skills
 staruhub/awesome-workbuddy
 shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy

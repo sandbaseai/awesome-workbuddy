@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**181 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**182 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > 精选、可验证的腾讯 WorkBuddy 学习资料、Skills、MCP 与真实工作流。
@@ -201,6 +201,7 @@ WorkBuddy 是腾讯推出的 AI Agent 办公工作台，可通过自然语言规
 - [DSH CodeBuddy Plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) - MIT 许可的 DeepSeek Harness 插件，提供 18 个 CodeBuddy 模型、搜索/网页抓取、生图、OAuth/API Key 登录、额度统计和仅回环监听的流式桥；它会读写本地凭据、配置、会话用量与生成文件，并把搜索、抓取和图片请求发送到非官方网关，安装前请复核密钥存储、自动轮换、外部网络、端口和账号条款.
 - [Kindle2WorkBuddy](https://github.com/MWang-TS/kindle2workbuddy) - MIT 许可、带 `SKILL.md` 的 Kindle 电子墨水 WorkBuddy Dashboard，将本地任务/会话信息渲染为图片并通过 SSH/SCP 推送到越狱 Kindle，支持天气、系统指标、日历和定时刷新；它会读取 WorkBuddy 数据、使用 SSH 私钥、探测局域网、调用 wttr.in，并可停止 Kindle framework、保持设备常亮和注册系统计划任务，执行前请备份并核对数据库、网络、设备权限和日志范围.
 - [Codex WorkBuddy Desktop Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) - MIT 许可的本地 MCP 桥，将运行中的 WorkBuddy 作为 Codex 子代理，提供联网搜索、S1/S2/S3 代码与依赖审查、任务取消和审查会话复用；它会发现 sidecar 动态端口与临时密码、为每个任务启动临时 Host，并默认把 Worker 设为 `fullAccess`、允许永久工具授权，执行前请确认工作目录、提示词、ACP 会话、transcript 和本地日志范围，不能只依赖角色提示词实现安全隔离.
+- [WorkBuddy China Legal Skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) - Apache-2.0 许可、明确保留 Anthropic `Claude for Legal` 来源署名的 151 个中国法务 Skill 压缩包，覆盖合同、数据合规、AI 治理、劳动、知识产权、争议和监管场景；它面向法律研究/草稿/学习而非法律意见，且法规会变化，正式发送、签署或对外使用前必须由执业律师或法务复核并确认压缩包来源与版本.
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - 将电商卖点分析、文案和商品图制作沉淀为可执行 SOP.
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪；需通过官方 LibTV 流程登录并可能访问外部模型/语音服务，使用前请保护本机凭据、核对媒体版权与费用、确认上传范围，并在生成前后保留人工审核.
