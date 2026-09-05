@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,557 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,929 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,488 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,489 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,770 | Go | 2026-09-05 |
@@ -58,6 +58,7 @@ Last refreshed: **2026-09-05 UTC**
 | [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 51 | TypeScript | 2026-08-27 |
 | [PomeloR611/libtv-video-agent](https://github.com/PomeloR611/libtv-video-agent) | 43 | - | 2026-08-06 |
 | [mfkyddh/ZZZ-Simple-AI](https://github.com/mfkyddh/ZZZ-Simple-AI) | 43 | TypeScript | 2026-06-15 |
+| [squallopen/superpowers-zh-adapters](https://github.com/squallopen/superpowers-zh-adapters) | 37 | PowerShell | 2026-08-17 |
 | [zhuang-HE/workbuddy-harness](https://github.com/zhuang-HE/workbuddy-harness) | 35 | JavaScript | 2026-05-17 |
 | [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) | 34 | TypeScript | 2026-09-04 |
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 32 | TypeScript | 2026-08-25 |

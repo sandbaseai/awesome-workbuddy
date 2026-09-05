@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**168 curated repositories · 4 original Skills · 32 discovery candidates · weekly validation**
+**169 curated repositories · 4 original Skills · 31 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -110,6 +110,7 @@ WorkBuddy is Tencent's AI Agent workspace for planning and carrying out research
 - [How to Use Agent](https://github.com/Lukanytsu7551/how-to-use-agent-guide) - An MIT-licensed Chinese tutorial site with a 27-chapter WorkBuddy manual, 100-case library, and Codex/Agent learning paths, plus a provenance NOTICE and security policy. Some Agent Guide adaptations use CC BY-NC-SA 4.0, the repository includes substantial media, and its AI News build calls an external public API; check the applicable license, storage, and network scope before reuse or local builds.
 - [Agent Learning Guide](https://github.com/tangshiyegit/agent-guide) - A MIT-licensed guide with 19 WorkBuddy tutorials and 12 office, content, and automation case studies; verify changing third-party product details against official sources.
 - [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - A Chinese learning path for AI coding tools and office Agents, including WorkBuddy.
+- [Superpowers Chinese Adapters](https://github.com/squallopen/superpowers-zh-adapters) - An MIT-licensed Chinese adaptation layer for `obra/superpowers` with explicit CodeBuddy, Codex, Claude Code, Cline, Droid, OpenCode, and ZCode support, Chinese triggers and document output, install/update/rollback scripts, and upstream version refreshes. The CodeBuddy adapter updates a dedicated rules block; PowerShell installation targets Windows by default and writes user- or project-scoped Skills/instruction files, so review backups, target scope, upstream content, and script permissions before running it.
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - A 24-chapter Python tutorial that builds a WorkBuddy-style desktop Agent from scratch.
 - [ZZZ Plain-language AI Guide](https://github.com/mfkyddh/ZZZ-Simple-AI) - A license-not-declared beginner guide created primarily with WorkBuddy, organized into nine core chapters and 30 extensions on LLMs, Agents, context, memory, MCP, Skills, multi-Agent systems, and AI coding workflows; it is learning material rather than official documentation, so check provenance, copyright, and external links before reusing content, media, or building the site.
 - [WorkBuddy Harness Bluebook](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) - Explains prompts, memory, plugins, experts, Skills, and safety boundaries.
