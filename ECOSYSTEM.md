@@ -3,7 +3,7 @@
 > GitHub metadata for repositories curated in `data/ecosystem-repos.txt`.
 > Inclusion is not an endorsement. Review source code, licenses, permissions, and account terms before use.
 
-Last refreshed: **2026-09-04 UTC**
+Last refreshed: **2026-09-05 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
@@ -11,7 +11,7 @@ Last refreshed: **2026-09-04 UTC**
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,916 | - | 2026-08-12 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,807 | TypeScript | 2026-09-04 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,588 | TypeScript | 2026-09-04 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,025 | Rust | 2026-09-04 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,026 | Rust | 2026-09-04 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 941 | Python | 2026-09-04 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 697 | Python | 2026-07-09 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -58,6 +58,7 @@ Last refreshed: **2026-09-04 UTC**
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 30 | Python | 2026-08-30 |
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 27 | Python | 2026-09-01 |
 | [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker) | 27 | JavaScript | 2026-09-03 |
 | [cabbage2000-lab/textbook-writer-skills](https://github.com/cabbage2000-lab/textbook-writer-skills) | 26 | Python | 2026-09-02 |
 | [maciechen/zotero-mcp-workbuddy-guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) | 25 | Python | 2026-05-29 |

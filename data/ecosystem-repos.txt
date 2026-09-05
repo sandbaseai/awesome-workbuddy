@@ -29,6 +29,7 @@ AlephAITech/WorkBuddyGuide
 Lukanytsu7551/how-to-use-agent-guide
 KimYx0207/AI-Coding-Guide-Zh
 Tencent/workbuddy-bench
+Tencent/LoopForge
 adongwanai/learn-workbuddy
 infometa/workbuddyskills
 babygoton/WorkDaddy
