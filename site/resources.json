@@ -580,6 +580,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SkillHub (Young1108)",
+    "url": "https://github.com/Young1108/skillhub",
+    "description": "An MIT-licensed WorkBuddy Skill collection for account migration, Wake multi-agent daily reports, and local WeChat/WeCom data tools; the WeChat-related Skills are macOS-only",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "SkillHub（Young1108）",
+    "descriptionZh": "MIT 许可的 WorkBuddy Skill 合集，包含账号迁移、Wake 多 Agent 日报和 macOS 微信/企业微信本地数据工具；微信相关 Skill 仅适用于 macOS",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "WorkBuddy Skills (ai3027)",
     "url": "https://github.com/ai3027/workbuddy-skills",
     "description": "An MIT-licensed WorkBuddy Skill collection with workspace migration/cleanup and technical WeChat writing Skills, each documented with a `SKILL.md` and scripts",
