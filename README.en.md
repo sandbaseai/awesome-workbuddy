@@ -7,7 +7,7 @@ English · [简体中文](README.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=social)](https://github.com/sandbaseai/awesome-workbuddy)
 
 <!-- REPOSITORY-SNAPSHOT:START -->
-**193 curated repositories · 4 original Skills · 24 discovery candidates · weekly validation**
+**194 curated repositories · 4 original Skills · 23 discovery candidates · weekly validation**
 <!-- REPOSITORY-SNAPSHOT:END -->
 
 > A curated, verifiable collection of Tencent WorkBuddy learning resources, Skills, MCP integrations, and real-world workflows.
@@ -312,6 +312,7 @@ This repository maintains four original installable Skills: [Document Quality Re
 - [LinkCode](https://github.com/arcboxlabs/linkcode) - An open desktop client supporting multiple coding Agents.
 - [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) - An open-source, reversible theme manager for WorkBuddy and other AI desktop apps; review account, app-path, and download permissions before use.
 - [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) - A cross-platform WorkBuddy/CodeBuddy account switcher with usage visibility; it stores OAuth tokens, rewrites local auth files, and calls unofficial endpoints, so review the source and account terms first.
+- [Trae WorkBuddy Assistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) - An MIT-licensed Windows Tauri tool for Trae and WorkBuddy account management, OAuth/tokens, points queries, check-in, and a local OpenAI-compatible gateway; it handles account credentials and includes a local MITM proxy and automated tasks, so review source, storage/logs, proxy binding, schedules, and service terms, and use only personally authorized accounts.
 - [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - Moves conversations, long-term memory, and MCP connectors after an account switch; MIT licensed, with backup, rollback, and post-migration verification. It rewrites SQLite `user_id` values and merges local data, so confirm the backup, source/target accounts, and data scope before running it.
 - [Crew](https://github.com/shuishenghualalala/Ace) - An Apache-2.0 open-source WorkBuddy-style local multi-agent workbench with Desktop, Web, CLI, Skills, MCP, knowledge-base, task automation, and multi-agent collaboration; a source-preview release that can access local files and optionally control browsers, external channels, and user-provided models, so review security switches, API keys, account settings, and data boundaries before use.
 

@@ -2260,6 +2260,16 @@
     "categoryZh": "Community clients and enhancements"
   },
   {
+    "title": "Trae WorkBuddy Assistant",
+    "url": "https://github.com/cxqc168-wq/Trae-workbuddyAssistant",
+    "description": "An MIT-licensed Windows Tauri tool for Trae and WorkBuddy account management, OAuth/tokens, points queries, check-in, and a local OpenAI-compatible gateway; it handles account credentials and includes a local MITM proxy and automated tasks, so review source, storage/logs, proxy binding, schedules, and service terms, and use only personally authorized accounts",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "Trae WorkBuddy Assistant",
+    "descriptionZh": "MIT 许可的 Windows Tauri 工具，为 Trae 与 WorkBuddy 提供多账号管理、OAuth/Token、积分查询、签到和本地 OpenAI 兼容网关；它会处理账号凭据并包含本地 MITM 代理与自动化任务，使用前应审查源码、存储/日志、代理绑定、定时任务和服务条款，只使用本人授权账号",
+    "categoryZh": "Community clients and enhancements"
+  },
+  {
     "title": "WorkBuddy Account Migrate",
     "url": "https://github.com/xiaoliuzhuan666/workbuddy-account-migrate",
     "description": "Moves conversations, long-term memory, and MCP connectors after an account switch; MIT licensed, with backup, rollback, and post-migration verification. It rewrites SQLite `user_id` values and merges local data, so confirm the backup, source/target accounts, and data scope before running it",
