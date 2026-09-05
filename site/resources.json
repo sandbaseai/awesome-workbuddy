@@ -1030,6 +1030,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "OpenLX WeChat Official Account Publishing Skill",
+    "url": "https://github.com/openlxcn/openlx-weixin-baimindan",
+    "description": "An MIT-licensed publishing Skill with explicit WorkBuddy support for media uploads, draft creation, explicit publishing, and status queries, with a version manifest and SHA-256 verification; an administrator must still authorize it by QR code, and draft review should precede publishing",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "OpenLX 微信公众号发布 Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的公众号内容发布 Skill，支持素材上传、草稿创建、明确发布和状态查询，并提供版本清单与 SHA-256 校验；首次使用仍需管理员扫码授权，建议先创建草稿核对再发布",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "career-kit",
     "url": "https://github.com/wangqiao258/career-kit",
     "description": "An MIT-licensed local-first career profile and resume-building Skill set covering profile intake, job-description analysis, resume tailoring, and versioning; its README documents manual loading for WorkBuddy and other platforms, so keep personal data only in environments you trust",
@@ -2858,6 +2868,16 @@
     "titleZh": "ZhiGui Second Brain Skill",
     "descriptionZh": "结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy",
     "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "CNKI Browser Tool",
+    "url": "https://github.com/Lzffancy/cnki-browser-tool",
+    "description": "An MIT-licensed CNKI/paper-research browser tool with a local loopback HTTP/MCP bridge, literature search, result reading, and batch PDF downloads, including a paste-ready WorkBuddy integration; it drives real page interactions without exporting cookies or bypassing CAPTCHAs, but protect login state and downloaded files",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "CNKI Browser Tool",
+    "descriptionZh": "MIT 许可的 CNKI/论文研究浏览器工具，提供本机回环 HTTP/MCP 桥接、文献检索、结果读取和批量 PDF 下载，并给出 WorkBuddy 粘贴即用的接入说明；只驱动真实页面交互，不导出 Cookie 或绕过验证码，登录态和下载文件仍需自行保护",
+    "categoryZh": "Tools and integrations"
   },
   {
     "title": "browser-mcp",

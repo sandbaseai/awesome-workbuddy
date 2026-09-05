@@ -9,16 +9,16 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,092 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,903 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,905 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,972 | TypeScript | 2026-09-03 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,570 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,571 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,149 | JavaScript | 2026-09-05 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,928 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,778 | Go | 2026-09-05 |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,305 | Rust | 2026-09-05 |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,306 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
 | [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,169 | Rust | 2026-09-05 |
@@ -266,6 +266,7 @@ Last refreshed: **2026-09-05 UTC**
 | [haiyangchenbj/data-ai-daily-brief-skill](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) | 5 | Python | 2026-06-23 |
 | [8425334/harness-engineering-kit](https://github.com/8425334/harness-engineering-kit) | 5 | Python | 2026-09-05 |
 | [lsjwzh/MultiCC](https://github.com/lsjwzh/MultiCC) | 5 | JavaScript | 2026-09-05 |
+| [Lzffancy/cnki-browser-tool](https://github.com/Lzffancy/cnki-browser-tool) | 5 | Python | 2026-09-05 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
 | [howoneai/skill-onboarding](https://github.com/howoneai/skill-onboarding) | 4 | Python | 2026-03-11 |
@@ -357,6 +358,7 @@ Last refreshed: **2026-09-05 UTC**
 | [wangduoyu414-cell/easy-agent](https://github.com/wangduoyu414-cell/easy-agent) | 1 | Rust | 2026-09-05 |
 | [lidicn/AutoFlow](https://github.com/lidicn/AutoFlow) | 1 | Python | 2026-09-05 |
 | [jixingyu999/browser-mcp](https://github.com/jixingyu999/browser-mcp) | 1 | JavaScript | 2026-09-05 |
+| [openlxcn/openlx-weixin-baimindan](https://github.com/openlxcn/openlx-weixin-baimindan) | 1 | Python | 2026-09-05 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
