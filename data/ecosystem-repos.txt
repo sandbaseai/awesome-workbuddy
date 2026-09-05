@@ -223,6 +223,7 @@ shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy
 quantskills/skill-pandadata-api
 taxueseek/session-digger
+zszz3/AgentRecall
 NevaMind-AI/memU
 smileluck/SmileX-AI-Universal-Memory
 maojiebc/majia-huiyuan
