@@ -1,4 +1,6 @@
 # One GitHub owner/repository per line. Keep this list curated.
+musistudio/claude-code-router
+alchaincyf/nuwa-skill
 QwenLM/Qwen-MM-Plugins
 huaweicloud/huaweicloud-devkit
 NarratorAI-Studio/narrator-ai-cli-skill

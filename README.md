@@ -162,6 +162,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Ready-to-use Skills
 
+- [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) - MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架；使用时请确认输入材料的版权、隐私和人物授权，不要把生成内容当作事实或本人观点.
 - [Narrator AI CLI Skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - MIT 许可的视频解说制作 Skill，兼容 WorkBuddy，可从素材检索、脚本、配音、BGM 到视频合成完成完整流程；安装需要同时导入 `SKILL.md` 与 `references/`，并配置第三方 API Key，使用前请确认素材版权、费用、密钥和上传范围.
 - [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) - MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排障和结果核验纳入任务流程；使用前请按项目说明运行并核对实验环境.
 - [WorkBuddy Runbook](https://github.com/maning636/workbuddy-runbook) - MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy 及兼容 Agent；生成的命令仍需根据实际路径和权限人工确认.
@@ -257,6 +258,7 @@ WorkBuddy 可以用自然语言处理研究、文档、数据、设计和开发�
 
 ### Tools and integrations
 
+- [Claude Code Router](https://github.com/musistudio/claude-code-router) - MIT 许可的本地模型路由与 Agent 控制面，明确支持 WorkBuddy，可统一配置模型、账号、故障转移、工具和 MCP；它会处理提示词、响应和凭据并连接所选模型服务，使用前请确认路由规则、密钥、日志和数据流向.
 - [Qwen MM Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) - Apache-2.0 许可的通用多模态 Agent Skills/MCP 集合，提供 WorkBuddy、QoderWork 和 QwenWork 的安装方式，覆盖教育视频、文档和视觉任务；部分能力需要 Node、FFmpeg 或外部模型服务，使用前请确认依赖、素材版权、凭据和上传范围.
 - [Huawei Cloud DevKit](https://github.com/huaweicloud/huaweicloud-devkit) - Apache-2.0 许可的华为云官方 Agent 工具包，明确支持 WorkBuddy，提供 Skills、MCP、部署工具和安全护栏；安装会修改 WorkBuddy 的本地配置并可能连接云资源，使用前请确认账号权限、目标环境、费用和数据范围.
 - [CloudBase AI Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - 腾讯云 CloudBase 官方 MIT 工具包，为 WorkBuddy 提供数据库、身份认证、云函数、存储和部署相关的 Skills 与 MCP；需要 CloudBase 环境和账号授权，执行写入或部署操作前请确认目标环境、权限、费用与数据范围.
