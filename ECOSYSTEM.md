@@ -415,5 +415,6 @@ Last refreshed: **2026-09-05 UTC**
 | [blazingcd/golden-key-openmontage-for-workbuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) | 0 | Python | 2026-09-05 |
 | [sunyet-01/WorkBuddy-Starter](https://github.com/sunyet-01/WorkBuddy-Starter) | 0 | Astro | 2026-07-30 |
 | [Echo-Smith/tencent-experienced-recruit](https://github.com/Echo-Smith/tencent-experienced-recruit) | 0 | Python | 2026-08-09 |
+| [stevenchengxy/maotuan](https://github.com/stevenchengxy/maotuan) | 0 | JavaScript | 2026-09-05 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

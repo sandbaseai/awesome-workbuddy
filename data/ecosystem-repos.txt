@@ -404,6 +404,7 @@ sunyet-01/WorkBuddy-Starter
 FanZhangnan/VisionBuddy
 Echo-Smith/tencent-experienced-recruit
 nana7chi/CubismExternalEditMCP
+stevenchengxy/maotuan
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

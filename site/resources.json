@@ -2840,6 +2840,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Maotuan",
+    "url": "https://github.com/stevenchengxy/maotuan",
+    "description": "An MIT-licensed macOS/Windows desktop AI companion for chat, voice, reading, drawing, and desktop notifications, with a built-in MCP service that WorkBuddy, Claude Code, and Codex can call; some features require user-configured models or third-party services",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "毛团",
+    "descriptionZh": "MIT 许可的 macOS/Windows 桌面 AI 陪伴应用，提供聊天、语音、阅读、绘图和桌面提醒，并内置 MCP 服务，可供 WorkBuddy、Claude Code、Codex 等客户端调用；部分能力需要用户配置模型或第三方服务",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Cubism External Edit MCP",
     "url": "https://github.com/nana7chi/CubismExternalEditMCP",
     "description": "An MIT-licensed Live2D Cubism Editor MCP with explicit WorkBuddy support, providing model parameter/part/deformer inspection and editing, batch transactions, and rollback on failure with Allow/Edit permission levels; it currently depends on Cubism Editor 5.4 Alpha (valid until 2026-09-14), and external-integration permissions must be re-confirmed after each editor restart",
