@@ -141,6 +141,7 @@ changexbc/workbuddy-switch
 shuishenghualalala/Ace
 tangshiyegit/agent-guide
 Neo5093/workbuddy-guide
+shajoezhu/skills_codebuddy_rpackagedev
 staruhub/awesome-workbuddy
 shenchangyi/photo-to-monthly-zine-postcard
 semlinker/awesome-workbuddy

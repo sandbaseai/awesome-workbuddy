@@ -1190,6 +1190,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "R Package Development Skills for CodeBuddy",
+    "url": "https://github.com/shajoezhu/skills_codebuddy_rpackagedev",
+    "description": "An Apache-2.0 collection of five Skills for Claude Code and CodeBuddy Code covering R-package scaffolding, quality, `R CMD check`, CI gates, collaboration, and releases; it includes attribution and test/checklists, while copy or symlink installation writes to a user-level Skills directory, so confirm the R project, toolchain, source materials, and local path scope first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "R Package Development Skills for CodeBuddy",
+    "descriptionZh": "Apache-2.0 许可、面向 Claude Code 与 CodeBuddy Code 的 5 个 R 包开发 Skill，覆盖脚手架、质量、`R CMD check`、CI 门禁、协作与发布；仓库包含来源署名和测试/检查清单，复制或链接安装会写入用户级 Skill 目录，使用前请确认 R 项目、工具链、来源材料与本地目录范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
     "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",
