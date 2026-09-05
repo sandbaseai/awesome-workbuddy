@@ -8,8 +8,8 @@ Last refreshed: **2026-09-05 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,081 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,789 | TypeScript | 2026-09-04 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,082 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,792 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,959 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,556 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -17,7 +17,7 @@ Last refreshed: **2026-09-05 UTC**
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,926 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,775 | Go | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,928 | JavaScript | 2026-09-05 |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,816 | TypeScript | 2026-09-04 |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,817 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,802 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,543 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
@@ -188,6 +188,7 @@ Last refreshed: **2026-09-05 UTC**
 | [dayviwong/apple-design-skill](https://github.com/dayviwong/apple-design-skill) | 7 | - | 2026-04-28 |
 | [MLiang0920/mliang-ui-design-skill](https://github.com/MLiang0920/mliang-ui-design-skill) | 7 | - | 2026-05-08 |
 | [hanyangcg/video-story-clip](https://github.com/hanyangcg/video-story-clip) | 7 | Python | 2026-08-21 |
+| [MJorgin/dsh-agent-conductor](https://github.com/MJorgin/dsh-agent-conductor) | 7 | JavaScript | 2026-09-01 |
 | [simplast/workbuddy-api](https://github.com/simplast/workbuddy-api) | 6 | JavaScript | 2026-09-04 |
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |

@@ -441,6 +441,7 @@
 
 ### Automation and Agent workflows
 
+- [DSH Agent Conductor](https://github.com/MJorgin/dsh-agent-conductor) - MIT 许可、明确支持 WorkBuddy 的零依赖跨 Agent 派活 Skill，可调用 Codex、Claude Code、Gemini、WorkBuddy 等外部 CLI 并把结果回传；执行前请确认本机 CLI、权限和登录额度
 - [AT-Switch](https://github.com/atswitch/at-switch) - MIT 许可的 macOS/Windows 本地 AI Agent Provider 与模型切换工具，明确支持 WorkBuddy，可管理模型目录、协议转换、配置备份与回滚，并将 WorkBuddy 配置保存在用户本地
 - [Workbuddy](https://github.com/Lincyaw/workbuddy) - Apache-2.0 许可的 GitHub Issue 驱动 Agent 编排平台，支持将 Issue 状态映射到工作流，并调度 Claude、Codex 等运行时
 - [Better Harness](https://github.com/QoderAI/better-harness) - MIT 许可的 Agent Harness 工程平台，明确支持 WorkBuddy，提供证据化工作流报告、可恢复任务、Skill/MCP/Hook 边界、受控实验和 37 个 Agent 平台适配
