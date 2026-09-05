@@ -60,6 +60,7 @@ Last refreshed: **2026-09-05 UTC**
 | [zhangxiaoqiang1991/luopan](https://github.com/zhangxiaoqiang1991/luopan) | 379 | HTML | 2026-07-18 |
 | [SakuraByteCore/codexmate](https://github.com/SakuraByteCore/codexmate) | 343 | JavaScript | 2026-09-05 |
 | [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) | 322 | Python | 2026-08-20 |
+| [chenjin-cmd/wechat-miniprogram-builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) | 312 | - | 2026-08-01 |
 | [alchaincyf/claude-code-orange-book](https://github.com/alchaincyf/claude-code-orange-book) | 310 | - | 2026-08-23 |
 | [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) | 293 | Python | 2026-09-05 |
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 278 | HTML | 2026-08-17 |
@@ -78,6 +79,7 @@ Last refreshed: **2026-09-05 UTC**
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
 | [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 194 | Go | 2026-09-02 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 192 | TypeScript | 2026-09-02 |
+| [Unclecheng-li/note-skill](https://github.com/Unclecheng-li/note-skill) | 178 | HTML | 2026-06-12 |
 | [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) | 177 | JavaScript | 2026-07-17 |
 | [codesstar/loci](https://github.com/codesstar/loci) | 175 | HTML | 2026-09-03 |
 | [zhuyifang/tonghuasun-agent](https://github.com/zhuyifang/tonghuasun-agent) | 175 | JavaScript | 2026-09-01 |

@@ -366,3 +366,5 @@ AndrewNgGirl/SkillLens
 lirt1231/skill-sync
 wanghuan9/skilldock
 EverMind-AI/EverMe
+chenjin-cmd/wechat-miniprogram-builder
+Unclecheng-li/note-skill

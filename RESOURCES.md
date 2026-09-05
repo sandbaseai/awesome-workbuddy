@@ -123,6 +123,8 @@
 
 ### Ready-to-use Skills
 
+- [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - MIT 许可、提供 WorkBuddy 专用入口的微信小程序全生命周期 Skill，覆盖选题、备案、开发、变现、审核、推广和矩阵运营，可复制到 `~/.workbuddy/skills/` 使用
+- [学霸笔记 Skill](https://github.com/Unclecheng-li/note-skill) - MIT 许可、明确支持 WorkBuddy 的单文件 HTML 笔记 Skill，将技术内容、漏洞分析或知识总结转换为手写笔记本风格的网页笔记
 - [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent CLI；上传 Skill 到 Web UI 或调用模型评测前请确认数据范围
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - MIT 许可的本体驱动应用构建 Skill，从业务想法或需求文档出发，经多轮需求探索和人工确认，生成可安装、可运行的领域 Skill；自然语言查询默认通过本地 API 执行只读 SQL
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演示；使用 HTMLSlide 时请先确认登录和数据上传范围

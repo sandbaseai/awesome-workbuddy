@@ -123,6 +123,8 @@
 
 ### Ready-to-use Skills
 
+- [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - An MIT-licensed full-lifecycle WeChat Mini Program Skill with a dedicated WorkBuddy entry, covering ideation, filing, development, monetization, review, promotion, and multi-account operations; copy it to `~/.workbuddy/skills/` to use it
+- [Note Skill](https://github.com/Unclecheng-li/note-skill) - An MIT-licensed single-file HTML note-generation Skill with explicit WorkBuddy support, turning technical content, security analysis, or knowledge summaries into notebook-style web notes
 - [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - An MIT-licensed self-hosted Skill evaluation tool with rubric scores, evidence, Deep Review, and improvement suggestions, plus a WorkBuddy-compatible Agent CLI; confirm the data scope before uploading Skills or invoking model review
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - An MIT-licensed Skill with explicit WorkBuddy support for HTML presentations, illustrations, and covers; it can generate, read, modify, and sync single-file HTML decks. When using HTMLSlide, confirm its login and data-upload scope first
