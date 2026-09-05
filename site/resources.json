@@ -970,6 +970,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SkillLens",
+    "url": "https://github.com/AndrewNgGirl/SkillLens",
+    "description": "An MIT-licensed self-hosted Skill evaluation tool with rubric scores, evidence, Deep Review, and improvement suggestions, plus a WorkBuddy-compatible Agent CLI; confirm the data scope before uploading Skills or invoking model review",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "SkillLens",
+    "descriptionZh": "MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent CLI；上传 Skill 到 Web UI 或调用模型评测前请确认数据范围",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy App Builder Skill",
     "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
     "description": "An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default",
@@ -2560,6 +2570,26 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Skill Sync",
+    "url": "https://github.com/lirt1231/skill-sync",
+    "description": "An MIT-licensed cross-device, cross-agent Skill synchronizer with explicit WorkBuddy support, using a local managed source and private Git repositories for selected user-authored Skills; every filesystem or network mutation is previewed and requires confirmation",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Skill Sync",
+    "descriptionZh": "MIT 许可的跨设备、跨 Agent Skill 同步工具，明确支持 WorkBuddy，通过本地管理源和私有 Git 仓库同步用户选定的 Skill；所有文件或网络变更都会先生成预览并要求确认",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "EverMe",
+    "url": "https://github.com/EverMind-AI/EverMe",
+    "description": "An Apache-2.0 CLI, MCP server, and plugin suite for cross-device, cross-agent personal memory, with an explicit WorkBuddy plugin install path; hosted use involves accounts and network requests, so confirm the API endpoint and data boundary when self-hosting",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "EverMe",
+    "descriptionZh": "Apache-2.0 许可的跨设备、跨 Agent 个人记忆 CLI、MCP 服务和插件套件，提供 WorkBuddy 插件安装方式；托管服务涉及账号和网络请求，自托管时请确认 API 地址与数据边界",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Tonghuashun Agent",
     "url": "https://github.com/zhuyifang/tonghuasun-agent",
     "description": "An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use",
@@ -3598,6 +3628,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "SkillDock",
+    "url": "https://github.com/wanghuan9/skilldock",
+    "description": "An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "SkillDock",
+    "descriptionZh": "MIT 许可的跨 Agent 桌面 Skill/MCP/插件管理器，支持 WorkBuddy，提供真实目录扫描、安装整理、Git 感知 Diff 预览、更新和冲突检查",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "Clawd on Desk",
