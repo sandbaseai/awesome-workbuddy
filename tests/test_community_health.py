@@ -6,14 +6,15 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class CommunityHealthTests(unittest.TestCase):
-    def test_community_entry_points_are_linked(self) -> None:
+    def test_public_readmes_focus_on_resource_content(self) -> None:
         for filename in ("README.md", "README.en.md"):
             content = (ROOT / filename).read_text(encoding="utf-8")
-            self.assertIn(
-                "https://github.com/sandbaseai/awesome-workbuddy/discussions",
-                content,
-            )
-            self.assertIn("CODE_OF_CONDUCT.md", content)
+            self.assertIn("START_HERE.md", content)
+            self.assertIn("site/llms.txt", content)
+            self.assertNotIn("100 genuine stars", content)
+            self.assertNotIn("100 个真实 Star", content)
+            self.assertNotIn("Selection Standard", content)
+            self.assertNotIn("Contributing", content)
 
     def test_code_of_conduct_has_reporting_path(self) -> None:
         content = (ROOT / "CODE_OF_CONDUCT.md").read_text(encoding="utf-8")
@@ -74,7 +75,6 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertNotIn("  push:", workflow)
         self.assertIn("scripts/update_ecosystem.py", workflow)
         self.assertIn("scripts/discover_repos.py", workflow)
-        self.assertIn("scripts/update_readme_stats.py", workflow)
         self.assertIn("group: update-ecosystem-main", workflow)
         self.assertIn("cancel-in-progress: true", workflow)
         self.assertIn("git pull --ff-only origin main", workflow)

@@ -10,15 +10,6 @@ import update_readme_stats  # noqa: E402
 
 
 class UpdateReadmeStatsTests(unittest.TestCase):
-    def test_checked_in_snapshot_matches_authoritative_files(self) -> None:
-        root = Path(__file__).resolve().parents[1]
-        readme = (root / "README.md").read_text(encoding="utf-8")
-        expected = update_readme_stats.snapshot(root)
-        self.assertIn(
-            f"{update_readme_stats.START}\n{expected}\n{update_readme_stats.END}",
-            readme,
-        )
-
     def test_counts_authoritative_repository_files(self) -> None:
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
