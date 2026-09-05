@@ -429,6 +429,10 @@ Cmochance/codex-app-transfer
 NarratorAI-Studio/narrator-ai-cli
 Han-1413141/dsh-cost-meter
 Nwflower/dsh-chat-import
+jnMetaCode/agency-agents-zh
+alchaincyf/x-mentor-skill
+Unclecheng-li/AI-Animation-Skill
+alchaincyf/fanbox
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

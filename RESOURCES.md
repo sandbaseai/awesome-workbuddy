@@ -75,6 +75,8 @@
 
 ### Skill collections
 
+- [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区 AI 专家角色集合，覆盖工程、设计、营销、金融等 20 个部门，并提供转换与安装到 WorkBuddy `~/.workbuddy/skills/` 的脚本
+
 - [skill-manager](https://github.com/GrubbyLee/skill-manager) - MIT 许可的零依赖本地 Skills/MCP 管理 CLI，明确支持 WorkBuddy，可扫描、推荐、去重、审计和可视化本地资源；默认只读，执行 setup 或写入前请先查看变更计划
 
 - [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skills 管理桌面应用，集中安装、整理、更新并同步到 47 个 Agent 工具，明确支持 WorkBuddy 的 `~/.workbuddy/skills` 用户目录；使用前请检查待扫描目录和 GitHub Token 等本地配置
@@ -130,6 +132,9 @@
 - [SmileX AI Universal Memory](https://github.com/smileluck/SmileX-AI-Universal-Memory) - MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引
 
 ### Ready-to-use Skills
+
+- [X 导师 Skill](https://github.com/alchaincyf/x-mentor-skill) - MIT 许可的 X/Twitter 内容研究与写作 Skill，兼容 WorkBuddy 等 50 多种 Agent runtime，覆盖选题、写作和增长流程；使用时请遵守目标平台规则并核对引用内容
+- [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) - MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请核对素材与模型服务权限
 
 - [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 PDF；它不替代权属和事实核验，提交前应脱敏并人工复核登记要求
 
@@ -331,6 +336,8 @@
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 
 ### Tools and integrations
+
+- [Fanbox](https://github.com/alchaincyf/fanbox) - MIT 许可的本地多 Agent 工作台，可一键启动和管理包括 WorkBuddy 在内的多个 Agent，并提供窗口状态与等待提醒；使用前请确认它将启动的命令、工作目录和客户端配置
 
 - [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - MIT 许可的本地桌面网关，将 Codex CLI 的 Responses API 转换为 Chat Completions，内置 WorkBuddy（腾讯 CodeBuddy）提供商适配；其他提供商的长期真机验证范围请以项目说明为准
 - [Narrator AI CLI](https://github.com/NarratorAI-Studio/narrator-ai-cli) - MIT 许可的视频解说生成 CLI，可作为 WorkBuddy 等 Agent 的命令行工具使用，支持素材检索、脚本、配音、BGM 和视频生成；调用在线服务前请确认账号、费用和素材授权
