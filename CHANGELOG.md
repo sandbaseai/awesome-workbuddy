@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.2 — 2026-09-05
+
+- Added Tencent's MIT-licensed LoopForge workflow for confirmable, reviewable, testable, and resumable multi-agent delivery.
+- Added the MIT-licensed AI Project Workflow with explicit CodeBuddy support, stage contracts, state gates, artifact requirements, and CLI adapters.
+- Broadened the discovery job to cover both WorkBuddy and CodeBuddy repositories while keeping candidates in a review-only queue.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.1 — 2026-09-05
 
 - Added the WorkBuddy Experts study archive, covering 246 expert prompts, seven Nunjucks templates, two built-in Skills, and a reverse-engineering report.
