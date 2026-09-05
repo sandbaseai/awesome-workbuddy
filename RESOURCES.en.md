@@ -426,6 +426,7 @@
 
 ### Automation and Agent workflows
 
+- [AT-Switch](https://github.com/atswitch/at-switch) - An MIT-licensed local AI Agent provider and model switcher for macOS and Windows, with explicit WorkBuddy support, model management, protocol conversion, configuration backups, and rollback
 - [Workbuddy](https://github.com/Lincyaw/workbuddy) - An Apache-2.0 GitHub Issue-driven Agent orchestration platform that maps Issue states to workflows and dispatches Claude, Codex, and other runtimes
 - [Better Harness](https://github.com/QoderAI/better-harness) - An MIT-licensed Agent Harness Engineering platform with explicit WorkBuddy support, evidence-backed workflow reports, resumable tasks, Skill/MCP/Hook boundaries, controlled experiments, and adapters for 37 Agent platforms
 - [Comet](https://github.com/rpamis/comet) - An MIT-licensed resumable long-running task and Skill platform with explicit WorkBuddy support, Native/Classic requirements workflows, phase gates, Skill authoring/evaluation/release tooling, and adapters for 37 Agent platforms
