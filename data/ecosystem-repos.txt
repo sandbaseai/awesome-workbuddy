@@ -1,4 +1,6 @@
 # One GitHub owner/repository per line. Keep this list curated.
+NarratorAI-Studio/narrator-ai-cli-skill
+TencentCloudBase/CloudBase-AI-Toolkit
 sandbaseai/workbuddy-skill
 SenMuShare/senmu-buildos
 liangdabiao/i18n-helper-skills
