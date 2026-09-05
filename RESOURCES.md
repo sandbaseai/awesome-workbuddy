@@ -410,6 +410,7 @@
 
 ### Community clients and enhancements
 
+- [Bough](https://github.com/DGPisces/bough) - MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、完成、忙碌和空闲状态集中展示；首次启动需按系统提示确认并授予必要权限
 - [SkillDock](https://github.com/wanghuan9/skilldock) - MIT 许可的跨 Agent 桌面 Skill/MCP/插件管理器，支持 WorkBuddy，提供真实目录扫描、安装整理、Git 感知 Diff 预览、更新和冲突检查
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单
