@@ -332,6 +332,11 @@
 
 ### Tools and integrations
 
+- [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - MIT 许可的本地桌面网关，将 Codex CLI 的 Responses API 转换为 Chat Completions，内置 WorkBuddy（腾讯 CodeBuddy）提供商适配；其他提供商的长期真机验证范围请以项目说明为准
+- [Narrator AI CLI](https://github.com/NarratorAI-Studio/narrator-ai-cli) - MIT 许可的视频解说生成 CLI，可作为 WorkBuddy 等 Agent 的命令行工具使用，支持素材检索、脚本、配音、BGM 和视频生成；调用在线服务前请确认账号、费用和素材授权
+- [DSH Cost Meter](https://github.com/Han-1413141/dsh-cost-meter) - MIT 许可的 DeepSeek Harness 会话费用统计插件，可通过 CLIProxyAPI 观测 WorkBuddy 插件积分、模型价格、预算和用量；需要处理账号额度或自定义 Provider 时，请先核对凭据和请求端点
+- [DSH Chat Import](https://github.com/Nwflower/dsh-chat-import) - MIT 许可的跨 Agent 会话导入插件，可将 WorkBuddy 等工具的聊天历史导入 DeepSeek Harness 并继续对话；导入前请确认本地会话文件范围和其中的敏感信息
+
 - [Vibe Service Guardian](https://github.com/keith-yan/vibe-service-guardian) - MIT 许可的本机服务溯源、AI 运行健康和开放权重模型容量诊断工具，明确识别 WorkBuddy/CodeBuddy 进程；默认只监听回环地址并脱敏常见密钥，停止服务或运行基准前仍需确认目标 PID、端口和资源边界
 
 - [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - MIT 许可的本地 Agent 网络连接器，明确支持 WorkBuddy，可为本地 Agent 创建持久身份、公开 Bot 页面和 Bot 间通信；启用后会产生网络通信与公开内容，请先检查共享范围和凭据

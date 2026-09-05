@@ -2920,6 +2920,46 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Codex App Transfer",
+    "url": "https://github.com/Cmochance/codex-app-transfer",
+    "description": "An MIT-licensed local desktop gateway that translates the Codex CLI Responses API into Chat Completions, with a built-in WorkBuddy (Tencent CodeBuddy) provider adapter; see the project for the scope of long-term real-device verification for other providers",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Codex App Transfer",
+    "descriptionZh": "MIT 许可的本地桌面网关，将 Codex CLI 的 Responses API 转换为 Chat Completions，内置 WorkBuddy（腾讯 CodeBuddy）提供商适配；其他提供商的长期真机验证范围请以项目说明为准",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Narrator AI CLI",
+    "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli",
+    "description": "An MIT-licensed video-narration CLI usable as a command-line tool inside WorkBuddy and other Agents, covering material search, scripting, voice, BGM, and video generation; confirm account, cost, and asset permissions before using its online services",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Narrator AI CLI",
+    "descriptionZh": "MIT 许可的视频解说生成 CLI，可作为 WorkBuddy 等 Agent 的命令行工具使用，支持素材检索、脚本、配音、BGM 和视频生成；调用在线服务前请确认账号、费用和素材授权",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Cost Meter",
+    "url": "https://github.com/Han-1413141/dsh-cost-meter",
+    "description": "An MIT-licensed DeepSeek Harness session-cost plugin that can observe WorkBuddy plugin credits, model pricing, budgets, and usage through CLIProxyAPI; review credentials and request endpoints before connecting accounts or custom providers",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Cost Meter",
+    "descriptionZh": "MIT 许可的 DeepSeek Harness 会话费用统计插件，可通过 CLIProxyAPI 观测 WorkBuddy 插件积分、模型价格、预算和用量；需要处理账号额度或自定义 Provider 时，请先核对凭据和请求端点",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "DSH Chat Import",
+    "url": "https://github.com/Nwflower/dsh-chat-import",
+    "description": "An MIT-licensed cross-agent session-import plugin that brings WorkBuddy and other tool histories into DeepSeek Harness for continued conversations; review the local session scope and sensitive content before importing",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "DSH Chat Import",
+    "descriptionZh": "MIT 许可的跨 Agent 会话导入插件，可将 WorkBuddy 等工具的聊天历史导入 DeepSeek Harness 并继续对话；导入前请确认本地会话文件范围和其中的敏感信息",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Vibe Service Guardian",
     "url": "https://github.com/keith-yan/vibe-service-guardian",
     "description": "An MIT-licensed local service-attribution, AI-runtime health, and open-weight model-capacity diagnostic tool with explicit WorkBuddy/CodeBuddy process detection; it binds to loopback and redacts common secrets by default, but confirm target PIDs, ports, and resource boundaries before stopping services or running benchmarks",

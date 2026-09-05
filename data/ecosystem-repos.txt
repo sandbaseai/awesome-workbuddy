@@ -425,6 +425,10 @@ iswalle/getnote-cli
 xiufengsun/TokenTracker
 IvanCodesDev/software-certificate-skill
 keith-yan/vibe-service-guardian
+Cmochance/codex-app-transfer
+NarratorAI-Studio/narrator-ai-cli
+Han-1413141/dsh-cost-meter
+Nwflower/dsh-chat-import
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
