@@ -920,6 +920,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Douyin Operations",
+    "url": "https://github.com/a-hue-1/Douyin-video-scraping-operation",
+    "description": "An MIT-licensed Douyin account-operations and content-research Skill with explicit WorkBuddy support, covering hot lists, video-link parsing, account and comment analysis, viral-content breakdowns, and script generation; comment data optionally uses a third-party API",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Douyin Operations",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的抖音账号运营与内容研究 Skill，支持热榜抓取、视频链接解析、账号与评论分析、爆款拆解及文案脚本生成；评论数据需可选的第三方 API",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "CSV Data Analyst",
     "url": "https://github.com/Errriclin/csv-data-analyst",
     "description": "An MIT-licensed multi-scenario CSV analysis Skill explicitly built for WorkBuddy, providing natural-language analysis, charts, structured results, auditable artifact manifests, examples, and verification scripts",

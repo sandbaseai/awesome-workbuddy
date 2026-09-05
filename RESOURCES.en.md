@@ -114,6 +114,7 @@
 
 ### Ready-to-use Skills
 
+- [Douyin Operations](https://github.com/a-hue-1/Douyin-video-scraping-operation) - An MIT-licensed Douyin account-operations and content-research Skill with explicit WorkBuddy support, covering hot lists, video-link parsing, account and comment analysis, viral-content breakdowns, and script generation; comment data optionally uses a third-party API
 - [CSV Data Analyst](https://github.com/Errriclin/csv-data-analyst) - An MIT-licensed multi-scenario CSV analysis Skill explicitly built for WorkBuddy, providing natural-language analysis, charts, structured results, auditable artifact manifests, examples, and verification scripts
 - [ChatCut Video Workflow](https://github.com/li845276863-tech/chatcut-video-workflow-skill) - An MIT-licensed ChatCut talking-head video workflow Skill with explicit WorkBuddy support, planning before execution, clip editing, viral-video analysis, visual packaging, cover generation, and export checks
 - [TradeGit](https://github.com/rollingSirius/TradeGit) - An MIT-licensed local trading-journal Skill with explicit WorkBuddy support, recording trade rationale, importing broker statements, and calculating FIFO profit/loss; data stays local or in the user's own private GitHub repository

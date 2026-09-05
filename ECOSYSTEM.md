@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,088 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,080 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,782 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,783 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,959 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,554 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,380 | Python | 2026-09-04 |
@@ -176,6 +176,7 @@ Last refreshed: **2026-09-05 UTC**
 | [genius916/CareerSail](https://github.com/genius916/CareerSail) | 8 | JavaScript | 2026-09-05 |
 | [zhjcreator/scholar-inbox-skill](https://github.com/zhjcreator/scholar-inbox-skill) | 8 | Shell | 2026-04-08 |
 | [adsorgcn/chanlun-engine-skill](https://github.com/adsorgcn/chanlun-engine-skill) | 8 | Python | 2026-08-25 |
+| [a-hue-1/Douyin-video-scraping-operation](https://github.com/a-hue-1/Douyin-video-scraping-operation) | 8 | Python | 2026-08-13 |
 | [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
