@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.10.11 — 2026-09-05
+
+- Added CodeBuddy2API, OpenCode CodeBuddy Auth, the WeChat Mini Program Virtual Payment Skill/reference, and the unofficial CodeBuddy IDE CN for Linux packaging adapter.
+- Documented credential, API, payment, binary, EULA, supply-chain, and local-build boundaries for the new resources.
+- Normalized historical discovery audit Issue bodies and fixed automatic `audit` labeling for both space-separated and colon-separated Discovery titles.
+- Refreshed the synchronized directory snapshot to 175 curated repositories and 25 discovery candidates.
+
+This release is a documentation and curation update. Indexed projects are independent of this repository; review each project's current license, source or binary provenance, credentials, permissions, data flows, and account terms before use.
+
 ## v0.10.9 — 2026-09-05
 
 - Added TencentDB Agent Memory, an MIT-licensed, Tencent-maintained WorkBuddy Proxy integration for shared Chat Memory, Skills, LLM Wiki, and CodeGraph workflows.
