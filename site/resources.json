@@ -1130,6 +1130,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Zhengxi Views",
+    "url": "https://github.com/lyra81604/zhengxi-views",
+    "description": "An MIT-licensed fund-manager research Skill with explicit WorkBuddy support, using public quotations, a documented method framework, and fund data for traceable Q&A, holdings comparison, and research reports, with a WorkBuddy `skill.yml`; corpus and third-party data remain subject to their original rights holders, and the project is for research and learning only, not investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Zhengxi Views",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的基金经理观点与投研 Skill，基于公开原文、方法框架和基金数据提供可溯源问答、持仓对照与研究报告，并附 WorkBuddy `skill.yml`；语料和第三方数据仍归原始权利人所有，仅供研究学习，不构成投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Scholar Inbox Skill",
     "url": "https://github.com/zhjcreator/scholar-inbox-skill",
     "description": "An MIT-licensed WorkBuddy Skill for academic-paper discovery through the Scholar Inbox CLI, covering keyword/semantic search, trending papers, digests, bookmarks, collections, and conference proceedings; a third-party account is required",

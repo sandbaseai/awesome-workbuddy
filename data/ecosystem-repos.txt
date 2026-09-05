@@ -328,6 +328,7 @@ dayviwong/apple-design-skill
 xixihhhh/ai-short-drama-skill
 rollingSirius/TradeGit
 adsorgcn/chanlun-engine-skill
+lyra81604/zhengxi-views
 Errriclin/csv-data-analyst
 li845276863-tech/chatcut-video-workflow-skill
 a-hue-1/Douyin-video-scraping-operation

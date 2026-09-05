@@ -31,6 +31,7 @@ Last refreshed: **2026-09-05 UTC**
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,787 | TypeScript | 2026-09-04 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,591 | Rust | 2026-09-05 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,591 | TypeScript | 2026-09-05 |
+| [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,265 | TypeScript | 2026-09-05 |
 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,228 | JavaScript | 2026-09-05 |
