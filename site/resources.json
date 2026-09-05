@@ -950,6 +950,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "WorkBuddy Theme Manager",
+    "url": "https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager",
+    "description": "An Apache-2.0 WorkBuddy theme Skill that converts `.codex-theme` packages to `.workbuddy-theme` and supports installation, switching, and restoration",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Theme Manager",
+    "descriptionZh": "Apache-2.0 许可的 WorkBuddy 主题 Skill，可将 `.codex-theme` 转为 `.workbuddy-theme` 并完成安装、切换和恢复",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Academic Research Skills for WorkBuddy",
     "url": "https://github.com/jinmao-lin/academic-research-skills-workbuddy",
     "description": "A CC BY-NC 4.0 academic-research Skill suite covering deep research, paper writing, manuscript review, research pipelines, and experiment planning, with attribution information included",
