@@ -9,7 +9,7 @@ Last refreshed: **2026-09-05 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,094 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,898 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,899 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,971 | TypeScript | 2026-09-03 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,569 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
@@ -413,5 +413,6 @@ Last refreshed: **2026-09-05 UTC**
 | [buben12310/skillmanager](https://github.com/buben12310/skillmanager) | 0 | Dart | 2026-07-11 |
 | [blazingcd/golden-key-openmontage-for-workbuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) | 0 | Python | 2026-09-05 |
 | [sunyet-01/WorkBuddy-Starter](https://github.com/sunyet-01/WorkBuddy-Starter) | 0 | Astro | 2026-07-30 |
+| [Echo-Smith/tencent-experienced-recruit](https://github.com/Echo-Smith/tencent-experienced-recruit) | 0 | Python | 2026-08-09 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

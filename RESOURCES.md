@@ -131,6 +131,7 @@
 - [中文公文写作 Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料，并提供文种路由、事实核验、格式检查和可选交付 Hook
 - [WorkBuddy Doctor](https://github.com/ruiguoz/workbuddy-doctor) - MIT 许可的社区故障排查 Skill 合集，每个 Doctor 独立安装，首个 `git-doctor` 覆盖推送认证、凭据助手、连接器权限、代理格式和弹窗/沙盒确认问题
 - [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) - MIT 许可的本地 WorkBuddy 账号数据迁移工具，支持 doctor、清单和迁移流程，默认不复制密钥、Token 或 credentials 等敏感连接器文件
+- [Tencent Experienced-Hire Skill](https://github.com/Echo-Smith/tencent-experienced-recruit) - MIT 许可的非官方腾讯社招 Skill，基于公开招聘页面提供岗位检索、证据化匹配、简历梳理、面试准备和防诈骗提醒；岗位数据会动态变化，使用前应回到官方页面复核，且可选行为埋点脚本需先检查
 - [Circuit Interactive Tutor](https://github.com/weblwh/circuit-interactive-tutor) - MIT 许可、明确支持 WorkBuddy 的电路分析互动学习 Skill，提供分步推导、公式解释、故障排查和可视化学习辅助
 - [FMG PPT Courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) - MIT 许可、明确提供 WorkBuddy 安装入口的精品课 PPT 课件 Skill，根据主题和大纲批量生成结构、字号和视觉统一的 PPTX，并复用指定模板
 - [Live Stream Ops](https://github.com/uahz/live-stream-ops) - MIT 许可的跨客户端直播运营 Skill，明确支持 WorkBuddy，覆盖直播脚本、回放拆解、排品表、促单话术、切片挖掘和场控 SOP
