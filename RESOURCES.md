@@ -123,6 +123,9 @@
 
 ### Ready-to-use Skills
 
+- [Circuit Interactive Tutor](https://github.com/weblwh/circuit-interactive-tutor) - MIT 许可、明确支持 WorkBuddy 的电路分析互动学习 Skill，提供分步推导、公式解释、故障排查和可视化学习辅助
+- [FMG PPT Courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) - MIT 许可、明确提供 WorkBuddy 安装入口的精品课 PPT 课件 Skill，根据主题和大纲批量生成结构、字号和视觉统一的 PPTX，并复用指定模板
+- [Live Stream Ops](https://github.com/uahz/live-stream-ops) - MIT 许可的跨客户端直播运营 Skill，明确支持 WorkBuddy，覆盖直播脚本、回放拆解、排品表、促单话术、切片挖掘和场控 SOP
 - [InvAssistant](https://github.com/haiyangchenbj/invassistant-skill-cn) - MIT 许可、明确支持 CodeBuddy/WorkBuddy 的美股持仓信号检查 Skill，基于可配置的入场/退出规则读取 Yahoo Finance 行情，并可推送到企业微信、钉钉或飞书；仅用于研究，不构成投资建议，Webhook 凭证请妥善保管
 - [Article Metaphor Illustrator](https://github.com/bettermen/article-metaphor-illustrator) - MIT 许可的 WorkBuddy 中文文章配图 Skill，自动理解文章、选择配图位置和图型，生成流程图、架构图、对比图、关系图、结构图或概念插图；它是上游项目的 WorkBuddy 适配版
 - [Paper Submission Skill](https://github.com/xxiao-git/paper-submission-skill) - MIT 许可的论文投稿 Skill，支持 Editorial Manager、ScholarOne、Nature 系列和 Frontiers 等系统，覆盖材料整理、指南解读、表单填写和投稿流程，并在关键阶段设置 6 个人工确认点

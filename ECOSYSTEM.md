@@ -21,7 +21,7 @@ Last refreshed: **2026-09-05 UTC**
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,303 | Rust | 2026-09-05 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
-| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,167 | Rust | 2026-09-05 |
+| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,168 | Rust | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,929 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,818 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
@@ -45,7 +45,7 @@ Last refreshed: **2026-09-05 UTC**
 | [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 785 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 726 | TypeScript | 2026-09-05 |
-| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 706 | Python | 2026-09-02 |
+| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 707 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 680 | - | 2026-07-19 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
@@ -289,6 +289,8 @@ Last refreshed: **2026-09-05 UTC**
 | [LeemanCheung/dsh-agent-preset-recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) | 3 | JavaScript | 2026-09-05 |
 | [shanputaoye/freecad-ai-skill](https://github.com/shanputaoye/freecad-ai-skill) | 3 | Python | 2026-03-29 |
 | [xxiao-git/paper-submission-skill](https://github.com/xxiao-git/paper-submission-skill) | 3 | - | 2026-07-26 |
+| [weblwh/circuit-interactive-tutor](https://github.com/weblwh/circuit-interactive-tutor) | 3 | Python | 2026-07-09 |
+| [cntyfmg-eng/fmg-ppt-courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) | 3 | Python | 2026-08-13 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
 | [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
 | [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
@@ -310,6 +312,7 @@ Last refreshed: **2026-09-05 UTC**
 | [DGPisces/bough](https://github.com/DGPisces/bough) | 2 | Swift | 2026-08-25 |
 | [tony-apan/allincms-content-ops](https://github.com/tony-apan/allincms-content-ops) | 2 | Python | 2026-06-26 |
 | [gebiniwangdaye/macos-minimize-all](https://github.com/gebiniwangdaye/macos-minimize-all) | 2 | Objective-C | 2026-07-18 |
+| [uahz/live-stream-ops](https://github.com/uahz/live-stream-ops) | 2 | Python | 2026-08-19 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
