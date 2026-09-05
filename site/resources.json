@@ -2092,11 +2092,11 @@
   {
     "title": "Job Navigation Skill",
     "url": "https://github.com/AriaXXX-free/job-navigation-skill",
-    "description": "An evidence-based Skill that researches current roles and JDs, compares them with resume/project evidence, and prioritizes job-search actions",
+    "description": "An MIT-licensed WorkBuddy-compatible, evidence-based career Skill that researches roles and job descriptions, compares resume/project evidence, identifies gaps, and prioritizes job-search actions; it does not submit applications automatically",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
     "titleZh": "Job Navigation Skill",
-    "descriptionZh": "基于证据研究当前职位与 JD，对照简历和项目证据并规划求职行动",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的证据导向求职 Skill，研究岗位和职位描述、对比简历/项目证据、识别能力缺口并安排求职行动；它不自动投递职位",
     "categoryZh": "Ready-to-use Skills"
   },
   {

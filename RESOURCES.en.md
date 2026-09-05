@@ -237,7 +237,7 @@
 - [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - An MIT-licensed WorkBuddy Skill that turns an article into 5–8 faithful knowledge cards
 - [Textbook Writer Skills](https://github.com/cabbage2000-lab/textbook-writer-skills) - Plans, writes, and reviews textbooks using Understanding by Design.
 - [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) - An open job-search system built from seven Skills and a Feishu workspace.
-- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - An evidence-based Skill that researches current roles and JDs, compares them with resume/project evidence, and prioritizes job-search actions
+- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - An MIT-licensed WorkBuddy-compatible, evidence-based career Skill that researches roles and job descriptions, compares resume/project evidence, identifies gaps, and prioritizes job-search actions; it does not submit applications automatically
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - Produces copy, images, layout, and WeChat Official Account drafts.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - Agent Skills covering a CRM lead-to-cash workflow.
 - [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - Reviews videos, covers, subtitles, sales claims, and platform risks before publishing.
