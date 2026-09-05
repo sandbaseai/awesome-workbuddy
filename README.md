@@ -225,6 +225,7 @@
 - [Infoseek](https://github.com/GYINT/infoseek) - MIT 许可、兼容 WorkBuddy 的端到端研究 MCP/Skill，包含多源发现、四级抓取、四维评分、跨源矛盾检测、结构化报告和长期归档，并提供回归测试与 Key 管理
 - [MarkItDown Skill](https://github.com/stwhwing/markitdown-skill) - MIT 许可、兼容 WorkBuddy 的文档与网页转 Markdown Skill，基于 Microsoft MarkItDown 并提供 SPA/网页回退、批量转换和本地 token 估算
 - [Bilibili Video Summary](https://github.com/Willson-Huang/bilibili-video-summary) - MIT 许可、提供 WorkBuddy 版的本地视频知识整理 Skill，通过字幕或本地 Whisper 转写生成带时间戳、实体表和待核实声明的 14 节 Markdown 笔记
+- [Video Transcribe Summary](https://github.com/chenstacey/video-transcribe-summary) - 许可证未声明的 WorkBuddy 视频/播客转写 Skill，使用本地 Whisper 生成带时间戳的中文文档、摘要和可选长图
 - [Knowledge Base Builder](https://github.com/miaqu766520-a11y/kb-builder) - MIT 许可、已在 WorkBuddy 验收的本地知识库搭建 Skill，通过逐题访谈生成目录、模板、个人档案和使用手册，并在用户确认计划后写入 Markdown 文件
 - [AI Finance Workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) - MIT 许可、支持 WorkBuddy MCP App 的可视化财务工作台，提供 20 个模块、25 个带字段口径/小样本试跑/校验/人工复核的工作流，以及异常责任闭环和本机备份
 - [Universal Travel Planner](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) - MIT 许可、13 Star 的 WorkBuddy 商旅规划 Skill，整合 12306、航班、地图/天气、酒店比价、预算分档、清单和响应式 HTML 报告，并提供真实跳转链接
@@ -264,6 +265,7 @@
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
 - [SeaTable Production](https://github.com/Darling5/seatable-production) - MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析
 - [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) - 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板.
+- [AGENTS.md Skill](https://github.com/kelegele/agentsmd-skill) - 许可证未声明的 WorkBuddy Skill，将项目经验整理成精简、可复用的 `AGENTS.md`，并提供规范参考和模板
 - [llm-wiki Skill](https://github.com/JustineJiao/llm-wiki-skill) - GPL-3.0 许可、明确支持 WorkBuddy 的个人知识库 Skill，可将网页、PDF、本地文件和其他素材整理成带双向链接、置信度标注和待审项的 Markdown 知识库
 - [Org Context](https://github.com/wangjialiang678/org-context) - MIT 许可、支持 WorkBuddy/Claude Code/OpenCode 的企业上下文组织 Skill，以事实树、判断账和状态页降低 Agent 找错资料的概率，附带模板、可运行示例和机械校验
 - [Delivery Razor](https://github.com/Ketian823/delivery-razor) - MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则
