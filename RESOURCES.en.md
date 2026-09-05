@@ -49,6 +49,7 @@
 
 ### Learning and reference
 
+- [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) - An MIT-licensed beginner-oriented WorkBuddy guide organized around getting started, Skills, scenarios, and examples, with additional ecosystem links for moving from first use to practical workflows
 - [WorkBuddy Cross-Device Migration Guide](https://github.com/junxi-fan/workbuddy-migration-guide) - An MIT-licensed WorkBuddy migration guide explaining conversation history, memory, Skills, workspaces, `workbuddy.db`, and WAL files, with cautions about migrating while the app is running and copying sensitive connector files
 - [WorkBuddy Efficiency Training Course](https://github.com/cloudzun/WorkBuddy-Course) - A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases

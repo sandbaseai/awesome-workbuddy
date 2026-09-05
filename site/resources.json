@@ -300,6 +300,16 @@
     "categoryZh": "Community channels"
   },
   {
+    "title": "WorkBuddy Starter",
+    "url": "https://github.com/sunyet-01/WorkBuddy-Starter",
+    "description": "An MIT-licensed beginner-oriented WorkBuddy guide organized around getting started, Skills, scenarios, and examples, with additional ecosystem links for moving from first use to practical workflows",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "WorkBuddy Starter",
+    "descriptionZh": "MIT 许可、面向新手的 WorkBuddy 入门资料库，按入门、Skills、使用场景和案例组织内容，并补充相关生态链接，适合从第一次使用过渡到具体实践",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Cross-Device Migration Guide",
     "url": "https://github.com/junxi-fan/workbuddy-migration-guide",
     "description": "An MIT-licensed WorkBuddy migration guide explaining conversation history, memory, Skills, workspaces, `workbuddy.db`, and WAL files, with cautions about migrating while the app is running and copying sensitive connector files",
