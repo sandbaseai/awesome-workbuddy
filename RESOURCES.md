@@ -318,6 +318,7 @@
 
 ### Tools and integrations
 
+- [Cubism External Edit MCP](https://github.com/nana7chi/CubismExternalEditMCP) - MIT 许可的 Live2D Cubism Editor MCP，明确支持 WorkBuddy，提供模型参数/部件/变形器读取与编辑、批量事务和失败回滚，并按 Allow/Edit 分级授权；当前依赖 Cubism Editor 5.4 Alpha（有效期至 2026-09-14），每次编辑器重启后需重新确认外部集成权限
 - [WorkBuddy OSS](https://github.com/a2681220474-glitch/workbuddy-oss-opensource) - MIT 许可的团队 IM/Agent 工作流中台，将飞书、企业微信、钉钉、Webhook 和聊天记录转为可审批、可审计、可复盘的工单、线索、任务和知识对象；自部署时请使用自己的域名和租户凭证，并先配置访问控制
 - [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - GPL-3.0 许可的非官方 CodeBuddy/WorkBuddy 企业 OpenAPI 多语言客户端，覆盖 Skills、模型、成员和用量等接口；使用企业 API 前请确认授权范围、凭证存储方式和 GPL 再分发义务
 - [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 WorkBuddy 等平台；安装前请确认桥接服务的监听范围
