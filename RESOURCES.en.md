@@ -333,6 +333,11 @@
 
 ### Tools and integrations
 
+- [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) - An MIT-licensed local desktop gateway that translates the Codex CLI Responses API into Chat Completions, with a built-in WorkBuddy (Tencent CodeBuddy) provider adapter; see the project for the scope of long-term real-device verification for other providers
+- [Narrator AI CLI](https://github.com/NarratorAI-Studio/narrator-ai-cli) - An MIT-licensed video-narration CLI usable as a command-line tool inside WorkBuddy and other Agents, covering material search, scripting, voice, BGM, and video generation; confirm account, cost, and asset permissions before using its online services
+- [DSH Cost Meter](https://github.com/Han-1413141/dsh-cost-meter) - An MIT-licensed DeepSeek Harness session-cost plugin that can observe WorkBuddy plugin credits, model pricing, budgets, and usage through CLIProxyAPI; review credentials and request endpoints before connecting accounts or custom providers
+- [DSH Chat Import](https://github.com/Nwflower/dsh-chat-import) - An MIT-licensed cross-agent session-import plugin that brings WorkBuddy and other tool histories into DeepSeek Harness for continued conversations; review the local session scope and sensitive content before importing
+
 - [Vibe Service Guardian](https://github.com/keith-yan/vibe-service-guardian) - An MIT-licensed local service-attribution, AI-runtime health, and open-weight model-capacity diagnostic tool with explicit WorkBuddy/CodeBuddy process detection; it binds to loopback and redacts common secrets by default, but confirm target PIDs, ports, and resource boundaries before stopping services or running benchmarks
 
 - [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) - An MIT-licensed local-agent network connector with explicit WorkBuddy support, giving a local Agent a persistent identity, public Bot page, and Bot-to-Bot communication; enabling it introduces network traffic and public content, so review sharing scope and credentials first
