@@ -1,6 +1,13 @@
 <details>
 <summary>展开完整目录</summary>
 
+## 从这里开始
+
+- [一分钟上手](START_HERE.md) - 第一次使用 WorkBuddy，先完成一个简单任务
+- [搜索全部资源](https://sandbaseai.github.io/awesome-workbuddy/) - 按关键词查找 Skills、MCP、工作流和教程
+
+想系统学习，可以继续阅读 [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) 或 [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)。
+
 ## Official Resources
 
 ### Core concepts

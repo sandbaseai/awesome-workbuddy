@@ -1,5 +1,25 @@
 [
   {
+    "title": "Official documentation",
+    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/",
+    "description": "tasks, Skills, MCPs, connectors, automations, and permissions",
+    "section": "What you will find",
+    "category": "What you will find",
+    "titleZh": "",
+    "descriptionZh": "",
+    "categoryZh": ""
+  },
+  {
+    "title": "Online search",
+    "url": "https://sandbaseai.github.io/awesome-workbuddy/",
+    "description": "filter by keyword, category, and resource type",
+    "section": "What you will find",
+    "category": "What you will find",
+    "titleZh": "搜索全部资源",
+    "descriptionZh": "按关键词查找 Skills、MCP、工作流和教程",
+    "categoryZh": "从这里开始"
+  },
+  {
     "title": "Create a task",
     "url": "https://www.workbuddy.ai/docs/zh/workbuddy/Create-Task",
     "description": "Describe the goal, select a working directory, attach context, and start execution",
