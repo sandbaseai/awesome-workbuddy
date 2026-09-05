@@ -1570,6 +1570,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "OpenCode CodeBuddy Auth",
+    "url": "https://github.com/kuops/opencode-codebuddy-auth",
+    "description": "An MIT-licensed OpenCode plugin with source and installation documentation that authenticates CodeBuddy/IOA through browser OAuth, discovers models dynamically from `/v3/config`, and refreshes tokens automatically across Chinese and international endpoints. OpenCode manages the token in local `auth.json`; the plugin sends requests containing user/tenant context to CodeBuddy endpoints and depends on an undocumented API, so protect local auth files and review endpoints and account terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "OpenCode CodeBuddy Auth",
+    "descriptionZh": "MIT 许可、源码和安装文档齐全的 OpenCode 插件，通过浏览器 OAuth 登录 CodeBuddy/IOA、从 `/v3/config` 动态发现模型并自动刷新令牌，支持国内版和国际版；令牌由 OpenCode 本地 auth.json 管理，插件会向 CodeBuddy 端点发送带用户/租户信息的请求，且依赖未公开 API，使用前请保护本地认证文件、核对端点和账号条款",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Buddy2api",
     "url": "https://github.com/wicm84266964/Buddy2api",
     "description": "An MIT-licensed local multi-channel gateway that separately exposes WorkBuddy/CodeBuddy, QClaw, QwenWork, and TraeWork login states through OpenAI-compatible APIs, with Codex Responses, Docker, and API-key channel routing; upstream explicitly limits it to local use and says not to deploy publicly or share credentials, so review local auth files, the database, ports, and each provider's account terms first",
