@@ -3250,6 +3250,16 @@
     "categoryZh": "Content and career"
   },
   {
+    "title": "Workbuddy",
+    "url": "https://github.com/Lincyaw/workbuddy",
+    "description": "An Apache-2.0 GitHub Issue-driven Agent orchestration platform that maps Issue states to workflows and dispatches Claude, Codex, and other runtimes",
+    "section": "Use Cases",
+    "category": "Automation and Agent workflows",
+    "titleZh": "Workbuddy",
+    "descriptionZh": "Apache-2.0 许可的 GitHub Issue 驱动 Agent 编排平台，支持将 Issue 状态映射到工作流，并调度 Claude、Codex 等运行时",
+    "categoryZh": "Automation and Agent workflows"
+  },
+  {
     "title": "Better Harness",
     "url": "https://github.com/QoderAI/better-harness",
     "description": "An MIT-licensed Agent Harness Engineering platform with explicit WorkBuddy support, evidence-backed workflow reports, resumable tasks, Skill/MCP/Hook boundaries, controlled experiments, and adapters for 37 Agent platforms",
