@@ -4,41 +4,30 @@
 
 English · [简体中文](README.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check links](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml/badge.svg)](https://github.com/sandbaseai/awesome-workbuddy/actions/workflows/links.yml) [![Latest release](https://img.shields.io/github/v/release/sandbaseai/awesome-workbuddy?label=latest%20release)](https://github.com/sandbaseai/awesome-workbuddy/releases/latest)
-
 A simple directory for finding Tencent WorkBuddy documentation, Skills, MCP integrations, and workflows.
 
-## Start here
+## Start using WorkBuddy
 
-1. [Download WorkBuddy](https://www.workbuddy.ai/) and follow the official quick start.
-2. Read the [one-minute guide](START_HERE.en.md) ([中文](START_HERE.md)) and complete a simple task.
-3. Search the [resource directory](https://sandbaseai.github.io/awesome-workbuddy/) by keyword or category.
+1. [Download WorkBuddy](https://www.workbuddy.ai/).
+2. Read the [one-minute guide](START_HERE.en.md) ([中文](START_HERE.md)).
+3. Open the [resource directory](https://sandbaseai.github.io/awesome-workbuddy/) and search by keyword or category.
 
-### Common entry points
+## Useful links
 
-- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/): features, installation, and FAQs.
-- [Create or import a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills): turn repeatable methods into reusable capabilities.
-- [Configure MCP](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide): connect databases, messaging platforms, and external tools.
-- [Create an Automation](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide): schedule one-time or recurring tasks.
+- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/)
+- [Create or import a Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills)
+- [Configure MCP](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide)
+- [Create an Automation](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide)
 
-### Recommended resources
-
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide): a practical Chinese guide.
-- [Skill Onboarding](https://github.com/howoneai/skill-onboarding): a quick introduction to building Skills.
-- [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC): create lessons, slides, and interactive pages with multi-agent workflows.
-- [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus): search and load Skills for a task.
-
-## Browse by need
-
-Open the [searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/) to find:
+## What you can find here
 
 - Official documentation and tutorials
 - Skill collections and ready-to-use Skills
 - MCP servers, connectors, and automations
-- Agent tools, memory systems, and engineering references
+- Agent tools and engineering references
 
-## Before you use a resource
+## Before using a resource
 
-This is an independent community index, not an official Tencent publication. Check a third-party resource's documentation and permissions before using it. Never upload secrets, personal data, or unredacted company material.
+This is an independent community index, not an official Tencent publication. Check a third-party resource's documentation and permissions first. Never upload secrets, personal data, or unredacted company material.
 
 Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
