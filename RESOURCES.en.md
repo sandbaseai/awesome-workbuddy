@@ -1,6 +1,13 @@
 <details>
 <summary>Expand the full catalog</summary>
 
+## Start here
+
+- [One-minute guide](START_HERE.en.md) - Complete a simple task first if you are new to WorkBuddy
+- [Search all resources](https://sandbaseai.github.io/awesome-workbuddy/) - Find Skills, MCPs, workflows, and guides by keyword
+
+For a longer introduction, continue with [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) or [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide).
+
 ## Official Resources
 
 ### Core concepts
