@@ -19,9 +19,7 @@ WorkBuddy uses natural language to help with research, documents, data, design, 
 - [One-minute chooser and quick start](START_HERE.md) - Start here if you are not sure what to use.
 - [Search the resource directory](https://sandbaseai.github.io/awesome-workbuddy/) - Filter by keyword or category.
 
-Machine-readable index: [`site/llms.txt`](site/llms.txt).
-
-If this list helps you find something useful, consider giving it a [Star](https://github.com/sandbaseai/awesome-workbuddy). Found a missing resource or broken link? [Suggest an update](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
+If this list helps you find something useful, consider giving it a [Star](https://github.com/sandbaseai/awesome-workbuddy). Found a missing resource or broken link? [Send feedback](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose).
 
 <details>
 <summary>More official entry points</summary>
@@ -447,20 +445,6 @@ The full catalog below is grouped into official resources, Skills, MCP, workflow
 
 </details>
 
-## Related Lists
+## About
 
-- [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) - A continuously refreshed Agent Skills index that already lists this directory and WorkBuddy Skill Hub; review third-party Skills against this repository's security checklist before use.
-- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - A CC0 Chinese WorkBuddy resource list covering official material, practical cases, prompts, Skills, and MCP; complementary to this index, with each linked resource still requiring independent provenance and permission review.
-- [staruhub/awesome-workbuddy](https://github.com/staruhub/awesome-workbuddy) - A Chinese-first index of Skills, prompts, tutorials, evaluations, and integrations.
-- [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - Skills for automation, data, browsers, WeChat, and content production.
-- [awesome-workbuddy-use-cases](https://github.com/EvoLinkAI/awesome-workbuddy-use-cases) - A large use-case library organized by profession and task.
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A broad MCP server list; review each server separately before connecting it to WorkBuddy.
-- [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A CC0 directory of installable DSH plugins, adjacent to WorkBuddy-style Skill and Agent workflows; it is not an official Tencent list, so review each plugin's source and permissions before installation.
-
-## Acknowledgements
-
-Initial discovery was informed by [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy). Thanks to its maintainers and to every linked author. Copyright in linked resources remains with their respective owners.
-
-This index is released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms.
-
-Citing this directory? Use the standard [CITATION.cff](CITATION.cff) in the repository root, or cite the [latest release](https://github.com/sandbaseai/awesome-workbuddy/releases/latest).
+This is an independently maintained WorkBuddy resource index released under [CC0 1.0 Universal](LICENSE). Indexed resources retain their own licenses and terms; the machine-readable index is [`site/llms.txt`](site/llms.txt), project-maintenance notes are in [CONTRIBUTING.md](CONTRIBUTING.md), and citation metadata is in [CITATION.cff](CITATION.cff).
