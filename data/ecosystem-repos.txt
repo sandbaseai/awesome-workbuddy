@@ -386,6 +386,12 @@ gebiniwangdaye/macos-minimize-all
 bettermen/article-metaphor-illustrator
 xxiao-git/paper-submission-skill
 haiyangchenbj/invassistant-skill-cn
+cloudzun/WorkBuddy-Course
+gongyu0918-debug/chinese-official-writing-skill
+ruiguoz/workbuddy-doctor
+JanCong/workbuddy-migrator
+BlueSkyXN/tencent-workbuddy-sdk
+JiangSiyu2006/workbuddy-theme-forge
 weblwh/circuit-interactive-tutor
 cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops

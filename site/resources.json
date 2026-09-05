@@ -300,6 +300,16 @@
     "categoryZh": "Community channels"
   },
   {
+    "title": "WorkBuddy Efficiency Training Course",
+    "url": "https://github.com/cloudzun/WorkBuddy-Course",
+    "description": "A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "WorkBuddy 效率进阶实训课程",
+    "descriptionZh": "CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版本变化，使用或再分发时请遵守禁止演绎条款",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddyGuide",
     "url": "https://github.com/AlephAITech/WorkBuddyGuide",
     "description": "An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases",
@@ -968,6 +978,36 @@
     "titleZh": "SmileX AI Universal Memory",
     "descriptionZh": "MIT 许可的本地优先跨 Agent 记忆库，提供 MCP 服务与只读 Web 面板，并为 WorkBuddy 输出手动接入指引",
     "categoryZh": "Skill collections"
+  },
+  {
+    "title": "Chinese Official Writing Skill",
+    "url": "https://github.com/gongyu0918-debug/chinese-official-writing-skill",
+    "description": "An MIT-licensed formal-document writing Skill with explicit WorkBuddy/CodeBuddy support, covering notices, requests, reports, letters, plans, minutes, and technical materials with document routing, fact checks, format checks, and optional delivery hooks",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "中文公文写作 Skill",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料，并提供文种路由、事实核验、格式检查和可选交付 Hook",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "WorkBuddy Doctor",
+    "url": "https://github.com/ruiguoz/workbuddy-doctor",
+    "description": "An MIT-licensed community troubleshooting Skill collection where each Doctor installs independently; its first `git-doctor` module covers push authentication, credential helpers, connector permissions, proxy formats, and dialog/sandbox confirmations",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Doctor",
+    "descriptionZh": "MIT 许可的社区故障排查 Skill 合集，每个 Doctor 独立安装，首个 `git-doctor` 覆盖推送认证、凭据助手、连接器权限、代理格式和弹窗/沙盒确认问题",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "WorkBuddy Migrator",
+    "url": "https://github.com/JanCong/workbuddy-migrator",
+    "description": "An MIT-licensed local WorkBuddy account-data migration tool with doctor, inventory, and migration flows; it does not copy keys, tokens, or credentials for sensitive connectors by default",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Migrator",
+    "descriptionZh": "MIT 许可的本地 WorkBuddy 账号数据迁移工具，支持 doctor、清单和迁移流程，默认不复制密钥、Token 或 credentials 等敏感连接器文件",
+    "categoryZh": "Ready-to-use Skills"
   },
   {
     "title": "Circuit Interactive Tutor",
@@ -2740,6 +2780,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Tencent WorkBuddy SDK",
+    "url": "https://github.com/BlueSkyXN/tencent-workbuddy-sdk",
+    "description": "An unofficial GPL-3.0 multi-language CodeBuddy/WorkBuddy enterprise OpenAPI client covering Skills, models, members, and usage; confirm authorization scope, credential storage, and GPL redistribution obligations before using the enterprise APIs",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Tencent WorkBuddy SDK",
+    "descriptionZh": "GPL-3.0 许可的非官方 CodeBuddy/WorkBuddy 企业 OpenAPI 多语言客户端，覆盖 Skills、模型、成员和用量等接口；使用企业 API 前请确认授权范围、凭证存储方式和 GPL 再分发义务",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "Agent Roundtable",
     "url": "https://github.com/MoyuFamily/agent-roundtable",
     "description": "An Apache-2.0 multi-agent roundtable engine with structured discussions, consensus tracking, and an MCP mode, plus an HTTP bridge for WorkBuddy and other platforms; confirm the bridge's listening scope before exposing it",
@@ -3838,6 +3888,16 @@
     "titleZh": "Agent Context Sync",
     "descriptionZh": "在自托管服务中跨设备、跨 Agent 同步与备份会话",
     "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "WorkBuddy Theme Forge",
+    "url": "https://github.com/JiangSiyu2006/workbuddy-theme-forge",
+    "description": "An MIT-licensed Windows WorkBuddy theme engine that injects reversible CSS through local CDP without modifying official binaries, resources, or code signatures; it binds to loopback by default, but verify the version baseline and restart permissions before use",
+    "section": "Open-source Ecosystem",
+    "category": "Community clients and enhancements",
+    "titleZh": "WorkBuddy Theme Forge",
+    "descriptionZh": "MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默认仅监听回环地址，使用前请核对版本基线和确认式重启权限",
+    "categoryZh": "Community clients and enhancements"
   },
   {
     "title": "Theoria",

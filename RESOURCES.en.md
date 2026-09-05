@@ -49,6 +49,7 @@
 
 ### Learning and reference
 
+- [WorkBuddy Efficiency Training Course](https://github.com/cloudzun/WorkBuddy-Course) - A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms
 - [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases
 - [Hermes Agent Orange Book](https://github.com/alchaincyf/hermes-agent-orange-book) - An MIT-licensed Chinese hands-on guide to Hermes Agent covering memory, Skills, MCP, tools, collaboration, and security, with an online reading entry in the WorkBuddy knowledge base
 - [Claude Code Orange Book](https://github.com/alchaincyf/claude-code-orange-book) - A CC BY-NC-SA 4.0 Chinese hands-on guide to Claude Code covering installation, prompting, Skills, Hooks, MCP, multi-agent work, and projects, with an online reading entry in the WorkBuddy knowledge base; attribution and non-commercial use are required
@@ -123,6 +124,9 @@
 
 ### Ready-to-use Skills
 
+- [Chinese Official Writing Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) - An MIT-licensed formal-document writing Skill with explicit WorkBuddy/CodeBuddy support, covering notices, requests, reports, letters, plans, minutes, and technical materials with document routing, fact checks, format checks, and optional delivery hooks
+- [WorkBuddy Doctor](https://github.com/ruiguoz/workbuddy-doctor) - An MIT-licensed community troubleshooting Skill collection where each Doctor installs independently; its first `git-doctor` module covers push authentication, credential helpers, connector permissions, proxy formats, and dialog/sandbox confirmations
+- [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) - An MIT-licensed local WorkBuddy account-data migration tool with doctor, inventory, and migration flows; it does not copy keys, tokens, or credentials for sensitive connectors by default
 - [Circuit Interactive Tutor](https://github.com/weblwh/circuit-interactive-tutor) - An MIT-licensed circuit-analysis learning Skill with explicit WorkBuddy support, offering step-by-step derivations, formula explanations, troubleshooting, and visual learning assistance
 - [FMG PPT Courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) - An MIT-licensed courseware-PPT Skill with an explicit WorkBuddy installation path, generating PPTX decks with consistent structure, typography, and visuals from a topic and outline while reusing a specified template
 - [Live Stream Ops](https://github.com/uahz/live-stream-ops) - An MIT-licensed cross-client live-stream operations Skill with explicit WorkBuddy support, covering scripts, replay breakdowns, product schedules, conversion copy, clip discovery, and control-room SOPs
@@ -309,6 +313,7 @@
 
 ### Tools and integrations
 
+- [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) - An unofficial GPL-3.0 multi-language CodeBuddy/WorkBuddy enterprise OpenAPI client covering Skills, models, members, and usage; confirm authorization scope, credential storage, and GPL redistribution obligations before using the enterprise APIs
 - [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) - An Apache-2.0 multi-agent roundtable engine with structured discussions, consensus tracking, and an MCP mode, plus an HTTP bridge for WorkBuddy and other platforms; confirm the bridge's listening scope before exposing it
 - [search2chart MCP](https://github.com/iqingyoung/search2chart-mcp) - An MIT-licensed agent-native charting MCP that turns search, research, or tabular data into conversation-ready charts; its general MCP mode explicitly supports WorkBuddy and can be installed with `npx`
 - [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - An MIT-licensed local research-literature MCP service combining Zotero, MinerU, and Obsidian, with 31 tools, seven research Skills, and traceable import, retrieval, analysis, and write workflows; it supports WorkBuddy
@@ -423,6 +428,7 @@
 
 ### Community clients and enhancements
 
+- [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) - An MIT-licensed Windows WorkBuddy theme engine that injects reversible CSS through local CDP without modifying official binaries, resources, or code signatures; it binds to loopback by default, but verify the version baseline and restart permissions before use
 - [Theoria](https://github.com/Waterkyuu/theoria) - A license-not-declared local-first multi-agent workspace with explicit WorkBuddy support, parallel agent runs, isolated execution directories, side-by-side tool/file-change comparisons, and local SQLite records; verify authorization with the author before use or redistribution
 - [Bough](https://github.com/DGPisces/bough) - An MIT-licensed macOS menu-bar/notch companion that surfaces waiting-for-approval, question, completion, busy, and idle states for tools including CodeBuddy and WorkBuddy; the first launch requires confirming the system prompts and granting the needed permissions
 - [SkillDock](https://github.com/wanghuan9/skilldock) - An MIT-licensed cross-agent desktop manager for Skills, MCP servers, and plugins with WorkBuddy support, real-directory scanning, installation and organization, Git-aware Diff previews, updates, and conflict checks
