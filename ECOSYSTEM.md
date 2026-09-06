@@ -9,7 +9,7 @@ Last refreshed: **2026-09-06 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,927 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,930 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,974 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -31,10 +31,10 @@ Last refreshed: **2026-09-06 UTC**
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,955 | JavaScript | 2026-09-05 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,789 | TypeScript | 2026-09-04 |
-| [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,594 | Rust | 2026-09-05 |
+| [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,595 | Rust | 2026-09-05 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
-| [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1,521 | JavaScript | 2026-09-05 |
+| [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1,522 | JavaScript | 2026-09-05 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,266 | TypeScript | 2026-09-05 |
 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,230 | JavaScript | 2026-09-05 |
@@ -45,7 +45,7 @@ Last refreshed: **2026-09-06 UTC**
 | [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,062 | Rust | 2026-09-05 |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 1,000 | JavaScript | 2026-09-03 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
-| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 944 | Python | 2026-09-05 |
+| [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-05 |
 | [LearnPrompt/humanize-ppt](https://github.com/LearnPrompt/humanize-ppt) | 925 | Python | 2026-07-31 |
 | [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 786 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-05 |
@@ -118,8 +118,8 @@ Last refreshed: **2026-09-06 UTC**
 | [keith-yan/vibe-service-guardian](https://github.com/keith-yan/vibe-service-guardian) | 111 | Python | 2026-09-04 |
 | [WecomTeam/wecom-unified](https://github.com/WecomTeam/wecom-unified) | 108 | Python | 2026-08-21 |
 | [bruc3van/bruce-drawio](https://github.com/bruc3van/bruce-drawio) | 103 | Python | 2026-08-11 |
-| [mdwsk88/ms-365-21v-mcp-server](https://github.com/mdwsk88/ms-365-21v-mcp-server) | 101 | TypeScript | 2026-09-05 |
 | [CarlWangChina/zhigui-openclaw-ui-second-brain-skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) | 100 | JavaScript | 2026-07-31 |
+| [mdwsk88/ms-365-21v-mcp-server](https://github.com/mdwsk88/ms-365-21v-mcp-server) | 100 | TypeScript | 2026-09-05 |
 | [konnga/skill-buddy](https://github.com/konnga/skill-buddy) | 94 | TypeScript | 2026-09-01 |
 | [qizhitang/xiaozhi-skills](https://github.com/qizhitang/xiaozhi-skills) | 93 | JavaScript | 2026-09-05 |
 | [gongyu0918-debug/chinese-official-writing-skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) | 92 | Python | 2026-09-05 |
@@ -364,7 +364,7 @@ Last refreshed: **2026-09-06 UTC**
 | [npcworkspace-cmyk/eric-task-master](https://github.com/npcworkspace-cmyk/eric-task-master) | 2 | JavaScript | 2026-09-05 |
 | [uahz/live-stream-ops](https://github.com/uahz/live-stream-ops) | 2 | Python | 2026-08-19 |
 | [vickywenqi/vicky-skills](https://github.com/vickywenqi/vicky-skills) | 2 | - | 2026-06-22 |
-| [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
+| [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-06 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
 | [liuboacean/qclaw-workbuddy-bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) | 1 | Python | 2026-04-21 |
