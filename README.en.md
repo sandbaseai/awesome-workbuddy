@@ -51,6 +51,7 @@ Read the project's README, license, and installation instructions first. Keep hu
 ## More
 
 - [Security guide](SECURITY.md)
+- [Submit a WorkBuddy resource](https://github.com/sandbaseai/awesome-workbuddy/issues/775)
 - [Contribute or report an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)
 
 This is an independent community index, not an official Tencent publication.
