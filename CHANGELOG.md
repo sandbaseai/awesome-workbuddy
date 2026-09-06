@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Curated the MIT-licensed Public Agent Suite, Poetry Resonance, and BadWeWrite resources with bilingual descriptions and usage boundaries.
+- Refreshed the public RSS and `llms.txt` discovery entries for recent curation and the simplified README.
+- Refreshed the ecosystem ranking with current GitHub star counts and activity dates.
 - Simplified and expanded the bilingual README with goal-based starting points, resource-selection checks, and a direct resource-submission link.
 - Removed duplicate entries from the bilingual resource catalog and added a regression test to prevent repeated GitHub projects within a language catalog.
 - Refreshed ecosystem stars and activity metadata while keeping unvetted candidates in the discovery queue.
