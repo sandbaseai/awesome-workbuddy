@@ -29,6 +29,7 @@ naive-kun/naive-video-skill
 sandbaseai/workbuddy-skill
 YuLaiZ/token-usage
 genapohub/ux-design-guide
+genapohub/team-orchestrator
 SuperLaos/drug-label-structurizer
 SenMuShare/senmu-buildos
 liangdabiao/i18n-helper-skills
