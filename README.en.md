@@ -4,54 +4,62 @@
 
 English · [简体中文](README.md)
 
-An easy-to-use community directory for WorkBuddy, with official docs, Skills, MCPs, workflows, and practical tools.
+A practical WorkBuddy directory for getting started, building Skills, connecting external services, and discovering automation workflows.
 
-If this directory helps you, consider starring it or reporting a missing or broken resource.
+[Open the online directory](https://sandbaseai.github.io/awesome-workbuddy/) · [Start here](START_HERE.en.md) · [中文入门](START_HERE.md) · [Browse the full catalog](RESOURCES.en.md)
 
-## Who it is for
+## What are you trying to do?
 
-- Anyone using WorkBuddy for the first time
-- People turning research, writing, slides, or data work into repeatable Skills
-- People connecting WeCom, databases, knowledge bases, or other external services
-- Anyone looking for community tools, tutorials, and real-world workflows
-
-## Start in three steps
-
-1. [Download WorkBuddy](https://www.workbuddy.ai/)
-2. Read the [one-minute guide](START_HERE.en.md) ([中文](START_HERE.md)) and complete a simple task with a non-sensitive copy
-3. Search the [resource site](https://sandbaseai.github.io/awesome-workbuddy/) by keyword
+| Goal | Recommended starting point |
+| --- | --- |
+| Learn WorkBuddy for the first time | [First steps](START_HERE.en.md) · [Official quick start](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
+| Research, write, make slides, or process data | [Search the directory](https://sandbaseai.github.io/awesome-workbuddy/) · [Create a regular task](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
+| Reuse a reliable method | [Skills tutorial](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) · Search “Skill” |
+| Connect a database, WeCom, or an API | [MCP guide](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) · Search “MCP” |
+| Run tasks on a schedule | [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) · Search “automation” |
+| Find complete examples or desktop tools | [Browse workflows and tools](https://sandbaseai.github.io/awesome-workbuddy/) |
 
 ## What you will find
 
-- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/): tasks, Skills, MCPs, connectors, automations, and permissions
-- [Full resource catalog](RESOURCES.en.md): community guides, Skills, MCPs, workflows, desktop apps, and domain tools
-- [Online search](https://sandbaseai.github.io/awesome-workbuddy/): filter by keyword, category, and resource type
+- **Official resources**: quick starts, product guides, connectors, and platform integrations.
+- **Skills**: reusable task templates, Skill collections, and prompts.
+- **MCPs and tools**: ways to connect databases, knowledge bases, messaging platforms, and other services.
+- **Workflows and guides**: complete examples from input to output.
+- **Desktop tools and clients**: community projects that extend the WorkBuddy experience.
+- **Use cases**: research, education, content, data, knowledge management, and team collaboration.
 
-## Start by your goal
+Read the catalogs in either language: [中文目录](RESOURCES.md) · [English catalog](RESOURCES.en.md). The online site supports filtering by keyword, category, and resource type.
 
-- Want to learn the basics: start with [First steps](START_HERE.en.md) and the official docs
-- Want to work faster: search for “writing”, “research”, “PPT”, or “data”, then prefer Skills with clear installation steps
-- Want to connect an external service: search for “MCP”, “connector”, or the service name, and check permissions first
-- Want complete examples: browse workflows, guides, and desktop tools, starting with projects that publish a clear license
+## Search by your goal
 
-## How to choose a resource
+Search for the outcome you want instead of only the product name. Useful queries include:
 
-Each entry aims to include its resource type, license, and relevant usage notes. Before using a project, check:
+- `research`, `writing`, `PPT`, `spreadsheet`, `data`
+- `Skill`, `MCP`, `knowledge base`, `WeCom`
+- `automation`, `Agent`, `tutorial`, `desktop`
 
-1. Whether it supports your system and WorkBuddy version
-2. Whether installation steps and required permissions are clear
-3. Whether it accesses networks, accounts, files, or sensitive data
+Before using a project, open its original README and check the supported WorkBuddy version, operating system, installation steps, and license. For external integrations, check which accounts, files, network services, or business data they can access.
 
-This directory organizes public information; it does not replace the original documentation, license, or security review.
+## Try your first task
 
-## Before you use a resource
+Start with a non-sensitive copy of your files. Tell WorkBuddy what to process, what to produce, what constraints matter, and how to verify completion.
 
-Read the project's README, license, and installation instructions first. Keep human confirmation for deletion, publishing, payments, account settings, and real business data. Never put keys, cookies, or private data into a Skill or commit them to a repository.
+For example:
 
-## More
+> Read three redacted industry reports in `reports/`. Produce a Chinese Markdown comparison table and a management PPT of no more than 10 slides. Cite the source filename and page for every number, mark uncertain information as “needs confirmation,” check links, slide count, and citations, and write only to `output/`.
 
-- [Security guide](SECURITY.md)
+Keep human confirmation for deletion, publishing, payments, account settings, and real business data. Never put keys, cookies, customer data, or private information into a Skill or commit them to a repository.
+
+## Share a resource
+
+Found a missing or broken link, or have a WorkBuddy resource to recommend?
+
 - [Submit a WorkBuddy resource](https://github.com/sandbaseai/awesome-workbuddy/issues/775)
 - [Contribute or report an issue](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)
+
+You can also star the repository to help more WorkBuddy users find it.
+
+- [Security guide](SECURITY.md)
+- [Changelog](CHANGELOG.md)
 
 This is an independent community index, not an official Tencent publication.

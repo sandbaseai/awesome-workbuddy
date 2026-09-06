@@ -4,54 +4,62 @@
 
 [English](README.en.md) · 简体中文
 
-WorkBuddy 社区资源导航，帮你找到官方文档、Skills、MCP、工作流和实用工具。
+WorkBuddy 实用资源导航：从第一次使用，到搭建 Skill、连接外部服务，再到自动化团队工作流，都可以从这里找到入口。
 
-如果这个目录对你有帮助，欢迎 Star，也欢迎反馈遗漏或失效资源。
+[打开在线目录](https://sandbaseai.github.io/awesome-workbuddy/) · [从这里开始](START_HERE.md) · [查看完整资源](RESOURCES.md)
 
-## 适合谁
+## 你现在想做什么？
 
-- 第一次使用 WorkBuddy，想快速完成第一个任务
-- 想把研究、写作、PPT、数据处理等重复工作变成 Skill
-- 想连接企业微信、数据库、知识库或其他外部服务
-- 想了解 WorkBuddy 的社区工具、教程和实践案例
+| 目标 | 推荐入口 |
+| --- | --- |
+| 第一次使用 WorkBuddy | [一分钟上手](START_HERE.md) · [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
+| 研究、写作、做 PPT 或处理数据 | [搜索资源目录](https://sandbaseai.github.io/awesome-workbuddy/) · [创建普通任务](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
+| 把一套方法重复使用 | [Skills 教程](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) · 搜索 “Skill” |
+| 连接数据库、企微或 API | [MCP 指南](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) · 搜索 “MCP” |
+| 定时执行任务 | [Automation 指南](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) · 搜索 “自动化” |
+| 找完整案例或桌面工具 | [浏览工作流和工具](https://sandbaseai.github.io/awesome-workbuddy/) |
 
-## 三步开始
+## 这里有什么？
 
-1. [下载 WorkBuddy](https://www.workbuddy.ai/)
-2. 阅读[一分钟上手](START_HERE.md)，先用不敏感的副本完成一个简单任务
-3. 在[资源搜索站](https://sandbaseai.github.io/awesome-workbuddy/)按关键词查找需要的内容
+- **官方资源**：快速开始、功能文档、连接器和平台集成。
+- **Skills**：可以直接参考或改造的任务模板、Skill 集合和提示词。
+- **MCP 与工具**：连接数据库、知识库、消息平台和其他外部服务的工具。
+- **工作流与教程**：从输入到输出的完整实践案例。
+- **桌面工具与客户端**：围绕 WorkBuddy 的辅助工具和社区项目。
+- **行业案例**：研究、教育、内容、数据、知识管理和团队协作等场景。
 
-## 你可以找到什么
+目录支持中英文阅读：[中文目录](RESOURCES.md) · [English catalog](RESOURCES.en.md)。在线站点可以按关键词、分类和资源类型筛选。
 
-- [官方文档](https://www.workbuddy.ai/docs/zh/workbuddy/)：任务、Skills、MCP、连接器、自动化和权限设置
-- [完整资源目录](RESOURCES.md)：社区教程、Skill、MCP、工作流、桌面应用和行业工具
-- [在线搜索](https://sandbaseai.github.io/awesome-workbuddy/)：按关键词、类别和资源类型筛选
+## 怎么搜索更快？
 
-## 按需求开始
+在目录或在线站点中，优先搜索你的目标，而不是产品名。例如：
 
-- 想先学会使用：从[一分钟上手](START_HERE.md)和官方文档开始
-- 想提升效率：搜索“写作”“研究”“PPT”“数据”等关键词，优先查看带安装说明的 Skill
-- 想连接外部服务：搜索“MCP”“连接器”或具体服务名称，并先确认权限范围
-- 想找完整案例：查看工作流、教程和桌面工具分类，先从有清晰许可证的项目开始
+- `研究`、`写作`、`PPT`、`表格`、`数据`
+- `Skill`、`MCP`、`知识库`、`企业微信`
+- `自动化`、`Agent`、`教程`、`桌面端`
 
-## 如何选择资源
+看到感兴趣的项目后，先打开原项目 README，确认它适用的 WorkBuddy 版本、系统环境、安装方式和许可证。需要连接外部服务时，也要先看清它会访问哪些账号、文件、网络或业务数据。
 
-每个条目尽量标注资源类型、许可证和使用提醒。打开原项目后，建议依次确认：
+## 第一个任务可以这样开始
 
-1. 是否适配你的系统和 WorkBuddy 版本
-2. 安装命令和所需权限是否清楚
-3. 是否会访问网络、账号、文件或敏感数据
+先使用不敏感的文件副本，并在任务中说明：要处理什么、希望得到什么、有哪些限制、怎样算完成。
 
-目录只负责整理公开信息，不替代原作者的文档、许可证或安全审查。
+例如：
 
-## 使用建议
+> 阅读 `reports/` 中三份脱敏行业报告，输出一份中文 Markdown 对比表和一份 10 页以内的管理层 PPT。每个数字标注文件名与页码，不确定的信息写“待确认”，完成后检查链接、页数和引用是否一致。只修改 `output/`。
 
-先看原项目的 README、许可证和安装说明，再决定是否使用。涉及删除、发布、付款、账号设置或真实业务数据时，请保留人工确认；不要把密钥、Cookie 或隐私数据放进 Skill 或提交到仓库。
+涉及删除、发布、付款、账号设置或真实业务数据时，请保留人工确认。不要把密钥、Cookie、客户数据或隐私信息放进 Skill，也不要提交到仓库。
 
-## 相关入口
+## 贡献资源
+
+发现了遗漏、失效链接，或想推荐自己的 WorkBuddy 资源？欢迎提交：
+
+- [提交 WorkBuddy 资源](https://github.com/sandbaseai/awesome-workbuddy/issues/775)
+- [贡献或反馈问题](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)
+
+也欢迎给仓库点 Star，让更多 WorkBuddy 用户找到这些资源。
 
 - [安全指南](SECURITY.md)
-- [提交 WorkBuddy 资源](https://github.com/sandbaseai/awesome-workbuddy/issues/775)
-- [贡献和反馈](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)
+- [项目更新记录](CHANGELOG.md)
 
 这是社区维护的第三方索引，不代表腾讯官方。
