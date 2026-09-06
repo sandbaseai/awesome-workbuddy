@@ -2952,11 +2952,11 @@
   {
     "title": "E-commerce Visual Copywriting",
     "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
-    "description": "A repeatable workflow for product analysis, copywriting, and commerce imagery",
+    "description": "An MIT-licensed ecommerce-visual-copywriting Skill compatible with WorkBuddy, Codex, and Cursor; it turns product materials and compliance constraints into main-image/detail-page storyboards, in-image copy, design notes, and image prompts, pausing for approval before final delivery; install with `npx skills add feichanggege/ecommerce-visual-copywriting-skill`",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
     "titleZh": "E-commerce Visual Copywriting",
-    "descriptionZh": "将电商卖点分析、文案和商品图制作沉淀为可执行 SOP",
+    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex/Cursor 的电商视觉文案 Skill；先分析商品资料和合规边界，再生成主图/详情页分镜、图内文案、设计说明和生图 Prompt，用户确认策划案后才进入最终交付；可用 `npx skills add feichanggege/ecommerce-visual-copywriting-skill` 安装",
     "categoryZh": "Ready-to-use Skills"
   },
   {
