@@ -51,6 +51,7 @@ WorkBuddy 社区资源导航，帮你找到官方文档、Skills、MCP、工作�
 ## 相关入口
 
 - [安全指南](SECURITY.md)
+- [提交 WorkBuddy 资源](https://github.com/sandbaseai/awesome-workbuddy/issues/775)
 - [贡献和反馈](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose)
 
 这是社区维护的第三方索引，不代表腾讯官方。
