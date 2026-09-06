@@ -145,6 +145,8 @@
 
 ### Ready-to-use Skills
 
+- [BadWeWrite 损友风公众号写作](https://github.com/KieranHoward646/BadWeWrite) - MIT 许可、明确支持 WorkBuddy 的公众号写作 Skill，用反讽和口语化风格生成文章，同时要求具体事实有来源并经过双门审稿；提供自动安装脚本和中英文文档
+
 - [诗遇 Poetry Resonance](https://github.com/bonniegeng-max/poetry-resonance) - MIT 许可的唐诗宋词共鸣 Skill，明确支持 WorkBuddy，可按生活场景配诗、生成日签和文案，也支持学习拆解、背诵复习与周报；零依赖本地运行，可选联网查询天气或诗词资料
 
 - [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - BSD-3-Clause 许可的 DeepSeek Harness 自动记忆插件，可扫描并按来源管理 WorkBuddy、CodeBuddy、Claude Code 和 Codex 的记忆；它会读取本地会话或记忆文件，导入前请确认路径和敏感内容范围
