@@ -11,7 +11,7 @@ Use these pages first:
 - [English README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.en.md): the same user-friendly guide in English.
 - [Security checklist](https://github.com/sandbaseai/awesome-workbuddy/blob/main/SECURITY.md): review permissions, credentials, data flow, scripts, and irreversible actions before installation.
 - [Original Skills](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills): installable, auditable WorkBuddy Skills maintained by this repository.
-- [Hosted Skill index](https://agent-skills.md/authors/sandbaseai): online listings for the four original Skills and their install paths.
+- [Hosted Skill index](https://agent-skills.md/authors/sandbaseai): online listings for the five original Skills and their install paths.
 - [Document Quality Review](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/document-quality-review): read-only review of document and delivery quality.
 - [Skill Security Audit](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/skill-security-audit): pre-install review of permissions, credentials, dependencies, and data flow.
 - [Source-backed Research Brief](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/source-backed-research-brief): decision briefs with traceable sources, conflict handling, and explicit uncertainty.

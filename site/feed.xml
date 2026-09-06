@@ -7,6 +7,27 @@
     <language>en</language>
     <lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>Team Orchestrator added</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/806</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/806</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Added the MIT-licensed Team Orchestrator Skill with explicit WorkBuddy support, on-demand role routing, and user checkpoints at phase boundaries.</description>
+    </item>
+    <item>
+      <title>Three new WorkBuddy Skills and tools added</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/805</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/805</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Added Token Usage, UX Design Guide, and Drug Label Structurizer with local-data, design-workflow, and medical-review boundaries.</description>
+    </item>
+    <item>
+      <title>Community WorkBuddy directory added</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/804</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/804</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Added a CC0 community-maintained WorkBuddy directory covering quick starts, practical cases, prompts, Skills, MCP, and scenario guides.</description>
+    </item>
+    <item>
       <title>New Skills and Agent Suite added</title>
       <link>https://github.com/sandbaseai/awesome-workbuddy/pull/795</link>
       <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/795</guid>
