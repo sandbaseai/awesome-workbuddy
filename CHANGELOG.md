@@ -18,6 +18,7 @@
 - Curated the MIT-licensed `lovejiaowu-hue/pm-to-dev-delivery` with its explicit WorkBuddy adapter and executable delivery-package validation workflow.
 - Curated the MIT-licensed `OpenSenseNova/SenseNova-Skills` collection with a limited WorkBuddy compatibility note for its PPT workbench Skill and manual-install verification caveat.
 - Clarified the WorkDaddy entry with its AGPL-3.0 license, installer channels, local CDP injection, OAuth/account-backup handling, and background-process boundary.
+- Expanded discovery to include newly created direct WorkBuddy projects with 0–9 Stars, so early but auditable resources are not excluded by the mature-project filter.
 - Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.

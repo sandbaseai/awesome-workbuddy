@@ -19,6 +19,7 @@ OUTPUT = ROOT / "DISCOVERIES.md"
 REPOSITORY_ROW = re.compile(r"^\| \[([^]]+)]\(https://github\.com/[^)]+\) \|")
 SEARCH_QUERIES = (
     "workbuddy in:name,description",
+    "workbuddy in:name,description stars:0..9",
     "workbuddy in:readme",
     "codebuddy in:name,description",
     "codebuddy in:readme",
@@ -51,7 +52,8 @@ def fetch_candidates() -> list[dict[str, object]]:
     for base_query in SEARCH_QUERIES:
         # Keep name/description matches focused; topic queries add projects
         # whose WorkBuddy support is documented through repository metadata.
-        query = f"{base_query} stars:>=10 pushed:>={cutoff}"
+        star_filter = "" if "stars:" in base_query else " stars:>=10"
+        query = f"{base_query}{star_filter} pushed:>={cutoff}"
         params = urllib.parse.urlencode(
             {"q": query, "sort": "stars", "order": "desc", "per_page": 100}
         )
