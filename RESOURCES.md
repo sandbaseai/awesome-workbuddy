@@ -305,7 +305,6 @@
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本
 - [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV
 - [Roundtable KG](https://github.com/xiewende424/roundtable-kg) - MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图
-- [AI Weekly Report](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退
 - [AI Short Drama Skills](https://github.com/zkhyww/ai-short-drama-skills) - MIT 许可、面向 WorkBuddy 等 Agent 的短剧创作与制作双 Skill，将选题、剧本、桌读、分镜、资产、声音、剪辑和 QC 分阶段交接，并提供确定性预检与母稿/投稿稿分离
 - [Open Film Skills](https://github.com/62656456/ai-film-skills) - Apache-2.0 许可、兼容多种 Agent 的独立 Skill 集合，覆盖故事、导演、分镜、视觉资产、AI 视频制作、网页设计和有来源的媒体研究
 - [Infoseek](https://github.com/GYINT/infoseek) - MIT 许可、兼容 WorkBuddy 的端到端研究 MCP/Skill，包含多源发现、四级抓取、四维评分、跨源矛盾检测、结构化报告和长期归档，并提供回归测试与 Key 管理
