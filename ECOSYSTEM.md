@@ -7,12 +7,12 @@ Last refreshed: **2026-09-06 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,094 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,090 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,954 | TypeScript | 2026-09-04 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,095 | TypeScript | 2026-09-02 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,091 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,957 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,976 | TypeScript | 2026-09-03 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,318 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,578 | Python | 2026-09-05 |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,319 | Shell | 2026-08-28 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,577 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
@@ -27,7 +27,7 @@ Last refreshed: **2026-09-06 UTC**
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,931 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,819 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
-| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,556 | - | 2026-07-05 |
+| [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,558 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,956 | JavaScript | 2026-09-05 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,789 | TypeScript | 2026-09-04 |
@@ -35,7 +35,7 @@ Last refreshed: **2026-09-06 UTC**
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,550 | Python | 2026-09-04 |
 | [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1,522 | JavaScript | 2026-09-05 |
-| [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,373 | HTML | 2026-09-05 |
+| [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,373 | HTML | 2026-09-06 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,266 | TypeScript | 2026-09-05 |
 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,232 | JavaScript | 2026-09-05 |
 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | 1,194 | - | 2026-08-25 |
@@ -58,10 +58,10 @@ Last refreshed: **2026-09-06 UTC**
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 639 | JavaScript | 2026-09-05 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 585 | Python | 2026-09-05 |
-| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-06 |
+| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 561 | Python | 2026-09-06 |
 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 558 | Go | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
-| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 551 | Python | 2026-09-02 |
+| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 552 | Python | 2026-09-02 |
 | [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) | 545 | HTML | 2026-04-16 |
 | [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
 | [HeiGeAi/heige-codex-skin-studio](https://github.com/HeiGeAi/heige-codex-skin-studio) | 444 | JavaScript | 2026-09-04 |
@@ -294,7 +294,7 @@ Last refreshed: **2026-09-06 UTC**
 | [Errriclin/csv-data-analyst](https://github.com/Errriclin/csv-data-analyst) | 6 | Python | 2026-08-28 |
 | [li845276863-tech/chatcut-video-workflow-skill](https://github.com/li845276863-tech/chatcut-video-workflow-skill) | 6 | - | 2026-07-20 |
 | [bettermen/ad-trader](https://github.com/bettermen/ad-trader) | 6 | Python | 2026-06-21 |
-| [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-05 |
+| [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-06 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
 | [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-06 |
 | [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
@@ -338,6 +338,7 @@ Last refreshed: **2026-09-06 UTC**
 | [xxiao-git/paper-submission-skill](https://github.com/xxiao-git/paper-submission-skill) | 3 | - | 2026-07-26 |
 | [weblwh/circuit-interactive-tutor](https://github.com/weblwh/circuit-interactive-tutor) | 3 | Python | 2026-07-09 |
 | [cntyfmg-eng/fmg-ppt-courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) | 3 | Python | 2026-08-13 |
+| [SuperLaos/drug-label-structurizer](https://github.com/SuperLaos/drug-label-structurizer) | 2 | HTML | 2026-09-03 |
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 2 | Python | 2026-09-05 |
 | [xuewolai/ima-mcp-server](https://github.com/xuewolai/ima-mcp-server) | 2 | JavaScript | 2026-07-20 |
 | [xcasee/casee-mcp-server](https://github.com/xcasee/casee-mcp-server) | 2 | Python | 2026-08-27 |
@@ -352,7 +353,7 @@ Last refreshed: **2026-09-06 UTC**
 | [genapohub/growth-guide](https://github.com/genapohub/growth-guide) | 2 | - | 2026-09-02 |
 | [genapohub/monetization-guide](https://github.com/genapohub/monetization-guide) | 2 | - | 2026-09-02 |
 | [abc1317679842-ui/workbuddy-token-tracker](https://github.com/abc1317679842-ui/workbuddy-token-tracker) | 2 | JavaScript | 2026-09-04 |
-| [jamesting-eng/workbuddy-skills](https://github.com/jamesting-eng/workbuddy-skills) | 2 | Python | 2026-09-04 |
+| [jamesting-eng/workbuddy-skills](https://github.com/jamesting-eng/workbuddy-skills) | 2 | Python | 2026-09-06 |
 | [atswitch/at-switch](https://github.com/atswitch/at-switch) | 2 | Rust | 2026-09-05 |
 | [medstatstar/statsoft-cli](https://github.com/medstatstar/statsoft-cli) | 2 | PowerShell | 2026-08-02 |
 | [PhilRobinluo/ai-coevolution-skills](https://github.com/PhilRobinluo/ai-coevolution-skills) | 2 | Python | 2026-09-04 |
@@ -370,6 +371,8 @@ Last refreshed: **2026-09-06 UTC**
 | [bonniegeng-max/poetry-resonance](https://github.com/bonniegeng-max/poetry-resonance) | 1 | - | 2026-09-03 |
 | [KieranHoward646/BadWeWrite](https://github.com/KieranHoward646/BadWeWrite) | 1 | Shell | 2026-09-03 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-06 |
+| [YuLaiZ/token-usage](https://github.com/YuLaiZ/token-usage) | 1 | Go | 2026-09-04 |
+| [genapohub/ux-design-guide](https://github.com/genapohub/ux-design-guide) | 1 | - | 2026-09-02 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
 | [liuboacean/qclaw-workbuddy-bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) | 1 | Python | 2026-04-21 |
@@ -403,7 +406,7 @@ Last refreshed: **2026-09-06 UTC**
 | [lidicn/AutoFlow](https://github.com/lidicn/AutoFlow) | 1 | Python | 2026-09-05 |
 | [jixingyu999/browser-mcp](https://github.com/jixingyu999/browser-mcp) | 1 | JavaScript | 2026-09-05 |
 | [openlxcn/openlx-weixin-baimindan](https://github.com/openlxcn/openlx-weixin-baimindan) | 1 | Python | 2026-09-05 |
-| [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-05 |
+| [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-06 |
 | [supernisy/specgate](https://github.com/supernisy/specgate) | 1 | JavaScript | 2026-09-05 |
 | [firecangshu/hackathon-roadshow-magician](https://github.com/firecangshu/hackathon-roadshow-magician) | 1 | HTML | 2026-08-16 |
 | [ddggkkcc/portfolio-interview-coach](https://github.com/ddggkkcc/portfolio-interview-coach) | 1 | Python | 2026-09-03 |

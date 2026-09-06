@@ -27,6 +27,9 @@ TencentCloudBase/CloudBase-AI-Toolkit
 acnlie/open-kimi-ppt-skill
 naive-kun/naive-video-skill
 sandbaseai/workbuddy-skill
+YuLaiZ/token-usage
+genapohub/ux-design-guide
+SuperLaos/drug-label-structurizer
 SenMuShare/senmu-buildos
 liangdabiao/i18n-helper-skills
 xiewende424/roundtable-kg
