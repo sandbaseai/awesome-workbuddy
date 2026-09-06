@@ -139,6 +139,7 @@
 - [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) - MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持 Markdown、HTML 和 JSON，并以合成数据覆盖 306 个测试用例
 - [Token Monitor](https://github.com/Javis603/token-monitor) - MIT 许可的跨平台 Token 与 AI 工具额度桌面看板，明确支持 WorkBuddy，可读取 `~/.workbuddy/projects/` 和 `workbuddy.db` 展示用量、额度、成本与趋势；会话明细按需在本地读取、不参与同步，部分提供方额度查询可能需要凭证
 - [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) - Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模型、渠道与操作切片
+- [Token Usage](https://github.com/YuLaiZ/token-usage) - MIT 许可的本地 Token 用量分析 CLI，明确支持 WorkBuddy，可按客户端、模型、提供方和项目生成报表；数据从本机客户端历史读取，启用前请确认本地会话文件的敏感信息范围
 - [Session Digger](https://github.com/taxueseek/session-digger) - ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS 建立增量索引并生成自包含本地报告
 - [AgentRecall](https://github.com/zszz3/AgentRecall) - MIT 许可的跨 Agent 会话检索与管理工具，明确支持 WorkBuddy，可在本地搜索、查看和导出消息、工具轨迹及用量信息，并提供 Skills、MCP 和工作流能力
 - [memU](https://github.com/NevaMind-AI/memU) - Apache-2.0 许可的跨 Agent 个人记忆系统，直接支持 WorkBuddy，可从会话与工具调用中提炼可复用 Skill，并通过本地 sidecar 做记忆注入与检索
@@ -166,6 +167,8 @@
 
 - [X 导师 Skill](https://github.com/alchaincyf/x-mentor-skill) - MIT 许可的 X/Twitter 内容研究与写作 Skill，兼容 WorkBuddy 等 50 多种 Agent runtime，覆盖选题、写作和增长流程；使用时请遵守目标平台规则并核对引用内容
 - [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) - MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请核对素材与模型服务权限
+- [UX Design Guide](https://github.com/genapohub/ux-design-guide) - MIT 许可、明确兼容 WorkBuddy 的 UI/UX 设计 Skill，可按新产品、功能迭代、微调、设计系统和概念探索五类场景生成交互、设计 Token、组件和无障碍方案
+- [Drug Label Structurizer](https://github.com/SuperLaos/drug-label-structurizer) - MIT 许可、面向 WorkBuddy 的医药说明书结构化 Skill，可将 DOCX、PDF 或图片整理为 Markdown、HTML、JSON、患者版和多药对比；涉及剂量、禁忌和不良反应时必须由药师或医师复核
 
 - [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 PDF；它不替代权属和事实核验，提交前应脱敏并人工复核登记要求
 

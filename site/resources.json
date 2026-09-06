@@ -1050,6 +1050,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "Token Usage",
+    "url": "https://github.com/YuLaiZ/token-usage",
+    "description": "An MIT-licensed local token-usage analytics CLI with explicit WorkBuddy support, producing reports by client, model, provider, and project; it reads local client history, so confirm the sensitivity of those session files before enabling it",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Token Usage",
+    "descriptionZh": "MIT 许可的本地 Token 用量分析 CLI，明确支持 WorkBuddy，可按客户端、模型、提供方和项目生成报表；数据从本机客户端历史读取，启用前请确认本地会话文件的敏感信息范围",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Session Digger",
     "url": "https://github.com/taxueseek/session-digger",
     "description": "An ISC-licensed cross-agent session search and knowledge-management toolkit that natively parses `~/.workbuddy/projects`, builds an incremental SQLite FTS index, and produces self-contained local reports",
@@ -1217,6 +1227,26 @@
     "category": "Ready-to-use Skills",
     "titleZh": "AI Animation Skill",
     "descriptionZh": "MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请核对素材与模型服务权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "UX Design Guide",
+    "url": "https://github.com/genapohub/ux-design-guide",
+    "description": "An MIT-licensed UI/UX design Skill explicitly compatible with WorkBuddy, routing five scenarios—new products, feature iterations, refinements, design-system upgrades, and concept exploration—into interaction, design-token, component, and accessibility deliverables",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "UX Design Guide",
+    "descriptionZh": "MIT 许可、明确兼容 WorkBuddy 的 UI/UX 设计 Skill，可按新产品、功能迭代、微调、设计系统和概念探索五类场景生成交互、设计 Token、组件和无障碍方案",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
+    "title": "Drug Label Structurizer",
+    "url": "https://github.com/SuperLaos/drug-label-structurizer",
+    "description": "An MIT-licensed WorkBuddy Skill for structuring drug package inserts from DOCX, PDF, or images into Markdown, HTML, JSON, patient versions, and comparisons; a pharmacist or physician must review dosage, contraindication, and adverse-reaction fields",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Drug Label Structurizer",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 的医药说明书结构化 Skill，可将 DOCX、PDF 或图片整理为 Markdown、HTML、JSON、患者版和多药对比；涉及剂量、禁忌和不良反应时必须由药师或医师复核",
     "categoryZh": "Ready-to-use Skills"
   },
   {
