@@ -56,6 +56,7 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 
 ### Learning and reference
 
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - A CC0 1.0 WorkBuddy learning directory covering quick starts, practical cases, prompts, Skills, MCP, and scenario guides; it is a community list, so verify links and versions against the original authors
 - [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) - An MIT-licensed beginner-oriented WorkBuddy guide organized around getting started, Skills, scenarios, and examples, with additional ecosystem links for moving from first use to practical workflows
 - [WorkBuddy Cross-Device Migration Guide](https://github.com/junxi-fan/workbuddy-migration-guide) - An MIT-licensed WorkBuddy migration guide explaining conversation history, memory, Skills, workspaces, `workbuddy.db`, and WAL files, with cautions about migrating while the app is running and copying sensitive connector files
 - [WorkBuddy Efficiency Training Course](https://github.com/cloudzun/WorkBuddy-Course) - A CC BY-NC-ND 4.0 WorkBuddy hands-on course with nine textbook chapters, 38 labs, source decks, and finished PPTs; product details may change, and redistribution must follow the no-derivatives terms
