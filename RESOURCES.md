@@ -145,6 +145,8 @@
 
 ### Ready-to-use Skills
 
+- [诗遇 Poetry Resonance](https://github.com/bonniegeng-max/poetry-resonance) - MIT 许可的唐诗宋词共鸣 Skill，明确支持 WorkBuddy，可按生活场景配诗、生成日签和文案，也支持学习拆解、背诵复习与周报；零依赖本地运行，可选联网查询天气或诗词资料
+
 - [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - BSD-3-Clause 许可的 DeepSeek Harness 自动记忆插件，可扫描并按来源管理 WorkBuddy、CodeBuddy、Claude Code 和 Codex 的记忆；它会读取本地会话或记忆文件，导入前请确认路径和敏感内容范围
 
 - [观远 BI 马甲实战 Skill](https://github.com/maojiebc/majia-guanyuan) - MIT 许可的观远 BI 增强 Skill，README 明确标注 WorkBuddy 兼容，覆盖 ETL 治理、报错排查、自定义图表和数据分析流程；它会调用企业 BI 工具与数据，使用前请确认账号权限、数据范围和官方 API 条款

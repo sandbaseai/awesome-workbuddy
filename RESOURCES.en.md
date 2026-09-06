@@ -145,6 +145,8 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 
 ### Ready-to-use Skills
 
+- [Poetry Resonance](https://github.com/bonniegeng-max/poetry-resonance) - An MIT-licensed Chinese-poetry Skill with explicit WorkBuddy support for matching poems to life scenes, generating daily cards and social copy, and supporting study breakdowns, recitation review, and weekly reports; it runs locally with no dependencies and optionally queries weather or poetry sources online
+
 - [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - A BSD-3-Clause DeepSeek Harness automatic-memory plugin that scans and manages memories from WorkBuddy, CodeBuddy, Claude Code, and Codex by source; it reads local sessions or memory files, so confirm paths and sensitive-content boundaries before importing
 
 - [Majia Guanyuan BI Skill](https://github.com/maojiebc/majia-guanyuan) - An MIT-licensed Guandata BI enhancement Skill whose README explicitly marks WorkBuddy compatibility, covering ETL governance, error diagnosis, custom charts, and data-analysis workflows; it can access enterprise BI tools and data, so confirm account permissions, data scope, and official API terms first
