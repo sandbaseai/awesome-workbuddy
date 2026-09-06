@@ -12,7 +12,7 @@ Last refreshed: **2026-09-06 UTC**
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,934 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,975 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,318 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,575 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
@@ -42,7 +42,7 @@ Last refreshed: **2026-09-06 UTC**
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-05 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,062 | Rust | 2026-09-05 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,063 | Rust | 2026-09-06 |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 1,000 | JavaScript | 2026-09-03 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-05 |
@@ -52,7 +52,7 @@ Last refreshed: **2026-09-06 UTC**
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 727 | TypeScript | 2026-09-05 |
 | [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 708 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
-| [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 680 | - | 2026-07-19 |
+| [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 681 | - | 2026-07-19 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
@@ -402,6 +402,7 @@ Last refreshed: **2026-09-06 UTC**
 | [susunola/lighttab](https://github.com/susunola/lighttab) | 1 | JavaScript | 2026-09-05 |
 | [supernisy/specgate](https://github.com/supernisy/specgate) | 1 | JavaScript | 2026-09-05 |
 | [firecangshu/hackathon-roadshow-magician](https://github.com/firecangshu/hackathon-roadshow-magician) | 1 | HTML | 2026-08-16 |
+| [ddggkkcc/portfolio-interview-coach](https://github.com/ddggkkcc/portfolio-interview-coach) | 1 | Python | 2026-09-03 |
 | [xiewende424/roundtable-kg](https://github.com/xiewende424/roundtable-kg) | 0 | Python | 2026-09-04 |
 | [Elisabeth15501/ai-weekly](https://github.com/Elisabeth15501/ai-weekly) | 0 | Python | 2026-09-05 |
 | [dcc-mcp/dcc-mcp-agent-plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) | 0 | Python | 2026-09-05 |
