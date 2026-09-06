@@ -93,6 +93,24 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIn("Not declared", output)
         self.assertIn("| License |", output)
 
+    def test_relevance_score_prioritizes_direct_workbuddy_matches(self) -> None:
+        direct = {
+            "full_name": "example/direct-workbuddy",
+            "description": "A WorkBuddy Skill",
+            "_discovery_sources": {"workbuddy in:name,description"},
+            "stargazers_count": 10,
+        }
+        broad = {
+            "full_name": "example/broad",
+            "description": "A general agent tool",
+            "_discovery_sources": {"codebuddy in:readme"},
+            "stargazers_count": 100000,
+        }
+        self.assertGreater(
+            discover_repos.relevance_score(direct),
+            discover_repos.relevance_score(broad),
+        )
+
 
 class EcosystemTests(unittest.TestCase):
     def test_checked_in_ecosystem_contains_every_source(self) -> None:

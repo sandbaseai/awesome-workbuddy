@@ -67,12 +67,38 @@ def fetch_candidates() -> list[dict[str, object]]:
             request.add_header("Authorization", f"Bearer {token}")
         with urllib.request.urlopen(request, timeout=30) as response:
             for item in json.load(response)["items"]:
-                repositories[str(item["full_name"]).casefold()] = item
+                key = str(item["full_name"]).casefold()
+                if key not in repositories:
+                    repositories[key] = dict(item)
+                    repositories[key]["_discovery_sources"] = set()
+                sources = repositories[key]["_discovery_sources"]
+                if isinstance(sources, set):
+                    sources.add(base_query)
     return sorted(
         repositories.values(),
-        key=lambda item: int(item["stargazers_count"]),
+        key=lambda item: (relevance_score(item), int(item["stargazers_count"])),
         reverse=True,
     )
+
+
+def relevance_score(item: dict[str, object]) -> int:
+    """Prioritize direct WorkBuddy matches over broad README mentions."""
+    text = " ".join(
+        str(item.get(field) or "")
+        for field in ("full_name", "description")
+    ).casefold()
+    sources = item.get("_discovery_sources")
+    source_names = sources if isinstance(sources, set) else set()
+    score = 0
+    if "workbuddy" in text:
+        score += 100
+    if "codebuddy" in text:
+        score += 30
+    if any(source.startswith("topic:workbuddy") for source in source_names):
+        score += 80
+    if any("in:readme" in source for source in source_names):
+        score += 10
+    return score
 
 
 def clean(value: object) -> str:
