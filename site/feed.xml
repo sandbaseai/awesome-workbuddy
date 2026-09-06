@@ -7,11 +7,11 @@
     <language>en</language>
     <lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>v0.10.31: directory and onboarding refresh</title>
-      <link>https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.31</link>
-      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.31</guid>
+      <title>v0.10.32: curation and link-health refresh</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.32</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.32</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Published a validated snapshot with new WorkBuddy resources, reorganized onboarding tutorials, refreshed metadata, and machine-readable entry points.</description>
+      <description>Added an auditable context migrator, removed an unavailable resource, improved beginner troubleshooting, and strengthened link-check reliability.</description>
     </item>
     <item>
       <title>Team Orchestrator added</title>

@@ -1,9 +1,14 @@
 # Changelog
 
-## Unreleased
+## v0.10.32 — 2026-09-06
 
 - Curated the MIT-licensed `Luckycat133/skills-repo` Agent Context Migrator with WorkBuddy MCP/Skill import boundaries and default exclusion of keys, OAuth, credentials, and chat history.
 - Added beginner troubleshooting guidance for Skill triggers, MCP connections, file-scope mistakes, and result verification in both onboarding tutorials.
+- Removed the unavailable `markbignews/paper-mode` entry after link verification returned 404, and moved it back to the discovery workflow.
+- Added limited retries to the external link checker for transient failures.
+
+## Unreleased
+
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.
 - Updated the public RSS feed and machine-readable entry points for the latest curation PRs and all five repository-maintained Skills.
