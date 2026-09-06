@@ -4,7 +4,7 @@
 
 [English](README.en.md) · 简体中文
 
-[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=flat-square)](https://github.com/sandbaseai/awesome-workbuddy/stargazers) [![License](https://img.shields.io/github/license/sandbaseai/awesome-workbuddy?style=flat-square)](LICENSE) [![更新订阅](https://img.shields.io/badge/RSS-订阅更新-orange?style=flat-square)](https://sandbaseai.github.io/awesome-workbuddy/feed.xml)
+[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=flat-square)](https://github.com/sandbaseai/awesome-workbuddy) [![License](https://img.shields.io/github/license/sandbaseai/awesome-workbuddy?style=flat-square)](LICENSE) [![更新订阅](https://img.shields.io/badge/RSS-订阅更新-orange?style=flat-square)](https://sandbaseai.github.io/awesome-workbuddy/feed.xml)
 
 WorkBuddy 实用资源导航：从第一次使用，到搭建 Skill、连接外部服务，再到自动化团队工作流，都可以从这里找到入口。
 

@@ -4,7 +4,7 @@
 
 English · [简体中文](README.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=flat-square)](https://github.com/sandbaseai/awesome-workbuddy/stargazers) [![License](https://img.shields.io/github/license/sandbaseai/awesome-workbuddy?style=flat-square)](LICENSE) [![RSS updates](https://img.shields.io/badge/RSS-subscribe-orange?style=flat-square)](https://sandbaseai.github.io/awesome-workbuddy/feed.xml)
+[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/awesome-workbuddy?style=flat-square)](https://github.com/sandbaseai/awesome-workbuddy) [![License](https://img.shields.io/github/license/sandbaseai/awesome-workbuddy?style=flat-square)](LICENSE) [![RSS updates](https://img.shields.io/badge/RSS-subscribe-orange?style=flat-square)](https://sandbaseai.github.io/awesome-workbuddy/feed.xml)
 
 A practical WorkBuddy directory for getting started, building Skills, connecting external services, and discovering automation workflows.
 
