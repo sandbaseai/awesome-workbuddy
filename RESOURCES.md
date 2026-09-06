@@ -562,7 +562,7 @@
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化
 - [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) - MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求
 - [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) - MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任务安装/卸载、旧任务备份和测试
-- [WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助.
+- [WorkDaddy](https://github.com/babygoton/WorkDaddy) - AGPL-3.0 的 WorkBuddy 桌面增强工具，提供账号备份/切换、会话迁移和长任务辅助，并发布 macOS/Windows 安装包；它通过本地 CDP 向正在运行的 WorkBuddy 注入界面组件，涉及 OAuth、账号备份和后台进程，首次安装前请阅读源码、权限和系统安全提示
 - [WorkBuddy Skin Studio](https://github.com/cdredfox/workbuddy-skin-studio) - 可逆的 WorkBuddy Desktop 主题管理工具.
 - [WorkBuddy Skin](https://github.com/itcastWsy/workbuddy-skin) - MIT 许可的跨平台 WorkBuddy 换肤 CLI，通过仅绑定 `127.0.0.1` 的 CDP 注入背景、毛玻璃主题和本地图片，并提供实时切换、恢复、离线自测与可选持久化调试端口
 - [WorkBuddy Dream Skin](https://github.com/zhouwei713/WorkBuddy-Dream-Skin) - MIT 许可的 Windows 图片驱动主题系统，提供预设、托盘控制、验证与恢复工具

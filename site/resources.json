@@ -4882,11 +4882,11 @@
   {
     "title": "WorkDaddy",
     "url": "https://github.com/babygoton/WorkDaddy",
-    "description": "A desktop enhancement for backups, session migration, and long-running task support",
+    "description": "An AGPL-3.0 WorkBuddy desktop enhancement for account backup/switching, session migration, and long-running tasks, distributed as macOS/Windows installers; it injects UI components into a running WorkBuddy process through local CDP and involves OAuth, account backups, and a background daemon, so review its source, permissions, and platform security prompts first",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
     "titleZh": "WorkDaddy",
-    "descriptionZh": "WorkBuddy 桌面增强工具，提供备份、会话迁移和长任务辅助",
+    "descriptionZh": "AGPL-3.0 的 WorkBuddy 桌面增强工具，提供账号备份/切换、会话迁移和长任务辅助，并发布 macOS/Windows 安装包；它通过本地 CDP 向正在运行的 WorkBuddy 注入界面组件，涉及 OAuth、账号备份和后台进程，首次安装前请阅读源码、权限和系统安全提示",
     "categoryZh": "Community clients and enhancements"
   },
   {
