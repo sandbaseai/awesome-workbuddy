@@ -1,20 +1,10 @@
 [
   {
-    "title": "Official documentation",
-    "url": "https://www.workbuddy.ai/docs/zh/workbuddy/",
-    "description": "tasks, Skills, MCPs, connectors, automations, and permissions",
-    "section": "What you will find",
-    "category": "What you will find",
-    "titleZh": "",
-    "descriptionZh": "",
-    "categoryZh": ""
-  },
-  {
-    "title": "Online search",
+    "title": "Search all resources",
     "url": "https://sandbaseai.github.io/awesome-workbuddy/",
-    "description": "filter by keyword, category, and resource type",
-    "section": "What you will find",
-    "category": "What you will find",
+    "description": "Find Skills, MCPs, workflows, and guides by keyword",
+    "section": "Start here",
+    "category": "Start here",
     "titleZh": "搜索全部资源",
     "descriptionZh": "按关键词查找 Skills、MCP、工作流和教程",
     "categoryZh": "从这里开始"
@@ -548,6 +538,16 @@
     "titleZh": "Define Product and Roadmap",
     "descriptionZh": "MIT 许可、兼容 WorkBuddy/CodeBuddy/Codex 的产品规划 Skill，帮助整理 PRD 与路线图",
     "categoryZh": "Learning and reference"
+  },
+  {
+    "title": "Public Agent Suite",
+    "url": "https://github.com/yangfanai/public",
+    "description": "An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Public Agent Suite",
+    "descriptionZh": "MIT 许可的独立 Agent、Skill 和多 Agent 团队套件，包含多个明确支持 WorkBuddy 的可单独安装产品；提供源码、Release ZIP、Catalog 和校验信息，适合按研究、报告、审查或任务协作场景选择",
+    "categoryZh": "Skill collections"
   },
   {
     "title": "WG Skills",

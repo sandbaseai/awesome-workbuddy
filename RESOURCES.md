@@ -82,6 +82,8 @@
 
 ### Skill collections
 
+- [Public Agent Suite](https://github.com/yangfanai/public) - MIT 许可的独立 Agent、Skill 和多 Agent 团队套件，包含多个明确支持 WorkBuddy 的可单独安装产品；提供源码、Release ZIP、Catalog 和校验信息，适合按研究、报告、审查或任务协作场景选择
+
 - [WG Skills](https://github.com/jiushiwon/wg-skills) - Apache-2.0 许可的 50+ 通用 Agent Skills 集合，明确支持 WorkBuddy，覆盖部署、运行时、数据库、写作和研发场景；安装前请逐项查看 Skill 的脚本、依赖和权限
 
 - [小智伴学 Skills](https://github.com/qizhitang/xiaozhi-skills) - MIT 许可的 K12 学习与教学 Skill 集合，包含 57 个学生端/教师端 Skill，并明确支持 WorkBuddy；涉及学习记录或共享证据时请先确认家长、学生和教师的授权边界

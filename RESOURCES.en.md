@@ -82,6 +82,8 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 
 ### Skill collections
 
+- [Public Agent Suite](https://github.com/yangfanai/public) - An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios
+
 - [WG Skills](https://github.com/jiushiwon/wg-skills) - An Apache-2.0 collection of more than 50 general Agent Skills with explicit WorkBuddy support, covering deployment, runtimes, databases, writing, and engineering; inspect each Skill's scripts, dependencies, and permissions before installation
 
 - [Xiaozhi Learning Skills](https://github.com/qizhitang/xiaozhi-skills) - An MIT-licensed K-12 learning and teaching Skill collection with 57 student and teacher Skills and explicit WorkBuddy support; confirm the authorization boundaries for students, parents, teachers, and shared learning evidence before use
