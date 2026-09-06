@@ -7,8 +7,8 @@ Use these pages first:
 - [Searchable resource directory](https://sandbaseai.github.io/awesome-workbuddy/): filter the curated collection by keyword and category.
 - [Complete bilingual resource data](https://sandbaseai.github.io/awesome-workbuddy/resources.json): machine-readable titles, URLs, descriptions, sections, and categories for every curated entry.
 - [Start Here](https://github.com/sandbaseai/awesome-workbuddy/blob/main/START_HERE.md): choose between tasks, Skills, MCP, Automation, and Enterprise Agent workflows.
-- [Chinese README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.md): curated resources, examples, and selection standards.
-- [English README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.en.md): the same collection in English.
+- [Chinese README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.md): user goals, quick entry points, examples, and safety reminders.
+- [English README](https://github.com/sandbaseai/awesome-workbuddy/blob/main/README.en.md): the same user-friendly guide in English.
 - [Security checklist](https://github.com/sandbaseai/awesome-workbuddy/blob/main/SECURITY.md): review permissions, credentials, data flow, scripts, and irreversible actions before installation.
 - [Original Skills](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills): installable, auditable WorkBuddy Skills maintained by this repository.
 - [Hosted Skill index](https://agent-skills.md/authors/sandbaseai): online listings for the four original Skills and their install paths.
