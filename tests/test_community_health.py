@@ -15,6 +15,17 @@ class CommunityHealthTests(unittest.TestCase):
         self.assertGreaterEqual(len(items), 2)
         self.assertTrue(all(item.findtext("link", "").startswith("https://") for item in items))
 
+    def test_llms_entry_points_are_current(self) -> None:
+        content = (ROOT / "site" / "llms.txt").read_text(encoding="utf-8")
+        for url in (
+            "https://sandbaseai.github.io/awesome-workbuddy/",
+            "https://sandbaseai.github.io/awesome-workbuddy/resources.json",
+            "https://sandbaseai.github.io/awesome-workbuddy/feed.xml",
+            "https://github.com/sandbaseai/awesome-workbuddy/issues/775",
+        ):
+            self.assertIn(url, content)
+        self.assertNotIn("selection standards", content)
+
     def test_public_readmes_focus_on_resource_content(self) -> None:
         for filename in ("README.md", "README.en.md"):
             content = (ROOT / filename).read_text(encoding="utf-8")
