@@ -9,9 +9,9 @@ Last refreshed: **2026-09-06 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,930 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,974 | TypeScript | 2026-09-03 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,934 | TypeScript | 2026-09-04 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,975 | TypeScript | 2026-09-03 |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,318 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -23,8 +23,8 @@ Last refreshed: **2026-09-06 UTC**
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3,206 | Python | 2026-09-05 |
-| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,169 | Rust | 2026-09-05 |
-| [rpamis/comet](https://github.com/rpamis/comet) | 2,930 | JavaScript | 2026-09-05 |
+| [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,170 | Rust | 2026-09-05 |
+| [rpamis/comet](https://github.com/rpamis/comet) | 2,931 | JavaScript | 2026-09-05 |
 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,818 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,803 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,551 | - | 2026-07-05 |
@@ -37,7 +37,7 @@ Last refreshed: **2026-09-06 UTC**
 | [xiufengsun/TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1,522 | JavaScript | 2026-09-05 |
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 1,372 | HTML | 2026-09-05 |
 | [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent) | 1,266 | TypeScript | 2026-09-05 |
-| [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,230 | JavaScript | 2026-09-05 |
+| [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | 1,231 | JavaScript | 2026-09-05 |
 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | 1,194 | - | 2026-08-25 |
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
@@ -56,8 +56,8 @@ Last refreshed: **2026-09-06 UTC**
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 634 | JavaScript | 2026-09-05 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 581 | Python | 2026-09-05 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 636 | JavaScript | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 582 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 560 | Python | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 557 | Go | 2026-09-05 |
@@ -76,7 +76,7 @@ Last refreshed: **2026-09-06 UTC**
 | [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) | 278 | HTML | 2026-08-17 |
 | [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 269 | Python | 2026-05-10 |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 266 | Python | 2026-09-02 |
-| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 264 | Python | 2026-08-13 |
+| [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp) | 265 | Python | 2026-08-13 |
 | [VintLin/skill-flow](https://github.com/VintLin/skill-flow) | 260 | TypeScript | 2026-09-05 |
 | [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 256 | JavaScript | 2026-09-03 |
 | [towelong/panxiaozi](https://github.com/towelong/panxiaozi) | 254 | TypeScript | 2026-07-30 |
@@ -103,7 +103,7 @@ Last refreshed: **2026-09-06 UTC**
 | [iamzifei/wechat-article-publisher-skill](https://github.com/iamzifei/wechat-article-publisher-skill) | 156 | Python | 2026-08-12 |
 | [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode) | 143 | TypeScript | 2026-09-03 |
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 140 | Python | 2026-08-07 |
-| [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 139 | Rust | 2026-09-04 |
+| [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) | 140 | Rust | 2026-09-04 |
 | [ShouZhuo0413/codebuddy2api](https://github.com/ShouZhuo0413/codebuddy2api) | 137 | Python | 2026-07-01 |
 | [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) | 135 | JavaScript | 2026-09-04 |
 | [IvanCodesDev/software-certificate-skill](https://github.com/IvanCodesDev/software-certificate-skill) | 134 | Python | 2026-08-17 |
@@ -364,6 +364,7 @@ Last refreshed: **2026-09-06 UTC**
 | [npcworkspace-cmyk/eric-task-master](https://github.com/npcworkspace-cmyk/eric-task-master) | 2 | JavaScript | 2026-09-05 |
 | [uahz/live-stream-ops](https://github.com/uahz/live-stream-ops) | 2 | Python | 2026-08-19 |
 | [vickywenqi/vicky-skills](https://github.com/vickywenqi/vicky-skills) | 2 | - | 2026-06-22 |
+| [xxjrq/easy-webbridge](https://github.com/xxjrq/easy-webbridge) | 2 | JavaScript | 2026-09-04 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-06 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
