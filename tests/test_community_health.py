@@ -35,6 +35,16 @@ class CommunityHealthTests(unittest.TestCase):
             self.assertNotIn("Selection Standard", content)
             self.assertNotIn("Contributing", content)
 
+    def test_getting_started_explains_resource_installation(self) -> None:
+        chinese = (ROOT / "START_HERE.md").read_text(encoding="utf-8")
+        english = (ROOT / "START_HERE.en.md").read_text(encoding="utf-8")
+        for content in (chinese, english):
+            self.assertIn("Skills", content)
+            self.assertIn("MCP", content)
+            self.assertIn("README", content)
+        self.assertIn("依赖", chinese)
+        self.assertIn("dependencies", english.lower())
+
     def test_code_of_conduct_has_reporting_path(self) -> None:
         content = (ROOT / "CODE_OF_CONDUCT.md").read_text(encoding="utf-8")
         self.assertIn("## Reporting", content)
