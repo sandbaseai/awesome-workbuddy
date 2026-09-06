@@ -283,6 +283,7 @@
 - [MaZhu](https://github.com/kcylp/mazhu) - Apache-2.0 的离线软著材料整理工具，提供桌面应用、CLI 和 WorkBuddy Skill，可从本地项目生成源程序/说明书材料并在导出前校验格式
 - [CodeDrobe Skills](https://github.com/CodeDrobe/skills) - Apache-2.0 的可安装主题 Skill，明确支持 Tencent WorkBuddy，提供主题创建、应用、验证、修复、恢复和发布流程
 - [Data Analysis Skills](https://github.com/cabbage2000-lab/data-analysis-skills) - MIT 许可、已说明 WorkBuddy 适配和实测的多平台数据分析 Skill，可将 CSV、Excel、JSON、TSV 整理为带洞察的单文件 HTML 报告，并提供行业模板、评测和测试
+- [Hydro Analysis](https://github.com/losnleger/hydro-analysis) - MIT 许可、面向 WorkBuddy 等 Agent 的水文分析 Skill，覆盖降雨径流、基流、河道汇流和水库调洪，并输出 PNG、离线 HTML、Excel 和 Word 报告；严格要求时间、单位、质量标识和数据来源，不静默插补或猜测参数
 - [StatSoft CLI](https://github.com/medstatstar/statsoft-cli) - MIT 许可的跨平台统计软件接入 Skill，明确支持 WorkBuddy，可连接 R、Stata、SAS、SPSS、JMP、Matlab 等并处理转换、分析和报告；默认只读检测，配置写入、网络访问、二进制执行和原生代码编译均需明确确认
 - [Graphic Design Guide](https://github.com/genapohub/graphic-design-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的平面设计方案 Skill，按品牌、营销物料、单件设计、品牌焕新和风格探索生成色彩、字体、Logo、物料与版权检查方案
 - [QA Testing Guide](https://github.com/genapohub/qa-testing-guide) - MIT 许可、兼容 WorkBuddy/CodeBuddy 的 QA Skill，覆盖测试体系、功能测试、自动化、性能压测、缺陷管理和技术预研，并按场景提供模板

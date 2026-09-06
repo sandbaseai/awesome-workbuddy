@@ -469,3 +469,4 @@ vickywenqi/vicky-skills
 yekwennnn/ashare-graham-screener
 xxjrq/easy-webbridge
 ddggkkcc/portfolio-interview-coach
+losnleger/hydro-analysis

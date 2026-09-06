@@ -2360,6 +2360,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Hydro Analysis",
+    "url": "https://github.com/losnleger/hydro-analysis",
+    "description": "An MIT-licensed hydrology-analysis Skill for WorkBuddy and other Agents, covering rainfall-runoff, baseflow, channel routing, and reservoir routing with PNG, offline HTML, Excel, and Word reports; it requires explicit timestamps, units, quality flags, and sources, and does not silently impute data or guess parameters",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Hydro Analysis",
+    "descriptionZh": "MIT 许可、面向 WorkBuddy 等 Agent 的水文分析 Skill，覆盖降雨径流、基流、河道汇流和水库调洪，并输出 PNG、离线 HTML、Excel 和 Word 报告；严格要求时间、单位、质量标识和数据来源，不静默插补或猜测参数",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "StatSoft CLI",
     "url": "https://github.com/medstatstar/statsoft-cli",
     "description": "An MIT-licensed cross-platform statistical-software integration Skill with explicit WorkBuddy support for R, Stata, SAS, SPSS, JMP, Matlab, and more, covering conversion, analysis, and reporting; read-only detection is the default, while config writes, network access, binary execution, and native-code compilation require explicit confirmation",
