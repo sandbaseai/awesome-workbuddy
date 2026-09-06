@@ -13,11 +13,15 @@ Last refreshed: **2026-09-06 UTC**
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [HsnSaboor/CLIProxyAPIPlus](https://github.com/HsnSaboor/CLIProxyAPIPlus) | 83 | 2026-07-27 | MIT | CLIProxyAPI Plus fork with Cline login and CodeBuddy International support |
 | [CharlexH/CodeBuddy](https://github.com/CharlexH/CodeBuddy) | 66 | 2026-08-31 | Not declared | A StickS3 Codex companion adapted from Claude Desktop Buddy. |
+| [OpenInsightHQ/openinsight](https://github.com/OpenInsightHQ/openinsight) | 63 | 2026-09-01 | Apache-2.0 | Enterprise Agent Operating System — AI employees that learn your business and deliver outcomes. Self-hosted, open core. |
+| [OpenInsightHQ/one-pi](https://github.com/OpenInsightHQ/one-pi) | 61 | 2026-09-04 | Apache-2.0 | browser-based PI agent: The Reasoning Engine of AI Employees |
 | [Sliverkiss/CodeBuddy2api](https://github.com/Sliverkiss/CodeBuddy2api) | 55 | 2026-04-29 | MIT | 将 CodeBuddy 官方 API 包装成一个功能强大、与 OpenAI API 格式兼容的服务。本项目可以直接调用 CodeBuddy 官方 API，并为所有标准客户端提供统一的接口。 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
 | [binbinao/document-superpowers](https://github.com/binbinao/document-superpowers) | 44 | 2026-08-23 | Not declared | 📝 Document writing skills for AI agents (Claude Code / Cursor / CodeBuddy) — 4-stage workflow: Brainstorm → Plan → Execute → Review. Inspired by obra/superpowers. GitHub 44★. |
+| [JuneYaooo/mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | 27 | 2026-07-27 | MIT | Family health management skill for agent – health records, diet tracking 家庭健康管理助手 for agent \| 健康档案、饮食追踪、体重管理、就医摘要 \| 本地 SQLite 存储，隐私优先 |
 | [THU-linxiang/auto-dev-agent-system](https://github.com/THU-linxiang/auto-dev-agent-system) | 22 | 2026-08-21 | Not declared | A file-based, validator-gated CodeBuddy harness that turns PRDs into traceable native Android Automotive OS (AAOS) applications with recoverable multi-agent workflows. |
 | [srp33/CodeBuddy](https://github.com/srp33/CodeBuddy) | 20 | 2026-09-01 | AGPL-3.0 | CodeBuddy: A programming assignment management system for short-form exercises |
+| [OpenInsightHQ/arp](https://github.com/OpenInsightHQ/arp) | 20 | 2026-09-04 | Apache-2.0 | Agent Runtime Platform — the open-source runtime that powers AI employees |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 18 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
 | [821869798/com.unifan.ides](https://github.com/821869798/com.unifan.ides) | 16 | 2026-05-08 | Non-standard / unrecognized | Support multi AI IDEs(e.g., Cursor, Windsurf, Kiro,Trae, Trae CN,Qoder, Antigravity, CodeBuddy, CodeBuddy CN) in Unity |
 | [mengxn/codebuddy-proxy-gateway](https://github.com/mengxn/codebuddy-proxy-gateway) | 14 | 2026-06-02 | Not declared | 将 Codex CLI 和 Claude Code 的 API 请求转发到本地 CodeBuddy CLI --serve 模式 |

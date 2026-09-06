@@ -1870,6 +1870,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "A-share Graham Screener",
+    "url": "https://github.com/yekwennnn/ashare-graham-screener",
+    "description": "An MIT-licensed A-share defensive-stock screening Skill that applies seven Graham-style value conditions and exports an Excel detail sheet; it depends on WorkBuddy market-data tools and is for research only, not investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "A-share Graham Screener",
+    "descriptionZh": "MIT 许可的 A 股防御型选股 Skill，按 7 条格雷厄姆价值条件筛选全市场并输出 Excel 明细；依赖 WorkBuddy 数据工具，结果仅供研究参考，不构成投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Market Briefings",
     "url": "https://github.com/hongshuhai/hongshuhai-market-briefings",
     "description": "An MIT-licensed WorkBuddy workflow for commodity-morning and U.S.-market pre-open briefings, with `SKILL.md`, data scripts, HTML examples, and scheduled delivery; for research only",
