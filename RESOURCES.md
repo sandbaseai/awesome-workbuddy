@@ -60,7 +60,7 @@
 - [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) - MIT 许可、面向新手的 WorkBuddy 入门资料库，按入门、Skills、使用场景和案例组织内容，并补充相关生态链接，适合从第一次使用过渡到具体实践
 - [WorkBuddy 跨设备迁移指南](https://github.com/junxi-fan/workbuddy-migration-guide) - MIT 许可的 WorkBuddy 数据迁移指南，梳理对话历史、记忆、Skills、工作区、`workbuddy.db` 及 WAL 文件的关系，并列出运行中迁移和敏感连接器文件的注意事项
 - [WorkBuddy 效率进阶实训课程](https://github.com/cloudzun/WorkBuddy-Course) - CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版本变化，使用或再分发时请遵守禁止演绎条款
-- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - MIT 许可、截至 2026-09-06 有 2,819 Star/398 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例
 - [Hermes Agent 橙皮书](https://github.com/alchaincyf/hermes-agent-orange-book) - MIT 许可的 Hermes Agent 中文实战指南，覆盖记忆、Skills、MCP、工具、协作与安全，并提供 WorkBuddy 知识库在线阅读入口
 - [Claude Code 橙皮书](https://github.com/alchaincyf/claude-code-orange-book) - CC BY-NC-SA 4.0 许可的 Claude Code 中文实战指南，覆盖安装、提示词、Skills、Hooks、MCP、多 Agent 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用
 - [Codex 橙皮书](https://github.com/alchaincyf/codex-orange-book) - CC BY-NC-SA 4.0 许可的 Codex 中文实战手册，覆盖 CLI、桌面端、云端、IDE、浏览器扩展、Skills、MCP、Automation 和项目实践，并提供 WorkBuddy 知识库在线阅读入口；仅限署名非商业使用
@@ -349,7 +349,7 @@
 - [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) - MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供模型目录、额度、冷却和回环流式桥
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - MIT 许可、兼容 WorkBuddy/Codex/Cursor 的电商视觉文案 Skill；先分析商品资料和合规边界，再生成主图/详情页分镜、图内文案、设计说明和生图 Prompt，用户确认策划案后才进入最终交付；可用 `npx skills add feichanggege/ecommerce-visual-copywriting-skill` 安装
 - [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) - MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板
-- [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - 面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁.
+- [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - MIT 许可、根目录含 `SKILL.md` 的 WorkBuddy/Codex 音频优先故事视频生产 Skill，关键步骤带确认门禁，并提供安装与阶段恢复说明
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - MIT 许可的跨平台 Draw.io 图表生成 Skill，明确支持 WorkBuddy，提供流程图、架构图、UML、ER 图和思维导图工作流，并附带零依赖 XML 校验脚本、示例和浏览器打开方案

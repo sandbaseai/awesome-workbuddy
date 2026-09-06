@@ -352,11 +352,11 @@
   {
     "title": "WorkBuddyGuide",
     "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "description": "An MIT-licensed practical handbook with 2,807 stars and 397 forks, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases",
+    "description": "An MIT-licensed practical handbook with 2,819 stars and 398 forks as of 2026-09-06, organized from completing a first task to building a reusable team system across installation, Skills, connectors, APIs, automation, knowledge management, professional diagnosis, and multi-Agent cases",
     "section": "Open-source Ecosystem",
     "category": "Learning and reference",
     "titleZh": "WorkBuddyGuide",
-    "descriptionZh": "MIT 许可、2,807 Star/397 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例",
+    "descriptionZh": "MIT 许可、截至 2026-09-06 有 2,819 Star/398 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项任务，再落地团队系统”组织安装、Skills、连接器、API、自动化、知识管理、专业诊断和多 Agent 案例",
     "categoryZh": "Learning and reference"
   },
   {
@@ -2962,11 +2962,11 @@
   {
     "title": "Image Story Video Wizard",
     "url": "https://github.com/aaronyi97/image-story-video-wizard",
-    "description": "An audio-first story-video Skill for WorkBuddy and Codex with approval gates at consequential steps",
+    "description": "An MIT-licensed audio-first story-video Skill for WorkBuddy and Codex, with a root `SKILL.md`, approval gates at consequential steps, installation instructions, and resumable stages",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
     "titleZh": "Image Story Video Wizard",
-    "descriptionZh": "面向 WorkBuddy/Codex 的音频优先故事视频生产 Skill，关键步骤带确认门禁",
+    "descriptionZh": "MIT 许可、根目录含 `SKILL.md` 的 WorkBuddy/Codex 音频优先故事视频生产 Skill，关键步骤带确认门禁，并提供安装与阶段恢复说明",
     "categoryZh": "Ready-to-use Skills"
   },
   {
