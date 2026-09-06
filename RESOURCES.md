@@ -86,7 +86,6 @@
 
 - [小智伴学 Skills](https://github.com/qizhitang/xiaozhi-skills) - MIT 许可的 K12 学习与教学 Skill 集合，包含 57 个学生端/教师端 Skill，并明确支持 WorkBuddy；涉及学习记录或共享证据时请先确认家长、学生和教师的授权边界
 
-- [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) - MIT 许可的中文社区 AI 专家角色集合，覆盖工程、设计、营销、金融等 20 个部门，并提供转换与安装到 WorkBuddy `~/.workbuddy/skills/` 的脚本
 
 - [skill-manager](https://github.com/GrubbyLee/skill-manager) - MIT 许可的零依赖本地 Skills/MCP 管理 CLI，明确支持 WorkBuddy，可扫描、推荐、去重、审计和可视化本地资源；默认只读，执行 setup 或写入前请先查看变更计划
 
@@ -195,7 +194,6 @@
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) - MIT 许可、提供 WorkBuddy 专用入口的微信小程序全生命周期 Skill，覆盖选题、备案、开发、变现、审核、推广和矩阵运营，可复制到 `~/.workbuddy/skills/` 使用
 - [学霸笔记 Skill](https://github.com/Unclecheng-li/note-skill) - MIT 许可、明确支持 WorkBuddy 的单文件 HTML 笔记 Skill，将技术内容、漏洞分析或知识总结转换为手写笔记本风格的网页笔记
 - [SkillLens](https://github.com/AndrewNgGirl/SkillLens) - MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent CLI；上传 Skill 到 Web UI 或调用模型评测前请确认数据范围
-- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - MIT 许可的本体驱动应用构建 Skill，从业务想法或需求文档出发，经多轮需求探索和人工确认，生成可安装、可运行的领域 Skill；自然语言查询默认通过本地 API 执行只读 SQL
 - [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) - MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演示；使用 HTMLSlide 时请先确认登录和数据上传范围
 - [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) - MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检查，并可用安装脚本指定 `--target workbuddy`；运行远程安装脚本前请先审阅其内容
 - [gstack OpenClaw/WorkBuddy Skills](https://github.com/AICreator-Wind/gstack-openclaw-skills) - MIT 许可、面向 OpenClaw/WorkBuddy 的开发工作流 Skill 套件，提供 `/ship`、`/review`、`/qa` 等命令、跨步骤状态管理和一键安装/验证流程
@@ -516,7 +514,6 @@
 - [DSH Memory Palace](https://github.com/lovezi0/dsh-memory-palace) - MIT 许可的 DeepSeek Harness 记忆插件，可桥接已有 `.workbuddy/memory`，用可编辑 Markdown 保存跨会话记忆、日志和摘要，并提供带确认门禁的删除工具
 - [DSH Hybrid Memory](https://github.com/Frog755/dsh-hybrid-memory) - MIT 许可的本地混合记忆插件，将冻结快照、SQLite FTS5 可检索事实和跨 Hermes/Claude/Codex/WorkBuddy 导入结合，并提供威胁扫描、审核队列、原子写和漂移检测
 - [DSH Agent Selector](https://github.com/jiang12345-code/dsh-agent-selector) - MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Claude，并返回出处凭证
-- [Tonghuasun Agent](https://github.com/zhuyifang/tonghuasun-agent) - 面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交
 - [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) - 为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌
 - [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) - 腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道
 - [SailFish](https://github.com/ysyx2008/SailFish) - 面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多 IM 渠道
@@ -544,8 +541,6 @@
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单
 - [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar
-- [WorkBuddy Buddy](https://github.com/FlashFamily/workbuddy-buddy) - MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy
-- [Skills Hub](https://github.com/qufei1993/skills-hub) - MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化
 - [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) - MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求
 - [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) - MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任务安装/卸载、旧任务备份和测试
