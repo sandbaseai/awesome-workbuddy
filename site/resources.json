@@ -1240,6 +1240,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Team Orchestrator",
+    "url": "https://github.com/genapohub/team-orchestrator",
+    "description": "An MIT-licensed team-orchestration Skill explicitly compatible with WorkBuddy that routes product, technology, design, engineering, QA, data, and operations roles on demand while keeping user checkpoints at phase boundaries",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Team Orchestrator",
+    "descriptionZh": "MIT 许可、明确兼容 WorkBuddy 的团队调度 Skill，可按需编排产品、技术、设计、开发、测试、数据和运营角色，并在阶段节点保留用户确认",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Drug Label Structurizer",
     "url": "https://github.com/SuperLaos/drug-label-structurizer",
     "description": "An MIT-licensed WorkBuddy Skill for structuring drug package inserts from DOCX, PDF, or images into Markdown, HTML, JSON, patient versions, and comparisons; a pharmacist or physician must review dosage, contraindication, and adverse-reaction fields",

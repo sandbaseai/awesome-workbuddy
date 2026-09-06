@@ -168,6 +168,7 @@
 - [X 导师 Skill](https://github.com/alchaincyf/x-mentor-skill) - MIT 许可的 X/Twitter 内容研究与写作 Skill，兼容 WorkBuddy 等 50 多种 Agent runtime，覆盖选题、写作和增长流程；使用时请遵守目标平台规则并核对引用内容
 - [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) - MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请核对素材与模型服务权限
 - [UX Design Guide](https://github.com/genapohub/ux-design-guide) - MIT 许可、明确兼容 WorkBuddy 的 UI/UX 设计 Skill，可按新产品、功能迭代、微调、设计系统和概念探索五类场景生成交互、设计 Token、组件和无障碍方案
+- [Team Orchestrator](https://github.com/genapohub/team-orchestrator) - MIT 许可、明确兼容 WorkBuddy 的团队调度 Skill，可按需编排产品、技术、设计、开发、测试、数据和运营角色，并在阶段节点保留用户确认
 - [Drug Label Structurizer](https://github.com/SuperLaos/drug-label-structurizer) - MIT 许可、面向 WorkBuddy 的医药说明书结构化 Skill，可将 DOCX、PDF 或图片整理为 Markdown、HTML、JSON、患者版和多药对比；涉及剂量、禁忌和不良反应时必须由药师或医师复核
 
 - [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) - MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 PDF；它不替代权属和事实核验，提交前应脱敏并人工复核登记要求
