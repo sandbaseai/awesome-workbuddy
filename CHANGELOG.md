@@ -9,6 +9,7 @@
 
 ## Unreleased
 
+- Clarified the Social Account Doctor entry with its API/dependency requirements, WorkBuddy installation caveat, and report-privacy boundary.
 - Prioritized discovery results by explicit WorkBuddy/CodeBuddy relevance before Star count, so broad README matches do not hide directly compatible candidates.
 - Expanded automated discovery to search repository READMEs for WorkBuddy and CodeBuddy references, while keeping matches in the unvetted queue until relevance, licensing, provenance, and permissions are reviewed.
 - Curated the MIT-licensed `KHWD0922/workbuddy-skill-x-media-downloader` with CSV filtering, archive deduplication, and explicit cookies, proxy, copyright, and platform-term boundaries.
