@@ -10,6 +10,11 @@ import update_ecosystem  # noqa: E402
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_search_queries_include_workbuddy_topics(self) -> None:
+        self.assertIn("topic:workbuddy", discover_repos.SEARCH_QUERIES)
+        self.assertIn("topic:workbuddy-skill", discover_repos.SEARCH_QUERIES)
+        self.assertIn("topic:workbuddy-skills", discover_repos.SEARCH_QUERIES)
+
     def test_checked_in_queue_excludes_curated_repositories(self) -> None:
         root = Path(__file__).resolve().parents[1]
         discoveries = discover_repos.listed_repositories(
