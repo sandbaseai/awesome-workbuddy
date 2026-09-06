@@ -301,6 +301,7 @@
 - [Translate Book Windows](https://github.com/NikoKennedy/translate-book-windows) - MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处理，维护术语表、manifest/哈希完整性校验并支持断点续传和 HTML/DOCX/EPUB/PDF 输出
 - [BossMate](https://github.com/yinren112/bossmate) - MIT 许可的本地求职 Skill，支持 WorkBuddy，通过可见浏览器读取完整 JD、去重并在发送前设置人工确认门禁
 - [Career Copilot](https://github.com/ronineymessjr-sudo/career-copilot) - MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递跟踪和面试复盘，并对投递/邮件等关键动作设置人工确认
+- [Portfolio Interview Coach](https://github.com/ddggkkcc/portfolio-interview-coach) - MIT 许可、明确支持 WorkBuddy 的面试训练 Skill，从公开面经和真实项目源码生成追问、回答与改进建议；可选每日抓取和邮件投递，使用前请审查项目路径、公开来源、个人资料与邮件权限
 - [AI创品 Product Creator](https://github.com/zhangx1234994/aicp-product-creator-skill) - MIT 许可、提供 WorkBuddy Skill/插件包与 MCP 配置的商品设计工作流，可从图片或创意匹配实时商品、预览并生成报价，明确由用户确认后才扣积分和进入短期结算链接
 - [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) - MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供安装与验证脚本
 - [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片输出为结构化 Markdown/CSV

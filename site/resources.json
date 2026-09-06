@@ -2540,6 +2540,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Portfolio Interview Coach",
+    "url": "https://github.com/ddggkkcc/portfolio-interview-coach",
+    "description": "An MIT-licensed interview-training Skill with explicit WorkBuddy support that grounds follow-up questions, answers, and improvement suggestions in public interview reports and real project source; optional daily collection and email delivery require reviewing project paths, sources, personal data, and mail permissions",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Portfolio Interview Coach",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的面试训练 Skill，从公开面经和真实项目源码生成追问、回答与改进建议；可选每日抓取和邮件投递，使用前请审查项目路径、公开来源、个人资料与邮件权限",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "AIChuangpin Product Creator",
     "url": "https://github.com/zhangx1234994/aicp-product-creator-skill",
     "description": "An MIT-licensed product-design workflow with WorkBuddy Skill/plugin packages and MCP configuration that matches images or ideas to live products, previews them, and returns a quote, with explicit user confirmation before credits are charged and a short-lived checkout link opened",
