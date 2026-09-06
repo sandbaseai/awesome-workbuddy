@@ -465,3 +465,4 @@ cntyfmg-eng/fmg-ppt-courseware
 uahz/live-stream-ops
 664991498-prog/mvp-validator-skill
 firecangshu/hackathon-roadshow-magician
+vickywenqi/vicky-skills
