@@ -83,6 +83,8 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 
 ### Skill collections
 
+- [SOIA Open Env Skills](https://github.com/soia-team/soia-open-env-skills) - An MIT-licensed collection of 18 environment Skills with explicit WorkBuddy support, covering runtime and AI CLI installation, network diagnosis, storage cleanup, and post-install verification; read-only by default, with destructive actions requiring authorization and a dedicated WorkBuddy install/update Skill
+
 - [Public Agent Suite](https://github.com/yangfanai/public) - An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios
 
 - [WG Skills](https://github.com/jiushiwon/wg-skills) - An Apache-2.0 collection of more than 50 general Agent Skills with explicit WorkBuddy support, covering deployment, runtimes, databases, writing, and engineering; inspect each Skill's scripts, dependencies, and permissions before installation

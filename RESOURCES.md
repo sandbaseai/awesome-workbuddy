@@ -83,6 +83,8 @@
 
 ### Skill collections
 
+- [SOIA Open Env Skills](https://github.com/soia-team/soia-open-env-skills) - MIT 许可、明确支持 WorkBuddy 的 18 个环境技能，覆盖运行时和 AI CLI 安装、网络诊断、存储清理与安装后验证；默认只读，破坏性操作须授权，并提供专用 WorkBuddy 安装/更新 Skill
+
 - [Public Agent Suite](https://github.com/yangfanai/public) - MIT 许可的独立 Agent、Skill 和多 Agent 团队套件，包含多个明确支持 WorkBuddy 的可单独安装产品；提供源码、Release ZIP、Catalog 和校验信息，适合按研究、报告、审查或任务协作场景选择
 
 - [WG Skills](https://github.com/jiushiwon/wg-skills) - Apache-2.0 许可的 50+ 通用 Agent Skills 集合，明确支持 WorkBuddy，覆盖部署、运行时、数据库、写作和研发场景；安装前请逐项查看 Skill 的脚本、依赖和权限

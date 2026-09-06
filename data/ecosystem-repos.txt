@@ -27,6 +27,7 @@ TencentCloudBase/CloudBase-AI-Toolkit
 acnlie/open-kimi-ppt-skill
 naive-kun/naive-video-skill
 sandbaseai/workbuddy-skill
+soia-team/soia-open-env-skills
 YuLaiZ/token-usage
 genapohub/ux-design-guide
 genapohub/team-orchestrator

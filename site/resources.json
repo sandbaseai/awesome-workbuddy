@@ -550,6 +550,16 @@
     "categoryZh": "Learning and reference"
   },
   {
+    "title": "SOIA Open Env Skills",
+    "url": "https://github.com/soia-team/soia-open-env-skills",
+    "description": "An MIT-licensed collection of 18 environment Skills with explicit WorkBuddy support, covering runtime and AI CLI installation, network diagnosis, storage cleanup, and post-install verification; read-only by default, with destructive actions requiring authorization and a dedicated WorkBuddy install/update Skill",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "SOIA Open Env Skills",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的 18 个环境技能，覆盖运行时和 AI CLI 安装、网络诊断、存储清理与安装后验证；默认只读，破坏性操作须授权，并提供专用 WorkBuddy 安装/更新 Skill",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Public Agent Suite",
     "url": "https://github.com/yangfanai/public",
     "description": "An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios",
