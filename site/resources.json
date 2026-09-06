@@ -4282,11 +4282,11 @@
   {
     "title": "Skill Buddy",
     "url": "https://github.com/konnga/skill-buddy",
-    "description": "An MIT-licensed, 93-star cross-agent desktop workspace with WorkBuddy user-scope support, unified Skill/MCP inventory, multi-platform installation, drift detection, exact write previews, trash/undo removal, public-resource discovery, private Git backup, and protected-branch team libraries",
+    "description": "An MIT-licensed, 94-star cross-agent desktop workspace with WorkBuddy user-scope support, unified Skill/MCP inventory, multi-platform installation, drift detection, exact write previews, trash/undo removal, public-resource discovery, private Git backup, and protected-branch team libraries",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
     "titleZh": "Skill Buddy",
-    "descriptionZh": "MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库",
+    "descriptionZh": "MIT 许可、94 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库",
     "categoryZh": "Tools and integrations"
   },
   {
@@ -4512,11 +4512,11 @@
   {
     "title": "Devnors Data MCP",
     "url": "https://github.com/DevnorsAI/devnors-data-mcp",
-    "description": "An MIT-licensed, 256-star remote/local MCP data service for WorkBuddy covering laws and legal cases, company registries and annual reports, tax-invoice lookup, enforcement checks, content/index/trending data, and express tracking, with capability and parameter discovery before calls",
+    "description": "An MIT-licensed, 267-star remote/local MCP data service for WorkBuddy covering laws and legal cases, company registries and annual reports, tax-invoice lookup, enforcement checks, content/index/trending data, and express tracking, with capability and parameter discovery before calls",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
     "titleZh": "Devnors Data MCP",
-    "descriptionZh": "MIT 许可、256 Star 的 WorkBuddy 远程/本地 MCP 数据服务，覆盖法律法规与裁判文书、企业登记/年报、税号开票、失信核查、内容/指数/热搜和快递查询，并支持先发现能力与参数再调用",
+    "descriptionZh": "MIT 许可、267 Star 的 WorkBuddy 远程/本地 MCP 数据服务，覆盖法律法规与裁判文书、企业登记/年报、税号开票、失信核查、内容/指数/热搜和快递查询，并支持先发现能力与参数再调用",
     "categoryZh": "Tools and integrations"
   },
   {

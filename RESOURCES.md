@@ -495,7 +495,7 @@
 - [CPA Multi Plugins](https://github.com/mmqz/cpa-multi-plugins) - MIT 许可的 CLIProxyAPI 插件集合，为 WorkBuddy、CodeBuddy、Trae 和 Qoder 提供多平台模型接入、签到与配额管理
 - [CodeBuddy OpenAI Proxy (Jevil961)](https://github.com/Jevil961/codebuddy-openai-proxy) - MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为 OpenAI 兼容 API
 - [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) - MIT 许可的 Windows 远程浏览器桥接，复用桌面版 WorkBuddy 的官方 WebUI，通过本机 CDP 提供远程页面和调用转发
-- [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、93 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库
+- [Skill Buddy](https://github.com/konnga/skill-buddy) - MIT 许可、94 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨平台安装、漂移检测、精确变更预览、垃圾箱撤销、公共资源发现、私有 Git 备份和受保护分支团队库
 - [AgentHub](https://github.com/nicechencs/AgentHub) - MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills、会话、用量和备份，并明确 MCP 当前仅做只读发现
 - [FyAgent](https://github.com/fy-agent/fyagent) - 采用 PolyForm Noncommercial 1.0.0（部分继承 CC Switch 代码仍为 MIT）的本地跨平台 AI 工具配置工作台，支持扫描 WorkBuddy、模型/Provider、Skills、MCP、提示词和相关配置的预览、保存后校验及资源分配
 - [WorkBuddy Expert Bridge](https://github.com/xiaojinlucky/workbuddy-expert-bridge) - MIT 许可的本地 Skill，让 Codex、Cursor、Claude Code、Grok 和 VS Code 等工具只读发现并推荐本机已有的 WorkBuddy 专家/专家团，先展示匹配依据和本地可用性，再由用户决定是否使用
@@ -518,7 +518,7 @@
 - [NetSuite MCP](https://github.com/Bolton-Z/ns-mcp-china) - MIT 许可、纯 Node.js 内置模块的 NetSuite MCP 连接器，可供 WorkBuddy 通过 OAuth 2.0 查询 SuiteQL、报表和记录，并自动刷新令牌
 - [Origin Auto](https://github.com/simcrq/origin-auto) - MIT 许可、面向 Windows OriginLab 的科研绘图 MCP 与 WorkBuddy Skill，提供 28 个 COM 自动化工具、独立脚本回退、真实数据出图验证以及 PNG/PDF/OPJU 存在性检查
 - [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) - MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知
-- [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - MIT 许可、256 Star 的 WorkBuddy 远程/本地 MCP 数据服务，覆盖法律法规与裁判文书、企业登记/年报、税号开票、失信核查、内容/指数/热搜和快递查询，并支持先发现能力与参数再调用
+- [Devnors Data MCP](https://github.com/DevnorsAI/devnors-data-mcp) - MIT 许可、267 Star 的 WorkBuddy 远程/本地 MCP 数据服务，覆盖法律法规与裁判文书、企业登记/年报、税号开票、失信核查、内容/指数/热搜和快递查询，并支持先发现能力与参数再调用
 - [Wudao A-Share Stock Data MCP](https://github.com/jcdreamjc/wudao-mcp) - MIT 许可、11 Star 的远程 HTTP MCP 数据服务，直接支持 WorkBuddy，提供 63 个只读 A 股工具，覆盖行情、K 线、指数/ETF、涨停梯队、板块轮动、资金流、龙虎榜、研报、公告和盘后复盘
 - [Beav](https://github.com/Jamailar/Beav) - 本地优先的自媒体素材、调研、选题与创作工作台，通过用户级插件和本机 MCP 连接 WorkBuddy
 - [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) - 让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent
