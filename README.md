@@ -21,6 +21,18 @@ WorkBuddy 实用资源导航：从第一次使用，到搭建 Skill、连接外�
 | 定时执行任务 | [Automation 指南](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) · 搜索 “自动化” |
 | 找完整案例或桌面工具 | [浏览工作流和工具](https://sandbaseai.github.io/awesome-workbuddy/) |
 
+## 最快开始
+
+1. 准备一份不含密码、客户隐私和密钥的文件副本。
+2. 告诉 WorkBuddy 要读取什么、要生成什么、有哪些限制，以及完成后检查什么。
+3. 打开结果检查内容、引用和保存位置；复杂任务分成“总结 → 生成 → 检查”几轮。
+
+可以直接复制这句话开始：
+
+> 请读取 `[文件或文件夹]`，生成 `[想要的结果]`。使用 `[语言/格式]`，只处理 `[范围]`，不要修改 `[不应修改的位置]`。完成后检查 `[引用、数字或格式]`，并列出不确定的内容。
+
+需要更详细的示例和排错方法，请看[上手教程](START_HERE.md)。
+
 ## 这里有什么？
 
 - **官方资源**：快速开始、功能文档、连接器和平台集成。

@@ -1,59 +1,61 @@
 # WorkBuddy 上手教程
 
-第一次使用时，不需要先读完整目录。按下面的路径走，通常几分钟就能完成第一个任务。
+不用先读完整目录。下面这条路径适合第一次使用：先完成一个小任务，再按需要添加 Skill、MCP 或自动化。
 
-## 1. 先选你的目标
+## 三步完成第一个任务
 
-| 你的目标 | 推荐入口 |
-| --- | --- |
-| 第一次使用 WorkBuddy | [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
-| 研究、写作、做表格或 PPT | [创建普通任务](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart) |
-| 把一套方法重复使用 | [创建或导入 Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills) |
-| 连接数据库、知识库、企微或 API | [配置 MCP](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide) |
-| 定时运行任务 | [创建 Automation](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) |
-| 远程下发任务或服务团队 | [企微助理](https://cloud.tencent.com/document/product/1831/134441) · [企业 Agent](https://cloud.tencent.com/document/product/1831/134527) |
+### 第一步：准备材料
 
-## 2. 完成第一个任务
+打开 [官方快速开始](https://www.workbuddy.ai/docs/zh/workbuddy/Quickstart)，准备一份不含密码、客户隐私和密钥的文件副本。第一次建议只处理少量文件，并把输出放到单独的文件夹。
 
-第一次请使用不敏感的文件副本，并在任务里说清楚四件事：
+### 第二步：把任务说清楚
 
-1. 要处理什么
-2. 希望得到什么结果
-3. 有哪些格式或范围限制
-4. 怎样检查任务是否完成
+一条好用的任务说明通常包含：
 
-可以直接复制这句话试试：
+- **材料**：要读取哪些文件、文件夹或信息
+- **结果**：要生成什么，以及使用什么语言和格式
+- **限制**：范围、页数、风格、截止时间或不能做的事
+- **检查**：完成后需要核对什么
 
-> 阅读 `reports/` 中三份脱敏行业报告，输出一份中文 Markdown 对比表和一份 10 页以内的管理层 PPT。每个数字标注文件名与页码，不确定的信息写“待确认”，完成后检查链接、页数和引用是否一致。只修改 `output/`。
+可以直接复制下面的模板，把方括号替换成你的内容：
 
-任务完成后，先打开结果检查内容、引用和文件位置，再继续追加要求。把大任务拆成几轮，通常比一次说完更容易得到稳定结果。
+> 请读取 `[文件或文件夹]`，生成 `[想要的结果]`。使用 `[语言/格式/风格]`，只处理 `[范围]`，不要修改 `[不应修改的位置]`。完成后检查 `[引用、数字、链接或格式]`，并列出不确定的内容。
 
-## 3. 什么时候用 Skill、MCP 和 Automation？
+例如：
 
-按这个简单判断即可：
+> 请阅读 `reports/` 中的三份脱敏报告，生成一份中文 Markdown 对比表。每个数字标注文件名和页码，只修改 `output/`，完成后检查引用和数字是否一致，并列出待确认事项。
 
-| 如果你需要…… | 使用…… |
-| --- | --- |
-| 让 WorkBuddy 按固定步骤反复完成同类任务 | **Skill** |
-| 读取或操作外部系统、服务或 API | **MCP** |
-| 在指定时间或条件下自动执行 | **Automation** |
+### 第三步：检查结果
 
-建议先把普通任务跑通，再把稳定、重复的步骤整理成 Skill；只有确实需要外部系统时才配置 MCP。
+先打开生成的文件，确认内容、引用和保存位置，再继续追加要求。复杂任务可以拆成几轮：先让 WorkBuddy 总结材料，再生成初稿，最后检查和修改。
 
-## 4. 安装社区资源前先检查
+## 什么时候需要 Skill、MCP 或 Automation？
 
-- 打开原项目 README，确认适用版本、系统环境和安装方式。
-- 查看许可证，以及它会访问的文件、账号、网络和外部服务。
-- 先用无敏感数据测试；涉及删除、发布、付款、账号设置或真实业务数据时保留人工确认。
+| 你想做的事 | 选择 | 例子 |
+| --- | --- | --- |
+| 反复执行一套固定步骤 | **Skill** | 周报、文案改写、资料整理 |
+| 读取或操作外部服务 | **MCP** | 数据库、知识库、企微、API |
+| 在指定时间或条件下执行 | **Automation** | 定时汇总、周期提醒、自动处理 |
 
-不要把密钥、Cookie、客户数据或机器专属路径写进 Skill，也不要提交到仓库。更完整的建议见 [安全指南](SECURITY.md)。
+建议顺序：**普通任务 → Skill → MCP / Automation**。先确认任务本身能稳定完成，再把重复步骤做成 Skill；确实需要外部系统时再配置 MCP。
 
-## 遇到问题怎么办？
+- [创建或导入 Skill](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Create-Skills)
+- [配置 MCP](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/MCP-Guide)
+- [创建 Automation](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide)
+- [企微助理](https://cloud.tencent.com/document/product/1831/134441) · [企业 Agent](https://cloud.tencent.com/document/product/1831/134527)
 
-- **Skill 没有触发**：确认 Skill 已安装到 WorkBuddy 的 Skills 目录，然后在任务中直接说出它要解决的目标；必要时明确写“使用某某 Skill”。
-- **MCP 连接失败**：先检查服务是否正在运行、地址和端口是否正确，再检查密钥和权限；把 MCP 配置中的敏感值隐藏后再反馈错误信息。
-- **改错文件或改动太多**：重新开始时指定“只读取某目录、只修改某目录”，并先要求 WorkBuddy 列出准备修改的文件。
-- **结果看起来不可靠**：要求它列出来源、引用和未确认事项；涉及真实业务、发布或删除时，先人工检查再执行。
+## 使用社区资源前
+
+打开原项目 README，确认适用版本、系统、安装方式和许可证；先用非敏感数据试运行。涉及删除、发布、付款、账号设置或真实业务数据时，请保留人工确认。
+
+不要把密钥、Cookie、客户数据或个人路径写进 Skill，也不要提交到仓库。更多安全建议见 [安全指南](SECURITY.md)。
+
+## 常见问题
+
+- **Skill 没有触发**：确认已安装到 WorkBuddy 的 Skills 目录，并在任务中明确写“使用 `[Skill 名称]`”。
+- **MCP 连接失败**：检查服务是否运行、地址和端口是否正确，再检查密钥与权限；分享错误时先隐藏敏感信息。
+- **改错文件或改动太多**：明确写“只读取 `[目录]`，只修改 `[目录]`”，并先让 WorkBuddy 列出准备修改的文件。
+- **结果不可靠**：要求列出来源、引用和待确认事项；重要结果先人工复核。
 
 ## 继续阅读
 

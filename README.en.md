@@ -21,6 +21,18 @@ A practical WorkBuddy directory for getting started, building Skills, connecting
 | Run tasks on a schedule | [Automation guide](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Automation-Guide) · Search “automation” |
 | Find complete examples or desktop tools | [Browse workflows and tools](https://sandbaseai.github.io/awesome-workbuddy/) |
 
+## Fastest way to start
+
+1. Prepare a copy of your files without passwords, customer data, or keys.
+2. Tell WorkBuddy what to read, what to produce, which constraints matter, and what to check.
+3. Open the result and check its content, citations, and save location. For complex tasks, work in rounds: summarize → create → review.
+
+Copy and adapt this request:
+
+> Read `[files or folder]` and produce `[desired result]`. Use `[language/format]`, process only `[scope]`, and do not modify `[off-limits location]`. When finished, check `[citations, numbers, or formatting]` and list anything uncertain.
+
+See the [getting-started tutorial](START_HERE.en.md) for examples and troubleshooting.
+
 ## What you will find
 
 - **Official resources**: quick starts, product guides, connectors, and platform integrations.
