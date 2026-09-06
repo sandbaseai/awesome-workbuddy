@@ -1835,8 +1835,8 @@
     "description": "An MIT-licensed cross-platform WorkBuddy Skill that uses pure Python and RSS to generate a searchable, filterable, dark-mode single-file HTML AI news site, with model rankings, market data, citations, and scheduled generation",
     "section": "Open-source Ecosystem",
     "category": "Ready-to-use Skills",
-    "titleZh": "AI Weekly Report",
-    "descriptionZh": "MIT 许可、兼容 WorkBuddy/Codex 等 Agent 的 AI 行业周报 Skill，从 RSS 和可选搜索数据生成可检索、可筛选、暗色模式的单文件 HTML，并保留原始链接与失败回退",
+    "titleZh": "AI Weekly Report Skill",
+    "descriptionZh": "MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS 生成可搜索、可筛选、支持暗色模式的单文件 HTML，并提供模型榜单、市场数据、引用和定时生成",
     "categoryZh": "Ready-to-use Skills"
   },
   {
@@ -3837,6 +3837,16 @@
     "category": "Tools and integrations",
     "titleZh": "Browser4",
     "descriptionZh": "Apache-2.0 许可的 AI 浏览器引擎，提供 WorkBuddy 可直接执行的 Skill、CLI、MCP 和本地网页抽取能力，支持导航、点击、表单填写、批量处理与结构化数据提取；安装会下载运行时，联网浏览和自动化操作前请确认目标网站与数据权限",
+    "categoryZh": "Tools and integrations"
+  },
+  {
+    "title": "Easy WebBridge",
+    "url": "https://github.com/xxjrq/easy-webbridge",
+    "description": "An MIT-licensed local browser bridge with explicit WorkBuddy support for already-signed-in Chrome, Edge, QQ Browser, and Chromium profiles; it isolates multiple environments by `browserId` and keeps human confirmation for publishing, sending, payment, and deletion actions",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Easy WebBridge",
+    "descriptionZh": "MIT 许可的本地浏览器桥接，明确支持 WorkBuddy，可连接已登录的 Chrome、Edge、QQ 浏览器和 Chromium；按 `browserId` 隔离多个环境，并在发布、发送、支付、删除等动作前保留人工确认",
     "categoryZh": "Tools and integrations"
   },
   {
