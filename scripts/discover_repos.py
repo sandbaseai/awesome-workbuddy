@@ -19,7 +19,9 @@ OUTPUT = ROOT / "DISCOVERIES.md"
 REPOSITORY_ROW = re.compile(r"^\| \[([^]]+)]\(https://github\.com/[^)]+\) \|")
 SEARCH_QUERIES = (
     "workbuddy in:name,description",
+    "workbuddy in:readme",
     "codebuddy in:name,description",
+    "codebuddy in:readme",
     "topic:workbuddy",
     "topic:workbuddy-skill",
     "topic:workbuddy-skills",

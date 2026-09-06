@@ -15,6 +15,10 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIn("topic:workbuddy-skill", discover_repos.SEARCH_QUERIES)
         self.assertIn("topic:workbuddy-skills", discover_repos.SEARCH_QUERIES)
 
+    def test_search_queries_include_readme_matches(self) -> None:
+        self.assertIn("workbuddy in:readme", discover_repos.SEARCH_QUERIES)
+        self.assertIn("codebuddy in:readme", discover_repos.SEARCH_QUERIES)
+
     def test_checked_in_queue_excludes_curated_repositories(self) -> None:
         root = Path(__file__).resolve().parents[1]
         discoveries = discover_repos.listed_repositories(
