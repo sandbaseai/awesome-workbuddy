@@ -4,8 +4,10 @@
 from __future__ import annotations
 
 import json
+import http.client
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -50,8 +52,17 @@ def fetch(repository: str) -> dict[str, object]:
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         request.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(request, timeout=20) as response:
-        return json.load(response)
+    last_error: Exception | None = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=20) as response:
+                return json.load(response)
+        except (http.client.RemoteDisconnected, TimeoutError, urllib.error.URLError) as error:
+            last_error = error
+            if attempt < 2:
+                time.sleep(1 + attempt)
+    assert last_error is not None
+    raise urllib.error.URLError(str(last_error))
 
 
 def render(items: list[dict[str, object]], updated: str) -> str:

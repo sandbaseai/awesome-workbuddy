@@ -255,6 +255,7 @@ lvecho/workbuddy-xhs-skills
 dzcmemory-web/bazi-ziwei-skills
 MAXXXXXLI/workbuddy-cn-legal-skills
 Maquer/workbuddy-checkin
+codeLong1024/workbuddy-checkin
 aosi526/dsh-workbuddy-xdpool
 staruhub/awesome-workbuddy
 shenchangyi/photo-to-monthly-zine-postcard

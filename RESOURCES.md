@@ -349,6 +349,7 @@
 - [Codex WorkBuddy Desktop Bridge](https://github.com/gosick233-cloud/Codex-WorkBuddy-Desktop-Bridge) - MIT 许可的本地 MCP 桥，将运行中的 WorkBuddy 作为 Codex 子代理，提供联网搜索、S1/S2/S3 代码与依赖审查、任务取消和审查会话复用
 - [WorkBuddy China Legal Skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) - Apache-2.0 许可、明确保留 Anthropic `Claude for Legal` 来源署名的 151 个中国法务 Skill 压缩包，覆盖合同、数据合规、AI 治理、劳动、知识产权、争议和监管场景
 - [WorkBuddy Check-in (Maquer)](https://github.com/Maquer/workbuddy-checkin) - MIT 许可、零第三方依赖的 Python 签到与积分查询工具，支持 CN/Global 账号、Token 自动刷新、多账号轮换、日报和 cron 定时模式
+- [WorkBuddy Check-in（codeLong1024）](https://github.com/codeLong1024/workbuddy-checkin) - MIT 许可、零依赖的 WorkBuddy 签到 Skill/脚本，仅读取本机登录态、不落盘凭证，支持先用 `--dry-run` 查询、幂等签到和 WorkBuddy 自动化安装；另含派猫旅行模块，使用前请确认账号授权与服务条款
 - [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) - MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供模型目录、额度、冷却和回环流式桥
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - MIT 许可、兼容 WorkBuddy/Codex/Cursor 的电商视觉文案 Skill；先分析商品资料和合规边界，再生成主图/详情页分镜、图内文案、设计说明和生图 Prompt，用户确认策划案后才进入最终交付；可用 `npx skills add feichanggege/ecommerce-visual-copywriting-skill` 安装
 - [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) - MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板

@@ -27,7 +27,6 @@ Last refreshed: **2026-09-06 UTC**
 | [hkxiaoyao/wbsysc](https://github.com/hkxiaoyao/wbsysc) | 8 | 2026-08-10 | Not declared | 企微数据中转 MCP Gateway - 审批/汇报/打卡数据通过MCP暴露给WorkBuddy，多租户分schema隔离，含React管理后台 |
 | [bettermen/tender-analyzer](https://github.com/bettermen/tender-analyzer) | 8 | 2026-06-18 | Not declared | 投标文件全流程智能分析技能 (WorkBuddy Skill) — 解析招标文件、MECE多维需求拆解、自动生成架构图/流程图/ER图/甘特图/雷达图、模拟评审专家打分并输出扣分明细、根据评审意见逐条自动修改、版本管理与迭代追踪 |
 | [zhizhunbao/workbuddy](https://github.com/zhizhunbao/workbuddy) | 7 | 2026-03-31 | Not declared | - |
-| [codeLong1024/workbuddy-checkin](https://github.com/codeLong1024/workbuddy-checkin) | 7 | 2026-08-15 | MIT | WorkBuddy 每日积分自动签到，纯 Python 标准库，可集成 WorkBuddy 自动化 |
 | [shuangying0001-beep/awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) | 7 | 2026-07-21 | Not declared | 精选 22 个可直接用的 AI Agent 技能：自动化/RPA、数据接入、浏览器采集、小程序全栈、Canvas 内容工厂、微信生态等 |
 | [LittleLollipop/human-like-novel-workbuddy-skill](https://github.com/LittleLollipop/human-like-novel-workbuddy-skill) | 7 | 2026-08-30 | Not declared | 仿人类小说创作 WorkBuddy 技能 — 根治AI生成痕迹，让AI写出有人感的小说 |
 | [huqiwengithub/football-odds-analyst](https://github.com/huqiwengithub/football-odds-analyst) | 7 | 2026-06-26 | Not declared | 专业足球欧亚赔率&amp;盘口数据分析师 WorkBuddy 技能 |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-06 UTC**
 | [chenjun198711/if-book-could-speak-video-generator](https://github.com/chenjun198711/if-book-could-speak-video-generator) | 6 | 2026-07-19 | MIT | 假如书籍会说话视频生成器 — 输入书名+作者，一键生成第一人称书籍自述视频（书评文案→AI扁平卡通插图→TTS配音→字幕动画→画板背景+抠图叠加→BGM+转场音效→合成MP4）。跨平台兼容 WorkBuddy/OpenClaw/Codex/TRAE Work。 |
 | [runyuan-wang/diabetes-food-guide-skill](https://github.com/runyuan-wang/diabetes-food-guide-skill) | 6 | 2026-06-18 | Not declared | 营养学 \| 糖尿病食养助手 (Diabetes Food Guide Skill) - 基于国家卫健委《成人糖尿病食养指南（2023年版）》AI科普对话助手 - 14个KPK知识点+84套食谱+9个食养方+3种中医证型+GI分类表+食物交换表 · 使用WorkBuddy构建 |
 | [buzhangsaner/workbuddy-skin](https://github.com/buzhangsaner/workbuddy-skin) | 5 | 2026-07-23 | Not declared | workbuddy 更换皮肤 |
+| [huangama666/workbuddy-skin](https://github.com/huangama666/workbuddy-skin) | 5 | 2026-07-17 | Not declared | 给 workbuddy 换肤 |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

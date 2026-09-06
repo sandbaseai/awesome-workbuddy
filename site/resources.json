@@ -2950,6 +2950,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Check-in (codeLong1024)",
+    "url": "https://github.com/codeLong1024/workbuddy-checkin",
+    "description": "An MIT-licensed, dependency-free WorkBuddy check-in Skill/script that reads local login state without persisting credentials, supports a `--dry-run` status check, idempotent check-in, and WorkBuddy automation setup; it also includes a buddy-travel module, so confirm account authorization and service terms first",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Check-in（codeLong1024）",
+    "descriptionZh": "MIT 许可、零依赖的 WorkBuddy 签到 Skill/脚本，仅读取本机登录态、不落盘凭证，支持先用 `--dry-run` 查询、幂等签到和 WorkBuddy 自动化安装；另含派猫旅行模块，使用前请确认账号授权与服务条款",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "DSH WorkBuddy XD Pool",
     "url": "https://github.com/aosi526/dsh-workbuddy-xdpool",
     "description": "An MIT-licensed DeepSeek Harness plugin that discovers historical WorkBuddy desktop logins and combines them into a failover model pool with model catalog, credits, cooldowns, and a loopback streaming bridge",
