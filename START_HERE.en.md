@@ -48,6 +48,13 @@ Get the regular task working first, then turn stable repeated steps into a Skill
 
 Never put keys, cookies, customer data, or machine-specific paths into a Skill or commit them to a repository. See the [security guide](SECURITY.md) for more advice.
 
+## What if something goes wrong?
+
+- **The Skill does not trigger**: confirm that it is installed in WorkBuddy's Skills directory, then state the goal in the task; if needed, explicitly say “use the `<skill>` Skill”.
+- **MCP connection fails**: check that the service is running and that its address, port, key, and permissions are correct. Redact secrets before sharing an error.
+- **The wrong files were changed**: restart with a clear scope such as “read only this directory and modify only that directory”, and ask WorkBuddy to list planned files first.
+- **The result seems unreliable**: ask for sources, citations, and unverified items. Review manually before real-business, publishing, or deletion actions.
+
 ## Continue reading
 
 - [Online resource directory](https://sandbaseai.github.io/awesome-workbuddy/): filter by keyword, category, and type
