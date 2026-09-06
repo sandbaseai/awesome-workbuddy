@@ -366,7 +366,7 @@
 - [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) - MIT 许可、明确支持 WorkBuddy 的证据导向求职 Skill，研究岗位和职位描述、对比简历/项目证据、识别能力缺口并安排求职行动；它不自动投递职位
 - [WorkBuddy WeChat Publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 从写作、配图、排版到微信公众号草稿发布的 Skill 包.
 - [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) - 覆盖销售 L2C 流程的 CRM Agent Skills.
-- [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - 发布前审核视频、封面、字幕、带货信息与平台合规风险，并保留证据定位.
+- [Self-media Compliance Review](https://github.com/JuneYaooo/self-media-compliance-review) - MIT 许可、明确支持 WorkBuddy 的发布前合规审核 Skill，覆盖视频号、公众号、抖音、快手、B 站和小红书，检查画面/声音/字幕/封面/评论/商品声明/资质/版权与引流，并输出带时间点或文件定位的 Pass→Blocker 风险报告；仅作风险控制辅助，不能替代平台规则、人工法务或资质审核
 - [Ontology-driven Development](https://github.com/sharptoolbox/ontology-driven-dev) - 从需求探索、本体建模到应用构建的可追溯业务系统开发 Skill.
 - [Codebase Reverse](https://github.com/sharptoolbox/codebase-reverse) - 将 Java Web 或微服务代码逆向为功能、架构、接口和数据模型文档.
 - [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) - 由一份订单档案联动生成报价单、PI、CI 与装箱单.
