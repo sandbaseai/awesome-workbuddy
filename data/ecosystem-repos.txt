@@ -218,6 +218,10 @@ THU-MAIC/OpenMAIC
 aiworkskills/wechat-article-skills
 nehemc2026/ai-operating-protocol
 jackyjinggit/xuanlan-governance-kit
+DavidDingXu/agent-media-factory
+SpartansPotato/cognitive-quadrant-skills
+BEASGON/voice-intent-normalizer
+Sunnyender-org/bflabs-memory
 kcylp/mazhu
 cabbage2000-lab/data-analysis-skills
 genapohub/graphic-design-guide

@@ -104,6 +104,7 @@
 - [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) - MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本
 - [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) - MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBuddy 的 CLI 模型桥接
 - [Skills Constitution](https://github.com/jiabaobei/skills-constitution) - MIT 许可的跨平台 Skill 元规则，明确支持 WorkBuddy，可先查找匹配能力、维护 Skill 索引并提供可选 hooks；安装会复制文件、重建索引，注册 hooks 前请先阅读脚本和回滚说明
+- [Cognitive Quadrant Skills](https://github.com/SpartansPotato/cognitive-quadrant-skills) - Apache-2.0 许可的双语认知梳理与教师科研 Skill 集合，提供两个包含 `manifest.yaml` 的 WorkBuddy ZIP 和中文安装指南；默认不需要外部 API Key，但工具能力取决于 WorkBuddy 版本、模型和权限
 - [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) - Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念/实体组织和健康度诊断
 - [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) - MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单
 - [MOSS Skills](https://github.com/adoresever/moss-skills) - Apache-2.0 许可的会议转录、说话人识别、字幕、纪要和语音生成 Skill，明确提供 WorkBuddy 导入方式；需要 MOSS API 密钥或本地模型，涉及音频/视频上传时请先确认数据授权和保存边界
@@ -226,6 +227,9 @@
 - [YueYuan Bazi](https://github.com/qianye-wuyu/yueyuan-bazi) - MIT 许可、明确支持 WorkBuddy 的研究型八字 Skill，使用确定性排盘引擎、证据/不确定度标注、预注册预测与后验验证，附规则冻结版本和 100 个虚构案例测试；仅作传统文化参考，不作宿命、医疗或投资决策依据
 - [Loom of Heaven](https://github.com/Jowitt13/loom-of-heaven) - MIT 许可、离线且结果可复现的四系统命盘引擎，提供 WorkBuddy 已发布 Skill、SHA-256 校验和安装清单；由脚本负责计算、Agent 负责收集输入和表达结果，仅作传统文化/娱乐参考
 - [WorkBuddy XHS Skills](https://github.com/lvecho/workbuddy-xhs-skills) - 许可未声明的中文小红书运营 Skill 合集，含 6 个可安装模块，覆盖变现倒推定位、账号档案、选题标题、初稿人化、视觉规划和数据复盘；README 列出融合来源，使用或再分发前请核对上游归属
+- [Agent Media Factory](https://github.com/DavidDingXu/agent-media-factory) - Apache-2.0 许可、原生支持 WorkBuddy 的中文视频/图文生产 Skill，可从选题研究一路生成脚本、分镜、配音、字幕、质检和平台发布包；默认不静默调用付费 Provider，最终发布保留人工门禁，需要按任务配置 FFmpeg/TTS 等依赖
+- [Voice Intent Normalizer](https://github.com/BEASGON/voice-intent-normalizer) - Apache-2.0 许可、提供 WorkBuddy 适配器的中文语音意图纠错 Skill，使用可扩展词库修正同音字、AI 热词和项目术语；WorkBuddy 通过生成 ZIP 后手动导入，涉及删除、发布或部署等高影响任务会保守询问确认
+- [BFLABS Memory](https://github.com/Sunnyender-org/bflabs-memory) - Apache-2.0 许可的 WorkBuddy 本地文件记忆 Skill，维护用户级 `MEMORY.md` 标记区和项目 `.workbuddy/memory/`，默认不依赖数据库、云同步或 API Key；`0.2.0` SkillHub 审核仍在进行，导入前以仓库本地包和验收说明为准
 - [boardgame-io Skill](https://github.com/liangdabiao/boardgame-io-skill) - 许可未声明、明确支持 WorkBuddy 的 boardgame.io 回合制游戏开发 Skill，提供 API 参考、多人/隐藏信息/AI 工作流，以及带测试的井字棋和卡牌项目模板
 - [Video Story Clip](https://github.com/hanyangcg/video-story-clip) - MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规划 8–15 个 50–75 秒片段，支持无损切割、合并、空白段检测和输出校验
 - [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) - MIT 许可、明确支持 WorkBuddy 的通用 UI 设计 Skill，提供 14 套调色板、4px 间距体系、字体比例、交互状态、HTML/React/Vue 模板和示例
