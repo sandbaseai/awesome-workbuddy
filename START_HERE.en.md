@@ -25,6 +25,15 @@ Copy and adapt this template:
 
 Open the generated files and confirm the content, citations, and save location before adding more requirements. For a complex task, work in rounds: summarize first, create a draft second, then review and revise.
 
+## Install a community resource
+
+1. Search for your goal in the [online directory](https://sandbaseai.github.io/awesome-workbuddy/) and open the original README.
+2. Check the WorkBuddy version, operating system, license, and dependencies before trying it on a small task.
+3. Follow the original instructions: a Skill is usually uploaded as a ZIP or copied to the Skills directory; an MCP server is usually added as a connector in settings; a workflow or guide is usually copied as a prompt or document.
+4. Start a new session after installation and name the Skill or MCP you want WorkBuddy to use.
+
+If installation is unclear, or a project asks for keys, cookies, or customer data, skip it.
+
 ## When should you use a Skill, MCP, or Automation?
 
 | You want to… | Use… | Example |
