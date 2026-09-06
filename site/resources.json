@@ -1080,6 +1080,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "BadWeWrite",
+    "url": "https://github.com/KieranHoward646/BadWeWrite",
+    "description": "An MIT-licensed WeChat Official Account writing Skill with explicit WorkBuddy support, using an irreverent conversational style while requiring sourced concrete facts and two-stage review; it provides an install script and bilingual documentation",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "BadWeWrite 损友风公众号写作",
+    "descriptionZh": "MIT 许可、明确支持 WorkBuddy 的公众号写作 Skill，用反讽和口语化风格生成文章，同时要求具体事实有来源并经过双门审稿；提供自动安装脚本和中英文文档",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Poetry Resonance",
     "url": "https://github.com/bonniegeng-max/poetry-resonance",
     "description": "An MIT-licensed Chinese-poetry Skill with explicit WorkBuddy support for matching poems to life scenes, generating daily cards and social copy, and supporting study breakdowns, recitation review, and weekly reports; it runs locally with no dependencies and optionally queries weather or poetry sources online",

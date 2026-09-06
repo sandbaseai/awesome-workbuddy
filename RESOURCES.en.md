@@ -145,6 +145,8 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 
 ### Ready-to-use Skills
 
+- [BadWeWrite](https://github.com/KieranHoward646/BadWeWrite) - An MIT-licensed WeChat Official Account writing Skill with explicit WorkBuddy support, using an irreverent conversational style while requiring sourced concrete facts and two-stage review; it provides an install script and bilingual documentation
+
 - [Poetry Resonance](https://github.com/bonniegeng-max/poetry-resonance) - An MIT-licensed Chinese-poetry Skill with explicit WorkBuddy support for matching poems to life scenes, generating daily cards and social copy, and supporting study breakdowns, recitation review, and weekly reports; it runs locally with no dependencies and optionally queries weather or poetry sources online
 
 - [DSH Auto Memory](https://github.com/Aik358/dsh-auto-memory) - A BSD-3-Clause DeepSeek Harness automatic-memory plugin that scans and manages memories from WorkBuddy, CodeBuddy, Claude Code, and Codex by source; it reads local sessions or memory files, so confirm paths and sensitive-content boundaries before importing
