@@ -9,6 +9,8 @@
 
 ## Unreleased
 
+- Simplified and expanded the bilingual README and getting-started tutorials with a three-step first-task path, copyable task template, Skill/MCP/Automation guidance, and troubleshooting.
+- Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.
 - Updated the public RSS feed and machine-readable entry points for the latest curation PRs and all five repository-maintained Skills.
