@@ -28,7 +28,7 @@ Use these pages first:
 ## Contributing and community
 
 - [Contribution guide](https://github.com/sandbaseai/awesome-workbuddy/blob/main/CONTRIBUTING.md): bilingual inclusion criteria, validation steps, and pull-request workflow.
-- [Suggest a resource](https://github.com/sandbaseai/awesome-workbuddy/issues/new/choose): structured issue forms for resources, Skills, and corrections.
+- [Suggest a resource](https://github.com/sandbaseai/awesome-workbuddy/issues/775): direct community intake for resources, Skills, and MCPs; review criteria are documented in the issue.
 - [Community discussion](https://github.com/sandbaseai/awesome-workbuddy/discussions/78): introductions, questions, and collaboration.
 
 This is an independent community index, not a Tencent publication. Indexed or

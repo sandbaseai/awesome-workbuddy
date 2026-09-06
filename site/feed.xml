@@ -5,7 +5,14 @@
     <link>https://sandbaseai.github.io/awesome-workbuddy/</link>
     <description>Newly curated WorkBuddy resources, audits, and directory improvements.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 04:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Cleaner bilingual catalog and easier resource submissions</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/785</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/785</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Removed duplicate resource entries, added bilingual catalog parity checks, refreshed the discovery queue, and linked a direct community resource submission path.</description>
+    </item>
     <item>
       <title>v0.10.11: CodeBuddy integrations and audit hardening</title>
       <link>https://github.com/sandbaseai/awesome-workbuddy/releases/tag/v0.10.11</link>
