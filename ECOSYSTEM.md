@@ -8,11 +8,11 @@ Last refreshed: **2026-09-06 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,095 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,092 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,983 | TypeScript | 2026-09-04 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,978 | TypeScript | 2026-09-03 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,096 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,989 | TypeScript | 2026-09-06 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,979 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,322 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,581 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,582 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,248 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,927 | JavaScript | 2026-09-02 |
@@ -29,7 +29,7 @@ Last refreshed: **2026-09-06 UTC**
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,804 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,558 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
-| [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,956 | JavaScript | 2026-09-06 |
+| [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 1,957 | JavaScript | 2026-09-06 |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1,789 | TypeScript | 2026-09-04 |
 | [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) | 1,597 | Rust | 2026-09-06 |
 | [Jamailar/Beav](https://github.com/Jamailar/Beav) | 1,593 | TypeScript | 2026-09-05 |
@@ -50,18 +50,18 @@ Last refreshed: **2026-09-06 UTC**
 | [MageByte-Zero/spec-superflow](https://github.com/MageByte-Zero/spec-superflow) | 786 | JavaScript | 2026-09-02 |
 | [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall) | 762 | TypeScript | 2026-09-06 |
 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 728 | TypeScript | 2026-09-05 |
-| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 713 | Python | 2026-09-02 |
+| [tourmind-com/Tourmind-Booking-Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) | 714 | Python | 2026-09-02 |
 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 701 | Python | 2026-07-09 |
 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | 684 | - | 2026-07-19 |
 | [MobiusQuant/OpenMobius-skill](https://github.com/MobiusQuant/OpenMobius-skill) | 673 | Python | 2026-09-04 |
-| [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
-| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 641 | JavaScript | 2026-09-05 |
+| [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 648 | HTML | 2026-08-23 |
+| [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 642 | JavaScript | 2026-09-05 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
 | [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 587 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 561 | Python | 2026-09-06 |
 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 558 | Go | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
-| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 554 | Python | 2026-09-02 |
+| [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 555 | Python | 2026-09-02 |
 | [Unclecheng-li/AI-Animation-Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) | 545 | HTML | 2026-04-16 |
 | [wanghuan9/skilldock](https://github.com/wanghuan9/skilldock) | 513 | Rust | 2026-09-04 |
 | [HeiGeAi/heige-codex-skin-studio](https://github.com/HeiGeAi/heige-codex-skin-studio) | 444 | JavaScript | 2026-09-04 |
@@ -163,7 +163,7 @@ Last refreshed: **2026-09-06 UTC**
 | [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 31 | JavaScript | 2026-09-05 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
 | [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
-| [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-05 |
+| [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 |
 | [Axiaohungry/dsh-llm-workbuddy](https://github.com/Axiaohungry/dsh-llm-workbuddy) | 29 | JavaScript | 2026-09-03 |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 28 | Python | 2026-09-01 |
 | [arraycto/xhs-blogger-analyzer](https://github.com/arraycto/xhs-blogger-analyzer) | 28 | - | 2026-03-31 |
@@ -272,7 +272,7 @@ Last refreshed: **2026-09-06 UTC**
 | [otakuminami/psyche-writer](https://github.com/otakuminami/psyche-writer) | 8 | - | 2026-05-18 |
 | [TokenHungryMash/personalized-travel-guide-skill](https://github.com/TokenHungryMash/personalized-travel-guide-skill) | 8 | HTML | 2026-09-04 |
 | [Luchioxy/LidKeeper](https://github.com/Luchioxy/LidKeeper) | 8 | PowerShell | 2026-06-01 |
-| [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-05 |
+| [laoyudashu/voko](https://github.com/laoyudashu/voko) | 7 | JavaScript | 2026-09-06 |
 | [evilstar2016/skill-doctor](https://github.com/evilstar2016/skill-doctor) | 7 | TypeScript | 2026-09-04 |
 | [ChosenXu/eagle-untagged-organizer](https://github.com/ChosenXu/eagle-untagged-organizer) | 7 | Python | 2026-09-05 |
 | [codexthemes/skills](https://github.com/codexthemes/skills) | 7 | TypeScript | 2026-07-21 |
