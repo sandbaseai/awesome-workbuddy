@@ -5,6 +5,7 @@
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.
 - Updated the public RSS feed and machine-readable entry points for the latest curation PRs and all five repository-maintained Skills.
+- Added accurate Star, license, and RSS status links to the top of both README files.
 - Curated the MIT-licensed Public Agent Suite, Poetry Resonance, and BadWeWrite resources with bilingual descriptions and usage boundaries.
 - Refreshed the public RSS and `llms.txt` discovery entries for recent curation and the simplified README.
 - Refreshed the ecosystem ranking with current GitHub star counts and activity dates.
