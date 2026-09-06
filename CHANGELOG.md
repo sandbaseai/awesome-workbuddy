@@ -13,6 +13,7 @@
 - Expanded automated discovery to search repository READMEs for WorkBuddy and CodeBuddy references, while keeping matches in the unvetted queue until relevance, licensing, provenance, and permissions are reviewed.
 - Curated the MIT-licensed `KHWD0922/workbuddy-skill-x-media-downloader` with CSV filtering, archive deduplication, and explicit cookies, proxy, copyright, and platform-term boundaries.
 - Simplified and expanded the bilingual README and getting-started tutorials with a three-step first-task path, copyable task template, Skill/MCP/Automation guidance, and troubleshooting.
+- Added a short bilingual community-resource installation path covering Skill ZIPs, Skills directories, MCP connectors, and reusable workflow documents.
 - Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.
