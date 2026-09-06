@@ -84,6 +84,7 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 ### Skill collections
 
 - [SOIA Open Env Skills](https://github.com/soia-team/soia-open-env-skills) - An MIT-licensed collection of 18 environment Skills with explicit WorkBuddy support, covering runtime and AI CLI installation, network diagnosis, storage cleanup, and post-install verification; read-only by default, with destructive actions requiring authorization and a dedicated WorkBuddy install/update Skill
+- [SenseNova Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - An MIT-licensed Agent Skills collection covering image generation, infographics, PPT, Excel, and deep research; its PPT workbench Skill explicitly documents a WorkBuddy provider adapter, while the main installation guide targets OpenClaw/Hermes, so WorkBuddy users should verify manual Skill installation
 
 - [Public Agent Suite](https://github.com/yangfanai/public) - An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios
 

@@ -560,6 +560,16 @@
     "categoryZh": "Skill collections"
   },
   {
+    "title": "SenseNova Skills",
+    "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+    "description": "An MIT-licensed Agent Skills collection covering image generation, infographics, PPT, Excel, and deep research; its PPT workbench Skill explicitly documents a WorkBuddy provider adapter, while the main installation guide targets OpenClaw/Hermes, so WorkBuddy users should verify manual Skill installation",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "SenseNova Skills",
+    "descriptionZh": "MIT 许可的 Agent Skills 集合，覆盖图片生成、信息图、PPT、Excel 和深度研究；其中 PPT 工作台 Skill 明确记录 WorkBuddy 提供商适配，但官方安装文档主要面向 OpenClaw/Hermes，WorkBuddy 用户应按通用 Skill 方式手动验证",
+    "categoryZh": "Skill collections"
+  },
+  {
     "title": "Public Agent Suite",
     "url": "https://github.com/yangfanai/public",
     "description": "An MIT-licensed suite of standalone Agents, Skills, and multi-agent teams, with several products explicitly supporting WorkBuddy; it publishes source packages, release ZIPs, a catalog, and validation metadata for choosing by research, reporting, review, or task-collaboration scenarios",

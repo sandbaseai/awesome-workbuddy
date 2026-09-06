@@ -9,9 +9,9 @@ Last refreshed: **2026-09-06 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,095 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,097 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,003 | TypeScript | 2026-09-06 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,005 | TypeScript | 2026-09-06 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,980 | TypeScript | 2026-09-03 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,324 | Shell | 2026-08-28 |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,325 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,586 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,248 | - | 2026-08-25 |
@@ -19,6 +19,7 @@ Last refreshed: **2026-09-06 UTC**
 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 6,150 | JavaScript | 2026-09-06 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,928 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,780 | Go | 2026-09-06 |
+| [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) | 5,388 | JavaScript | 2026-09-03 |
 | [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,310 | Rust | 2026-09-06 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
@@ -42,7 +43,7 @@ Last refreshed: **2026-09-06 UTC**
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-06 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,064 | Rust | 2026-09-06 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,065 | Rust | 2026-09-06 |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 1,000 | JavaScript | 2026-09-03 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-06 |
@@ -159,8 +160,8 @@ Last refreshed: **2026-09-06 UTC**
 | [shrek-abaper/sap-engineering-skill](https://github.com/shrek-abaper/sap-engineering-skill) | 34 | Python | 2026-08-17 |
 | [AiToByte/AgenticMetaEngineering](https://github.com/AiToByte/AgenticMetaEngineering) | 33 | - | 2026-04-13 |
 | [opensymph/OpenBuddy](https://github.com/opensymph/OpenBuddy) | 33 | TypeScript | 2026-08-25 |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 32 | JavaScript | 2026-09-05 |
 | [wicm84266964/Buddy2api](https://github.com/wicm84266964/Buddy2api) | 32 | Python | 2026-08-30 |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | 31 | JavaScript | 2026-09-05 |
 | [asen-goat-mine/boujoy-local-markdown-memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) | 31 | Python | 2026-08-25 |
 | [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) | 30 | Python | 2026-08-06 |
 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 30 | JavaScript | 2026-09-06 |

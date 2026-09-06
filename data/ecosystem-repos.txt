@@ -29,6 +29,7 @@ naive-kun/naive-video-skill
 sandbaseai/workbuddy-skill
 soia-team/soia-open-env-skills
 lovejiaowu-hue/pm-to-dev-delivery
+OpenSenseNova/SenseNova-Skills
 YuLaiZ/token-usage
 genapohub/ux-design-guide
 genapohub/team-orchestrator
