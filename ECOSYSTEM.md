@@ -9,7 +9,7 @@ Last refreshed: **2026-09-06 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,926 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,927 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,974 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -145,7 +145,7 @@ Last refreshed: **2026-09-06 UTC**
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |
 | [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 52 | TypeScript | 2026-08-27 |
-| [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) | 48 | JavaScript | 2026-09-05 |
+| [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) | 48 | JavaScript | 2026-09-06 |
 | [joosure/Maestro](https://github.com/joosure/Maestro) | 46 | Elixir | 2026-07-09 |
 | [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) | 44 | JavaScript | 2026-09-05 |
 | [liuyuexi1987/shenlun-review-pro](https://github.com/liuyuexi1987/shenlun-review-pro) | 44 | Python | 2026-08-03 |
@@ -246,6 +246,7 @@ Last refreshed: **2026-09-06 UTC**
 | [frank666199/frank-presales-skills](https://github.com/frank666199/frank-presales-skills) | 11 | - | 2026-07-03 |
 | [Waterkyuu/theoria](https://github.com/Waterkyuu/theoria) | 11 | Rust | 2026-09-05 |
 | [Raven7979/cyber-bookhouse](https://github.com/Raven7979/cyber-bookhouse) | 11 | Python | 2026-08-20 |
+| [yekwennnn/ashare-graham-screener](https://github.com/yekwennnn/ashare-graham-screener) | 11 | Python | 2026-07-21 |
 | [cabbage2000-lab/data-analysis-skills](https://github.com/cabbage2000-lab/data-analysis-skills) | 10 | HTML | 2026-09-03 |
 | [liangdabiao/boardgame-io-skill](https://github.com/liangdabiao/boardgame-io-skill) | 10 | JavaScript | 2026-08-17 |
 | [hawklithm/workbuddy2api](https://github.com/hawklithm/workbuddy2api) | 9 | Python | 2026-08-22 |
@@ -295,7 +296,7 @@ Last refreshed: **2026-09-06 UTC**
 | [bettermen/ad-trader](https://github.com/bettermen/ad-trader) | 6 | Python | 2026-06-21 |
 | [elvinzhao10/LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) | 5 | Shell | 2026-09-05 |
 | [zhangxiaoqiang1991/workbuddy-skin-skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) | 5 | CSS | 2026-07-16 |
-| [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-05 |
+| [nicechencs/AgentHub](https://github.com/nicechencs/AgentHub) | 5 | Rust | 2026-09-06 |
 | [shenquan520/reading-analysis](https://github.com/shenquan520/reading-analysis) | 5 | Python | 2026-09-05 |
 | [chouraycn/beautiful-mermaid](https://github.com/chouraycn/beautiful-mermaid) | 5 | HTML | 2026-04-01 |
 | [loonghao/maya_umbrella_scanner](https://github.com/loonghao/maya_umbrella_scanner) | 5 | Python | 2026-08-26 |
@@ -473,6 +474,6 @@ Last refreshed: **2026-09-06 UTC**
 | [LIN-LAB-AI/smartoken](https://github.com/LIN-LAB-AI/smartoken) | 0 | Python | 2026-09-05 |
 | [oreogong2/TokenFleet](https://github.com/oreogong2/TokenFleet) | 0 | Swift | 2026-09-05 |
 | [jiadakong2013wy-eng/turning-ideas-into-projects](https://github.com/jiadakong2013wy-eng/turning-ideas-into-projects) | 0 | Shell | 2026-09-05 |
-| [idea-internet/idea_internet](https://github.com/idea-internet/idea_internet) | 0 | TypeScript | 2026-09-05 |
+| [idea-internet/idea_internet](https://github.com/idea-internet/idea_internet) | 0 | TypeScript | 2026-09-06 |
 
 Want to add a project? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.

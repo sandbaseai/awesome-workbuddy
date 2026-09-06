@@ -17,7 +17,13 @@ ROOT = Path(__file__).resolve().parents[1]
 CURATED = ROOT / "data" / "ecosystem-repos.txt"
 OUTPUT = ROOT / "DISCOVERIES.md"
 REPOSITORY_ROW = re.compile(r"^\| \[([^]]+)]\(https://github\.com/[^)]+\) \|")
-SEARCH_TERMS = ("workbuddy", "codebuddy")
+SEARCH_QUERIES = (
+    "workbuddy in:name,description",
+    "codebuddy in:name,description",
+    "topic:workbuddy",
+    "topic:workbuddy-skill",
+    "topic:workbuddy-skills",
+)
 
 
 def curated_repositories() -> set[str]:
@@ -40,10 +46,10 @@ def fetch_candidates() -> list[dict[str, object]]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=180)).date().isoformat()
     token = os.environ.get("GITHUB_TOKEN")
     repositories: dict[str, dict[str, object]] = {}
-    for term in SEARCH_TERMS:
-        # Keep the queue focused: README-only matches are usually broad agent
-        # projects that merely mention WorkBuddy in an integration list.
-        query = f"{term} in:name,description stars:>=10 pushed:>={cutoff}"
+    for base_query in SEARCH_QUERIES:
+        # Keep name/description matches focused; topic queries add projects
+        # whose WorkBuddy support is documented through repository metadata.
+        query = f"{base_query} stars:>=10 pushed:>={cutoff}"
         params = urllib.parse.urlencode(
             {"q": query, "sort": "stars", "order": "desc", "per_page": 100}
         )
