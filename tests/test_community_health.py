@@ -1,4 +1,5 @@
 from pathlib import Path
+from xml.etree import ElementTree
 import unittest
 
 
@@ -6,6 +7,14 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class CommunityHealthTests(unittest.TestCase):
+    def test_public_feed_is_valid_and_has_recent_updates(self) -> None:
+        feed = ElementTree.parse(ROOT / "site" / "feed.xml")
+        channel = feed.getroot().find("channel")
+        self.assertIsNotNone(channel)
+        items = channel.findall("item") if channel is not None else []
+        self.assertGreaterEqual(len(items), 2)
+        self.assertTrue(all(item.findtext("link", "").startswith("https://") for item in items))
+
     def test_public_readmes_focus_on_resource_content(self) -> None:
         for filename in ("README.md", "README.en.md"):
             content = (ROOT / filename).read_text(encoding="utf-8")
