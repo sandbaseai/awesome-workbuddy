@@ -7,6 +7,20 @@
     <language>en</language>
     <lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
     <item>
+      <title>New Skills and Agent Suite added</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/795</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/795</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Added the MIT-licensed BadWeWrite and Poetry Resonance Skills plus the Public Agent Suite, with bilingual descriptions and usage boundaries.</description>
+    </item>
+    <item>
+      <title>README made easier for everyday users</title>
+      <link>https://github.com/sandbaseai/awesome-workbuddy/pull/792</link>
+      <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/792</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Reorganized the bilingual README around user goals, quick entry points, practical search terms, and a first-task example.</description>
+    </item>
+    <item>
       <title>Cleaner bilingual catalog and easier resource submissions</title>
       <link>https://github.com/sandbaseai/awesome-workbuddy/pull/785</link>
       <guid isPermaLink="true">https://github.com/sandbaseai/awesome-workbuddy/pull/785</guid>
