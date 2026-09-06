@@ -310,6 +310,16 @@
     "categoryZh": "Community channels"
   },
   {
+    "title": "semlinker/awesome-workbuddy",
+    "url": "https://github.com/semlinker/awesome-workbuddy",
+    "description": "A CC0 1.0 WorkBuddy learning directory covering quick starts, practical cases, prompts, Skills, MCP, and scenario guides; it is a community list, so verify links and versions against the original authors",
+    "section": "Open-source Ecosystem",
+    "category": "Learning and reference",
+    "titleZh": "semlinker/awesome-workbuddy",
+    "descriptionZh": "CC0 1.0 的 WorkBuddy 学习资料导航，汇总快速入门、实战案例、提示词、Skills、MCP 和场景教程；社区清单，使用前请按原作者说明核验链接与版本",
+    "categoryZh": "Learning and reference"
+  },
+  {
     "title": "WorkBuddy Starter",
     "url": "https://github.com/sunyet-01/WorkBuddy-Starter",
     "description": "An MIT-licensed beginner-oriented WorkBuddy guide organized around getting started, Skills, scenarios, and examples, with additional ecosystem links for moving from first use to practical workflows",

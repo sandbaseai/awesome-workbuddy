@@ -56,6 +56,7 @@
 
 ### Learning and reference
 
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - CC0 1.0 的 WorkBuddy 学习资料导航，汇总快速入门、实战案例、提示词、Skills、MCP 和场景教程；社区清单，使用前请按原作者说明核验链接与版本
 - [WorkBuddy Starter](https://github.com/sunyet-01/WorkBuddy-Starter) - MIT 许可、面向新手的 WorkBuddy 入门资料库，按入门、Skills、使用场景和案例组织内容，并补充相关生态链接，适合从第一次使用过渡到具体实践
 - [WorkBuddy 跨设备迁移指南](https://github.com/junxi-fan/workbuddy-migration-guide) - MIT 许可的 WorkBuddy 数据迁移指南，梳理对话历史、记忆、Skills、工作区、`workbuddy.db` 及 WAL 文件的关系，并列出运行中迁移和敏感连接器文件的注意事项
 - [WorkBuddy 效率进阶实训课程](https://github.com/cloudzun/WorkBuddy-Course) - CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版本变化，使用或再分发时请遵守禁止演绎条款
