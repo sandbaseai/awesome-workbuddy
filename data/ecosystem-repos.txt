@@ -1,5 +1,6 @@
 # One GitHub owner/repository per line. Keep this list curated.
 yangfanai/public
+bonniegeng-max/poetry-resonance
 MobiusQuant/OpenMobius-skill
 rullerzhou-afk/clawd-on-desk
 vergess3/workbuddy-remote
