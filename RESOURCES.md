@@ -129,7 +129,7 @@
 - [Web Security Test Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) - MIT 许可、面向 CodeBuddy/WorkBuddy 的中英双语网站安全测试 Skill，包含授权白名单、有效期/签名门禁、非破坏性检查、证据留痕和复查周期
 - [AI HR Department](https://github.com/GiaSip/ai-hr) - MIT 许可的中文 WorkBuddy Skill，通过只读 Python 收集器仅输出目录统计、扩展名和固定枚举，不输出文件名、内容或网络请求，再生成可分享的画像卡
 - [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池.
-- [Ray Skills](https://github.com/imraywang/rayskills) - 面向内容生产与发布的可执行、可验证、可恢复工作流.
+- [Ray Skills](https://github.com/imraywang/rayskills) - CC BY-NC 4.0 许可的 10 个内容生产与发布工作流，强调可执行、可验证、可恢复，支持构建 WorkBuddy 专用 ZIP 导入；覆盖知识库、写作、封面、视频、公众号和 X Articles，默认停在草稿并保留发布确认边界；商业使用和 `ray-multimodel` 内置第三方组件请分别核对许可
 - [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) - 涵盖创作、编程、办公和通用工具的 Skill 集合.
 - [Zotero MCP WorkBuddy Guide](https://github.com/maciechen/zotero-mcp-workbuddy-guide) - 许可未声明的中文配置指南，将 Zotero 文献库接入 WorkBuddy，覆盖本地、云端和混合模式，并提供 MCP 配置模板与环境验证脚本
 - [WorkBuddy MCP OAuth Guide](https://github.com/normalpeople553/workbuddy-mcp-oauth-guide) - MIT 许可的远程 MCP OAuth 2.1/PKCE 排障与上线指南，包含动态客户端注册、回调 URI 白名单、权限校验、脱敏示例和单元测试
