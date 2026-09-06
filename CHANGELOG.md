@@ -9,6 +9,7 @@
 
 ## Unreleased
 
+- Curated the MIT-licensed `KHWD0922/workbuddy-skill-x-media-downloader` with CSV filtering, archive deduplication, and explicit cookies, proxy, copyright, and platform-term boundaries.
 - Simplified and expanded the bilingual README and getting-started tutorials with a three-step first-task path, copyable task template, Skill/MCP/Automation guidance, and troubleshooting.
 - Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
