@@ -50,8 +50,8 @@ class CommunityHealthTests(unittest.TestCase):
             "authors:",
             'repository-code: "https://github.com/sandbaseai/awesome-workbuddy"',
             'license: CC0-1.0',
-            "version: 0.10.30",
-            "date-released: 2026-09-05",
+            "version: 0.10.31",
+            "date-released: 2026-09-06",
         ):
             self.assertIn(field, citation)
     def test_contribution_flow_is_bilingual(self) -> None:
