@@ -22,6 +22,7 @@
 - Curated `codeLong1024/workbuddy-checkin` as a narrowly scoped MIT-licensed check-in Skill/script, documenting its read-only local auth handling, dry-run mode, and separate travel module boundary.
 - Made ecosystem metadata refresh retry transient GitHub connection failures before aborting, so a single dropped API connection does not leave generated metadata stale.
 - Curated `chenjun198711/if-book-could-speak-video-generator`, an MIT-licensed WorkBuddy-compatible book-video Skill with local rendering, explicit dependency setup, and third-party media-service cost/data caveats.
+- Curated `julen22/workbuddy-stock-research`, an MIT-licensed WorkBuddy-based local stock-research dashboard, with API-key handling and non-investment-advice boundaries called out for users.
 - Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.

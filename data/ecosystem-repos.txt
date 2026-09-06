@@ -176,6 +176,7 @@ codexthemes/skills
 wzx11223344/one-person-company
 smiling66652/skill-integrator
 lijq126/short-term-stock-picker
+julen22/workbuddy-stock-research
 maning636/workbuddy-runbook
 yxxawa/workbuddy_to_api
 MasterHesse/minecraft-mod-search

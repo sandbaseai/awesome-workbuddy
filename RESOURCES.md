@@ -245,6 +245,7 @@
 - [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) - MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS 生成可搜索、可筛选、支持暗色模式的单文件 HTML，并提供模型榜单、市场数据、引用和定时生成
 - [香港商業寫作](https://github.com/simonsiu2008-bit/hk-business-writing) - MIT 许可的 WorkBuddy/Claude Skill，将内地商业中文改写为香港书面语，提供 80+ 用语对照、叙事框架、示例和自查清单
 - [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) - MIT 许可的 WorkBuddy A 股短线与 ETF 研究 Skill，按实时行情、情绪和技术信号生成候选分析；仅作研究参考，不构成投资建议
+- [WorkBuddy Stock Research](https://github.com/julen22/workbuddy-stock-research) - MIT 许可的 WorkBuddy 个人投研仪表盘，支持 A 股、港股、美股、ETF 行情、AI 分析、持仓和本地复盘笔记；通过本地 Node 代理连接模型，使用前请保护 API Key，并将结果仅作为研究参考而非投资建议
 - [A-share Graham Screener](https://github.com/yekwennnn/ashare-graham-screener) - MIT 许可的 A 股防御型选股 Skill，按 7 条格雷厄姆价值条件筛选全市场并输出 Excel 明细；依赖 WorkBuddy 数据工具，结果仅供研究参考，不构成投资建议
 - [WorkBuddy Market Briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) - MIT 许可的 WorkBuddy 大宗商品晨报与美股盘前日报工作流，包含 `SKILL.md`、数据脚本、HTML 示例和定时发送；仅作研究参考
 - [Ecommerce Detail-page Planner](https://github.com/Banye0517/ecommerce-detail-page-skill) - MIT 许可的 WorkBuddy 电商详情页策划 Skill，根据产品和卖点生成竞品分析、分屏文案与画面描述

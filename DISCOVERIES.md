@@ -39,7 +39,6 @@ Last refreshed: **2026-09-06 UTC**
 | [acgq/workbuddy-linux](https://github.com/acgq/workbuddy-linux) | 6 | 2026-09-04 | MIT | Unofficial Debian/Ubuntu packages for Tencent WorkBuddy |
 | [jackbauerxu/workbuddy-xhs-skills](https://github.com/jackbauerxu/workbuddy-xhs-skills) | 6 | 2026-08-01 | Not declared | Agent Skills for Xiaohongshu cold start, positioning, topic bank, humanized drafts, visual planning, and review loops |
 | [koi128bit/WorkBuddy-Switch](https://github.com/koi128bit/WorkBuddy-Switch) | 6 | 2026-07-25 | MIT | 一站式管理 WorkBuddy、Trae CN 与 TRAE Work：macOS 原生账号快切与 Token/Credits/额度用量统计，并支持 WorkBuddy 跨账号恢复对话。 |
-| [julen22/workbuddy-stock-research](https://github.com/julen22/workbuddy-stock-research) | 6 | 2026-07-06 | MIT | 📊 个人 AI 投研辅助工具 - 基于 WorkBuddy AI 的多市场股票投研仪表盘（A股/港股/美股/ETF） |
 | [hangtiger/international-ai-deploy-skill](https://github.com/hangtiger/international-ai-deploy-skill) | 6 | 2026-03-11 | Not declared | deploy model of anthropic 、gemini、gtp to workbuddy skill |
 | [lamchales50/Gaussian-DFT-Ultimate](https://github.com/lamchales50/Gaussian-DFT-Ultimate) | 6 | 2026-08-14 | Not declared | Portable Gaussian, Multiwfn and VMD Agent Skill for Codex and WorkBuddy |
 | [zhangjianqiang123/hy3-proxy](https://github.com/zhangjianqiang123/hy3-proxy) | 6 | 2026-08-10 | MIT | Reverse proxy for WorkBuddy free hy3 (Tencent Hunyuan 3) via copilot.tencent.com - OpenAI-compatible chat/completions &amp; responses API |
@@ -47,5 +46,6 @@ Last refreshed: **2026-09-06 UTC**
 | [buzhangsaner/workbuddy-skin](https://github.com/buzhangsaner/workbuddy-skin) | 5 | 2026-07-23 | Not declared | workbuddy 更换皮肤 |
 | [huangama666/workbuddy-skin](https://github.com/huangama666/workbuddy-skin) | 5 | 2026-07-17 | Not declared | 给 workbuddy 换肤 |
 | [workbuddy-gateway-team/workbuddy-gateway](https://github.com/workbuddy-gateway-team/workbuddy-gateway) | 5 | 2026-07-26 | MIT | - |
+| [zhuang-HE/Workbuddy-AutoCAD](https://github.com/zhuang-HE/Workbuddy-AutoCAD) | 5 | 2026-05-19 | Not declared | - |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

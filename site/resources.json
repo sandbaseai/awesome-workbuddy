@@ -1940,6 +1940,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy Stock Research",
+    "url": "https://github.com/julen22/workbuddy-stock-research",
+    "description": "An MIT-licensed WorkBuddy personal-investment research dashboard for A-shares, Hong Kong/US stocks, ETFs, AI analysis, holdings, and local review notes; it uses a local Node proxy for model calls, so protect the API key and treat outputs as research rather than investment advice",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy Stock Research",
+    "descriptionZh": "MIT 许可的 WorkBuddy 个人投研仪表盘，支持 A 股、港股、美股、ETF 行情、AI 分析、持仓和本地复盘笔记；通过本地 Node 代理连接模型，使用前请保护 API Key，并将结果仅作为研究参考而非投资建议",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "A-share Graham Screener",
     "url": "https://github.com/yekwennnn/ashare-graham-screener",
     "description": "An MIT-licensed A-share defensive-stock screening Skill that applies seven Graham-style value conditions and exports an Excel detail sheet; it depends on WorkBuddy market-data tools and is for research only, not investment advice",
