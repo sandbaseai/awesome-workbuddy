@@ -222,6 +222,10 @@ DavidDingXu/agent-media-factory
 SpartansPotato/cognitive-quadrant-skills
 BEASGON/voice-intent-normalizer
 Sunnyender-org/bflabs-memory
+CodeDrobe/core
+svd-ai-lab/sim-buddy
+17638759823/workbuddy-atom
+Joy4Fire/workbuddy-auto-signin-skills
 kcylp/mazhu
 cabbage2000-lab/data-analysis-skills
 genapohub/graphic-design-guide

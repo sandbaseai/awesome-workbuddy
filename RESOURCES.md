@@ -355,6 +355,7 @@
 - [WorkBuddy China Legal Skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) - Apache-2.0 许可、明确保留 Anthropic `Claude for Legal` 来源署名的 151 个中国法务 Skill 压缩包，覆盖合同、数据合规、AI 治理、劳动、知识产权、争议和监管场景
 - [WorkBuddy Check-in (Maquer)](https://github.com/Maquer/workbuddy-checkin) - MIT 许可、零第三方依赖的 Python 签到与积分查询工具，支持 CN/Global 账号、Token 自动刷新、多账号轮换、日报和 cron 定时模式
 - [WorkBuddy Check-in（codeLong1024）](https://github.com/codeLong1024/workbuddy-checkin) - MIT 许可、零依赖的 WorkBuddy 签到 Skill/脚本，仅读取本机登录态、不落盘凭证，支持先用 `--dry-run` 查询、幂等签到和 WorkBuddy 自动化安装；另含派猫旅行模块，使用前请确认账号授权与服务条款
+- [WorkBuddy Auto Sign-in Skills（Joy4Fire）](https://github.com/Joy4Fire/workbuddy-auto-signin-skills) - Apache-2.0 许可、仅支持 Windows 的视觉驱动 WorkBuddy 自动签到 Skill，依赖 pyautogui/Pillow/NumPy，通过锁屏、输入隔离和像素变化检查降低误操作；会控制窗口、截图和点击，建议只在非锁屏、已授权的机器上运行
 - [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) - MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供模型目录、额度、冷却和回环流式桥
 - [E-commerce Visual Copywriting](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) - MIT 许可、兼容 WorkBuddy/Codex/Cursor 的电商视觉文案 Skill；先分析商品资料和合规边界，再生成主图/详情页分镜、图内文案、设计说明和生图 Prompt，用户确认策划案后才进入最终交付；可用 `npx skills add feichanggege/ecommerce-visual-copywriting-skill` 安装
 - [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) - MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板
@@ -566,6 +567,9 @@
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - AGPL-3.0 许可的跨平台 Agent 桌宠和状态通知工具，明确支持 WorkBuddy，可通过可选 hooks 观察任务状态并发送通知
 - [Dream Work Theme](https://github.com/xxxhh336/dream-work-theme) - Apache-2.0 的跨平台 Electron 主题管理器，明确支持 WorkBuddy，可发现应用、按兼容性筛选主题、运行时切换/恢复并提供主题菜单
 - [WorkBuddy Dream Skin（macOS）](https://github.com/smartcai87/workbuddy-dream-skin) - MIT 许可的 macOS 外置换肤工具，通过本机回环 CDP 注入可逆主题，支持明暗模式、自定义图片、热切换和恢复官方外观，不修改 WorkBuddy.app、签名或 app.asar
+- [CodeDrobe Core](https://github.com/CodeDrobe/core) - Apache-2.0 许可的可逆桌面主题运行时，包含 WorkBuddy 适配器、CDP 快照/注入、探测、验证和恢复流程；已记录 WorkBuddy macOS/Windows 版本验收，默认不重启正在运行的应用，主题包不能携带 JavaScript
+- [WorkBuddy 原子岛](https://github.com/17638759823/workbuddy-atom) - Apache-2.0 许可的 Windows Qt 桌面状态胶囊，仅读取 `~/.workbuddy/workbuddy.db` 的任务状态、积分和模型并实时展示，不联网或写入 WorkBuddy 数据库；需要自行用 Qt Creator/Qt 5.12+ 构建，使用前确认数据库路径和本地读取权限
+- [sim-buddy](https://github.com/svd-ai-lab/sim-buddy) - Apache-2.0 许可的 WorkBuddy/CodeBuddy 仿真插件市场，可通过本地 `sim` CLI 调用 COMSOL、OpenFOAM、Fluent、HFSS 等 CAE/CFD 工具；安装脚本会下载 `uv`、全局 CLI 并写入用户级插件目录，使用远程安装命令前应先审阅脚本和所选求解器权限
 - [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) - 零依赖的签到与成长任务自动化
 - [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) - MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求
 - [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) - MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任务安装/卸载、旧任务备份和测试
