@@ -373,6 +373,7 @@
 - [Org Context](https://github.com/wangjialiang678/org-context) - MIT 许可、支持 WorkBuddy/Claude Code/OpenCode 的企业上下文组织 Skill，以事实树、判断账和状态页降低 Agent 找错资料的概率，附带模板、可运行示例和机械校验
 - [Delivery Razor](https://github.com/Ketian823/delivery-razor) - MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则
 - [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) - MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱
+- [PM to Dev Delivery](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) - MIT 许可、提供明确 WorkBuddy 适配入口的产品工程交付 Skill，将既有系统、Demo、PRD、流程和样例数据整理为研发可接手的文档、模块化 Demo、接口示例和验收清单，并带可执行检查器
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - 创建、校验、预览、应用和恢复可逆的 WorkBuddy 运行时主题
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
 

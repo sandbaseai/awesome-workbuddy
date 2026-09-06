@@ -15,6 +15,7 @@
 - Simplified and expanded the bilingual README and getting-started tutorials with a three-step first-task path, copyable task template, Skill/MCP/Automation guidance, and troubleshooting.
 - Added a short bilingual community-resource installation path covering Skill ZIPs, Skills directories, MCP connectors, and reusable workflow documents.
 - Curated the MIT-licensed `soia-team/soia-open-env-skills` collection with explicit WorkBuddy installation guidance, read-only defaults, and authorization boundaries for environment changes.
+- Curated the MIT-licensed `lovejiaowu-hue/pm-to-dev-delivery` with its explicit WorkBuddy adapter and executable delivery-package validation workflow.
 - Refreshed verified Star snapshots for WorkBuddyGuide, Skill Buddy, and Devnors Data MCP, and recorded the tutorial update in the public resource-submission issue.
 - Curated the MIT-licensed `YuLaiZ/token-usage`, `genapohub/ux-design-guide`, `genapohub/team-orchestrator`, and `SuperLaos/drug-label-structurizer` resources with local-data, staged-orchestration, design-workflow, and medical-review boundaries.
 - Refreshed the synchronized resource JSON, ecosystem metadata, and discovery queue for the new entries.

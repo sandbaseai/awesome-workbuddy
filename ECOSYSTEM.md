@@ -9,10 +9,10 @@ Last refreshed: **2026-09-06 UTC**
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,095 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,097 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,002 | TypeScript | 2026-09-06 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,003 | TypeScript | 2026-09-06 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,980 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,324 | Shell | 2026-08-28 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,585 | Python | 2026-09-05 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,586 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,248 | - | 2026-08-25 |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | 9,928 | JavaScript | 2026-09-02 |
@@ -25,7 +25,7 @@ Last refreshed: **2026-09-06 UTC**
 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3,206 | Python | 2026-09-05 |
 | [edison7009/EchoBird](https://github.com/edison7009/EchoBird) | 3,170 | Rust | 2026-09-05 |
 | [rpamis/comet](https://github.com/rpamis/comet) | 2,931 | JavaScript | 2026-09-05 |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,819 | TypeScript | 2026-09-04 |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 2,820 | TypeScript | 2026-09-04 |
 | [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) | 2,804 | HTML | 2026-09-03 |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2,560 | - | 2026-07-05 |
 | [QoderAI/better-harness](https://github.com/QoderAI/better-harness) | 2,168 | JavaScript | 2026-09-04 |
@@ -42,7 +42,7 @@ Last refreshed: **2026-09-06 UTC**
 | [platonai/Browser4](https://github.com/platonai/Browser4) | 1,122 | Kotlin | 2026-09-05 |
 | [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | 1,092 | TypeScript | 2026-09-05 |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1,090 | Swift | 2026-09-06 |
-| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,065 | Rust | 2026-09-06 |
+| [fy-agent/fyagent](https://github.com/fy-agent/fyagent) | 1,064 | Rust | 2026-09-06 |
 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 1,000 | JavaScript | 2026-09-03 |
 | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 944 | - | 2026-08-25 |
 | [oceanbase/powercontext](https://github.com/oceanbase/powercontext) | 943 | Python | 2026-09-06 |
@@ -143,8 +143,8 @@ Last refreshed: **2026-09-06 UTC**
 | [sharptoolbox/codebase-reverse](https://github.com/sharptoolbox/codebase-reverse) | 57 | PowerShell | 2026-08-30 |
 | [HanHan666666/codebuddy2openai](https://github.com/HanHan666666/codebuddy2openai) | 56 | Python | 2026-06-19 |
 | [hufeng173/kunpeng-skill](https://github.com/hufeng173/kunpeng-skill) | 54 | Python | 2026-09-04 |
+| [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 53 | TypeScript | 2026-09-06 |
 | [CodeDrobe/desktop](https://github.com/CodeDrobe/desktop) | 53 | TypeScript | 2026-07-19 |
-| [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 52 | TypeScript | 2026-09-06 |
 | [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) | 47 | JavaScript | 2026-09-06 |
 | [joosure/Maestro](https://github.com/joosure/Maestro) | 46 | Elixir | 2026-07-09 |
 | [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit) | 44 | JavaScript | 2026-09-05 |
@@ -373,6 +373,7 @@ Last refreshed: **2026-09-06 UTC**
 | [bonniegeng-max/poetry-resonance](https://github.com/bonniegeng-max/poetry-resonance) | 1 | - | 2026-09-03 |
 | [KieranHoward646/BadWeWrite](https://github.com/KieranHoward646/BadWeWrite) | 1 | Shell | 2026-09-03 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-06 |
+| [lovejiaowu-hue/pm-to-dev-delivery](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) | 1 | JavaScript | 2026-06-08 |
 | [YuLaiZ/token-usage](https://github.com/YuLaiZ/token-usage) | 1 | Go | 2026-09-04 |
 | [genapohub/ux-design-guide](https://github.com/genapohub/ux-design-guide) | 1 | - | 2026-09-02 |
 | [genapohub/team-orchestrator](https://github.com/genapohub/team-orchestrator) | 1 | - | 2026-09-02 |
