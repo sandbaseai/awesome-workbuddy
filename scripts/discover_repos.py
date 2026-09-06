@@ -21,6 +21,7 @@ SEARCH_QUERIES = (
     "workbuddy in:name,description",
     "workbuddy in:name,description stars:0..9",
     "workbuddy in:readme",
+    "workbuddy in:readme stars:0..9",
     "codebuddy in:name,description",
     "codebuddy in:readme",
     "topic:workbuddy",

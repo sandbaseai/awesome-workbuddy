@@ -24,6 +24,10 @@ class DiscoveryTests(unittest.TestCase):
             "workbuddy in:name,description stars:0..9",
             discover_repos.SEARCH_QUERIES,
         )
+        self.assertIn(
+            "workbuddy in:readme stars:0..9",
+            discover_repos.SEARCH_QUERIES,
+        )
 
     def test_checked_in_queue_excludes_curated_repositories(self) -> None:
         root = Path(__file__).resolve().parents[1]
