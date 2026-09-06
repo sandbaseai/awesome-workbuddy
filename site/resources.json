@@ -3590,6 +3590,16 @@
     "categoryZh": "Tools and integrations"
   },
   {
+    "title": "Agent Context Migrator",
+    "url": "https://github.com/Luckycat133/skills-repo",
+    "description": "An MIT-licensed offline migrator for Skills, rules, and MCP across Cursor, Claude Code, Codex, WorkBuddy, and other clients; it detects, previews, redacts, then backs up or restores context, while WorkBuddy Skills still require import through the client UI and keys, OAuth, credentials, and chat history are excluded by default",
+    "section": "Open-source Ecosystem",
+    "category": "Tools and integrations",
+    "titleZh": "Agent Context Migrator",
+    "descriptionZh": "MIT 许可的离线 Skill、规则和 MCP 迁移工具，覆盖 Cursor、Claude Code、Codex、WorkBuddy 等客户端，可先检测、预览、脱敏再备份或恢复；WorkBuddy 的 Skill 仍需通过客户端界面导入，密钥、OAuth、凭据和聊天记录默认不迁移",
+    "categoryZh": "Tools and integrations"
+  },
+  {
     "title": "EverMe",
     "url": "https://github.com/EverMind-AI/EverMe",
     "description": "An Apache-2.0 CLI, MCP server, and plugin suite for cross-device, cross-agent personal memory, with an explicit WorkBuddy plugin install path; hosted use involves accounts and network requests, so confirm the API endpoint and data boundary when self-hosting",

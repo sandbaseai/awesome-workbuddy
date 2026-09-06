@@ -426,6 +426,7 @@
 - [Obsidian Vault MCP](https://github.com/luffysolution-svg/obsidian-vault-mcp) - MIT 许可的本地科研文献 MCP 服务，结合 Zotero、MinerU 和 Obsidian，提供 31 个工具、7 个科研 Skill 及可追溯的导入、检索、分析和写入流程，并支持 WorkBuddy
 - [md2pdf](https://github.com/fudonglee/md2pdf) - MIT 许可的 Markdown/mrkdwn 转 PDF 工具，可作为 MCP Tool 接入 WorkBuddy、Codex 和 Cherry Studio，适合把 Agent 产物转换为排版完整的 PDF
 - [Skill Sync](https://github.com/lirt1231/skill-sync) - MIT 许可的跨设备、跨 Agent Skill 同步工具，明确支持 WorkBuddy，通过本地管理源和私有 Git 仓库同步用户选定的 Skill；所有文件或网络变更都会先生成预览并要求确认
+- [Agent Context Migrator](https://github.com/Luckycat133/skills-repo) - MIT 许可的离线 Skill、规则和 MCP 迁移工具，覆盖 Cursor、Claude Code、Codex、WorkBuddy 等客户端，可先检测、预览、脱敏再备份或恢复；WorkBuddy 的 Skill 仍需通过客户端界面导入，密钥、OAuth、凭据和聊天记录默认不迁移
 - [EverMe](https://github.com/EverMind-AI/EverMe) - Apache-2.0 许可的跨设备、跨 Agent 个人记忆 CLI、MCP 服务和插件套件，提供 WorkBuddy 插件安装方式；托管服务涉及账号和网络请求，自托管时请确认 API 地址与数据边界
 - [Tonghuashun Agent](https://github.com/zhuyifang/tonghuasun-agent) - AGPL-3.0 许可、明确支持 WorkBuddy 的同花顺本地数据 Agent，可查询行情、K 线、持仓、Level-2 委托和逐笔成交；令牌和本地数据访问涉及敏感权限，使用前请阅读隐私政策并遵守许可证
 - [MindArchive](https://github.com/CatchNo2/MindArchive) - MIT 许可的 AI 对话洞察归档工具，支持增量处理、断点续跑、消费统计和费用上限，也可导出分块提示词交给 WorkBuddy 处理后回收整理

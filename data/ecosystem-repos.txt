@@ -121,6 +121,7 @@ sindney/m5stack_toys
 konnga/skill-buddy
 nicechencs/AgentHub
 qufei1993/skills-hub
+Luckycat133/skills-repo
 xiaojinlucky/workbuddy-expert-bridge
 bitcjm/workbuddy-skills
 maciechen/zotero-mcp-workbuddy-guide

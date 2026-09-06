@@ -11,7 +11,7 @@ Last refreshed: **2026-09-06 UTC**
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,092 | Python | 2026-08-25 |
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,973 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,978 | TypeScript | 2026-09-03 |
-| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,320 | Shell | 2026-08-28 |
+| [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,321 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,579 | Python | 2026-09-05 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,383 | Python | 2026-09-04 |
 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 10,247 | - | 2026-08-25 |
@@ -57,7 +57,7 @@ Last refreshed: **2026-09-06 UTC**
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 647 | HTML | 2026-08-23 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 640 | JavaScript | 2026-09-05 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 586 | Python | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 587 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 561 | Python | 2026-09-06 |
 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 558 | Go | 2026-09-05 |
 | [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) | 557 | Swift | 2026-07-07 |
@@ -345,6 +345,7 @@ Last refreshed: **2026-09-06 UTC**
 | [wsdlp46/PMCockpit](https://github.com/wsdlp46/PMCockpit) | 2 | HTML | 2026-08-29 |
 | [Lukanytsu7551/how-to-use-agent-guide](https://github.com/Lukanytsu7551/how-to-use-agent-guide) | 2 | JavaScript | 2026-09-04 |
 | [mrzhangguoguo/oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) | 2 | JavaScript | 2026-07-08 |
+| [Luckycat133/skills-repo](https://github.com/Luckycat133/skills-repo) | 2 | Shell | 2026-09-03 |
 | [Lincyaw/workbuddy](https://github.com/Lincyaw/workbuddy) | 2 | Go | 2026-06-08 |
 | [jinmao-lin/academic-research-skills-workbuddy](https://github.com/jinmao-lin/academic-research-skills-workbuddy) | 2 | Python | 2026-07-13 |
 | [Darling5/seatable-production](https://github.com/Darling5/seatable-production) | 2 | Python | 2026-09-03 |
@@ -461,7 +462,7 @@ Last refreshed: **2026-09-06 UTC**
 | [notbadhuang/notbadhuang-japanese-skill](https://github.com/notbadhuang/notbadhuang-japanese-skill) | 0 | Python | 2026-09-05 |
 | [haoranx968-stack/training-incentive-designer](https://github.com/haoranx968-stack/training-incentive-designer) | 0 | - | 2026-09-05 |
 | [simonsiu2008-bit/hk-business-writing](https://github.com/simonsiu2008-bit/hk-business-writing) | 0 | - | 2026-09-05 |
-| [markbignews/paper-mode](https://github.com/markbignews/paper-mode) | 0 | Python | 2026-09-05 |
+| [markbignews/paper-mode](https://github.com/markbignews/paper-mode) | 0 | Python | 2026-09-06 |
 | [wangge-ai/data-lens](https://github.com/wangge-ai/data-lens) | 0 | Python | 2026-09-05 |
 | [yfpgle-glitch/rightcode-imagegen](https://github.com/yfpgle-glitch/rightcode-imagegen) | 0 | Python | 2026-09-05 |
 | [liangdabiao/workbuddy-expert-doc-video-qa](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) | 0 | Python | 2026-09-05 |
