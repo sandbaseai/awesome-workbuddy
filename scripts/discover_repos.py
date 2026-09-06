@@ -48,7 +48,10 @@ def listed_repositories(text: str) -> set[str]:
 
 def fetch_candidates() -> list[dict[str, object]]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=180)).date().isoformat()
-    token = os.environ.get("GITHUB_TOKEN")
+    # GitHub Actions exposes GITHUB_TOKEN; the GitHub CLI convention is
+    # GH_TOKEN. Accept both so local discovery does not silently fall back to
+    # the unauthenticated API and hit its much lower rate limit.
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     repositories: dict[str, dict[str, object]] = {}
     for base_query in SEARCH_QUERIES:
         # Keep name/description matches focused; topic queries add projects

@@ -21,6 +21,7 @@ Last refreshed: **2026-09-06 UTC**
 | [laofudev/laofu-qmt-skill](https://github.com/laofudev/laofu-qmt-skill) | 8 | 2026-04-03 | Not declared | 通过 QMT 客户端的 xtquant 库获取 A 股行情数据，支持 WorkBuddy AI Skill 和命令行独立使用。 |
 | [hkxiaoyao/wbsysc](https://github.com/hkxiaoyao/wbsysc) | 8 | 2026-08-10 | Not declared | 企微数据中转 MCP Gateway - 审批/汇报/打卡数据通过MCP暴露给WorkBuddy，多租户分schema隔离，含React管理后台 |
 | [bettermen/tender-analyzer](https://github.com/bettermen/tender-analyzer) | 8 | 2026-06-18 | Not declared | 投标文件全流程智能分析技能 (WorkBuddy Skill) — 解析招标文件、MECE多维需求拆解、自动生成架构图/流程图/ER图/甘特图/雷达图、模拟评审专家打分并输出扣分明细、根据评审意见逐条自动修改、版本管理与迭代追踪 |
+| [SUNYT772/workbuddy-armor-v2](https://github.com/SUNYT772/workbuddy-armor-v2) | 7 | 2026-09-01 | MIT | - |
 | [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) | 88 | 2026-08-07 | Not declared | WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局【支持Mac( M 芯片和 intel ) 和 Windows】 |
 | [GitOfUser/workbuddy-checkin](https://github.com/GitOfUser/workbuddy-checkin) | 49 | 2026-06-18 | Not declared | 本技能用于自动化执行 WorkBuddy 应用程序的每日签到操作，通过模拟用户点击来完成签到领取积分的流程。 |
 | [tianxing226/AICreditPunch](https://github.com/tianxing226/AICreditPunch) | 19 | 2026-09-02 | Not declared | WorkBuddy 多账号自动签到、状态与积分查询脚本（Python 标准库） |
@@ -31,7 +32,6 @@ Last refreshed: **2026-09-06 UTC**
 | [LittleLollipop/human-like-novel-workbuddy-skill](https://github.com/LittleLollipop/human-like-novel-workbuddy-skill) | 7 | 2026-08-30 | Not declared | 仿人类小说创作 WorkBuddy 技能 — 根治AI生成痕迹，让AI写出有人感的小说 |
 | [huqiwengithub/football-odds-analyst](https://github.com/huqiwengithub/football-odds-analyst) | 7 | 2026-06-26 | Not declared | 专业足球欧亚赔率&amp;盘口数据分析师 WorkBuddy 技能 |
 | [RickeyHuangHub/ForwardDeployedEngeering](https://github.com/RickeyHuangHub/ForwardDeployedEngeering) | 7 | 2026-08-03 | Not declared | Forward Deployed Engineering (前线部署工程)，面向实体制造业的工程数字化落地体系，收录中英文官方白皮书。配套 WorkBuddy、Codex 构建工厂 AI 自动化工作流，覆盖硬件研发、品质管控、8D/PPAP 闭环、智能制造全流程解决方案。Forward Deployed Engineering is a digital ENG system for physical manufacturing. This repo hosts whitepapers, supporting AI workflow built with WorkBuddy&amp;Codex for product develop, quality control. |
-| [SUNYT772/workbuddy-armor-v2](https://github.com/SUNYT772/workbuddy-armor-v2) | 6 | 2026-09-01 | MIT | - |
 | [crayon-ai/workbuddy-studio](https://github.com/crayon-ai/workbuddy-studio) | 6 | 2026-09-03 | Not declared | workbuddy自媒体工作台 |
 | [rocky99261/workbuddy-proxy](https://github.com/rocky99261/workbuddy-proxy) | 6 | 2026-04-27 | Not declared | OpenAI-compatible reverse proxy for WorkBuddy AI models (DeepSeek, Claude, GPT, Gemini, etc.) |
 | [diyiwuyan/workbuddy-orange-book](https://github.com/diyiwuyan/workbuddy-orange-book) | 6 | 2026-07-10 | Not declared | workbuddy橙皮书 |
