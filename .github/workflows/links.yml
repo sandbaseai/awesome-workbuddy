@@ -24,6 +24,8 @@ jobs:
             --verbose
             --no-progress
             --accept 200,206,429
+            --max-retries 3
+            --retry-wait-time 2
             --exclude '^https://mp\.weixin\.qq\.com/'
             --exclude '^https://www\.bilibili\.com/'
             './**/*.md'
