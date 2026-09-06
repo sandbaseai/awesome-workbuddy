@@ -2070,6 +2070,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "Vicky Skills",
+    "url": "https://github.com/vickywenqi/vicky-skills",
+    "description": "An MIT-licensed Chinese content-creation Skill collection providing `vicky-writer` with explicit WorkBuddy support; install it from a GitHub link or copy it manually into `~/.workbuddy/skills/`",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "Vicky Skills",
+    "descriptionZh": "MIT 许可的中文内容创作 Skill 集合，提供 `vicky-writer` 并明确支持 WorkBuddy，可从 GitHub 链接自动安装或手动复制到 `~/.workbuddy/skills/`",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Minecraft Mod Search",
     "url": "https://github.com/MasterHesse/minecraft-mod-search",
     "description": "An MIT-licensed Minecraft Java mod search Skill with a `SKILL.md` and search scripts, with explicit installation paths for WorkBuddy/CodeBuddy",

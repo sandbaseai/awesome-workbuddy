@@ -3,13 +3,13 @@
 > GitHub metadata for repositories curated in `data/ecosystem-repos.txt`.
 > Inclusion is not an endorsement. Review source code, licenses, permissions, and account terms before use.
 
-Last refreshed: **2026-09-05 UTC**
+Last refreshed: **2026-09-06 UTC**
 
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,093 | TypeScript | 2026-09-02 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,089 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,923 | TypeScript | 2026-09-04 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 31,926 | TypeScript | 2026-09-04 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,974 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,317 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,572 | Python | 2026-09-05 |
@@ -301,7 +301,7 @@ Last refreshed: **2026-09-05 UTC**
 | [loonghao/maya_umbrella_scanner](https://github.com/loonghao/maya_umbrella_scanner) | 5 | Python | 2026-08-26 |
 | [haiyangchenbj/data-ai-daily-brief-skill](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) | 5 | Python | 2026-06-23 |
 | [8425334/harness-engineering-kit](https://github.com/8425334/harness-engineering-kit) | 5 | Python | 2026-09-05 |
-| [lsjwzh/MultiCC](https://github.com/lsjwzh/MultiCC) | 5 | JavaScript | 2026-09-05 |
+| [lsjwzh/MultiCC](https://github.com/lsjwzh/MultiCC) | 5 | JavaScript | 2026-09-06 |
 | [Lzffancy/cnki-browser-tool](https://github.com/Lzffancy/cnki-browser-tool) | 5 | Python | 2026-09-05 |
 | [mayuhaos/workbuddy-agent-file-parser-downloader](https://github.com/mayuhaos/workbuddy-agent-file-parser-downloader) | 4 | Python | 2026-06-24 |
 | [miaqu766520-a11y/kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 4 | - | 2026-09-01 |
@@ -362,6 +362,7 @@ Last refreshed: **2026-09-05 UTC**
 | [WindXRan/fanqie-radar](https://github.com/WindXRan/fanqie-radar) | 2 | Python | 2026-09-05 |
 | [npcworkspace-cmyk/eric-task-master](https://github.com/npcworkspace-cmyk/eric-task-master) | 2 | JavaScript | 2026-09-05 |
 | [uahz/live-stream-ops](https://github.com/uahz/live-stream-ops) | 2 | Python | 2026-08-19 |
+| [vickywenqi/vicky-skills](https://github.com/vickywenqi/vicky-skills) | 2 | - | 2026-06-22 |
 | [sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) | 1 | Python | 2026-09-05 |
 | [tonycc/skillhive](https://github.com/tonycc/skillhive) | 1 | TypeScript | 2026-09-05 |
 | [1186247283zj-pixel/github-mcp-server-lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) | 1 | Python | 2026-09-04 |
