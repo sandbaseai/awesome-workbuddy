@@ -8,8 +8,8 @@ Last refreshed: **2026-09-06 UTC**
 | Repository | Stars | Language | Last push |
 | --- | ---: | --- | --- |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 37,095 | TypeScript | 2026-09-02 |
-| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,099 | Python | 2026-08-25 |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,013 | TypeScript | 2026-09-06 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 32,100 | Python | 2026-08-25 |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 32,016 | TypeScript | 2026-09-06 |
 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 25,981 | TypeScript | 2026-09-03 |
 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,326 | Shell | 2026-08-28 |
 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 14,588 | Python | 2026-09-05 |
@@ -20,7 +20,7 @@ Last refreshed: **2026-09-06 UTC**
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | 5,927 | - | 2026-08-12 |
 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 5,780 | Go | 2026-09-06 |
 | [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) | 5,388 | JavaScript | 2026-09-03 |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,310 | Rust | 2026-09-06 |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | 5,309 | Rust | 2026-09-06 |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | 4,904 | Python | 2026-08-23 |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 3,628 | Go | 2026-09-04 |
 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 3,206 | Python | 2026-09-05 |
@@ -58,7 +58,7 @@ Last refreshed: **2026-09-06 UTC**
 | [alchaincyf/codex-orange-book](https://github.com/alchaincyf/codex-orange-book) | 648 | HTML | 2026-08-23 |
 | [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) | 646 | JavaScript | 2026-09-05 |
 | [HenryXiaoYang/wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 637 | TypeScript | 2026-03-21 |
-| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 587 | Python | 2026-09-05 |
+| [zjp1997720/zhijian-skills](https://github.com/zjp1997720/zhijian-skills) | 588 | Python | 2026-09-05 |
 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 561 | Python | 2026-09-06 |
 | [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) | 559 | Python | 2026-09-02 |
 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 558 | Go | 2026-09-05 |
@@ -89,7 +89,7 @@ Last refreshed: **2026-09-06 UTC**
 | [JuneYaooo/social-account-doctor](https://github.com/JuneYaooo/social-account-doctor) | 219 | Python | 2026-08-15 |
 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | 199 | - | 2026-08-16 |
 | [vergess3/workbuddy-remote](https://github.com/vergess3/workbuddy-remote) | 197 | JavaScript | 2026-05-08 |
-| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 196 | Go | 2026-09-02 |
+| [Sliverkiss/workbuddy2api](https://github.com/Sliverkiss/workbuddy2api) | 197 | Go | 2026-09-02 |
 | [sharptoolbox/ontology-driven-dev](https://github.com/sharptoolbox/ontology-driven-dev) | 195 | TypeScript | 2026-09-02 |
 | [Unclecheng-li/note-skill](https://github.com/Unclecheng-li/note-skill) | 178 | HTML | 2026-06-12 |
 | [codesstar/loci](https://github.com/codesstar/loci) | 177 | HTML | 2026-09-03 |
@@ -290,6 +290,7 @@ Last refreshed: **2026-09-06 UTC**
 | [yinqd3/workbuddy-skills](https://github.com/yinqd3/workbuddy-skills) | 6 | JavaScript | 2026-06-03 |
 | [HanGu007/workbuddy-career-skills](https://github.com/HanGu007/workbuddy-career-skills) | 6 | Python | 2026-06-19 |
 | [goodrain/rainskills](https://github.com/goodrain/rainskills) | 6 | JavaScript | 2026-09-04 |
+| [chenjun198711/if-book-could-speak-video-generator](https://github.com/chenjun198711/if-book-could-speak-video-generator) | 6 | Python | 2026-07-19 |
 | [shajoezhu/skills_codebuddy_rpackagedev](https://github.com/shajoezhu/skills_codebuddy_rpackagedev) | 6 | - | 2026-09-01 |
 | [Maquer/workbuddy-checkin](https://github.com/Maquer/workbuddy-checkin) | 6 | Python | 2026-09-05 |
 | [yangchen0991/video-workshop](https://github.com/yangchen0991/video-workshop) | 6 | - | 2026-06-24 |
@@ -473,7 +474,7 @@ Last refreshed: **2026-09-06 UTC**
 | [CatchNo2/MindArchive](https://github.com/CatchNo2/MindArchive) | 0 | Python | 2026-07-15 |
 | [lirt1231/skill-sync](https://github.com/lirt1231/skill-sync) | 0 | Python | 2026-07-30 |
 | [fudonglee/md2pdf](https://github.com/fudonglee/md2pdf) | 0 | Python | 2026-06-12 |
-| [twin-arc/macro-cycle-locator](https://github.com/twin-arc/macro-cycle-locator) | 0 | - | 2026-09-05 |
+| [twin-arc/macro-cycle-locator](https://github.com/twin-arc/macro-cycle-locator) | 0 | - | 2026-09-06 |
 | [cloudzun/WorkBuddy-Course](https://github.com/cloudzun/WorkBuddy-Course) | 0 | HTML | 2026-08-17 |
 | [BlueSkyXN/tencent-workbuddy-sdk](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) | 0 | Python | 2026-07-31 |
 | [junxi-fan/workbuddy-migration-guide](https://github.com/junxi-fan/workbuddy-migration-guide) | 0 | Python | 2026-08-15 |

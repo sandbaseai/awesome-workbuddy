@@ -43,9 +43,9 @@ Last refreshed: **2026-09-06 UTC**
 | [hangtiger/international-ai-deploy-skill](https://github.com/hangtiger/international-ai-deploy-skill) | 6 | 2026-03-11 | Not declared | deploy model of anthropic 、gemini、gtp to workbuddy skill |
 | [lamchales50/Gaussian-DFT-Ultimate](https://github.com/lamchales50/Gaussian-DFT-Ultimate) | 6 | 2026-08-14 | Not declared | Portable Gaussian, Multiwfn and VMD Agent Skill for Codex and WorkBuddy |
 | [zhangjianqiang123/hy3-proxy](https://github.com/zhangjianqiang123/hy3-proxy) | 6 | 2026-08-10 | MIT | Reverse proxy for WorkBuddy free hy3 (Tencent Hunyuan 3) via copilot.tencent.com - OpenAI-compatible chat/completions &amp; responses API |
-| [chenjun198711/if-book-could-speak-video-generator](https://github.com/chenjun198711/if-book-could-speak-video-generator) | 6 | 2026-07-19 | MIT | 假如书籍会说话视频生成器 — 输入书名+作者，一键生成第一人称书籍自述视频（书评文案→AI扁平卡通插图→TTS配音→字幕动画→画板背景+抠图叠加→BGM+转场音效→合成MP4）。跨平台兼容 WorkBuddy/OpenClaw/Codex/TRAE Work。 |
 | [runyuan-wang/diabetes-food-guide-skill](https://github.com/runyuan-wang/diabetes-food-guide-skill) | 6 | 2026-06-18 | Not declared | 营养学 \| 糖尿病食养助手 (Diabetes Food Guide Skill) - 基于国家卫健委《成人糖尿病食养指南（2023年版）》AI科普对话助手 - 14个KPK知识点+84套食谱+9个食养方+3种中医证型+GI分类表+食物交换表 · 使用WorkBuddy构建 |
 | [buzhangsaner/workbuddy-skin](https://github.com/buzhangsaner/workbuddy-skin) | 5 | 2026-07-23 | Not declared | workbuddy 更换皮肤 |
 | [huangama666/workbuddy-skin](https://github.com/huangama666/workbuddy-skin) | 5 | 2026-07-17 | Not declared | 给 workbuddy 换肤 |
+| [workbuddy-gateway-team/workbuddy-gateway](https://github.com/workbuddy-gateway-team/workbuddy-gateway) | 5 | 2026-07-26 | MIT | - |
 
 To curate a candidate, verify it and add `owner/repository` to `data/ecosystem-repos.txt` plus the most precise README category.

@@ -3020,6 +3020,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "If Books Could Speak",
+    "url": "https://github.com/chenjun198711/if-book-could-speak-video-generator",
+    "description": "An MIT-licensed, natively WorkBuddy-compatible Skill that turns a book title and author into narration, storyboards, illustrations, TTS, subtitles, and an MP4; it needs local Python dependencies, and some image/TTS services may incur costs or send content to third parties",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "假如书籍会说话",
+    "descriptionZh": "MIT 许可、原生支持 WorkBuddy 的书籍自述视频 Skill，输入书名和作者即可生成文案、分镜、插图、TTS、字幕与 MP4；需要本地 Python 依赖，部分图像/TTS 服务可能产生费用或发送内容到第三方",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "Social Account Doctor",
     "url": "https://github.com/JuneYaooo/social-account-doctor",
     "description": "Diagnoses accounts and high-performing posts across major Chinese content platforms",

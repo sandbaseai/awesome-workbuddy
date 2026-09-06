@@ -356,6 +356,7 @@
 - [Image Story Video Wizard](https://github.com/aaronyi97/image-story-video-wizard) - MIT 许可、根目录含 `SKILL.md` 的 WorkBuddy/Codex 音频优先故事视频生产 Skill，关键步骤带确认门禁，并提供安装与阶段恢复说明
 - [X Media Downloader](https://github.com/KHWD0922/workbuddy-skill-x-media-downloader) - MIT 许可、根目录含 `SKILL.md` 的 WorkBuddy X/Twitter 视频批量下载 Skill，可从 ZIP 或 Git 导入，按用户导出的 CSV 筛选并去重下载；需要浏览器 cookies 和可用代理，使用前请确认内容版权与平台条款
 - [LibTV Video Agent](https://github.com/PomeloR611/libtv-video-agent) - MIT 许可、兼容 WorkBuddy/Codex/Claude 的视频生产 Skill，覆盖分镜、图像/视频生成、TTS、字幕和本地 FFmpeg 终剪
+- [假如书籍会说话](https://github.com/chenjun198711/if-book-could-speak-video-generator) - MIT 许可、原生支持 WorkBuddy 的书籍自述视频 Skill，输入书名和作者即可生成文案、分镜、插图、TTS、字幕与 MP4；需要本地 Python 依赖，部分图像/TTS 服务可能产生费用或发送内容到第三方
 - [Social Account Doctor](https://github.com/JuneYaooo/social-account-doctor) - 分析主流中文内容平台账号与爆款，并输出诊断和选题建议.
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) - MIT 许可的跨平台 Draw.io 图表生成 Skill，明确支持 WorkBuddy，提供流程图、架构图、UML、ER 图和思维导图工作流，并附带零依赖 XML 校验脚本、示例和浏览器打开方案
 - [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) - MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片
