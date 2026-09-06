@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Simplified and expanded the bilingual README with goal-based starting points, resource-selection checks, and a direct resource-submission link.
+- Removed duplicate entries from the bilingual resource catalog and added a regression test to prevent repeated GitHub projects within a language catalog.
+- Refreshed ecosystem stars and activity metadata while keeping unvetted candidates in the discovery queue.
 - Added a live GitHub Issue workflow gate that rejects discovery audits with escaped newlines or missing `Candidate`, `Audit result`, and `Decision` structure; the gate was exercised against a real audit Issue after correcting its JavaScript escaping.
 - Expanded the bilingual `workbuddy-bench` entry with its four tracks, 260 tasks, Docker sandbox, Hugging Face dataset, setup Skill, and data/credential handling guidance.
 - Curated the MIT-licensed `runzhi/codebuddy-statusline` with transcript, configuration-write, cache, and auto-update boundaries.
