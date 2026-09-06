@@ -570,16 +570,6 @@
     "categoryZh": "Skill collections"
   },
   {
-    "title": "Agency Agents 中文版",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh",
-    "description": "An MIT-licensed Chinese community collection of AI expert roles across 20 departments including engineering, design, marketing, and finance, with scripts to convert and install them into WorkBuddy's `~/.workbuddy/skills/`",
-    "section": "Open-source Ecosystem",
-    "category": "Skill collections",
-    "titleZh": "Agency Agents 中文版",
-    "descriptionZh": "MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持",
-    "categoryZh": "Skill collections"
-  },
-  {
     "title": "skill-manager",
     "url": "https://github.com/GrubbyLee/skill-manager",
     "description": "An MIT-licensed zero-dependency local Skills/MCP governance CLI with explicit WorkBuddy support, scanning, recommending, deduplicating, auditing, and visualizing local resources; it is read-only by default, so review the change plan before running setup or writes",
@@ -596,8 +586,8 @@
     "section": "Open-source Ecosystem",
     "category": "Skill collections",
     "titleZh": "Skills Hub",
-    "descriptionZh": "MIT 许可的跨平台 Skill 管理桌面应用，明确支持 WorkBuddy，可集中安装、整理、更新并同步多个 Agent 的 Skills",
-    "categoryZh": "Community clients and enhancements"
+    "descriptionZh": "MIT 许可的跨平台 Skills 管理桌面应用，集中安装、整理、更新并同步到 47 个 Agent 工具，明确支持 WorkBuddy 的 `~/.workbuddy/skills` 用户目录；使用前请检查待扫描目录和 GitHub Token 等本地配置",
+    "categoryZh": "Skill collections"
   },
   {
     "title": "oh-my-workbuddy",
@@ -737,6 +727,16 @@
     "category": "Skill collections",
     "titleZh": "Skill Flow",
     "descriptionZh": "Apache-2.0 的跨 Agent Skill 工作流管理工具，明确支持 WorkBuddy，可从 GitHub、skills.sh 或本地导入 Skill，批量部署、更新并检查状态；提供 npm CLI 和 macOS 桌面端",
+    "categoryZh": "Skill collections"
+  },
+  {
+    "title": "Agency Agents 中文版",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "description": "An MIT-licensed Chinese community collection of 276 role-oriented experts across 20 departments, with explicit conversion and installation support for WorkBuddy's `~/.workbuddy/skills/` directory",
+    "section": "Open-source Ecosystem",
+    "category": "Skill collections",
+    "titleZh": "Agency Agents 中文版",
+    "descriptionZh": "MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbuddy/skills/` 目录的支持",
     "categoryZh": "Skill collections"
   },
   {
@@ -1477,16 +1477,6 @@
     "category": "Ready-to-use Skills",
     "titleZh": "SkillLens",
     "descriptionZh": "MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent CLI；上传 Skill 到 Web UI 或调用模型评测前请确认数据范围",
-    "categoryZh": "Ready-to-use Skills"
-  },
-  {
-    "title": "WorkBuddy App Builder Skill",
-    "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
-    "description": "An MIT-licensed ontology-driven WorkBuddy Skill that turns business ideas or requirements into installable, runnable domain Skills through iterative discovery and human confirmation; natural-language queries use read-only SQL through a local API by default",
-    "section": "Open-source Ecosystem",
-    "category": "Ready-to-use Skills",
-    "titleZh": "WorkBuddy App Builder Skill",
-    "descriptionZh": "MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱",
     "categoryZh": "Ready-to-use Skills"
   },
   {
@@ -3090,6 +3080,16 @@
     "categoryZh": "Ready-to-use Skills"
   },
   {
+    "title": "WorkBuddy App Builder Skill",
+    "url": "https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill",
+    "description": "An MIT-licensed WorkBuddy-focused ontology-driven app-building Skill that starts with requirements discovery and human checkpoints, then generates seven-model domain definitions, a runnable business app, SQLite/API services, forms, and an offline knowledge graph",
+    "section": "Open-source Ecosystem",
+    "category": "Ready-to-use Skills",
+    "titleZh": "WorkBuddy App Builder Skill",
+    "descriptionZh": "MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、SQLite/API、表单和离线知识图谱",
+    "categoryZh": "Ready-to-use Skills"
+  },
+  {
     "title": "WorkBuddy Theme Skill",
     "url": "https://github.com/comeonzhj/WorkBuddy-theme-skill",
     "description": "Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy",
@@ -3515,8 +3515,8 @@
     "description": "An AGPL-3.0-licensed local-data Agent with explicit WorkBuddy support for querying Tonghuashun quotes, charts, holdings, Level-2 orders, and tick transactions; tokens and local-data access are sensitive, so read its privacy policy and follow the license before use",
     "section": "Open-source Ecosystem",
     "category": "Tools and integrations",
-    "titleZh": "Tonghuasun Agent",
-    "descriptionZh": "面向 Windows 同花顺桌面客户端的 AGPL-3.0 Agent 连接工具，支持在 WorkBuddy 等 Agent 中查询行情、账户、持仓和成交",
+    "titleZh": "Tonghuashun Agent",
+    "descriptionZh": "AGPL-3.0 许可、明确支持 WorkBuddy 的同花顺本地数据 Agent，可查询行情、K 线、持仓、Level-2 委托和逐笔成交；令牌和本地数据访问涉及敏感权限，使用前请阅读隐私政策并遵守许可证",
     "categoryZh": "Tools and integrations"
   },
   {
@@ -4615,8 +4615,8 @@
     "description": "An MIT-licensed macOS WorkBuddy status pet that projects structural lifecycle events into Agent status, approval bubbles, and completion/blocked indicators without reading prompts, replies, tool arguments, or file paths by default; community installers are ad-hoc signed and not notarized, while remote Control Plane pairing adds network and device-pairing considerations, so review sources and permissions first",
     "section": "Open-source Ecosystem",
     "category": "Community clients and enhancements",
-    "titleZh": "WorkBuddy Buddy",
-    "descriptionZh": "MIT 许可的 macOS WorkBuddy 状态桌宠，显示思考、工具调用、等待确认、完成和失败等状态，并可把批准/拒绝交互反馈给 WorkBuddy",
+    "titleZh": "workbuddy-buddy",
+    "descriptionZh": "MIT 许可的 macOS WorkBuddy 状态桌宠，通过结构化生命周期事件显示 Agent 状态、审批气泡和完成/阻塞提示，默认不读取提示词、回复、工具参数或文件路径；社区安装包采用 ad-hoc 签名且未公证，远程 Control Plane 挂载功能还会涉及网络与设备配对，请先核对来源和权限",
     "categoryZh": "Community clients and enhancements"
   },
   {
