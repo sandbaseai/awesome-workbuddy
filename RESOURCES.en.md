@@ -386,6 +386,7 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 - [PM to Dev Delivery](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) - An MIT-licensed product-engineering delivery Skill with an explicit WorkBuddy adapter that turns existing systems, demos, PRDs, workflows, and sample data into developer-ready documents, modular demos, API examples, and acceptance checklists, with an executable package checker
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - Creates, validates, previews, applies, and restores reversible runtime themes for WorkBuddy
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - A local MCP-backed planning and knowledge-graph workspace for WorkBuddy
+- [mcd-meal-optimizer](https://github.com/minxin88/mcd-meal-optimizer) - An MIT-licensed WorkBuddy Skill for ordering at McDonald's China: it pulls store menus, nutrition, and coupons through McDonald's official MCP server, then enumerates combinations with a local Python standard-library engine to return cheapest, healthiest, and most value-per-yuan plans under budget, calorie, and protein constraints; ships offline sample data so `--demo` runs without a token, reads coupons from the user's McDonald's account, and requires human confirmation of store, pickup method, and item list before ordering
 
 ### Tools and integrations
 
