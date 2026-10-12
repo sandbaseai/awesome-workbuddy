@@ -385,6 +385,7 @@
 - [PM to Dev Delivery](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) - MIT 许可、提供明确 WorkBuddy 适配入口的产品工程交付 Skill，将既有系统、Demo、PRD、流程和样例数据整理为研发可接手的文档、模块化 Demo、接口示例和验收清单，并带可执行检查器
 - [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) - 创建、校验、预览、应用和恢复可逆的 WorkBuddy 运行时主题
 - [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) - 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy
+- [麦麦点餐最优解 mcd-meal-optimizer](https://github.com/minxin88/mcd-meal-optimizer) - MIT 许可、面向 WorkBuddy 的麦当劳点餐 Skill，通过麦当劳中国官方 MCP 拉取门店菜单、营养和优惠券，用本地 Python 标准库穷举组合，按预算、热量、蛋白质约束给出最省、最健康、性价比最高三套方案；内置离线示例数据，`--demo` 无需 Token 即可试跑；会读取用户麦当劳账号下的优惠券，下单前必须由人工确认门店、取餐方式和商品清单
 
 ### Tools and integrations
 
