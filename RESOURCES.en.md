@@ -641,6 +641,7 @@ For a longer introduction, continue with [WorkBuddy Starter](https://github.com/
 - [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) - A long-document processing case study.
 - [Commercial lawyer starter guide](https://mp.weixin.qq.com/s/9mvnhDRrkx_UO_yA94LwGw) - An introduction for legal work.
 - [Organize local files](https://mp.weixin.qq.com/s/CmkC0VxwYjyK5MKTC-07MQ) - File classification and organization workflow.
+- [HydroTwin (智水枢)](https://github.com/jc155699/HydroTwin-WorkBuddy-Cases) - Apache-2.0 hydraulic and civil engineering simulation case library and prompt templates for Tencent WorkBuddy public Expert Teams (oe_5ff32ef82d8963ce / oe_c9a354633f59976f / oe_1682d236eee3e18c), covering 2D flood routing, seepage safety, and sediment morphodynamics with local stdlib preflight.
 
 ### Education
 
