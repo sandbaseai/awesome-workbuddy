@@ -641,6 +641,7 @@
 - [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) - 超长文档处理案例.
 - [Commercial lawyer starter guide](https://mp.weixin.qq.com/s/9mvnhDRrkx_UO_yA94LwGw) - 法律工作场景入门.
 - [Organize local files](https://mp.weixin.qq.com/s/CmkC0VxwYjyK5MKTC-07MQ) - 文件分类与整理工作流.
+- [HydroTwin (智水枢)](https://github.com/jc155699/HydroTwin-WorkBuddy-Cases) - Apache-2.0 许可的水利工程与重工业仿真案例及提示词库，配套 WorkBuddy 公开专家团（oe_5ff32ef82d8963ce / oe_c9a354633f59976f / oe_1682d236eee3e18c），支持本地标准库预检、二维洪水演进、渗流安全与泥沙冲淤内业交付.
 
 ### Education
 
